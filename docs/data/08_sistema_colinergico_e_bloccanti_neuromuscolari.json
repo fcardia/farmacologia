@@ -1,0 +1,497 @@
+{
+  "capitolo": 8,
+  "titolo": "Sistema colinergico e bloccanti neuromuscolari",
+  "pagine": "134-145, 156-160",
+  "domande": [
+    {
+      "id": "08-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Sintesi e degradazione dell'acetilcolina",
+      "domanda": "Nella sinapsi colinergica, quale evento rappresenta il passaggio limitante per la disponibilità di acetilcolina?",
+      "opzioni": {
+        "A": "La ricaptazione della colina nel terminale presinaptico",
+        "B": "L'attività dell'acetilcolintransferasi che unisce colina e acetil-CoA",
+        "C": "Il trasporto dell'acetilcolina intatta all'interno del terminale presinaptico",
+        "D": "La disponibilità di acido acetico liberato dall'idrolisi",
+        "E": "L'attività della butirrilcolinesterasi plasmatica"
+      },
+      "corretta": "A",
+      "spiegazione": "L'acetilcolina viene scissa subito nella sinapsi e non viene ricaptata come tale: è la colina a essere recuperata, e proprio la sua ricaptazione costituisce il passaggio limitante per la sintesi di nuova acetilcolina.",
+      "distrattori": {
+        "B": "La transferasi catalizza la sintesi, ma il testo precisa che non è essa a limitare la quantità di acetilcolina disponibile.",
+        "C": "Non esiste un trasporto dell'acetilcolina intatta: viene degradata immediatamente nello spazio sinaptico.",
+        "D": "L'acido acetico viene semplicemente rimesso in circolo negli altri sistemi biochimici e non limita la sintesi.",
+        "E": "La butirrilcolinesterasi scinde l'acetilcolina in periferia, nel metabolismo generale, non nella sinapsi neuronale."
+      },
+      "riferimento": "pp. 134-135 – Sintesi dell'acetilcolina"
+    },
+    {
+      "id": "08-002",
+      "difficolta": "base",
+      "tipo": "meccanismo",
+      "argomento": "Bloccanti neuromuscolari non depolarizzanti",
+      "domanda": "Su quale meccanismo si basa l'effetto miorilassante della tubocurarina?",
+      "opzioni": {
+        "A": "Antagonismo competitivo del recettore nicotinico della placca neuromuscolare, con paralisi flaccida",
+        "B": "Agonismo prolungato del recettore nicotinico, con depolarizzazione persistente della placca",
+        "C": "Blocco dei recettori muscarinici M3 della muscolatura liscia",
+        "D": "Inibizione irreversibile dell'acetilcolinesterasi di placca",
+        "E": "Blocco dell'ingresso di calcio nel terminale motorio con mancato rilascio di acetilcolina"
+      },
+      "corretta": "A",
+      "spiegazione": "La tubocurarina, alcaloide più attivo del curaro, è un antagonista competitivo del recettore nicotinico della placca: impedisce all'acetilcolina di innescare la contrazione e favorisce il potenziale di membrana di riposo, con paralisi di tipo flaccido.",
+      "distrattori": {
+        "B": "La depolarizzazione persistente è il meccanismo degli agonisti depolarizzanti come succinilcolina e decametonio, non della tubocurarina.",
+        "C": "La placca neuromuscolare utilizza recettori nicotinici; i recettori M3 riguardano ghiandole esocrine e muscolatura liscia.",
+        "D": "Gli inibitori dell'acetilcolinesterasi aumentano l'acetilcolina disponibile e sono anzi l'antidoto al curaro.",
+        "E": "Il testo non attribuisce al curaro un blocco del rilascio presinaptico di acetilcolina calcio-dipendente."
+      },
+      "riferimento": "pp. 156-157 – Bloccanti neuromuscolari, meccanismo d'azione"
+    },
+    {
+      "id": "08-003",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Anticolinesterasici reversibili",
+      "domanda": "Quale anticolinesterasico reversibile, per la sua durata d'azione di soli 5-10 minuti, viene impiegato nella diagnosi della miastenia gravis?",
+      "opzioni": {
+        "A": "Edrofonio",
+        "B": "Neostigmina",
+        "C": "Piridostigmina",
+        "D": "Fisostigmina",
+        "E": "Metrifonato"
+      },
+      "corretta": "A",
+      "spiegazione": "L'edrofonio è un anticolinesterasico reversibile a breve durata d'azione, legato all'enzima con legami deboli non covalenti: dura circa 5-10 minuti e per questo è usato nella diagnosi della miastenia gravis, dove produce un transitorio miglioramento dei sintomi.",
+      "distrattori": {
+        "B": "La neostigmina è un inibitore a struttura carbamica a media durata usato nella terapia della miastenia, non nella diagnosi.",
+        "C": "La piridostigmina è anch'essa un carbammato a media durata impiegato nel trattamento della miastenia.",
+        "D": "La fisostigmina non è più utilizzata perché attraversa facilmente la barriera ematoencefalica e può causare convulsioni.",
+        "E": "Il metrifonato è un anticolinesterasico irreversibile, tossico e non impiegabile in terapia."
+      },
+      "riferimento": "pp. 144-145 – Anticolinesterasici reversibili"
+    },
+    {
+      "id": "08-004",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Agonisti muscarinici",
+      "domanda": "Quale insieme di effetti cardiovascolari è atteso dalla somministrazione di un agonista muscarinico?",
+      "opzioni": {
+        "A": "Vasodilatazione, riduzione della frequenza cardiaca e rallentamento della velocità di conduzione",
+        "B": "Vasocostrizione, aumento della frequenza cardiaca e della velocità di conduzione",
+        "C": "Aumento della gittata cardiaca associato a broncodilatazione",
+        "D": "Tachicardia con riduzione dell'attività secretoria delle ghiandole esocrine",
+        "E": "Nessuna modifica emodinamica, perché nel cuore mancano i recettori muscarinici"
+      },
+      "corretta": "A",
+      "spiegazione": "A livello cardiovascolare gli agonisti muscarinici agiscono sui recettori M2 causando vasodilatazione, diminuzione della frequenza cardiaca e riduzione della velocità di conduzione: effetti cronotropo e dromotropo negativi, speculari a quelli della noradrenalina sui recettori beta1.",
+      "distrattori": {
+        "B": "Aumento di frequenza e conduzione sono gli effetti del simpatico sui recettori beta1, non del parasimpatico.",
+        "C": "Aumento della gittata e broncodilatazione corrispondono al profilo dell'atropina, un antimuscarinico.",
+        "D": "Gli agonisti muscarinici aumentano, non riducono, l'attività secretoria delle ghiandole esocrine.",
+        "E": "Nel cuore sono ben rappresentati i recettori muscarinici M2."
+      },
+      "riferimento": "p. 138 – Proprietà farmacologiche degli agonisti muscarinici"
+    },
+    {
+      "id": "08-005",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Recettori colinergici",
+      "domanda": "Perché nei gangli autonomici e nella placca neuromuscolare la trasmissione colinergica utilizza recettori nicotinici e non muscarinici?",
+      "opzioni": {
+        "A": "Perché il recettore nicotinico è un recettore-canale che si apre immediatamente, garantendo una connessione veloce",
+        "B": "Perché il recettore nicotinico, essendo metabotropico, amplifica maggiormente il segnale",
+        "C": "Perché il recettore muscarinico non lega l'acetilcolina ma solo la noradrenalina",
+        "D": "Perché il recettore nicotinico consente una regolazione più fine del segnale rispetto a quello muscarinico",
+        "E": "Perché il recettore muscarinico è espresso soltanto nel sistema nervoso centrale"
+      },
+      "corretta": "A",
+      "spiegazione": "Il recettore nicotinico è un recettore-canale cationico: il legame con l'acetilcolina apre immediatamente il canale ionico, assicurando una trasmissione rapida, necessaria nei gangli e alla placca. Dove serve invece una regolazione fine prevalgono i recettori metabotropici.",
+      "distrattori": {
+        "B": "Il nicotinico è ionotropico; sono i recettori metabotropici (muscarinici, adrenergici) ad amplificare il segnale tramite la cascata di trasduzione.",
+        "C": "Anche il recettore muscarinico è un recettore per l'acetilcolina.",
+        "D": "La regolazione fine è prerogativa dei recettori metabotropici, non di quelli ionotropici.",
+        "E": "I recettori muscarinici sono diffusi anche in periferia, sulle proiezioni finali del parasimpatico."
+      },
+      "riferimento": "p. 134 – Sistemi colinergici, recettori ionotropici e metabotropici"
+    },
+    {
+      "id": "08-006",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Recettori muscarinici",
+      "domanda": "Quale sottotipo muscarinico media l'aumento dell'attività secretoria delle ghiandole esocrine e la contrazione della muscolatura liscia?",
+      "opzioni": {
+        "A": "M3",
+        "B": "M2",
+        "C": "M1",
+        "D": "M4",
+        "E": "M5"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli M3 si trovano a livello delle ghiandole esocrine, della muscolatura liscia e dell'endotelio: la loro attivazione aumenta l'attività secretoria e provoca contrazione della muscolatura liscia.",
+      "distrattori": {
+        "B": "Gli M2 sono i recettori cardiaci, responsabili degli effetti cronotropo e dromotropo negativi.",
+        "C": "Gli M1 sono poco coinvolti a livello del sistema nervoso autonomo e si collocano soprattutto in sede neuronale.",
+        "D": "Gli M4 sono poco coinvolti nel sistema nervoso autonomo; sono citati per la broncocostrizione mediata dal vago e, con M1, per ipotesi di impiego nell'Alzheimer.",
+        "E": "Gli M5 sono fra i sottotipi meno coinvolti a livello del sistema nervoso autonomo."
+      },
+      "riferimento": "p. 135 – Recettori muscarinici e sottotipi"
+    },
+    {
+      "id": "08-007",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Agonisti muscarinici",
+      "domanda": "Un paziente con glaucoma viene trattato con un alcaloide colinomimetico naturale in formulazione topica oculare. Di quale farmaco si tratta e perché si sceglie la via topica?",
+      "opzioni": {
+        "A": "Pilocarpina, perché i recettori muscarinici sono molto diffusi e la formulazione topica limita gli effetti sistemici",
+        "B": "Atropina, perché la midriasi che induce favorisce il deflusso dell'umor acqueo",
+        "C": "Muscarina, perché è l'unico agonista dotato di selettività oculare",
+        "D": "Carbacolo, perché la sua brevissima emivita impedisce qualunque effetto sistemico",
+        "E": "Scopolamina, perché la via topica le impedisce di attraversare la barriera ematoencefalica"
+      },
+      "corretta": "A",
+      "spiegazione": "La pilocarpina è un alcaloide colinomimetico naturale usato in formulazione topica in oculistica (glaucoma) e in odontoiatria (fauci secche): essendo i recettori muscarinici molto diffusi, la via topica permette di agire localmente in sicurezza, favorendo il deflusso dell'umor acqueo.",
+      "distrattori": {
+        "B": "L'atropina è un antimuscarinico: provoca midriasi ed è associata al glaucoma ad angolo chiuso come reazione avversa, non alla sua terapia.",
+        "C": "La muscarina ha interesse esclusivamente tossicologico, essendo contenuta in un fungo tossico.",
+        "D": "Il carbacolo è un estere quaternario della colina caratterizzato da emivita lunga, non breve.",
+        "E": "La scopolamina è un antimuscarinico, impiegato soprattutto per via transdermica come anticinetosico."
+      },
+      "riferimento": "pp. 136-137 – Agonisti colinergici muscarinici"
+    },
+    {
+      "id": "08-008",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Crisi colinergica e intossicazioni",
+      "domanda": "Un paziente giunge in pronto soccorso dopo aver ingerito funghi: presenta bradicardia, ipotensione, ipersecrezione bronchiale, sudorazione profusa e broncospasmo. Quale trattamento è indicato e con quale razionale?",
+      "opzioni": {
+        "A": "Atropina solfato per via endovenosa, perché antagonizza in modo competitivo i recettori muscarinici",
+        "B": "Pilocarpina per via topica, perché riequilibra il tono parasimpatico",
+        "C": "Neostigmina per via endovenosa, perché rende più disponibile l'acetilcolina",
+        "D": "Succinilcolina per via endovenosa, perché desensitizza i recettori colinergici",
+        "E": "Trimetafano per via endovenosa, perché blocca la trasmissione gangliare"
+      },
+      "corretta": "A",
+      "spiegazione": "Il quadro è quello della crisi colinergica da muscarina, che nelle forme acute può evolvere fino all'arresto cardiaco. Il trattamento è l'iniezione endovenosa di atropina solfato, antagonista competitivo dei recettori muscarinici: essendo l'antagonismo sormontabile, la dose può essere adeguata all'entità dell'intossicazione.",
+      "distrattori": {
+        "B": "La pilocarpina è un agonista muscarinico e aggraverebbe la crisi colinergica.",
+        "C": "La neostigmina inibisce la degradazione dell'acetilcolina e peggiorerebbe la sintomatologia colinergica.",
+        "D": "La succinilcolina è un bloccante neuromuscolare depolarizzante usato in anestesia, non un antidoto della crisi colinergica.",
+        "E": "Il trimetafano è un bloccante gangliare impiegato nelle crisi ipertensive, non nell'intossicazione da muscarina."
+      },
+      "riferimento": "p. 137 – Crisi colinergica da muscarina"
+    },
+    {
+      "id": "08-009",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Atropina",
+      "domanda": "Perché dosi di atropina superiori a 10 mg producono allucinazioni, delirio e coma, mentre dosi di 0,5-2 mg danno soltanto effetti periferici modesti?",
+      "opzioni": {
+        "A": "Perché alle dosi più elevate il farmaco raggiunge in quantità rilevante il sistema nervoso centrale attraversando la barriera ematoencefalica",
+        "B": "Perché solo alle dosi più elevate l'antagonismo dell'atropina diventa di tipo non competitivo",
+        "C": "Perché alle dosi più elevate l'atropina viene trasformata in un metabolita neurotossico",
+        "D": "Perché alle dosi più elevate l'atropina perde selettività e attiva i recettori nicotinici gangliari",
+        "E": "Perché solo alle dosi più elevate l'atropina inibisce l'acetilcolinesterasi centrale"
+      },
+      "corretta": "A",
+      "spiegazione": "L'effetto dell'atropina è dose-dipendente: fino a 0,5-2 mg si hanno lieve rallentamento cardiaco, inibizione della sudorazione e secchezza delle fauci, mentre oltre i 10 mg compaiono allucinazioni, delirio e coma, perché la dose supera il sistema nervoso autonomo e il farmaco raggiunge il sistema nervoso centrale attraversando la barriera ematoencefalica.",
+      "distrattori": {
+        "B": "L'antagonismo dell'atropina sui recettori muscarinici resta competitivo e sormontabile, indipendentemente dalla dose.",
+        "C": "Il metabolismo dell'atropina è poco studiato e il testo non descrive metaboliti neurotossici.",
+        "D": "L'atropina è un antagonista muscarinico; il testo non le attribuisce attività agonista sui recettori nicotinici gangliari.",
+        "E": "L'atropina non è un anticolinesterasico: agisce bloccando i recettori muscarinici."
+      },
+      "riferimento": "pp. 139-140 – Atropina, effetti dose-dipendenti e farmacocinetica"
+    },
+    {
+      "id": "08-010",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Scopolamina",
+      "domanda": "Quale differenza tra scopolamina e atropina è corretta?",
+      "opzioni": {
+        "A": "La scopolamina non è indicata nell'iperidrosi, a differenza dell'atropina, perché induce sudorazione",
+        "B": "La scopolamina attraversa la barriera ematoencefalica meno facilmente dell'atropina",
+        "C": "La scopolamina ha sull'iride una durata d'azione più breve di quella dell'atropina",
+        "D": "La scopolamina è priva di effetti sulla memoria, mentre è l'atropina a bloccare la memoria a breve termine",
+        "E": "La scopolamina non provoca midriasi, a differenza dell'atropina"
+      },
+      "corretta": "A",
+      "spiegazione": "L'atropina può essere impiegata nell'iperidrosi, mentre la scopolamina non è indicata a questo scopo perché induce sudorazione; la scopolamina si usa invece per via transdermica come anticinetosico e nelle procedure anestetiche, in particolare durante il parto.",
+      "distrattori": {
+        "B": "La scopolamina attraversa la barriera ematoencefalica più facilmente dell'atropina, dando effetti centrali a dosi più basse.",
+        "C": "La scopolamina ha una durata d'azione maggiore dell'atropina, soprattutto sull'iride.",
+        "D": "È la scopolamina a provocare blocco della memoria a breve termine.",
+        "E": "La scopolamina provoca midriasi e cicloplegia marcate."
+      },
+      "riferimento": "pp. 140-141 – Scopolamina"
+    },
+    {
+      "id": "08-011",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Nicotina",
+      "domanda": "Quale profilo farmacocinetico corrisponde alla nicotina?",
+      "opzioni": {
+        "A": "Assorbimento per via respiratoria, mucosa orale e cute; metabolismo epatico per l'80-90%; emivita di circa 2 ore ed escrezione renale",
+        "B": "Assorbimento esclusivamente polmonare; metabolismo prevalentemente renale; emivita di circa 12 ore",
+        "C": "Scarso assorbimento transcutaneo; metabolismo plasmatico dipendente da temperatura e pH; emivita di pochi minuti",
+        "D": "Assorbimento orale completo; eliminazione immodificata per via biliare; emivita di circa 2 ore",
+        "E": "Assorbimento respiratorio; incapacità di superare la barriera ematoencefalica e quella placentare; escrezione renale"
+      },
+      "corretta": "A",
+      "spiegazione": "La nicotina si assorbe per via respiratoria, attraverso la mucosa orale e la cute (da cui l'impiego del cerotto transdermico), è metabolizzata nel fegato per l'80-90% con metaboliti come la cotinina, ha un'emivita di circa 2 ore ed è escreta per via renale.",
+      "distrattori": {
+        "B": "Il metabolismo è prevalentemente epatico, con quote polmonare e renale, e l'emivita è di circa 2 ore.",
+        "C": "Il metabolismo plasmatico dipendente da temperatura e pH è quello dell'atracurio, non della nicotina.",
+        "D": "La nicotina è ampiamente metabolizzata e viene eliminata per via renale, non immodificata per via biliare.",
+        "E": "La nicotina supera sia la barriera ematoencefalica sia quella placentare, con possibili effetti sullo sviluppo del feto."
+      },
+      "riferimento": "pp. 141-142 – Nicotina, farmacocinetica"
+    },
+    {
+      "id": "08-012",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Anticolinesterasici reversibili",
+      "domanda": "Perché, tra gli inibitori a struttura carbamica, la neostigmina è considerata più sicura della fisostigmina nel trattamento della miastenia grave?",
+      "opzioni": {
+        "A": "Perché passa meno facilmente la barriera ematoencefalica e agisce soprattutto sui recettori periferici della placca",
+        "B": "Perché il suo legame con l'acetilcolinesterasi è irreversibile e quindi più prevedibile",
+        "C": "Perché ha una durata d'azione di soli 5-10 minuti",
+        "D": "Perché non inibisce l'acetilcolinesterasi ma stimola direttamente il recettore nicotinico di placca",
+        "E": "Perché è l'unico anticolinesterasico privo di effetti sulla muscolatura scheletrica"
+      },
+      "corretta": "A",
+      "spiegazione": "La fisostigmina non è più utilizzata perché oltrepassa facilmente la barriera ematoencefalica e può dare effetti centrali, come le convulsioni. La neostigmina passa meno facilmente la barriera ed è quindi più sicura, agendo sulla placca neuromuscolare e su altre condizioni che riguardano recettori periferici.",
+      "distrattori": {
+        "B": "La neostigmina è un anticolinesterasico reversibile; gli irreversibili sono tossici e non utilizzabili in terapia.",
+        "C": "La durata di 5-10 minuti è quella dell'edrofonio, mentre i carbammati hanno durata d'azione media.",
+        "D": "Gli anticolinesterasici agiscono in modo indiretto, inibendo la degradazione dell'acetilcolina, non come agonisti diretti.",
+        "E": "L'effetto della neostigmina si esercita proprio a livello della placca neuromuscolare."
+      },
+      "riferimento": "pp. 144-145 – Anticolinesterasici reversibili a media durata d'azione"
+    },
+    {
+      "id": "08-013",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Bloccanti neuromuscolari non depolarizzanti",
+      "domanda": "Durante l'uso della tubocurarina si osservano ipotensione con tachicardia compensatoria, broncospasmo e reazioni cutanee. Quale meccanismo li spiega?",
+      "opzioni": {
+        "A": "Il rilascio di istamina per azione sui mastociti",
+        "B": "Il blocco dei recettori muscarinici M2 cardiaci",
+        "C": "La desensitizzazione dei recettori nicotinici gangliari da parte della nicotina endogena",
+        "D": "L'accumulo di metaboliti attivi per il ridotto metabolismo epatico del farmaco",
+        "E": "L'inibizione dell'acetilcolinesterasi plasmatica con eccesso di acetilcolina circolante"
+      },
+      "corretta": "A",
+      "spiegazione": "Una caratteristica particolare della tubocurarina è il rilascio di istamina per azione sui mastociti, con meccanismo non ancora chiarito: ne conseguono riduzione della pressione arteriosa con tachicardia compensatoria, broncocostrizione e reazioni cutanee. Per questo si preferiscono oggi i curari di sintesi.",
+      "distrattori": {
+        "B": "Il blocco degli M2 cardiaci darebbe tachicardia ma non spiega broncospasmo e reazioni cutanee; la tubocurarina agisce sui recettori nicotinici.",
+        "C": "La desensitizzazione gangliare è un fenomeno descritto per la nicotina esogena, non la causa di questi effetti.",
+        "D": "La tubocurarina è poco metabolizzata ed escreta quasi immodificata; non vengono descritti metaboliti responsabili di tali effetti.",
+        "E": "La tubocurarina non è idrolizzata facilmente dall'acetilcolinesterasi, ma non la inibisce."
+      },
+      "riferimento": "p. 158 – Tubocurarina, rilascio di istamina"
+    },
+    {
+      "id": "08-014",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Bloccanti neuromuscolari depolarizzanti",
+      "domanda": "Quale sequenza descrive correttamente l'azione della succinilcolina sulla placca neuromuscolare?",
+      "opzioni": {
+        "A": "Depolarizzazione con fascicolazioni transitorie, seguita da paralisi flaccida e da una fase di desensitizzazione che persiste anche dopo la ripolarizzazione della membrana",
+        "B": "Blocco competitivo immediato del recettore nicotinico senza alcuna contrazione iniziale",
+        "C": "Iperpolarizzazione della membrana di placca con progressivo aumento della soglia di eccitabilità",
+        "D": "Inibizione della sintesi di acetilcolina con progressivo esaurimento delle vescicole presinaptiche",
+        "E": "Blocco della liberazione di acetilcolina indotto dall'ingresso di calcio nel terminale motorio"
+      },
+      "corretta": "A",
+      "spiegazione": "La succinilcolina, agonista depolarizzante, lega il recettore nicotinico come l'acetilcolina: nella prima fase provoca contrazioni involontarie (fascicolazioni transitorie) seguite da paralisi flaccida; nella seconda fase il recettore resta desensitizzato anche dopo la ripolarizzazione della membrana, finché il farmaco non viene eliminato.",
+      "distrattori": {
+        "B": "Il blocco competitivo senza contrazione iniziale è proprio degli antagonisti non depolarizzanti come la tubocurarina.",
+        "C": "La succinilcolina depolarizza la membrana, non la iperpolarizza.",
+        "D": "La succinilcolina agisce sul recettore nicotinico, non sulla sintesi di acetilcolina.",
+        "E": "L'ingresso di calcio nel terminale motorio favorisce il rilascio di acetilcolina e non è il bersaglio della succinilcolina."
+      },
+      "riferimento": "p. 159 – Succinilcolina, meccanismo d'azione"
+    },
+    {
+      "id": "08-015",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Anticolinesterasici reversibili",
+      "domanda": "Quale affermazione descrive correttamente l'impiego di donepezil, rivastigmina e galantamina nella malattia di Alzheimer?",
+      "opzioni": {
+        "A": "Sono coadiuvanti che possono rallentare il decorso clinico preservando i neuroni, ma non recuperano quelli già degenerati",
+        "B": "Sono antagonisti muscarinici che riducono l'iperattività colinergica corticale",
+        "C": "Sono anticolinesterasici irreversibili che garantiscono un effetto duraturo sull'enzima",
+        "D": "Sono farmaci risolutivi in grado di arrestare la degenerazione neuronale",
+        "E": "Agiscono stimolando direttamente i recettori nicotinici della placca neuromuscolare"
+      },
+      "corretta": "A",
+      "spiegazione": "L'acetilcolina è un neurotrasmettitore anche del sistema nervoso centrale, particolarmente presente nell'ippocampo: donepezil, rivastigmina e galantamina sono coadiuvanti utili a preservare i neuroni e a rallentare il decorso clinico, ma non intervengono sui neuroni già degenerati né curano la patologia.",
+      "distrattori": {
+        "B": "Sono anticolinesterasici, cioè potenziano la trasmissione colinergica, non la bloccano.",
+        "C": "Appartengono agli anticolinesterasici reversibili; gli irreversibili sono tossici e non impiegabili in terapia.",
+        "D": "Il testo è esplicito nel negare un effetto curativo o di arresto della degenerazione.",
+        "E": "Non sono agonisti diretti del recettore nicotinico di placca."
+      },
+      "riferimento": "p. 145 – Utilizzo terapeutico dei farmaci reversibili"
+    },
+    {
+      "id": "08-016",
+      "difficolta": "avanzato",
+      "tipo": "nozionistica",
+      "argomento": "Recettori nicotinici",
+      "domanda": "Quale caratteristica distingue i recettori nicotinici omomerici alfa7?",
+      "opzioni": {
+        "A": "Sono presinaptici, più permeabili al calcio e richiedono il legame di cinque molecole di acetilcolina",
+        "B": "Sono tetramerici e richiedono il legame di due sole molecole di acetilcolina",
+        "C": "Sono recettori metabotropici accoppiati a proteine G presenti sui neuroni dopaminergici",
+        "D": "Sono costituiti esclusivamente da subunità beta, che legano l'acetilcolina",
+        "E": "Sono localizzati solo sulla placca neuromuscolare e sono impermeabili al calcio"
+      },
+      "corretta": "A",
+      "spiegazione": "I recettori nicotinici sono pentamerici e la subunità alfa è quella che lega l'acetilcolina. Gli alfa7, presenti sui neuroni dopaminergici, necessitano di cinque molecole di acetilcolina, sono di tipo presinaptico e risultano più permeabili al calcio: la composizione in subunità condiziona localizzazione, permeabilità e dose di farmaco necessaria.",
+      "distrattori": {
+        "B": "I recettori nicotinici sono pentamerici; due molecole di acetilcolina sono sufficienti per i nicotinici neuronali con due siti di legame, non per gli alfa7.",
+        "C": "Il recettore nicotinico è ionotropico, un canale cationico, non metabotropico.",
+        "D": "La subunità obbligata è l'alfa, che lega la nicotina e l'acetilcolina; esistono omomerici alfa ma non beta.",
+        "E": "Gli alfa7 sono neuronali e particolarmente permeabili al calcio."
+      },
+      "riferimento": "p. 136 – Recettori nicotinici e sottotipi"
+    },
+    {
+      "id": "08-017",
+      "difficolta": "avanzato",
+      "tipo": "falsa",
+      "argomento": "Antimuscarinici nell'asma e nella BPCO",
+      "domanda": "Riguardo ai derivati quaternari dell'ammonio impiegati nell'asma e nella BPCO, quale affermazione è FALSA?",
+      "opzioni": {
+        "A": "Attraversano agevolmente la barriera ematoencefalica e per questo sono impiegati anche nella terapia del Parkinson",
+        "B": "Hanno alta idrofilicità e di conseguenza uno scarso assorbimento",
+        "C": "Riducono la broncocostrizione mediata dal vago agendo sui recettori M4",
+        "D": "Hanno effetti cardiaci minimi, perché nel cuore sono presenti soprattutto recettori M2",
+        "E": "Possono provocare xerostomia e, più raramente, ritenzione urinaria e costipazione"
+      },
+      "corretta": "A",
+      "spiegazione": "I derivati quaternari dell'ammonio sono molto idrofilici, si assorbono poco e non hanno effetti sul sistema nervoso centrale: sono i derivati amminici terziari ad attraversare la barriera ematoencefalica e a essere impiegati nella terapia del Parkinson.",
+      "distrattori": {
+        "B": "Affermazione vera: l'alta idrofilicità spiega lo scarso assorbimento di questi farmaci.",
+        "C": "Affermazione vera: riducono la broncocostrizione mediata dal vago agendo sui recettori M4.",
+        "D": "Affermazione vera: gli effetti cardiaci sono minimi perché nel cuore prevalgono i recettori M2.",
+        "E": "Affermazione vera: xerostomia, e più raramente ritenzione urinaria, costipazione e difficoltà di accomodamento, sono gli effetti avversi descritti."
+      },
+      "riferimento": "p. 141 – Derivati quaternari dell'ammonio (SAMA e LAMA)"
+    },
+    {
+      "id": "08-018",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Nicotina",
+      "domanda": "Perché la nicotina viene classificata sia tra gli stimolanti sia tra i bloccanti gangliari?",
+      "opzioni": {
+        "A": "Perché inizialmente stimola i gangli e poi, per desensitizzazione dei recettori, li blocca, in funzione di dose, via di somministrazione e tempo di permanenza",
+        "B": "Perché a basse dosi antagonizza i recettori nicotinici e ad alte dosi li attiva",
+        "C": "Perché stimola i gangli simpatici e contemporaneamente blocca quelli parasimpatici",
+        "D": "Perché il composto originario è uno stimolante, mentre i suoi metaboliti sono bloccanti gangliari",
+        "E": "Perché agisce come stimolante sui recettori muscarinici e come bloccante su quelli nicotinici"
+      },
+      "corretta": "A",
+      "spiegazione": "La nicotina ha una fortissima capacità di desensitizzare i recettori nicotinici: dopo una stimolazione iniziale dei gangli ne determina il blocco, con un esito che dipende dalla dose, dalla via di somministrazione e dal tempo di permanenza. Un esempio è l'azione bifasica sulla midollare del surrene, dove a basse dosi stimola il rilascio di catecolammine e ad alte dosi lo previene.",
+      "distrattori": {
+        "B": "La sequenza è opposta: la stimolazione precede il blocco, che compare con il persistere o l'aumentare dell'esposizione.",
+        "C": "La nicotina agisce sui recettori nicotinici dei gangli sia ortosimpatici sia parasimpatici, senza questa distinzione.",
+        "D": "L'effetto bifasico è attribuito alla desensitizzazione recettoriale, non ai metaboliti come la cotinina.",
+        "E": "La nicotina agisce sui recettori nicotinici, non su quelli muscarinici."
+      },
+      "riferimento": "pp. 142-143 – Nicotina tra stimolanti e bloccanti gangliari"
+    },
+    {
+      "id": "08-019",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Bloccanti gangliari",
+      "domanda": "Quale differenza tra trimetafano e mecamilamina è corretta?",
+      "opzioni": {
+        "A": "Il trimetafano si somministra per via endovenosa e dura un paio di minuti, mentre la mecamilamina dura circa 10 minuti e può essere data anche per via orale",
+        "B": "Il trimetafano è un antagonista non competitivo, mentre la mecamilamina è un agonista parziale dei recettori nicotinici",
+        "C": "Entrambi producono una stimolazione gangliare iniziale prima del blocco, come la nicotina",
+        "D": "La mecamilamina ha una durata d'azione di pochi secondi e si usa solo nelle crisi ipertensive",
+        "E": "Il trimetafano si somministra per via orale perché ha un assorbimento gastrointestinale rapido e completo"
+      },
+      "corretta": "A",
+      "spiegazione": "Trimetafano e mecamilamina sono entrambi antagonisti competitivi dei recettori nicotinici, impiegati in terapia in base alle loro caratteristiche farmacocinetiche: il trimetafano si dà per via endovenosa, con durata di un paio di minuti, nelle emergenze ipertensive; la mecamilamina dura circa 10 minuti e può essere somministrata sia per via endovenosa sia per via orale.",
+      "distrattori": {
+        "B": "Entrambi sono antagonisti competitivi, quindi con effetto sormontabile dall'acetilcolina.",
+        "C": "A differenza della nicotina, bloccano la trasmissione senza promuovere la stimolazione iniziale, superando il problema della desensitizzazione.",
+        "D": "È il trimetafano ad avere la durata più breve, di un paio di minuti.",
+        "E": "Il trimetafano si somministra per via endovenosa proprio per renderlo disponibile il più rapidamente possibile."
+      },
+      "riferimento": "p. 143 – Altri bloccanti gangliari"
+    },
+    {
+      "id": "08-020",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Bloccanti neuromuscolari non depolarizzanti",
+      "domanda": "Al termine di un intervento un paziente presenta un blocco neuromuscolare persistente da curaro non depolarizzante. Quale intervento farmacologico è indicato e perché funziona?",
+      "opzioni": {
+        "A": "Un anticolinesterasico, perché aumentando l'acetilcolina disponibile si supera un antagonismo competitivo e quindi sormontabile",
+        "B": "Atropina, perché antagonizza il recettore responsabile del blocco di placca",
+        "C": "Succinilcolina, perché depolarizzando la placca ripristina la contrazione muscolare",
+        "D": "Nicotina per via transdermica, perché stimola i recettori nicotinici di placca in modo prolungato",
+        "E": "Un composto organofosforico, perché il legame irreversibile garantisce un effetto più rapido e controllabile"
+      },
+      "corretta": "A",
+      "spiegazione": "L'antidoto dell'avvelenamento da curari non depolarizzanti sono i farmaci anticolinesterasici: bloccando la degradazione dell'acetilcolina la rendono più disponibile e, poiché l'antagonismo è competitivo e quindi sormontabile, l'acetilcolina riesce a competere per il sito d'azione del recettore.",
+      "distrattori": {
+        "B": "L'atropina blocca i recettori muscarinici, mentre il blocco di placca riguarda i recettori nicotinici.",
+        "C": "La succinilcolina è un bloccante depolarizzante: aggraverebbe la paralisi flaccida.",
+        "D": "La nicotina non è utilizzata in terapia per questo scopo per la sua tossicità e la forte desensitizzazione recettoriale che induce.",
+        "E": "Gli anticolinesterasici irreversibili come gli organofosforici sono tossici e non utilizzabili in terapia."
+      },
+      "riferimento": "p. 157 – Antagonisti non depolarizzanti, antidoto"
+    },
+    {
+      "id": "08-021",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Bloccanti neuromuscolari depolarizzanti",
+      "domanda": "Durante un'anestesia con succinilcolina un paziente sviluppa un rialzo incontrollato della temperatura corporea con rabdomiolisi. Quale descrizione di questa reazione avversa è corretta?",
+      "opzioni": {
+        "A": "È l'ipertermia maligna, legata a un eccessivo aumento del calcio nei miociti o a una crisi da ipermetabolismo muscolare, su base genetica",
+        "B": "È una reazione da rilascio di istamina dai mastociti, tipica dei bloccanti depolarizzanti",
+        "C": "È l'effetto atteso dell'accumulo del farmaco per la sua lunga durata d'azione",
+        "D": "È una crisi colinergica centrale dovuta al passaggio del farmaco attraverso la barriera ematoencefalica",
+        "E": "È una conseguenza della riduzione dei livelli plasmatici di potassio indotta dal farmaco"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra le reazioni avverse della succinilcolina figura l'ipertermia maligna: un aumento incontrollato della temperatura corporea dovuto a un eccessivo aumento dei livelli di calcio nei miociti o a una crisi da ipermetabolismo muscolare, con riscaldamento incontrollato e rabdomiolisi; è una condizione a base genetica, spesso già nota al paziente.",
+      "distrattori": {
+        "B": "Il rilascio di istamina dai mastociti è descritto per la tubocurarina, non per la succinilcolina.",
+        "C": "La succinilcolina ha onset rapido (circa 5 minuti) e durata breve (circa 10 minuti), non lunga.",
+        "D": "L'ipertermia maligna è un fenomeno muscolare, non una crisi colinergica centrale.",
+        "E": "La succinilcolina determina un aumento, non una riduzione, dei livelli di potassio."
+      },
+      "riferimento": "p. 160 – Succinilcolina, effetti collaterali"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Il passaggio limitante della trasmissione colinergica è la ricaptazione della colina, non l'attività dell'acetilcolintransferasi.",
+    "M2 è il sottotipo cardiaco (cronotropo e dromotropo negativi), M3 quello di ghiandole esocrine, muscolatura liscia ed endotelio; i derivati quaternari inalatori agiscono sugli M4 bronchiali.",
+    "Scopolamina e atropina: la scopolamina passa più facilmente la barriera ematoencefalica, blocca la memoria a breve termine e, a differenza dell'atropina, NON si usa nell'iperidrosi perché induce sudorazione.",
+    "La nicotina è sia stimolante sia bloccante gangliare per desensitizzazione: effetto bifasico dose-dipendente (es. midollare del surrene, pressione arteriosa).",
+    "Curari non depolarizzanti (antagonisti competitivi, antidoto = anticolinesterasici, tubocurarina libera istamina) contro succinilcolina depolarizzante (fascicolazioni poi paralisi flaccida, iperkaliemia, ipertermia maligna)."
+  ]
+}

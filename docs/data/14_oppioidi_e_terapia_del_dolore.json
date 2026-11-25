@@ -1,0 +1,796 @@
+{
+  "capitolo": 14,
+  "titolo": "Oppioidi e terapia del dolore",
+  "pagine": "236-264",
+  "domande": [
+    {
+      "id": "14-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Fisiologia del dolore",
+      "domanda": "Secondo la definizione della IASP riportata nel testo, il dolore è:",
+      "opzioni": {
+        "A": "un'esperienza sensitiva ed emotiva spiacevole, associata ad un effettivo o potenziale danno tissutale o comunque descritta come tale",
+        "B": "una risposta riflessa oggettivamente misurabile alla stimolazione dei nocicettori cutanei",
+        "C": "una sensazione puramente sensoriale, priva di componente emotiva, proporzionale all'entità del danno tissutale",
+        "D": "un sintomo che si può affermare presente solo quando è dimostrabile un danno tissutale in atto",
+        "E": "una percezione generata esclusivamente a livello della corteccia somatosensoriale primaria"
+      },
+      "corretta": "A",
+      "spiegazione": "La definizione IASP del 1979 riportata nel testo descrive il dolore come esperienza sensitiva ed emotiva spiacevole associata a un danno tissutale effettivo o potenziale, o comunque descritta come tale: comprende quindi sia la componente sensoriale sia quella emotiva e non richiede un danno dimostrato.",
+      "distrattori": {
+        "B": "Il testo sottolinea che il dolore è un'esperienza soggettiva, non misurabile oggettivamente, e che va valutata con scale riferite dal paziente.",
+        "C": "La componente emotiva è parte integrante della definizione, ed è quella ridotta dagli oppioidi a livello sopraspinale.",
+        "D": "La definizione comprende anche il danno solo potenziale o il dolore semplicemente descritto come tale.",
+        "E": "La corteccia somatosensoriale è la stazione finale della via, ma la percezione è modulata a livello periferico, spinale, talamico e nella sostanza grigia periacqueduttale."
+      },
+      "riferimento": "p. 236 – Oppioidi, terapia del dolore: definizione IASP"
+    },
+    {
+      "id": "14-002",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Recettori oppioidi",
+      "domanda": "I recettori oppioidi sono metabotropici accoppiati a proteine G inibitorie. Quale descrizione corrisponde al modo in cui, secondo il testo, riducono l'attività neuronale?",
+      "opzioni": {
+        "A": "Inibiscono l'adenilato ciclasi, attivano i canali del potassio tramite le subunità βγ e inibiscono le correnti del calcio voltaggio-dipendenti, con iperpolarizzazione e ridotta liberazione di neurotrasmettitori",
+        "B": "Attivano l'adenilato ciclasi aumentando il cAMP, con depolarizzazione della terminazione presinaptica",
+        "C": "Sono canali ionici intrinsecamente permeabili al sodio, la cui apertura iperpolarizza rapidamente la cellula",
+        "D": "Bloccano direttamente i recettori NMDA postsinaptici riducendo l'ingresso di calcio",
+        "E": "Inibiscono la ricaptazione di noradrenalina e serotonina nelle vie discendenti"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo elenca esattamente questi meccanismi: inibizione dell'adenilato ciclasi, attivazione dei canali al potassio tramite le subunità βγ, inibizione delle correnti di calcio voltaggio-dipendenti, induzione di iperpolarizzazione e riduzione della liberazione di altri neurotrasmettitori, in particolare quelli coinvolti nella percezione del dolore.",
+      "distrattori": {
+        "B": "Le proteine G sono di tipo inibitorio: l'adenilato ciclasi viene inibita, non attivata.",
+        "C": "Il testo li definisce recettori metabotropici, non canali ionici; l'iperpolarizzazione dipende dai canali del potassio attivati tramite proteina G.",
+        "D": "Il sistema NMDA è citato dal testo solo a proposito dell'astinenza precipitata dal naloxone.",
+        "E": "Il blocco della ricaptazione di NA e 5-HT è la proprietà aggiuntiva del tramadolo, non il meccanismo recettoriale oppioide."
+      },
+      "riferimento": "p. 240 – Funzione dei recettori degli oppioidi"
+    },
+    {
+      "id": "14-003",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Recettori oppioidi",
+      "domanda": "Secondo quanto riportato dal testo sulle risposte mediate dai recettori oppioidi, quale effetto è attribuito in modo caratteristico ai recettori κ (kappa)?",
+      "opzioni": {
+        "A": "Effetti psicomimetici con disforia e allucinazioni",
+        "B": "Rilascio di prolattina",
+        "C": "Riduzione della motilità intestinale con stipsi",
+        "D": "Euforia",
+        "E": "Analgesia a livello spinale e sopraspinale"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo attribuisce ai recettori κ, oltre all'analgesia e alla depressione respiratoria, gli effetti psicomimetici come le allucinazioni e la disforia; l'effetto disforico iniziale degli oppioidi è ricondotto proprio all'azione sui recettori kappa.",
+      "distrattori": {
+        "B": "Il rilascio di prolattina è indicato tra gli effetti dell'attivazione dei recettori μ.",
+        "C": "La ridotta motilità intestinale con stipsi è elencata tra gli effetti μ.",
+        "D": "L'euforia è attribuita ai recettori μ; ai kappa è associata piuttosto la disforia.",
+        "E": "L'analgesia è prodotta da tutti e tre i recettori μ, δ e κ, quindi non caratterizza i kappa."
+      },
+      "riferimento": "p. 241 – Risposte mediate dai recettori oppioidi"
+    },
+    {
+      "id": "14-004",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Terminologia e classificazione",
+      "domanda": "Nella classificazione per origine riportata dal testo, quale gruppo è costituito SOLO da oppioidi sintetici?",
+      "opzioni": {
+        "A": "Metadone, petidina, fentanyl",
+        "B": "Morfina, codeina, papaverina",
+        "C": "Ossicodone, eroina, morfina",
+        "D": "Codeina, metadone, morfina",
+        "E": "Eroina, fentanyl, codeina"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo definisce sintetici gli oppioidi non derivati dalla morfina ma di sintesi esclusivamente chimica, citando metadone, petidina, propossifene e i farmaci della classe del fentanyl.",
+      "distrattori": {
+        "B": "Sono alcaloidi naturali contenuti nell'oppio.",
+        "C": "Ossicodone ed eroina sono semisintetici, ottenuti per modificazione della morfina, che a sua volta è naturale.",
+        "D": "Codeina e morfina sono oppioidi naturali.",
+        "E": "L'eroina è semisintetica (biacetilmorfina) e la codeina è naturale."
+      },
+      "riferimento": "p. 241 – Farmaci oppioidi: classificazione per origine"
+    },
+    {
+      "id": "14-005",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Terminologia e classificazione",
+      "domanda": "Secondo la classificazione in base alla relazione struttura-attività, quale abbinamento farmaco/categoria è corretto?",
+      "opzioni": {
+        "A": "Pentazocina: agonista sui recettori κ e antagonista sui recettori μ",
+        "B": "Buprenorfina: antagonista puro competitivo",
+        "C": "Naltrexone: agonista parziale impiegato nel mantenimento",
+        "D": "Ossicodone: agonista parziale",
+        "E": "Naloxone: agonista completo di elevata potenza"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo classifica la pentazocina tra gli agonisti/antagonisti, specificando che è agonista sui recettori κ e antagonista sui recettori μ.",
+      "distrattori": {
+        "B": "La buprenorfina è indicata come agonista parziale, usata nella terapia di mantenimento.",
+        "C": "Il naltrexone è, come il naloxone, un antagonista puro competitivo.",
+        "D": "L'ossicodone è elencato tra gli agonisti completi.",
+        "E": "Il naloxone è un antagonista completo, usato come farmaco salvavita nell'overdose."
+      },
+      "riferimento": "p. 242 – Classificazione in base alla relazione struttura-attività"
+    },
+    {
+      "id": "14-006",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Effetti sistemici degli oppioidi",
+      "domanda": "Perché la depressione respiratoria è, secondo il testo, l'azione centrale degli oppioidi che mette più a rischio la vita?",
+      "opzioni": {
+        "A": "Perché le cellule del centro del respiro sensibili alla pCO2 vengono inibite, con ridotta risposta all'ipossia e riduzione della frequenza respiratoria autonoma",
+        "B": "Perché gli oppioidi provocano una broncocostrizione grave con ostruzione delle vie aeree",
+        "C": "Perché inducono paralisi della muscolatura respiratoria agendo sulla placca neuromuscolare",
+        "D": "Perché aumentano la pressione intracranica fino a comprimere i centri bulbari",
+        "E": "Perché provocano rabdomiolisi dei muscoli intercostali"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo spiega che gli oppioidi inibiscono le cellule del centro nervoso del respiro sensibili alla pCO2: il soggetto perde o riduce la sensibilità alla pCO2, risponde meno all'ipossia e riduce la frequenza respiratoria, con rischio di danno ipossico-ischemico e asfissia. La morte per overdose avviene con questo meccanismo.",
+      "distrattori": {
+        "B": "Il testo cita solo una lieve broncocostrizione tra gli effetti respiratori.",
+        "C": "Gli oppioidi non agiscono sulla placca neuromuscolare: l'azione è sul centro bulbare del respiro.",
+        "D": "L'aumento della pressione intracranica è un effetto distinto, rilevante nel trauma cranico.",
+        "E": "La rabdomiolisi è elencata tra i segni possibili dell'overdose, non come causa dell'ipoventilazione."
+      },
+      "riferimento": "p. 244 – Oppioidi esogeni: depressione respiratoria"
+    },
+    {
+      "id": "14-007",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Effetti sistemici degli oppioidi",
+      "domanda": "Quale segno è definito dal testo patognomonico dell'intossicazione da oppioidi?",
+      "opzioni": {
+        "A": "La miosi, fino alla cosiddetta \"pupilla a punta di spillo\"",
+        "B": "La midriasi fissa bilaterale",
+        "C": "L'orripilazione (\"cold turkey\")",
+        "D": "L'ipertono dello sfintere di Oddi",
+        "E": "L'arrossamento cutaneo con prurito"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo definisce la miosi effetto patognomonico dell'intossicazione da oppioidi: una miosi marcata, fino alla \"pupilla a punta di spillo\", associata a depressione respiratoria e sedazione identifica un paziente in overdose, per il quale va tenuto pronto il naloxone.",
+      "distrattori": {
+        "B": "Nell'overdose la midriasi compare tardivamente ed è segno di lesione ipossico-ischemica, cioè un segno prognostico gravissimo.",
+        "C": "L'orripilazione è un sintomo moderato della sindrome d'astinenza, condizione opposta all'intossicazione.",
+        "D": "L'ipertono dello sfintere di Oddi è un effetto gastroenterico, non un segno clinico di intossicazione.",
+        "E": "Arrossamento e prurito dipendono dalla liberazione di istamina, tipica della morfina, e non sono patognomonici."
+      },
+      "riferimento": "p. 244 – Miosi: effetto patognomonico dell'intossicazione"
+    },
+    {
+      "id": "14-008",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Effetti sistemici degli oppioidi",
+      "domanda": "Un paziente giunge in ospedale dopo un incidente stradale, con sospetto trauma cranico ed edema cerebrale, e lamenta dolore intenso. Per quale motivo il testo invita a non usare la morfina, o a usarla con cautela, in questa situazione?",
+      "opzioni": {
+        "A": "Perché può mascherare il quadro sintomatico rendendo difficile una diagnosi accurata e perché l'aumento della pressione endocranica può peggiorare il quadro",
+        "B": "Perché provoca convulsioni per interazione con i FANS somministrati in urgenza",
+        "C": "Perché l'analgesia oppioide è inefficace sul dolore post-traumatico",
+        "D": "Perché determina midriasi, impedendo la valutazione pupillare del paziente",
+        "E": "Perché riduce troppo rapidamente la pressione intracranica, con rischio di erniazione"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra gli effetti centrali il testo elenca l'aumentata pressione intracranica e avverte che nel sospetto trauma cranico con edema cerebrale la morfina può mascherare il quadro sintomatico, rendendo difficile la diagnosi, e che l'aumento della pressione endocranica può peggiorare le condizioni del paziente.",
+      "distrattori": {
+        "B": "Il rischio convulsivo è segnalato dal testo per il tramadolo associato ad antidepressivi triciclici e antipsicotici, non per la morfina con i FANS.",
+        "C": "La morfina è l'oppiaceo di riferimento per il dolore da moderato a grave: il problema qui è la sicurezza, non l'efficacia.",
+        "D": "Gli oppioidi causano miosi; la midriasi compare solo come segno tardivo di danno ipossico-ischemico.",
+        "E": "L'effetto descritto nel testo è un aumento, non una riduzione, della pressione intracranica."
+      },
+      "riferimento": "p. 245 – Aumentata pressione intracranica (ICP)"
+    },
+    {
+      "id": "14-009",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Effetti sistemici degli oppioidi",
+      "domanda": "Un paziente con colica biliare riceve morfina e il dolore peggiora. Quale effetto farmacologico descritto nel testo spiega questo peggioramento?",
+      "opzioni": {
+        "A": "L'ipertono dello sfintere di Oddi, con aumento della pressione nelle vie biliari",
+        "B": "La liberazione di istamina con vasodilatazione splancnica",
+        "C": "L'aumento della secrezione gastrointestinale con distensione delle anse",
+        "D": "L'iperalgesia da oppioidi mediata dalla beta-arrestina",
+        "E": "La vasodilatazione dei vasi di capacitanza con ipotensione ortostatica"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra gli effetti gastroenterici il testo elenca l'ipertono dello sfintere di Oddi con aumento della pressione nelle vie biliari e precisa che per questo la morfina non è il farmaco adatto per le coliche, potendo anzi aggravare il dolore per contrazione degli sfinteri.",
+      "distrattori": {
+        "B": "La liberazione di istamina provoca arrossamento, prurito, ipotensione e broncocostrizione, non dolore biliare.",
+        "C": "Gli oppioidi riducono, non aumentano, la secrezione gastrointestinale.",
+        "D": "L'iperalgesia da oppioidi è un fenomeno dell'uso cronico, non la spiegazione del peggioramento acuto di una colica.",
+        "E": "L'ipotensione ortostatica è un effetto cardiovascolare che non rende conto del dolore."
+      },
+      "riferimento": "p. 245 – Sistema gastroenterico: ipertono dello sfintere di Oddi"
+    },
+    {
+      "id": "14-010",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Indicazioni terapeutiche",
+      "domanda": "Due pazienti chiedono un oppioide: il primo è oncologico, con dolore invalidante e aspettativa di vita limitata; il secondo è un giovane con dolore cronico benigno, comorbidità psichiatrica e storia di abuso di sostanze. Quale atteggiamento corrisponde a quello indicato dal testo?",
+      "opzioni": {
+        "A": "Nel paziente oncologico somministrare dosi adeguate senza farsi condizionare dal timore della dipendenza; nel secondo studiare attentamente il paziente valutando il rischio di abuso",
+        "B": "Ridurre le dosi nel paziente oncologico per evitare la dipendenza e prescrivere liberamente nel secondo, trattandosi di dolore benigno",
+        "C": "Evitare gli oppioidi in entrambi i casi, perché il rischio di dipendenza è sempre inaccettabile",
+        "D": "Prescrivere oppioidi in entrambi senza particolari valutazioni, perché la dipendenza iatrogena non si verifica quando c'è dolore",
+        "E": "Nel paziente oncologico usare i soli FANS e riservare gli oppioidi al dolore cronico benigno"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo afferma che nel paziente oncologico l'eventuale dipendenza non deve preoccupare e che sarebbe inumano non somministrare dosi adeguate, mentre nel dolore cronico non maligno occorre studiare attentamente il paziente e capire se c'è rischio di abuso, citando proprio i giovani con comorbidità psichiatrica e storia di abuso di sostanze.",
+      "distrattori": {
+        "B": "È l'opposto di quanto raccomandato: il testo critica proprio la prescrizione liberalizzata nel dolore cronico benigno.",
+        "C": "Il testo considera inumano negare oppioidi adeguati al paziente oncologico.",
+        "D": "Il testo descrive ampiamente la dipendenza che inizia con la prescrizione di oppioidi per il dolore.",
+        "E": "I FANS hanno limitata potenza antalgica; la morfina è il riferimento per il dolore da moderato a grave."
+      },
+      "riferimento": "p. 245 – Controllo del dolore moderato e severo, acuto e cronico"
+    },
+    {
+      "id": "14-011",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Morfina",
+      "domanda": "Un paziente in terapia con morfina orale deve passare alla via endovenosa. Sapendo che la biodisponibilità orale della morfina è del 25%, quale considerazione è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Bisogna prevedere una riduzione del dosaggio, perché per via endovenosa la biodisponibilità è del 100%",
+        "B": "Bisogna aumentare il dosaggio, perché la via endovenosa è meno efficiente di quella orale",
+        "C": "Il dosaggio resta identico, perché la biodisponibilità non influenza la dose da somministrare",
+        "D": "Bisogna raddoppiare il dosaggio per saturare il legame proteico, maggiore per via endovenosa",
+        "E": "Bisogna passare prima alla via transdermica, perché il passaggio diretto da orale a endovenosa è controindicato"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo spiega che la bassa biodisponibilità orale (25%) non è di per sé un problema, perché la dose si tara sulla necessità del paziente, ma diventa rilevante nel passaggio da orale a endovenosa: poiché per via endovenosa la biodisponibilità è pari al 100%, occorre prevedere una riduzione del dosaggio.",
+      "distrattori": {
+        "B": "È l'opposto: per via endovenosa l'intera dose raggiunge la circolazione sistemica.",
+        "C": "È proprio la differenza di biodisponibilità a imporre la modifica della dose nel cambio di via.",
+        "D": "Il legame proteico della morfina è del 30% e non dipende dalla via di somministrazione.",
+        "E": "Il testo elenca per la morfina numerose vie di somministrazione senza porre questa restrizione."
+      },
+      "riferimento": "p. 246 – Morfina: farmacocinetica, assorbimento"
+    },
+    {
+      "id": "14-012",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Morfina",
+      "domanda": "Quale affermazione sul metabolismo della morfina corrisponde a quanto riportato nel testo?",
+      "opzioni": {
+        "A": "La glicuronazione epatica produce morfina-6-glicuronide, metabolita attivo che continua a determinare analgesia, oltre alla morfina-3-glicuronide",
+        "B": "È metabolizzata dal CYP2D6 a un metabolita attivo, con forte variabilità legata a polimorfismi",
+        "C": "Produce esclusivamente metaboliti inattivi, eliminati per via biliare",
+        "D": "Subisce dealchilazione e idrossilazione epatica, come il fentanyl",
+        "E": "Non viene metabolizzata ed è eliminata immodificata per via renale"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo indica per la morfina un metabolismo soprattutto epatico per glicuronazione, con formazione di morfina-6-glicuronide, metabolita attivo che continua ad agire sui recettori determinando analgesia, e di morfina-3-glicuronide: vengono prodotti quindi sia metaboliti attivi sia inattivi.",
+      "distrattori": {
+        "B": "Il CYP2D6 con i problemi legati ai polimorfismi riguarda codeina e tramadolo; la morfina è il prodotto, non il substrato, di quella reazione.",
+        "C": "La morfina-6-glicuronide è esplicitamente indicata come metabolita attivo.",
+        "D": "Dealchilazione e idrossilazione sono indicate dal testo per il fentanyl.",
+        "E": "L'eliminazione renale riguarda soprattutto i metaboliti, in particolare la morfina-3-glicuronide."
+      },
+      "riferimento": "p. 246 – Morfina: metabolismo ed eliminazione"
+    },
+    {
+      "id": "14-013",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Morfina e fentanyl",
+      "domanda": "Un anestesista deve scegliere un oppioide per un intervento in un paziente asmatico, volendo evitare un calo pressorio intraoperatorio. Quale differenza tra morfina e fentanyl, riportata nel testo, orienta verso il fentanyl?",
+      "opzioni": {
+        "A": "Il fentanyl non determina liberazione di istamina, mentre la morfina sì",
+        "B": "Il fentanyl non provoca depressione respiratoria, a differenza della morfina",
+        "C": "Il fentanyl ha un'emivita molto più lunga, che garantisce stabilità emodinamica",
+        "D": "Il fentanyl è un agonista parziale, quindi ha un effetto massimale ridotto",
+        "E": "Il fentanyl non attraversa la barriera ematoencefalica e agisce solo in periferia"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo afferma che il fentanyl non determina rilascio di istamina come la morfina, per cui gli anestesisti possono usarlo evitando fenomeni di abbassamento pressorio durante l'intervento; la morfina invece libera istamina con ipotensione e broncocostrizione, grave nei pazienti asmatici.",
+      "distrattori": {
+        "B": "La depressione respiratoria è elencata tra gli effetti indesiderati del fentanyl.",
+        "C": "Il fentanyl ha un'emivita di circa 4 ore, descritta come abbastanza breve e che lo rende più gestibile.",
+        "D": "Il fentanyl è un agonista dei recettori μ, estremamente potente.",
+        "E": "Il fentanyl è molto lipofilo e agisce centralmente; l'oppioide che non attraversa la barriera è la loperamide."
+      },
+      "riferimento": "p. 247 – Morfina, effetti indesiderati; Fentanyl, effetti indesiderati"
+    },
+    {
+      "id": "14-014",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Fentanyl",
+      "domanda": "Perché il fentanyl viene impiegato in cerotti transdermici nel dolore cronico intrattabile e non per via orale?",
+      "opzioni": {
+        "A": "Perché è molto lipofilo e si assorbe soprattutto per via cutanea, con liberazione lenta e prolungata, mentre non ha un assorbimento orale utile per la terapia",
+        "B": "Perché per via orale verrebbe distrutto dall'acidità gastrica e trasformato in un metabolita tossico",
+        "C": "Perché la via transdermica evita completamente il metabolismo epatico e l'eliminazione renale",
+        "D": "Perché è idrofilo e penetra la cute solo grazie all'occlusione prodotta dal cerotto",
+        "E": "Perché la somministrazione orale provocherebbe liberazione di istamina"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo descrive il fentanyl come sostanza molto lipofila, assorbita soprattutto per via cutanea e priva di un assorbimento orale utile per la terapia; il cerotto permette un effetto prolungato perché il farmaco viene liberato lentamente e assorbito per un lungo periodo, e va sostituito periodicamente.",
+      "distrattori": {
+        "B": "Il testo non descrive degradazione gastrica né un metabolita tossico del fentanyl.",
+        "C": "Il fentanyl è comunque metabolizzato a livello epatico ed eliminato per via renale (85% metaboliti, 8% immodificato) e fecale/biliare.",
+        "D": "Il fentanyl è lipofilo, ed è proprio la lipofilia a consentirne l'assorbimento cutaneo.",
+        "E": "È la morfina, non il fentanyl, a determinare liberazione di istamina."
+      },
+      "riferimento": "p. 247 – Fentanyl: farmacocinetica, somministrazione transdermica"
+    },
+    {
+      "id": "14-015",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Metadone",
+      "domanda": "Quale caratteristica farmacocinetica del metadone spiega i vantaggi descritti dal testo nel trattamento di mantenimento rispetto a un oppioide a breve emivita?",
+      "opzioni": {
+        "A": "L'emivita plasmatica di circa 23 ore, che consente una sola somministrazione al giorno con effetto per l'intera giornata",
+        "B": "L'emivita plasmatica di 2-3 ore, che consente un rapido adattamento della dose",
+        "C": "L'assorbimento esclusivamente transdermico, che evita i picchi plasmatici",
+        "D": "La biodisponibilità orale del 25%, che attenua l'intensità degli effetti centrali",
+        "E": "L'eliminazione completamente immodificata per via renale, che rende prevedibile la durata d'azione"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo riporta per il metadone un'emivita plasmatica di 23 ore: viene somministrato una volta al giorno con effetto per tutta la giornata, evitando l'oscillazione continua tra euforia e astinenza tipica degli oppioidi a breve emivita, e alla sospensione dà una sindrome d'astinenza molto più blanda e graduale.",
+      "distrattori": {
+        "B": "2-3 ore è l'emivita della morfina; il metadone è definito long acting.",
+        "C": "Il metadone si somministra per via orale, generalmente come sciroppo.",
+        "D": "Il 25% è la biodisponibilità orale della morfina; per il metadone il testo indica un assorbimento rapido.",
+        "E": "Il metadone è metabolizzato nel fegato per demetilazione e coniugazione ed è eliminato immodificato solo per il 21%."
+      },
+      "riferimento": "p. 248 – Metadone: farmacocinetica e indicazioni"
+    },
+    {
+      "id": "14-016",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Metadone",
+      "domanda": "Perché, secondo il testo, il passaggio al metadone è particolarmente importante in una donna in gravidanza con dipendenza da eroina?",
+      "opzioni": {
+        "A": "Perché il metadone non è teratogeno e non dà una sindrome d'astinenza neonatale particolarmente violenta, mentre l'astinenza nel neonato può essere mortale e richiedere la terapia intensiva",
+        "B": "Perché il metadone non attraversa la placenta e il neonato nasce senza alcuna esposizione agli oppioidi",
+        "C": "Perché il metadone si comporta da antagonista puro sui recettori μ del feto",
+        "D": "Perché il metadone ha emivita brevissima e viene eliminato prima del parto",
+        "E": "Perché il metadone è l'unico oppioide privo di effetti sulla respirazione"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo spiega che l'astinenza nel neonato può essere mortale (convulsioni, squilibri elettrolitici, vomito, difficoltà di alimentazione) e richiedere il ricovero in terapia intensiva neonatale; il metadone non dà un'astinenza particolarmente violenta, non è teratogeno e sostituisce la somministrazione endovenosa in strada con una somministrazione orale controllata.",
+      "distrattori": {
+        "B": "Il testo afferma il contrario: il bambino è esposto e può nascere in astinenza, ma più blanda, e va comunque monitorato.",
+        "C": "Il metadone è un agonista completo, non un antagonista.",
+        "D": "Il metadone è long acting, con emivita di 23 ore.",
+        "E": "La depressione respiratoria è elencata tra gli effetti indesiderati del metadone."
+      },
+      "riferimento": "p. 248 – Metadone: indicazioni, gravidanza"
+    },
+    {
+      "id": "14-017",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Ossicodone",
+      "domanda": "Nell'associazione in una stessa compressa di ossicodone e naloxone, quale meccanismo consente di ridurre la stipsi senza annullare l'analgesia?",
+      "opzioni": {
+        "A": "Il naloxone ha uno scarso assorbimento per via orale e agisce quindi solo localmente a livello intestinale, senza bloccare gli effetti sistemici e centrali",
+        "B": "Il naloxone viene inattivato dai succhi gastrici prima di raggiungere l'intestino",
+        "C": "Il naloxone è un agonista parziale che stimola la peristalsi senza interferire con l'analgesia",
+        "D": "Il naloxone si lega selettivamente ai recettori κ intestinali, mentre l'ossicodone agisce sui μ centrali",
+        "E": "Il naloxone riduce l'assorbimento intestinale dell'ossicodone, abbassandone la dose efficace"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo spiega che il naloxone, antagonista con scarso assorbimento per via orale, agisce solo localmente: l'associazione riduce la stipsi provocata dall'oppioide senza bloccarne gli effetti sistemici e centrali. Un secondo motivo dell'associazione è impedire l'uso improprio per via iniettiva, perché per via endovenosa il naloxone blocca gli effetti dell'ossicodone.",
+      "distrattori": {
+        "B": "Il testo parla di scarso assorbimento orale, non di inattivazione gastrica.",
+        "C": "Il naloxone è definito antagonista puro competitivo, non agonista parziale.",
+        "D": "Il testo non descrive una selettività del naloxone per i recettori κ intestinali.",
+        "E": "Il naloxone non è descritto come inibitore dell'assorbimento dell'ossicodone."
+      },
+      "riferimento": "p. 249 – Ossicodone: associazione con naloxone"
+    },
+    {
+      "id": "14-018",
+      "difficolta": "base",
+      "tipo": "confronto",
+      "argomento": "Idromorfone",
+      "domanda": "Quale affermazione sull'idromorfone corrisponde a quanto riportato nel testo?",
+      "opzioni": {
+        "A": "È considerato il più forte degli oppioidi semisintetici e risulta 5-7 volte più potente della morfina",
+        "B": "È un oppioide debole, impiegato solo nel dolore lieve-moderato",
+        "C": "È un agonista parziale usato nella terapia di mantenimento",
+        "D": "Ha una potenza analgesica pari a circa un quinto di quella della morfina",
+        "E": "È un oppioide naturale estratto direttamente dall'oppio"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo definisce l'idromorfone il più forte dei farmaci oppioidi semisintetici e indica che risulta 5-7 volte più potente della morfina; essendo più solubile, per via parenterale è disponibile in concentrazioni più elevate (fino a 100 mg/ml).",
+      "distrattori": {
+        "B": "Gli oppioidi deboli citati dal testo sono il tramadolo e la codeina.",
+        "C": "L'agonista parziale indicato per il mantenimento è la buprenorfina.",
+        "D": "Il rapporto 1:5 citato dal testo riguarda il confronto tra via parenterale e via orale dell'idromorfone, non la potenza rispetto alla morfina.",
+        "E": "Il testo lo classifica tra gli oppioidi semisintetici."
+      },
+      "riferimento": "p. 250 – Idromorfone (Jurnista)"
+    },
+    {
+      "id": "14-019",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Tramadolo",
+      "domanda": "Quale caratteristica rende il tramadolo un oppioide \"particolare\" secondo il testo?",
+      "opzioni": {
+        "A": "Oltre a legarsi ai recettori per gli oppioidi blocca la ricaptazione di serotonina e noradrenalina, con un meccanismo simile a quello degli antidepressivi triciclici",
+        "B": "Agisce esclusivamente sui recettori κ comportandosi da antagonista sui μ",
+        "C": "Non attraversa la barriera ematoencefalica e agisce solo a livello intestinale",
+        "D": "È un antagonista competitivo puro privo di attività analgesica intrinseca",
+        "E": "Agisce bloccando i canali del sodio voltaggio-dipendenti delle fibre nocicettive"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo descrive il tramadolo come oppioide sintetico debole che, oltre a legarsi ai recettori oppioidi, blocca la ricaptazione di serotonina e noradrenalina, con meccanismo simile agli antidepressivi triciclici; ciò contribuisce all'azione analgesica potenziando le vie discendenti noradrenergiche e serotoninergiche.",
+      "distrattori": {
+        "B": "Il profilo agonista κ/antagonista μ è quello della pentazocina.",
+        "C": "L'oppioide periferico che non attraversa la barriera ematoencefalica è la loperamide.",
+        "D": "Gli antagonisti puri competitivi sono naloxone e naltrexone.",
+        "E": "Il blocco dei canali del sodio non è il meccanismo attribuito dal testo al tramadolo."
+      },
+      "riferimento": "p. 250 – Tramadolo (Contramal)"
+    },
+    {
+      "id": "14-020",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Tramadolo",
+      "domanda": "Un paziente in terapia con un antidepressivo triciclico deve ricevere un analgesico per una lombalgia. Quale rischio specifico segnala il testo per l'associazione con il tramadolo?",
+      "opzioni": {
+        "A": "Un aumento del rischio di convulsioni",
+        "B": "Un aumento del rischio di ipertono dello sfintere di Oddi",
+        "C": "Una riduzione dell'effetto analgesico per induzione del CYP2D6",
+        "D": "Un aumento del rischio di rilascio di istamina con broncospasmo",
+        "E": "Una crisi di astinenza da oppioidi per spiazzamento dai recettori μ"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo indica come interazione del tramadolo quella con antidepressivi triciclici e antipsicotici (SSRI, risperidone, clozapina, aloperidolo, clorpromazina): per il suo meccanismo simile agli antidepressivi triciclici può aumentare il rischio di convulsioni. Con la ketamina aumenta invece il rischio di depressione respiratoria.",
+      "distrattori": {
+        "B": "L'ipertono dello sfintere di Oddi è un effetto gastroenterico degli oppioidi, non l'interazione segnalata.",
+        "C": "Il testo non descrive un'induzione del CYP2D6 da parte degli antidepressivi triciclici.",
+        "D": "Il rilascio di istamina è caratteristico della morfina.",
+        "E": "L'astinenza da spiazzamento recettoriale è descritta per il naloxone, un antagonista."
+      },
+      "riferimento": "p. 251 – Tramadolo: interazioni con altri farmaci"
+    },
+    {
+      "id": "14-021",
+      "difficolta": "base",
+      "tipo": "confronto",
+      "argomento": "Potenza analgesica degli oppioidi",
+      "domanda": "Assumendo come riferimento la morfina con potenza relativa pari a 1, quale confronto corrisponde ai dati riportati nel testo?",
+      "opzioni": {
+        "A": "Il fentanyl è circa 25 volte più potente della morfina e il sufentanil circa 400 volte",
+        "B": "Il fentanyl è circa 25 volte meno potente della morfina e il tramadolo 10 volte più potente",
+        "C": "Il tramadolo ha potenza circa doppia rispetto alla morfina e il fentanyl potenza uguale",
+        "D": "Tutti gli oppioidi hanno potenza equivalente a parità di dose somministrata",
+        "E": "Il sufentanil è circa 25 volte più potente della morfina e il fentanyl 400 volte"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo indica che, dando alla morfina valore 1, il fentanyl è 25 volte più potente e il sufentanil, derivato del fentanyl, addirittura 400 volte, mentre il tramadolo ha solo lo 0,05% della potenza della morfina.",
+      "distrattori": {
+        "B": "Il fentanyl è più potente, non meno; il tramadolo è il più debole della tabella.",
+        "C": "Il tramadolo è il più debole, con MEAC di 289 mg/l contro 16 mg/l della morfina.",
+        "D": "La tabella riportata mostra differenze di potenza di diversi ordini di grandezza.",
+        "E": "I valori sono invertiti: 25 è il rapporto del fentanyl, 400 quello del sufentanil."
+      },
+      "riferimento": "p. 251 – Potenza analgesica degli oppioidi, tabella MEAC"
+    },
+    {
+      "id": "14-022",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Codeina",
+      "domanda": "Qual è l'impiego principale della codeina fosfato secondo il testo?",
+      "opzioni": {
+        "A": "La soppressione della tosse secca o dolorosa, pur potendo essere usata anche come analgesico debole",
+        "B": "Il trattamento dell'overdose da oppioidi",
+        "C": "Il mantenimento dei soggetti con dipendenza da eroina",
+        "D": "Il trattamento sintomatico della diarrea acuta del viaggiatore",
+        "E": "La neuroleptoanalgesia e la premedicazione chirurgica"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo presenta la codeina come oppioide naturale utilizzato per la soppressione della tosse secca o dolorosa; essendo un oppioide debole ha azione analgesica modesta, ma può comunque essere impiegata anche come analgesico. È preferita nella tosse per il minor rischio di depressione respiratoria.",
+      "distrattori": {
+        "B": "Il farmaco dell'overdose è il naloxone.",
+        "C": "Il mantenimento nella dipendenza da eroina è affidato a metadone e buprenorfina.",
+        "D": "L'indicazione antidiarroica è della loperamide.",
+        "E": "Neuroleptoanalgesia e medicazione preoperatoria sono indicazioni del fentanyl."
+      },
+      "riferimento": "p. 260 – Codeina fosfato"
+    },
+    {
+      "id": "14-023",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Codeina",
+      "domanda": "Da cosa dipende, secondo il testo, l'effetto analgesico della codeina?",
+      "opzioni": {
+        "A": "Dalla quota di codeina (circa il 5-10%) che viene convertita in morfina",
+        "B": "Dall'elevata affinità intrinseca della codeina stessa per i recettori μ",
+        "C": "Dal blocco della ricaptazione di serotonina e noradrenalina",
+        "D": "Dalla conversione in O-desmetil-tramadolo",
+        "E": "Dall'inibizione della sintesi di prostaglandine a livello periferico"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo spiega che la codeina viene metabolizzata dal fegato e che il 5-10% viene convertito in morfina: l'effetto analgesico è collegato proprio a quella percentuale di morfina che si forma, la quale può poi dare morfina-6-glucuronide, anch'essa attiva.",
+      "distrattori": {
+        "B": "L'analgesia è attribuita dal testo al metabolita morfina, non all'attività intrinseca della codeina.",
+        "C": "Il blocco della ricaptazione di 5-HT e NA è il meccanismo aggiuntivo del tramadolo.",
+        "D": "L'O-desmetil-tramadolo è il metabolita attivo del tramadolo, non della codeina.",
+        "E": "L'inibizione della sintesi di prostaglandine è il meccanismo dei FANS."
+      },
+      "riferimento": "p. 260 – Perché la codeina funziona come analgesico"
+    },
+    {
+      "id": "14-024",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Polimorfismi CYP2D6",
+      "domanda": "Un paziente che assume codeina a dose terapeutica sviluppa sedazione marcata, miosi importante e depressione respiratoria, come in un quadro di quasi-overdose. Quale spiegazione farmacogenetica fornisce il testo?",
+      "opzioni": {
+        "A": "È un metabolizzatore ultrarapido per un polimorfismo del CYP2D6, che converte in morfina una quantità di codeina molto maggiore del normale",
+        "B": "È un metabolizzatore lento del CYP2D6, con accumulo di codeina immodificata nel sangue",
+        "C": "Ha un deficit della glicuronazione epatica, che impedisce l'inattivazione della codeina",
+        "D": "Ha una mutazione dei recettori μ che ne aumenta l'affinità per la codeina",
+        "E": "Ha un polimorfismo del CYP3A4 che blocca l'eliminazione renale della morfina"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo descrive i \"metabolizzatori ultrarapidi\", portatori di polimorfismi del CYP2D6 che aumentano l'attività metabolizzante: dalla codeina si forma una quantità maggiore di morfina, con livelli elevati che possono causare intossicazione, quasi un'overdose, con depressione respiratoria ed effetti psichici intensi.",
+      "distrattori": {
+        "B": "Nei metabolizzatori lenti si forma pochissima morfina, quindi mancano gli effetti analgesici e non si ha intossicazione.",
+        "C": "Il testo attribuisce il fenomeno alla fase 1 mediata dal CYP2D6, non a un deficit di glicuronazione.",
+        "D": "Il testo non descrive polimorfismi dei recettori μ.",
+        "E": "Il polimorfismo rilevante per codeina e tramadolo è quello del CYP2D6."
+      },
+      "riferimento": "p. 260-261 – Metabolizzatori ultrarapidi; p. 262 – Polimorfismi CYP2D6"
+    },
+    {
+      "id": "14-025",
+      "difficolta": "base",
+      "tipo": "meccanismo",
+      "argomento": "Loperamide",
+      "domanda": "Perché la loperamide, pur essendo un derivato oppioide, è disponibile come farmaco da banco per la diarrea acuta senza dare i tipici effetti centrali degli oppioidi?",
+      "opzioni": {
+        "A": "Perché è un oppioide periferico che non attraversa la barriera ematoencefalica",
+        "B": "Perché è un antagonista dei recettori μ a livello centrale",
+        "C": "Perché viene completamente inattivata dal metabolismo di primo passaggio epatico",
+        "D": "Perché agisce solo sui recettori δ, privi di effetti centrali",
+        "E": "Perché viene somministrata unicamente per via rettale"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo descrive la loperamide come oppioide periferico che non attraversa la barriera ematoencefalica, presentando molte molecole idrofile; agisce quindi solo a livello intestinale riducendo secrezioni, peristalsi e motilità, senza i classici effetti centrali degli oppioidi.",
+      "distrattori": {
+        "B": "La loperamide agisce come oppioide a livello intestinale, non come antagonista centrale.",
+        "C": "Il testo motiva l'assenza di effetti centrali con la mancata penetrazione della barriera, non con il primo passaggio.",
+        "D": "Il testo non attribuisce alla loperamide una selettività per i recettori δ, che peraltro hanno sede spinale e sopraspinale.",
+        "E": "La loperamide (Imodium) è un farmaco da banco a somministrazione orale."
+      },
+      "riferimento": "p. 259 – Altri impieghi di derivati oppioidi: loperamide (Imodium)"
+    },
+    {
+      "id": "14-026",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Crisi degli oppioidi",
+      "domanda": "Quale fattore è indicato dal testo tra le cause della \"opioid epidemic\" negli Stati Uniti?",
+      "opzioni": {
+        "A": "L'eccessiva liberalizzazione nella prescrizione di oppioidi estesa anche al dolore cronico benigno, unita alla pressione delle aziende produttrici sui medici",
+        "B": "La scarsa disponibilità di oppioidi da prescrizione, che ha spinto all'uso esclusivo dell'eroina fin dagli anni Novanta",
+        "C": "L'introduzione del naloxone come spray nasale, che ha ridotto la percezione del rischio",
+        "D": "La sostituzione generalizzata degli oppioidi con i FANS nel dolore oncologico",
+        "E": "Il divieto di prescrizione degli oppioidi nel dolore acuto post-operatorio"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo elenca tra le cause l'eccessiva liberalizzazione nell'uso degli oppioidi (estesa dal dolore acuto al dolore cronico anche benigno), la forte pressione delle aziende produttrici sui medici e un sistema assicurativo che valutava gli ospedali sul controllo del dolore, spingendo a prescrivere il più possibile.",
+      "distrattori": {
+        "B": "Il testo indica che l'overdose è dovuta prevalentemente a oppioidi da prescrizione e sintetici, con l'eroina usata quando questi non si trovano.",
+        "C": "Lo spray nasale di naloxone è presentato come strumento che facilita il trattamento dell'overdose.",
+        "D": "Il testo afferma il contrario: gli oppioidi sono stati prescritti anche per dolori che avrebbero tratto beneficio dai FANS.",
+        "E": "Il testo non riporta alcun divieto di questo tipo."
+      },
+      "riferimento": "p. 252 – Perché si è arrivati a questo punto negli USA"
+    },
+    {
+      "id": "14-027",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Tolleranza",
+      "domanda": "Quale meccanismo è indicato dal testo come responsabile della tolleranza acuta (a breve termine) agli oppioidi?",
+      "opzioni": {
+        "A": "La riduzione dell'accoppiamento tra recettore oppioide e proteina G, con perdita della capacità di scambiare GDP con GTP",
+        "B": "La down-regolazione con internalizzazione del recettore e riduzione del numero di recettori di membrana",
+        "C": "L'induzione del CYP2D6 con accelerazione del metabolismo dell'oppioide",
+        "D": "La comparsa di anticorpi neutralizzanti diretti contro l'oppioide",
+        "E": "La deplezione irreversibile degli oppioidi endogeni a livello della sostanza grigia periacqueduttale"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo distingue la tolleranza acuta, dovuta alla riduzione dell'accoppiamento tra recettore oppioide e proteina G con perdita della capacità di scambiare GDP con GTP, dalla tolleranza cronica, caratterizzata da desensibilizzazione e down-regolazione recettoriale con internalizzazione.",
+      "distrattori": {
+        "B": "Desensibilizzazione, internalizzazione e down-regolazione sono attribuite dal testo alla tolleranza cronica, a lungo termine.",
+        "C": "Il testo non descrive la tolleranza agli oppioidi come fenomeno farmacocinetico da induzione enzimatica.",
+        "D": "Non viene descritto alcun meccanismo immunologico.",
+        "E": "Il deficit di secrezione degli oppioidi endogeni è citato a proposito della dipendenza, non come meccanismo della tolleranza acuta."
+      },
+      "riferimento": "p. 253 – Tolleranza: acuta e cronica"
+    },
+    {
+      "id": "14-028",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Iperalgesia da oppioidi",
+      "domanda": "Quali cellule sono chiamate in causa dal testo nel meccanismo dell'iperalgesia indotta da oppioidi?",
+      "opzioni": {
+        "A": "Microglia e astrociti, che virano verso un fenotipo reattivo producendo citochine proinfiammatorie che sensibilizzano i neuroni nocicettivi",
+        "B": "I mastociti perivasali, attraverso la liberazione di istamina",
+        "C": "Le cellule enterocromaffini intestinali, tramite la serotonina",
+        "D": "I linfociti T circolanti, attraverso la produzione di anticorpi anti-recettore",
+        "E": "Le cellule del centro bulbare del respiro sensibili alla pCO2"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo riporta che nell'iperalgesia da oppioidi sono coinvolti i recettori oppioidi presenti su microglia e astrociti: gli oppioidi fanno virare gli astrociti a riposo in astrociti reattivi, tipici dell'infiammazione, che producono citochine proinfiammatorie (ad esempio IL-6 e IL-12) capaci di sensibilizzare i neuroni nocicettivi.",
+      "distrattori": {
+        "B": "La liberazione di istamina riguarda gli effetti indesiderati della morfina, non l'iperalgesia.",
+        "C": "Le cellule enterocromaffini non sono citate nel testo.",
+        "D": "Il testo non descrive meccanismi anticorpali.",
+        "E": "Le cellule sensibili alla pCO2 spiegano la depressione respiratoria, non l'iperalgesia."
+      },
+      "riferimento": "p. 254 – Iperalgesia da oppioidi: microglia e astrociti"
+    },
+    {
+      "id": "14-029",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Tolleranza",
+      "domanda": "Un paziente oncologico con malattia stabile necessita di dosi crescenti di oppioide e il medico teme di provocare depressione respiratoria. Quale considerazione del testo è pertinente?",
+      "opzioni": {
+        "A": "La tolleranza si sviluppa per tutti gli effetti, anche se non contemporaneamente: un paziente divenuto tollerante all'analgesia lo è anche per la depressione respiratoria",
+        "B": "La tolleranza riguarda solo l'analgesia, mentre la depressione respiratoria aumenta progressivamente a ogni incremento di dose",
+        "C": "L'aumento del fabbisogno indica sempre una progressione della malattia e non un fenomeno di tolleranza",
+        "D": "La tolleranza alla depressione respiratoria si instaura più rapidamente di quella all'analgesia e all'euforia",
+        "E": "La tolleranza è un fenomeno irreversibile che impedisce qualsiasi riduzione successiva della dose"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo afferma che fortunatamente la tolleranza si verifica per tutti gli effetti, anche se non contemporaneamente: il paziente divenuto tollerante all'analgesia lo è anche per la depressione respiratoria, per cui aumentando la dose non bisogna temerla.",
+      "distrattori": {
+        "B": "È l'opposto di quanto riportato: anche la depressione respiratoria va incontro a tolleranza.",
+        "C": "Il testo precisa che l'aumento della dose è necessario anche in presenza di malattia stabile, per tolleranza.",
+        "D": "Il testo indica che analgesia ed euforia vanno in tolleranza abbastanza rapidamente, mentre miosi, stipsi e depressione respiratoria in tempi più prolungati.",
+        "E": "L'internalizzazione recettoriale è descritta come fenomeno reversibile, con possibile riciclo del recettore riducendo la dose."
+      },
+      "riferimento": "p. 254 – Tolleranza per i diversi effetti degli oppioidi"
+    },
+    {
+      "id": "14-030",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Overdose da oppioidi",
+      "domanda": "Un paziente viene trovato soporoso, con pupille puntiformi e 3 atti respiratori al minuto. Quale coppia di segni è descritta dal testo come inequivocabile per l'overdose da oppioidi?",
+      "opzioni": {
+        "A": "Miosi estrema poco reattiva alla luce e respirazione superficiale molto rallentata",
+        "B": "Midriasi fissa e tachipnea",
+        "C": "Ipertermia e ipertensione arteriosa",
+        "D": "Orripilazione e lacrimazione profusa",
+        "E": "Diarrea profusa e crampi addominali"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo definisce inequivocabili due segni dell'overdose: la miosi, con restringimento pupillare estremo e pupilla poco reattiva alla luce (segno patognomonico), e la respirazione superficiale e molto rallentata, con 2-3 atti al minuto per perdita della sensibilità alla pCO2.",
+      "distrattori": {
+        "B": "La midriasi nell'overdose indica già un danno cerebrale ipossico-ischemico, segno prognostico gravissimo e tardivo; la respirazione è rallentata, non accelerata.",
+        "C": "Il testo riporta semmai ipotermia, bradicardia e ipotensione grave.",
+        "D": "Orripilazione e lacrimazione sono sintomi della sindrome d'astinenza.",
+        "E": "Diarrea e crampi sono sintomi gravi dell'astinenza, opposti agli effetti dell'oppioide."
+      },
+      "riferimento": "p. 255 – Overdose: sintomatologia ed evoluzione"
+    },
+    {
+      "id": "14-031",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Naloxone",
+      "domanda": "Un paziente in overdose da un oppioide a lunga emivita si risveglia prontamente dopo naloxone endovena. Quale precauzione indica il testo?",
+      "opzioni": {
+        "A": "Ripetere le somministrazioni e monitorare il paziente, perché l'emivita del naloxone è di circa 1 ora e, esaurito il suo effetto, ricompare quello dell'oppioide",
+        "B": "Sospendere ogni ulteriore trattamento, perché l'effetto del naloxone è definitivo",
+        "C": "Sostituire il naloxone con naltrexone orale, perché agisce più rapidamente in emergenza",
+        "D": "Evitare la ventilazione assistita, che antagonizza l'effetto del naloxone",
+        "E": "Somministrare metadone per prevenire il riaffiorare della depressione respiratoria"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo indica come limite del naloxone la breve emivita (circa 1 ora): se il paziente ha assunto una dose elevata o un oppioide a elevata emivita bisogna ripetere le somministrazioni, perché l'effetto del naloxone svanisce e quello dell'oppioide ricompare, con nuova overdose; le condizioni vanno monitorate insieme a ventilazione assistita o ossigeno.",
+      "distrattori": {
+        "B": "Il naloxone è un antagonista competitivo a breve durata d'azione, non un trattamento definitivo.",
+        "C": "Il naltrexone non può essere usato in emergenza perché non è assorbito dal tratto gastrointestinale abbastanza rapidamente.",
+        "D": "La terapia dell'overdose comprende proprio il mantenimento della pervietà delle vie aeree con ventilazione assistita e ossigeno.",
+        "E": "Il metadone è un agonista: aggraverebbe la depressione respiratoria."
+      },
+      "riferimento": "p. 255-256 – Overdose: terapia e naloxone"
+    },
+    {
+      "id": "14-032",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Naltrexone",
+      "domanda": "Quale differenza tra naltrexone e naloxone è riportata dal testo?",
+      "opzioni": {
+        "A": "Il naltrexone si somministra per via orale e ha durata d'azione più lunga, ma non è utilizzabile in emergenza perché non viene assorbito abbastanza rapidamente",
+        "B": "Il naltrexone è un agonista parziale, mentre il naloxone è un antagonista puro",
+        "C": "Il naltrexone ha emivita più breve del naloxone ed è quindi riservato all'overdose",
+        "D": "Il naltrexone agisce solo a livello intestinale, come il naloxone somministrato per bocca",
+        "E": "Il naltrexone si somministra esclusivamente per via endovenosa, il naloxone per via orale"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo descrive il naltrexone come antagonista puro competitivo, come il naloxone, ma con farmacocinetica diversa: somministrazione orale e durata d'azione molto più lunga (4 ore contro circa 1 ora); non può essere usato in emergenza perché non è assorbito abbastanza rapidamente dal tratto gastrointestinale da contrastare un'overdose. È indicato nella dipendenza da oppioidi e, con maggiore efficacia, nella dipendenza da alcol e nicotina.",
+      "distrattori": {
+        "B": "Entrambi sono antagonisti puri competitivi; l'agonista parziale è la buprenorfina.",
+        "C": "Il naltrexone ha durata d'azione più lunga, e proprio per questo non è il farmaco dell'emergenza.",
+        "D": "L'azione locale intestinale è quella del naloxone orale associato all'ossicodone, non del naltrexone.",
+        "E": "È l'inverso: il naloxone è indicato per via endovenosa (o intranasale), il naltrexone per via orale."
+      },
+      "riferimento": "p. 257 – Naltrexone: farmacocinetica e indicazioni"
+    },
+    {
+      "id": "14-033",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Sindrome d'astinenza",
+      "domanda": "Secondo la descrizione del testo, quali sono i sintomi modesti della sindrome d'astinenza da oppioidi e dopo quanto tempo compaiono?",
+      "opzioni": {
+        "A": "Lacrimazione, rinorrea, sbadigli ripetuti, sudorazione e irritabilità, dopo 8-16 ore",
+        "B": "Vomito, diarrea profusa e crampi addominali, dopo 8-16 ore",
+        "C": "Dilatazione pupillare, orripilazione e tremore, entro la prima ora",
+        "D": "Insonnia, depressione e aumento della pressione arteriosa, dopo 2-3 ore",
+        "E": "Miosi marcata, bradipnea e sedazione profonda, dopo 24-36 ore"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo classifica i sintomi dell'astinenza in modesti (lacrimazione, rinorrea, sbadigli ripetuti quasi patognomonici, sudorazione, irritabilità) dopo 8-16 ore; moderati (midriasi, orripilazione, tremore, anoressia) dopo 24-36 ore; gravi (vomito, diarrea, crampi, perdita di peso) con durata massima di 2-3 giorni; prolungati (insonnia, irrequietezza, depressione, aumento di pressione e temperatura) fino a 2 settimane.",
+      "distrattori": {
+        "B": "Questi sono i sintomi gravi, che durano al massimo 2-3 giorni.",
+        "C": "Midriasi, orripilazione e tremore sono sintomi moderati e compaiono dopo 24-36 ore.",
+        "D": "Insonnia, depressione e aumento pressorio sono i sintomi prolungati, che durano fino a 2 settimane.",
+        "E": "Miosi, bradipnea e sedazione sono segni di intossicazione da oppioidi, non di astinenza: i sintomi dell'astinenza sono opposti agli effetti del farmaco."
+      },
+      "riferimento": "p. 258 – Sindrome d'astinenza: sintomi e tempistica"
+    },
+    {
+      "id": "14-034",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Sindrome d'astinenza",
+      "domanda": "Un paziente con dipendenza da eroina presenta una sindrome d'astinenza molto intensa. Quale coppia di affermazioni corrisponde a quanto riportato nel testo su intensità e terapia?",
+      "opzioni": {
+        "A": "L'intensità è maggiore quanto più breve è l'emivita dell'oppioide, e la sintomatologia si può evitare o attenuare con metadone oppure con clonidina, agonista alfa-2-adrenergico",
+        "B": "L'intensità è maggiore quanto più lunga è l'emivita dell'oppioide, e il trattamento di scelta è il naloxone endovena",
+        "C": "L'intensità non dipende dall'oppioide impiegato, e la terapia si basa sull'ossicodone a lento rilascio",
+        "D": "L'intensità è maggiore con gli oppioidi a lunga emivita, e si tratta con antagonisti dei recettori NMDA per via orale",
+        "E": "L'intensità dipende solo dalla via di somministrazione, e la terapia di elezione è la loperamide"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo afferma che l'intensità dei sintomi dipende dal tipo di oppioide: più breve è l'emivita più intensa è l'astinenza (es. eroina), mentre con emivita lunga è più blanda (es. metadone). La sindrome si può evitare con il metadone oppure trattare con la clonidina, agonista alfa-2-adrenergico, somministrabile EV, orale o transdermica.",
+      "distrattori": {
+        "B": "La relazione con l'emivita è invertita e il naloxone, essendo un antagonista, precipita l'astinenza anziché trattarla.",
+        "C": "Il testo lega esplicitamente l'intensità dell'astinenza all'emivita dell'oppioide.",
+        "D": "Il testo cita gli antagonisti NMDA solo come dato sperimentale sull'astinenza precipitata dal naloxone, non come terapia; inoltre la relazione con l'emivita è invertita.",
+        "E": "La loperamide è indicata per la diarrea acuta, non per la sindrome d'astinenza."
+      },
+      "riferimento": "p. 258-259 – Sindrome d'astinenza: intensità e terapia (clonidina)"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Miosi e midriasi nell'overdose: la miosi estrema e poco reattiva e' il segno patognomonico, mentre la comparsa di midriasi non significa miglioramento ma danno ipossico-ischemico dei centri oculomotori bulbari, con prognosi gravissima.",
+    "Naloxone e naltrexone: entrambi antagonisti puri competitivi, ma solo il naloxone (EV o intranasale, emivita circa 1 ora, da ripetere) e' il salvavita nell'overdose; il naltrexone e' orale, a durata piu' lunga, e NON e' utilizzabile in emergenza perche' l'assorbimento gastrointestinale e' troppo lento.",
+    "Codeina e CYP2D6: nei metabolizzatori ultrarapidi va evitata per intossicazione da eccesso di morfina formata, nei metabolizzatori lenti va evitata perche' inefficace; sono due motivi opposti che portano alla stessa conclusione.",
+    "Emivita e astinenza: piu' breve e' l'emivita dell'oppioide, piu' intensa e' la sindrome d'astinenza (eroina); con emivita lunga l'astinenza e' piu' blanda e graduale (metadone, emivita 23 ore), ed e' questo il razionale del trattamento di mantenimento.",
+    "Morfina e fentanyl non sono intercambiabili: la morfina libera istamina (prurito, ipotensione, broncocostrizione pericolosa nell'asmatico) e ha biodisponibilita' orale del 25% (ridurre la dose passando a EV); il fentanyl non libera istamina, e' circa 25 volte piu' potente e si usa per via transdermica perche' privo di assorbimento orale utile."
+  ]
+}

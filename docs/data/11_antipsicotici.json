@@ -1,0 +1,451 @@
+{
+  "capitolo": 11,
+  "titolo": "Antipsicotici",
+  "pagine": "192-206",
+  "domande": [
+    {
+      "id": "11-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Schizofrenia",
+      "domanda": "Quale caratteristica clinica della schizofrenia, presente in circa il 97% dei pazienti, spiega perché il paziente può arrivare a rifiutare la terapia?",
+      "opzioni": {
+        "A": "L'assenza di insight, cioè la mancata consapevolezza di essere malato",
+        "B": "Le allucinazioni uditive che impongono al paziente di non assumere i farmaci",
+        "C": "Il delirio paranoideo con la convinzione di essere avvelenato",
+        "D": "L'appiattimento affettivo con perdita di interesse per ogni attività",
+        "E": "Le idee di riferimento verso eventi casuali estranei al paziente"
+      },
+      "corretta": "A",
+      "spiegazione": "L'assenza di insight (mancata consapevolezza di malattia) riguarda il 97% dei pazienti: il paziente schizofrenico può rifiutare la terapia perché non si ritiene malato.",
+      "distrattori": {
+        "B": "Le allucinazioni (soprattutto uditive) sono un sintomo cardine, ma il testo non le indica come causa del rifiuto della terapia né le associa al 97%.",
+        "C": "Il delirio paranoideo è descritto come sintomo, non come la caratteristica presente nel 97% dei pazienti legata al rifiuto della terapia.",
+        "D": "L'appiattimento affettivo è molto frequente ma non è il motivo indicato per il rifiuto della terapia.",
+        "E": "Le idee di riferimento (es. il telegiornale che manda messaggi in codice) sono un altro sintomo cardine, non la mancata consapevolezza di malattia."
+      },
+      "riferimento": "p. 193 – Schizofrenia, sintomi cardine"
+    },
+    {
+      "id": "11-002",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Schizofrenia",
+      "domanda": "Quale tra i seguenti è un sintomo NEGATIVO della schizofrenia?",
+      "opzioni": {
+        "A": "Il ritiro sociale con chiusura in sé stessi",
+        "B": "Le allucinazioni uditive",
+        "C": "Il delirio di persecuzione",
+        "D": "Le idee di riferimento",
+        "E": "Le visioni mistiche di contatto con le divinità"
+      },
+      "corretta": "A",
+      "spiegazione": "I sintomi negativi rappresentano una 'perdita' rispetto al comportamento normale: difficoltà di esprimersi, ritiro sociale, chiusura in sé stessi. I sintomi positivi sono invece un'aggiunta, come allucinazioni e deliri.",
+      "distrattori": {
+        "B": "Le allucinazioni sono l'esempio tipico di sintomo positivo (aggiunta al comportamento normale).",
+        "C": "I deliri, compreso quello di persecuzione, sono sintomi positivi.",
+        "D": "Le idee di riferimento sono convinzioni deliranti su eventi casuali: rientrano nella sfera dei sintomi positivi, non in quella della perdita.",
+        "E": "Le visioni mistiche sono descritte nel testo come veri e propri deliri, quindi sintomi positivi."
+      },
+      "riferimento": "pp. 193, 195 – Sintomi positivi e negativi"
+    },
+    {
+      "id": "11-003",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Eziologia della schizofrenia",
+      "domanda": "Secondo il testo, perché un'infezione virale materna in gravidanza può aumentare il rischio di schizofrenia nel figlio anche quando il virus non attraversa la placenta?",
+      "opzioni": {
+        "A": "Perché le citochine proinfiammatorie materne passano la placenta e alterano in modo sottile il neurosviluppo fetale",
+        "B": "Perché gli anticorpi materni contro il virus attraversano la BEE fetale e danneggiano i neuroni dopaminergici",
+        "C": "Perché la febbre materna induce una deplezione delle vescicole di dopamina nel feto",
+        "D": "Perché il virus resta latente nella placenta e infetta il neonato al momento del parto",
+        "E": "Perché il vaccino eseguito in gravidanza scatena una risposta immunitaria analoga a quella dell'infezione"
+      },
+      "corretta": "A",
+      "spiegazione": "Non è il virus in sé a causare il danno: le citochine proinfiammatorie prodotte dalla madre passano la placenta, entrano nella circolazione fetale e compromettono il neurosviluppo in modo sottile.",
+      "distrattori": {
+        "B": "Il testo attribuisce il danno alle citochine materne, non agli anticorpi né a un danno selettivo dei neuroni dopaminergici.",
+        "C": "La deplezione delle vescicole di dopamina è l'effetto della reserpina, non della febbre materna.",
+        "D": "Il testo sottolinea che spesso il virus non è nemmeno presente: il meccanismo non è un'infezione del neonato.",
+        "E": "Al contrario: la risposta al vaccino in gravidanza non è paragonabile a quella di un'infezione virale, per questo è importante vaccinare le gestanti."
+      },
+      "riferimento": "pp. 196-197 – Eziologia, fattori ambientali"
+    },
+    {
+      "id": "11-004",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Recettori dopaminergici",
+      "domanda": "Quale associazione tra recettori dopaminergici e trasduzione del segnale è corretta?",
+      "opzioni": {
+        "A": "D2, D3 e D4 sono accoppiati a proteina Gi e inibiscono l'adenilato ciclasi",
+        "B": "D1 e D5 sono accoppiati a proteina Gi e inibiscono l'adenilato ciclasi",
+        "C": "D2, D3 e D4 sono accoppiati a proteina Gs e stimolano l'adenilato ciclasi",
+        "D": "D1 e D2 sono accoppiati a proteina Gs, mentre D3, D4 e D5 a proteina Gi",
+        "E": "Tutti i recettori dopaminergici sono accoppiati a proteina Gq e attivano la fosfolipasi C"
+      },
+      "corretta": "A",
+      "spiegazione": "I recettori D2 e D2-like (D3, D4) sono associati a proteina G inibitoria e regolano l'adenilato ciclasi in senso inibitorio; D1 e D5 sono accoppiati a proteina Gs e la stimolano.",
+      "distrattori": {
+        "B": "D1 e D5 sono accoppiati a proteina Gs (stimolatoria), non Gi.",
+        "C": "La famiglia D2-like è accoppiata a Gi, non a Gs.",
+        "D": "D1 e D2 appartengono a famiglie diverse: D1 (con D5) è Gs, D2 (con D3 e D4) è Gi.",
+        "E": "Il testo descrive due famiglie che agiscono sull'adenilato ciclasi tramite Gi o Gs, non una via Gq comune."
+      },
+      "riferimento": "p. 197 – La sinapsi dopaminergica"
+    },
+    {
+      "id": "11-005",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Vie dopaminergiche",
+      "domanda": "Il blocco dei recettori D2 nella via tubero-infundibolare da parte di un antipsicotico tipico provoca principalmente:",
+      "opzioni": {
+        "A": "aumento della prolattina con ginecomastia, galattorrea, perdita della libido e impotenza",
+        "B": "parkinsonismo con bradicinesia, tremore a riposo e perdita della mimica facciale",
+        "C": "attenuazione dei deliri e delle allucinazioni",
+        "D": "acatisia, cioè un'irrequietezza motoria simile alle gambe senza riposo",
+        "E": "riduzione della prolattina con amenorrea e calo della produzione di latte"
+      },
+      "corretta": "A",
+      "spiegazione": "La via tubero-infundibolare (ipotalamo → ipofisi) inibisce la secrezione di prolattina; bloccando i D2 si ha iperprolattinemia con ginecomastia, galattorrea, perdita della libido e impotenza.",
+      "distrattori": {
+        "B": "Il parkinsonismo da neurolettici deriva dal blocco D2 nella via nigro-striatale.",
+        "C": "L'attenuazione dei sintomi psicotici deriva dal blocco nella via meso-cortico-limbica.",
+        "D": "L'acatisia è un sintomo extrapiramidale dovuto al blocco nigro-striatale.",
+        "E": "Il blocco D2 rimuove l'inibizione dopaminergica sulla prolattina, che quindi aumenta, non diminuisce."
+      },
+      "riferimento": "pp. 198, 201 – Vie dopaminergiche, proprietà farmacologiche dei tipici"
+    },
+    {
+      "id": "11-006",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Ipotesi dopaminergica",
+      "domanda": "Quale osservazione ha dato origine storicamente all'ipotesi dopaminergica della schizofrenia?",
+      "opzioni": {
+        "A": "L'effetto della reserpina, che depleta le vescicole sinaptiche di dopamina, usata in India per trattare la pazzia",
+        "B": "L'effetto della metoclopramide, che blocca i recettori D2 senza attraversare la barriera ematoencefalica",
+        "C": "La scoperta che la cocaina provoca una deplezione delle riserve di dopamina",
+        "D": "La dimostrazione che i pazienti schizofrenici presentano una degenerazione dei neuroni della substantia nigra",
+        "E": "L'osservazione che l'aripiprazolo attiva parzialmente i recettori D2"
+      },
+      "corretta": "A",
+      "spiegazione": "L'ipotesi dopaminergica nasce dall'uso della reserpina, farmaco di origine naturale che depleta le vescicole sinaptiche di dopamina; la pianta da cui si estrae era usata in India per trattare la pazzia.",
+      "distrattori": {
+        "B": "La metoclopramide è un antiemetico antagonista D2 periferico; non è citata come origine dell'ipotesi.",
+        "C": "Cocaina e anfetamina aumentano notevolmente la liberazione di dopamina (sono psicomimetiche), non la depletano.",
+        "D": "La degenerazione della via nigro-striatale caratterizza la malattia di Parkinson, non la schizofrenia.",
+        "E": "L'aripiprazolo è un antipsicotico atipico recente, agonista parziale D2: non ha nulla a che vedere con l'origine storica dell'ipotesi."
+      },
+      "riferimento": "p. 198 – Ipotesi dopaminergica"
+    },
+    {
+      "id": "11-007",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Ipotesi dopaminergica",
+      "domanda": "Quale affermazione descrive correttamente cosa accade alla dopamina durante la terapia con un antipsicotico antagonista D2?",
+      "opzioni": {
+        "A": "I livelli di dopamina restano alti, come risposta al blocco dei recettori, ma il farmaco ne impedisce il legame competitivamente",
+        "B": "Il farmaco blocca il rilascio massivo di dopamina dalle vescicole presinaptiche",
+        "C": "Il farmaco inibisce la tirosina idrossilasi riducendo la sintesi di DOPA",
+        "D": "Il farmaco depleta le vescicole di dopamina come la reserpina",
+        "E": "Il farmaco aumenta la ricaptazione della dopamina riducendone la concentrazione sinaptica"
+      },
+      "corretta": "A",
+      "spiegazione": "Concetto fondamentale del testo: gli antipsicotici non riducono la dopamina ma ne bloccano i recettori come antagonisti competitivi; la dopamina rimane alta come risposta al blocco recettoriale.",
+      "distrattori": {
+        "B": "Il testo precisa che con l'antagonista D2 non si blocca il rilascio massivo di dopamina.",
+        "C": "La tirosina idrossilasi è l'enzima di sintesi del DOPA, ma non è il bersaglio degli antipsicotici.",
+        "D": "La deplezione vescicolare è il meccanismo della reserpina, non degli antipsicotici antagonisti D2.",
+        "E": "Gli antipsicotici agiscono sul recettore postsinaptico, non sulla ricaptazione."
+      },
+      "riferimento": "pp. 197, 199 – Sinapsi dopaminergica; Cosa succede nella schizofrenia"
+    },
+    {
+      "id": "11-008",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Antipsicotici tipici",
+      "domanda": "Nella classificazione delle fenotiazine in base al sostituente, quale abbinamento è corretto?",
+      "opzioni": {
+        "A": "Gruppo alifatico – clorpromazina; piperidinico – tioridazina; piperazinico – flufenazina",
+        "B": "Gruppo alifatico – tioridazina; piperidinico – flufenazina; piperazinico – clorpromazina",
+        "C": "Gruppo alifatico – flufenazina; piperidinico – clorpromazina; piperazinico – tioridazina",
+        "D": "Gruppo alifatico – clorpromazina; piperidinico – flufenazina; piperazinico – aloperidolo",
+        "E": "Gruppo alifatico – aloperidolo; piperidinico – tioridazina; piperazinico – flufenazina"
+      },
+      "corretta": "A",
+      "spiegazione": "Le fenotiazine si dividono in tre categorie: alifatiche (clorpromazina), piperidiniche (tioridazina) e piperaziniche (flufenazina).",
+      "distrattori": {
+        "B": "La tioridazina è piperidinica e la clorpromazina alifatica: gli abbinamenti sono scambiati.",
+        "C": "La flufenazina è piperazinica, la clorpromazina alifatica, la tioridazina piperidinica.",
+        "D": "L'aloperidolo non è una fenotiazina ma un butirrofenone; la flufenazina è piperazinica.",
+        "E": "L'aloperidolo è un butirrofenone, non una fenotiazina alifatica."
+      },
+      "riferimento": "p. 201 – Fenotiazine e altri antipsicotici classici"
+    },
+    {
+      "id": "11-009",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Antipsicotici tipici",
+      "domanda": "Un anziano con demenza è molto agitato e serve un antipsicotico tipico con marcato effetto sedativo e basso potenziale extrapiramidale. In base alla tabella di confronto dei neurolettici classici, quale farmaco ha questo profilo?",
+      "opzioni": {
+        "A": "Tioridazina",
+        "B": "Aloperidolo",
+        "C": "Perfenazina",
+        "D": "Droperidolo",
+        "E": "Pimozide"
+      },
+      "corretta": "A",
+      "spiegazione": "Nella tabella la tioridazina ha effetto sedativo, antimuscarinico e alfa-bloccante +++ ma effetti extrapiramidali solo +; il testo la cita come usata nei pazienti anziani con demenza.",
+      "distrattori": {
+        "B": "L'aloperidolo (butirrofenone) ha sedazione + ed effetti extrapiramidali +++.",
+        "C": "La perfenazina (fenotiazina piperazinica) ha sedazione + ed effetti extrapiramidali +++.",
+        "D": "Il droperidolo, come l'aloperidolo, ha sedazione + ed effetti extrapiramidali +++.",
+        "E": "La pimozide (difenilbutilpiperidina) ha sedazione + ed effetti extrapiramidali +++."
+      },
+      "riferimento": "pp. 200-201 – Antipsicotici classici; tabella 'Farmaci neurolettici classici'"
+    },
+    {
+      "id": "11-010",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Effetti extrapiramidali",
+      "domanda": "Un paziente schizofrenico in terapia con aloperidolo da molti anni presenta movimenti involontari della mandibola, schiocco delle labbra, protrusione della lingua e torsioni del collo. Di quale effetto si tratta?",
+      "opzioni": {
+        "A": "Discinesia tardiva, effetto tardivo spesso permanente e difficile da trattare",
+        "B": "Distonia acuta, effetto precoce che compare nei primi giorni o settimane di terapia",
+        "C": "Parkinsonismo da neurolettici, reversibile con la riduzione della dose",
+        "D": "Acatisia da neurolettici, simile alla sindrome delle gambe senza riposo",
+        "E": "Sindrome neurolettica maligna, imprevedibile e potenzialmente mortale"
+      },
+      "corretta": "A",
+      "spiegazione": "La discinesia tardiva compare molti anni dopo l'inizio della terapia, con movimenti involontari soprattutto della testa (mandibola, labbra, lingua, collo); è spesso permanente e il rischio arriva al 70% dopo 25 anni di terapia.",
+      "distrattori": {
+        "B": "La distonia acuta (es. spasmo dei muscoli linguali) è un sintomo precoce, che insorge tra 5 e 60 giorni dall'inizio della terapia.",
+        "C": "Il parkinsonismo (bradicinesia, tremore a riposo, perdita della mimica) è precoce e reversibile, non caratterizzato da questi movimenti involontari.",
+        "D": "L'acatisia è un'irrequietezza motoria precoce, non un quadro di movimenti oro-facciali tardivi.",
+        "E": "La sindrome neurolettica maligna è caratterizzata da ipertermia, rigidità e disfunzione autonomica, non da discinesie oro-facciali."
+      },
+      "riferimento": "p. 202 – Effetti extrapiramidali precoci e tardivi"
+    },
+    {
+      "id": "11-011",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Sindrome neurolettica maligna",
+      "domanda": "Un paziente in terapia con un neurolettico sviluppa febbre a 41 °C, rigidità muscolare, fluttuazione dello stato di coscienza, tachicardia con pressione instabile, sudorazione profusa e incontinenza urinaria. Quale affermazione sul quadro è corretta?",
+      "opzioni": {
+        "A": "È una sindrome neurolettica maligna: rara, potenzialmente fatale, non legata al meccanismo d'azione classico e non prevedibile",
+        "B": "È un parkinsonismo da neurolettici, che si risolve riducendo la dose",
+        "C": "È un'agranulocitosi con sepsi, tipica di tutti gli antipsicotici tipici",
+        "D": "È una discinesia tardiva in fase acuta, che compare dopo anni di terapia",
+        "E": "È un effetto dell'iperprolattinemia da blocco della via tubero-infundibolare"
+      },
+      "corretta": "A",
+      "spiegazione": "Ipertermia (38-42 °C), fluttuazione della coscienza, tremori e rigidità, tachicardia, instabilità pressoria, disfunzioni autonomiche, sudorazione e incontinenza definiscono la sindrome neurolettica maligna: il più grave degli effetti dei neurolettici, raro, imprevedibile e non legato al meccanismo d'azione classico.",
+      "distrattori": {
+        "B": "Il parkinsonismo da neurolettici non dà ipertermia né disfunzioni autonomiche gravi.",
+        "C": "L'agranulocitosi con rischio di sepsi è descritta come reazione tipica della clozapina, non di tutti i tipici, e non si presenta con rigidità e fluttuazione della coscienza.",
+        "D": "La discinesia tardiva è un disturbo del movimento cronico, senza febbre né instabilità autonomica.",
+        "E": "L'iperprolattinemia causa ginecomastia, galattorrea, perdita della libido e impotenza, non questo quadro."
+      },
+      "riferimento": "pp. 202-203 – Sindrome neurolettica maligna"
+    },
+    {
+      "id": "11-012",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Metoclopramide",
+      "domanda": "Perché AIFA ed EMA hanno ritirato le formulazioni di metoclopramide ad alto dosaggio (es. supposte da 20 mg, soluzioni orali > 1 mg/mL)?",
+      "opzioni": {
+        "A": "Perché a dosi elevate supera più facilmente la barriera ematoencefalica, dando effetti neurologici simili a quelli degli antipsicotici tradizionali",
+        "B": "Perché a dosi elevate perde la selettività per i recettori D2 e blocca i recettori muscarinici gastrici",
+        "C": "Perché a dosi elevate provoca agranulocitosi come la clozapina",
+        "D": "Perché a dosi elevate stimola eccessivamente la peristalsi provocando vomito incoercibile",
+        "E": "Perché a dosi elevate inibisce la secrezione di prolattina causando amenorrea"
+      },
+      "corretta": "A",
+      "spiegazione": "La metoclopramide è un antagonista D2 che normalmente non attraversa la BEE e agisce in periferia e sui nuclei ipotalamici esterni alla BEE (centro del vomito). A dosi elevate la supera più facilmente, dando reazioni neurologiche paragonabili a quelle degli antipsicotici tradizionali.",
+      "distrattori": {
+        "B": "Il testo non attribuisce alla metoclopramide un blocco muscarinico: il problema è il passaggio della BEE.",
+        "C": "L'agranulocitosi è la reazione grave tipica della clozapina, non della metoclopramide.",
+        "D": "La metoclopramide favorisce la motilità gastrica ma è proprio un antiemetico; il ritiro è legato agli effetti neurologici.",
+        "E": "Il blocco D2 aumenta la prolattina, non la riduce; inoltre il motivo del ritiro sono le reazioni neurologiche."
+      },
+      "riferimento": "pp. 202-203 – Metoclopramide"
+    },
+    {
+      "id": "11-013",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Antipsicotici tipici",
+      "domanda": "Quale vantaggio degli antipsicotici tipici è utile nella gestione di pazienti sospettosi che rifiutano il trattamento?",
+      "opzioni": {
+        "A": "La disponibilità di preparazioni parenterali e depot con efficacia prolungata fino a circa un mese",
+        "B": "La maggiore efficacia sui sintomi negativi rispetto agli atipici",
+        "C": "L'assenza di effetti extrapiramidali alle dosi cliniche efficaci",
+        "D": "L'insorgenza immediata dell'effetto antipsicotico dopo la prima dose",
+        "E": "L'assenza di effetti sulla prolattina"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra i vantaggi dei tipici c'è la disponibilità di preparazioni parenterali e depot, con efficacia prolungata anche fino a un mese: utile in pazienti difficili, sospettosi, che rifiutano la terapia.",
+      "distrattori": {
+        "B": "L'efficacia limitata sui sintomi negativi è proprio uno dei limiti dei tipici.",
+        "C": "Nei tipici i sintomi extrapiramidali compaiono anche a dosi cliniche efficaci: è il loro problema principale.",
+        "D": "Gli antipsicotici richiedono diverse settimane per dare l'effetto terapeutico.",
+        "E": "L'aumento della prolattina (ginecomastia, galattorrea) è uno dei limiti dei tipici."
+      },
+      "riferimento": "pp. 202-204 – Limiti dei tipici e preparazioni depot"
+    },
+    {
+      "id": "11-014",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Antipsicotici atipici",
+      "domanda": "Secondo il testo, che cosa distingue gli antipsicotici atipici dai tipici?",
+      "opzioni": {
+        "A": "Una differenza quantitativa: minore affinità per i D2 (occupazione non oltre circa il 60%) e maggiore affinità per i 5-HT2A",
+        "B": "Una differenza qualitativa: gli atipici non bloccano affatto i recettori D2 ma solo i 5-HT2A",
+        "C": "Una maggiore efficacia clinica complessiva rispetto ai tipici in tutti i pazienti",
+        "D": "Una maggiore affinità per i D2, con occupazione dell'80-95% dei recettori striatali",
+        "E": "L'azione esclusivamente periferica, senza attraversare la barriera ematoencefalica"
+      },
+      "corretta": "A",
+      "spiegazione": "La definizione di atipico è quantitativa: minore affinità D2 (non oltre il 60% dei recettori occupati contro l'80-95% dell'aloperidolo), sufficiente per l'effetto terapeutico ma sotto la soglia per i disturbi motori, e maggiore affinità per i 5-HT2A.",
+      "distrattori": {
+        "B": "Il testo sottolinea che la distinzione non è qualitativa e che l'attività sui D2 resta essenziale per l'effetto antipsicotico.",
+        "C": "L'efficacia è sostanzialmente identica; gli atipici sono più tollerati, non più efficaci in generale.",
+        "D": "L'occupazione dell'80-95% dei D2 striatali è propria dell'aloperidolo (tipico).",
+        "E": "L'azione periferica senza passaggio della BEE caratterizza la metoclopramide, non gli atipici."
+      },
+      "riferimento": "p. 204 – Antipsicotici atipici"
+    },
+    {
+      "id": "11-015",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Antipsicotici atipici",
+      "domanda": "Nel grafico di occupazione dei recettori D2 riportato nel testo, il risperidone passa da circa il 53% a 3 mg a circa l'81% a 8 mg. Quale conclusione se ne trae?",
+      "opzioni": {
+        "A": "Il risperidone è 'a cavallo' tra tipici e atipici: a dosi elevate può indurre sintomi extrapiramidali",
+        "B": "Il risperidone non dà mai effetti extrapiramidali perché è un atipico",
+        "C": "Il risperidone è un agonista parziale D2, quindi l'occupazione non ha rilevanza clinica",
+        "D": "Il risperidone a qualsiasi dose occupa meno D2 della quetiapina e della clozapina",
+        "E": "Il risperidone a 8 mg occupa più recettori D2 dell'aloperidolo 10 mg"
+      },
+      "corretta": "A",
+      "spiegazione": "Essere atipico non significa non dare mai effetti extrapiramidali: dipende dalla dose. Il risperidone è un po' a cavallo tra tipici e atipici e, a dosi alte (81% di occupazione D2), può indurre sintomi extrapiramidali.",
+      "distrattori": {
+        "B": "Il testo afferma esplicitamente che un atipico può dare effetti extrapiramidali in funzione della dose, citando proprio il risperidone.",
+        "C": "Gli agonisti parziali D2 citati sono aripiprazolo, cariprazina e brexpiprazolo, non il risperidone.",
+        "D": "Quetiapina e clozapina 400 mg occupano circa il 20% dei D2, meno del risperidone a entrambe le dosi.",
+        "E": "L'aloperidolo 10 mg occupa circa il 93% dei D2, più del risperidone 8 mg (81%)."
+      },
+      "riferimento": "p. 204 – Grafico occupazione D2 degli atipici"
+    },
+    {
+      "id": "11-016",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Aripiprazolo",
+      "domanda": "Qual è la particolarità del meccanismo d'azione dell'aripiprazolo rispetto agli altri antipsicotici?",
+      "opzioni": {
+        "A": "È un agonista parziale dei recettori D2: li attiva in modo incompleto, riducendone il livello di attivazione",
+        "B": "È un antagonista selettivo dei recettori 5-HT2A senza alcuna azione sui D2",
+        "C": "Depleta le vescicole di dopamina come la reserpina",
+        "D": "È un antagonista D2 che non attraversa la barriera ematoencefalica",
+        "E": "È un antagonista D2 con occupazione recettoriale dell'80-95% come l'aloperidolo"
+      },
+      "corretta": "A",
+      "spiegazione": "L'aripiprazolo (come cariprazina, brexpiprazolo e lumateperone) è un agonista parziale D2: attiva il recettore ma non in maniera completa, con riduzione dell'attivazione recettoriale.",
+      "distrattori": {
+        "B": "L'azione sui D2 resta essenziale per tutti gli antipsicotici; un'azione solo 5-HT2A non è descritta.",
+        "C": "La deplezione vescicolare è il meccanismo della reserpina.",
+        "D": "L'antagonista D2 che non attraversa la BEE è la metoclopramide.",
+        "E": "Un'occupazione D2 dell'80-95% caratterizza l'aloperidolo, antagonista tipico."
+      },
+      "riferimento": "p. 205 – Agonisti parziali D2"
+    },
+    {
+      "id": "11-017",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Clozapina",
+      "domanda": "Un paziente con schizofrenia refrattaria inizia clozapina. Agli esami ematochimici di controllo delle prime settimane si osserva una riduzione dei granulociti nella formula leucocitaria. Qual è la condotta corretta?",
+      "opzioni": {
+        "A": "Interrompere immediatamente la clozapina, perché l'agranulocitosi può diventare irreversibile e portare a morte per sepsi",
+        "B": "Ridurre la dose e proseguire, perché la neutropenia da clozapina è dose-dipendente come il parkinsonismo",
+        "C": "Proseguire la terapia, perché il calo dei granulociti è transitorio e si risolve con la tolleranza",
+        "D": "Aggiungere un anticolinergico per contrastare l'effetto midollare",
+        "E": "Passare a una preparazione depot di clozapina per ridurre i picchi plasmatici"
+      },
+      "corretta": "A",
+      "spiegazione": "L'agranulocitosi da clozapina è una reazione potenzialmente mortale (sepsi). Per questo si eseguono regolari esami ematochimici, soprattutto all'inizio; se i granulociti calano la terapia va interrotta immediatamente, altrimenti il processo può diventare irreversibile.",
+      "distrattori": {
+        "B": "La riduzione della dose è la strategia indicata per il parkinsonismo da neurolettici, non per l'agranulocitosi, che impone la sospensione.",
+        "C": "Il testo richiede l'interruzione immediata: proseguire espone al rischio di agranulocitosi irreversibile.",
+        "D": "Il testo non prevede alcuna terapia aggiuntiva: l'unica condotta indicata è la sospensione.",
+        "E": "Il testo cita le preparazioni depot come vantaggio dei tipici, non come soluzione per l'agranulocitosi."
+      },
+      "riferimento": "p. 205 – Clozapina, agranulocitosi"
+    },
+    {
+      "id": "11-018",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Clozapina",
+      "domanda": "Quale affermazione sulla clozapina è FALSA?",
+      "opzioni": {
+        "A": "È uno dei pochi antipsicotici approvati anche per l'età pediatrica",
+        "B": "Ha elevata affinità per i recettori 5-HT2A e affinità più bassa per i D2",
+        "C": "Riduce la soglia convulsiva ed è sconsigliata nei pazienti epilettici",
+        "D": "Provoca un forte aumento di peso, spesso 10-20 kg, con ipercolesterolemia e diabete di tipo 2",
+        "E": "È considerata il farmaco più efficace nella terapia della schizofrenia"
+      },
+      "corretta": "A",
+      "spiegazione": "È il risperidone a essere indicato come uno dei pochi farmaci approvati anche in età pediatrica, non la clozapina.",
+      "distrattori": {
+        "B": "Vera: la clozapina, capostipite degli atipici, ha alta affinità 5-HT2A e più bassa per i D2.",
+        "C": "Vera: riduce la soglia alle convulsioni ed è sconsigliata a tutti i pazienti epilettici.",
+        "D": "Vera: l'aumento di peso (10-20 kg) si accompagna a sindromi dismetaboliche (ipercolesterolemia, diabete di tipo 2, rischio cardiovascolare).",
+        "E": "Vera: nonostante gli effetti collaterali è molto usata perché considerata il farmaco più efficace."
+      },
+      "riferimento": "pp. 205-206 – Clozapina, risperidone"
+    },
+    {
+      "id": "11-019",
+      "difficolta": "base",
+      "tipo": "caso_clinico",
+      "argomento": "Olanzapina",
+      "domanda": "In un paziente anziano con disturbi psicotici e problemi del sonno, quale antipsicotico atipico il testo indica come utilizzabile a bassi dosaggi sfruttandone la sonnolenza?",
+      "opzioni": {
+        "A": "Olanzapina",
+        "B": "Clozapina",
+        "C": "Risperidone",
+        "D": "Aripiprazolo",
+        "E": "Aloperidolo"
+      },
+      "corretta": "A",
+      "spiegazione": "L'olanzapina, oltre all'aumento di peso, può causare sonnolenza: per questo è usata a bassi dosaggi in pazienti anziani con problemi del sonno.",
+      "distrattori": {
+        "B": "La clozapina è ricordata per agranulocitosi, riduzione della soglia convulsiva ed efficacia nei refrattari, non per questo impiego.",
+        "C": "Del risperidone il testo sottolinea l'approvazione in età pediatrica e gli effetti extrapiramidali dose-dipendenti.",
+        "D": "L'aripiprazolo è descritto come agonista parziale D2, non per l'uso ipnotico negli anziani.",
+        "E": "L'aloperidolo è un tipico, con sedazione modesta ed effetti extrapiramidali marcati."
+      },
+      "riferimento": "p. 206 – Olanzapina"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Vie dopaminergiche: meso-cortico-limbica = effetto antipsicotico; nigro-striatale = effetti extrapiramidali; tubero-infundibolare = iperprolattinemia (ginecomastia, galattorrea, impotenza).",
+    "Gli antipsicotici NON riducono la dopamina (quello è la reserpina, che depleta le vescicole): ne bloccano competitivamente i recettori D2, e la dopamina resta alta.",
+    "EPS precoci (5-60 giorni: parkinsonismo reversibile, distonia acuta, acatisia) ≠ discinesia tardiva (dopo anni, spesso permanente) ≠ sindrome neurolettica maligna (ipertermia, rigidità, disautonomia; rara, imprevedibile).",
+    "Atipico = differenza quantitativa: occupazione D2 ≤ ~60% (aloperidolo 80-95%) + maggiore affinità 5-HT2A; il risperidone a dosi alte dà EPS; aripiprazolo = agonista parziale D2.",
+    "Clozapina: agranulocitosi (monitoraggio ematico, sospensione immediata), riduce la soglia convulsiva, forte aumento di peso; olanzapina = sonnolenza; risperidone = approvato in età pediatrica; metoclopramide = antagonista D2 che non passa la BEE (a dosi alte sì)."
+  ]
+}

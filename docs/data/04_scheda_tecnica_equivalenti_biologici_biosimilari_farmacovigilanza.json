@@ -1,0 +1,957 @@
+{
+  "capitolo": 4,
+  "titolo": "Scheda tecnica, equivalenti, biologici, biosimilari e farmacovigilanza",
+  "pagine": "43-64, 86-88, 146-148",
+  "domande": [
+    {
+      "id": "04-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Scheda tecnica (RCP)",
+      "domanda": "Qual è la differenza principale tra la scheda tecnica di un farmaco e il foglietto illustrativo?",
+      "opzioni": {
+        "A": "La scheda tecnica è destinata ai professionisti ed è la versione più completa e dettagliata delle caratteristiche del farmaco",
+        "B": "La scheda tecnica è destinata ai pazienti ed è scritta con un linguaggio semplificato rispetto al foglietto illustrativo",
+        "C": "La scheda tecnica riporta solo i dati preclinici, mentre indicazioni e posologia compaiono nel foglietto illustrativo",
+        "D": "La scheda tecnica è riservata all'AIFA e non è consultabile dal medico prescrittore",
+        "E": "La scheda tecnica esiste solo per i farmaci originali, mentre gli equivalenti hanno soltanto il foglietto illustrativo"
+      },
+      "corretta": "A",
+      "spiegazione": "La scheda tecnica, scaricabile dalla banca dati AIFA, è uno strumento per professionisti, redatto in modo preciso e dettagliato: per il medico è la fonte più certa di informazioni sul farmaco. Il foglietto illustrativo (\"bugiardino\") è destinato ai consumatori ed è più sintetico.",
+      "distrattori": {
+        "B": "È il foglietto illustrativo a essere destinato ai pazienti e scritto in modo più accessibile.",
+        "C": "La scheda tecnica contiene anche indicazioni, posologia, controindicazioni, interazioni ed effetti indesiderati, oltre ai dati preclinici.",
+        "D": "La scheda tecnica si scarica dal sito AIFA ed è proprio la fonte di riferimento del medico che prescrive.",
+        "E": "L'esempio analizzato a lezione è proprio la scheda tecnica di un equivalente (Atorvastatina DOC/Teva)."
+      },
+      "riferimento": "p. 43 – La scheda tecnica di un farmaco"
+    },
+    {
+      "id": "04-002",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Scheda tecnica (RCP)",
+      "domanda": "Un paziente in terapia con atorvastatina in compresse rivestite con film chiede se può spezzare la compressa per assumerne mezza dose. Quale considerazione, riportata nel testo, è corretta?",
+      "opzioni": {
+        "A": "Si può sempre dividere, perché il film serve solo a mascherare il sapore del principio attivo",
+        "B": "Dividendola si perde l'integrità del film, che serve a evitare la dissoluzione nello stomaco, e si può modificare la velocità di assorbimento",
+        "C": "Dividendola aumenta la biodisponibilità, perché il film rallenta l'assorbimento intestinale",
+        "D": "Si può dividere solo se assunta a stomaco pieno, perché il cibo sostituisce la protezione del film",
+        "E": "La divisione non ha conseguenze, perché le statine sono disponibili anche in gocce e sciroppo con la stessa cinetica"
+      },
+      "corretta": "B",
+      "spiegazione": "Il film protegge la compressa dalla dissoluzione nell'ambiente acido dello stomaco, perché sia assorbita a livello intestinale. Dividendo la compressa si perde l'integrità del film, con possibile modifica della velocità di assorbimento: non tutte le compresse sono divisibili (quando lo sono, hanno una tacca).",
+      "distrattori": {
+        "A": "Il testo attribuisce al film una funzione di protezione dalla dissoluzione gastrica, non di mascheramento del sapore.",
+        "C": "Il testo parla di modificazione della velocità di assorbimento, non di aumento della biodisponibilità.",
+        "D": "Il testo non indica il cibo come sostituto della protezione del film.",
+        "E": "Secondo il testo le statine hanno come unica forma farmaceutica le compresse rivestite con film."
+      },
+      "riferimento": "p. 44 – Composizione e forma farmaceutica (film)"
+    },
+    {
+      "id": "04-003",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Scheda tecnica (RCP)",
+      "domanda": "Perché la scheda tecnica riporta l'elenco degli eccipienti?",
+      "opzioni": {
+        "A": "Perché gli eccipienti contribuiscono all'effetto terapeutico del principio attivo",
+        "B": "Perché il paziente può essere allergico a determinati eccipienti",
+        "C": "Perché gli eccipienti determinano il citocromo che metabolizza il farmaco",
+        "D": "Perché gli eccipienti stabiliscono la dose massima giornaliera",
+        "E": "Perché gli eccipienti devono differire tra farmaco originale ed equivalente"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli eccipienti (es. cellulosa, conservanti) sono sostanze presenti nella forma farmaceutica che non fanno parte del principio attivo. Vanno riportati perché il paziente può essere allergico ad alcuni di essi.",
+      "distrattori": {
+        "A": "Per definizione gli eccipienti non fanno parte del principio attivo.",
+        "C": "Il metabolismo (es. CYP3A4 per l'atorvastatina) dipende dal principio attivo, non dagli eccipienti.",
+        "D": "La dose massima è un'informazione della posologia (paragrafo 4.2), legata al principio attivo.",
+        "E": "Il testo non pone alcun requisito di differenza degli eccipienti tra originale ed equivalente."
+      },
+      "riferimento": "p. 44 – Eccipienti"
+    },
+    {
+      "id": "04-004",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Uso off-label",
+      "domanda": "Riguardo alla prescrizione OFF LABEL descritta nel testo, quale affermazione è corretta?",
+      "opzioni": {
+        "A": "È vietata in età pediatrica, dove si usano solo farmaci con indicazione approvata",
+        "B": "La responsabilità ricade sull'AIFA, che ha autorizzato il farmaco per altre indicazioni",
+        "C": "La responsabilità resta esclusivamente del medico, che deve acquisire un consenso scritto indicando i possibili eventi avversi",
+        "D": "È consentita solo per farmaci il cui brevetto è scaduto",
+        "E": "Non richiede alcun supporto di evidenze scientifiche se il farmaco è già in commercio"
+      },
+      "corretta": "C",
+      "spiegazione": "Off label significa prescrivere un farmaco per condizioni non indicate nella scheda tecnica. Può essere sostenuta da studi scientifici, ma la responsabilità è esclusivamente del medico, che deve acquisire un consenso scritto indicando anche gli eventi avversi possibili.",
+      "distrattori": {
+        "A": "Al contrario, in età pediatrica (fino a 12 anni) il medico è talvolta obbligato a prescrivere off label per mancanza di studi.",
+        "B": "Il testo attribuisce la responsabilità esclusivamente al medico.",
+        "D": "Lo stato brevettuale non ha relazione con la prescrizione off label.",
+        "E": "Il testo afferma che la prescrizione off label può essere sostenuta da evidenti studi scientifici che ne supportano l'uso."
+      },
+      "riferimento": "p. 45 – Indicazioni terapeutiche e uso OFF LABEL"
+    },
+    {
+      "id": "04-005",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Atorvastatina: scheda tecnica",
+      "domanda": "Secondo la scheda tecnica dell'atorvastatina analizzata a lezione, qual è lo schema posologico corretto?",
+      "opzioni": {
+        "A": "Dose iniziale di 10 mg una volta al giorno, almeno 4 settimane prima di modificarla, dose massima 80 mg al giorno",
+        "B": "Dose iniziale di 80 mg una volta al giorno, da ridurre dopo 4 settimane fino a 10 mg",
+        "C": "Dose iniziale di 10 mg due volte al giorno, dose massima 40 mg al giorno",
+        "D": "Dose iniziale di 20 mg al giorno, modificabile dopo 1 settimana, dose massima 160 mg al giorno",
+        "E": "Dose libera, da titolare sull'effetto come indicato per la lidocaina"
+      },
+      "corretta": "A",
+      "spiegazione": "La dose di partenza standard è 10 mg una volta al giorno; prima di modificare il dosaggio serve un trattamento di almeno 4 settimane. La dose massima è 80 mg al giorno, da non superare perché aumenta la frequenza di reazioni avverse.",
+      "distrattori": {
+        "B": "80 mg è la dose massima, non quella di partenza.",
+        "C": "La somministrazione è in un'unica dose giornaliera e la dose massima è 80 mg.",
+        "D": "Servono almeno 4 settimane prima di modificare la dose e il massimo è 80 mg.",
+        "E": "È la scheda tecnica della lidocaina a indicare di usare la dose più piccola che produce l'effetto; per l'atorvastatina è indicata una dose standard."
+      },
+      "riferimento": "p. 45 – Posologia (paragrafo 4.2)"
+    },
+    {
+      "id": "04-006",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Atorvastatina: scheda tecnica",
+      "domanda": "Perché, secondo la scheda tecnica, l'atorvastatina non richiede aggiustamento della posologia nel paziente con insufficienza renale?",
+      "opzioni": {
+        "A": "Perché è eliminata o inattivata per via epatica",
+        "B": "Perché ha un volume di distribuzione molto piccolo e resta nel plasma",
+        "C": "Perché viene escreta immodificata nelle urine solo a dosi superiori a 80 mg",
+        "D": "Perché la sua biodisponibilità aumenta in caso di insufficienza renale",
+        "E": "Perché non si lega alle proteine plasmatiche e viene dializzata"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo spiega che nell'insufficienza renale l'atorvastatina non richiede modifiche della posologia perché viene eliminata o inattivata per via epatica. È invece da usare con attenzione nell'insufficienza epatica e controindicata nella patologia epatica in fase attiva.",
+      "distrattori": {
+        "B": "L'atorvastatina ha un volume di distribuzione medio di 381 L, non piccolo.",
+        "C": "Il testo non descrive escrezione renale dose-dipendente; l'eliminazione è epatica.",
+        "D": "Il testo non lega la biodisponibilità (circa 12%) alla funzione renale.",
+        "E": "L'atorvastatina è legata alle proteine plasmatiche per il 98%."
+      },
+      "riferimento": "p. 46 – Insufficienza renale ed epatica"
+    },
+    {
+      "id": "04-007",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Atorvastatina: scheda tecnica",
+      "domanda": "Un uomo di 74 anni con ipotiroidismo deve iniziare atorvastatina. Il dosaggio basale della CK risulta superiore a 5 volte il limite superiore di normalità (ULN). Cosa indica la scheda tecnica?",
+      "opzioni": {
+        "A": "Iniziare con la dose massima di 80 mg per ottenere rapidamente l'effetto",
+        "B": "Iniziare con 10 mg e ricontrollare la CK dopo 4 settimane",
+        "C": "Il trattamento non deve essere iniziato",
+        "D": "Iniziare il trattamento associando rifampicina per accelerarne il metabolismo",
+        "E": "Iniziare normalmente: la CK serve solo a valutare la funzionalità epatica"
+      },
+      "corretta": "C",
+      "spiegazione": "Ipotiroidismo ed età > 70 anni sono situazioni in cui la CK va misurata prima di iniziare una statina, per il rischio di rabdomiolisi. Se la CK è significativamente elevata (> 5 volte l'ULN) al basale, il trattamento non deve essere iniziato.",
+      "distrattori": {
+        "A": "La dose massima aumenta il rischio di reazioni avverse, a maggior ragione con CK già elevata.",
+        "B": "Con CK > 5 volte l'ULN al basale la scheda tecnica indica di non iniziare, non di iniziare a basso dosaggio.",
+        "D": "La rifampicina è un induttore del metabolismo dell'atorvastatina: ne ridurrebbe le concentrazioni efficaci, non il rischio muscolare.",
+        "E": "La CK è un indice dello stato della muscolatura scheletrica; la funzionalità epatica si valuta con altri esami ematici."
+      },
+      "riferimento": "p. 48 – Avvertenze speciali (CK prima del trattamento)"
+    },
+    {
+      "id": "04-008",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Atorvastatina: scheda tecnica",
+      "domanda": "Attraverso quale sequenza la tossicità muscolare delle statine può causare una grave insufficienza renale?",
+      "opzioni": {
+        "A": "Accumulo del farmaco nel rene per ridotta eliminazione epatica, con danno tubulare diretto",
+        "B": "Rabdomiolisi con rottura delle cellule muscolari striate e fuoriuscita di mioglobina",
+        "C": "Inibizione del CYP3A4 renale con accumulo di metaboliti tossici",
+        "D": "Precipitazione del farmaco legato al calcio nelle vie urinarie",
+        "E": "Reazione allergica agli eccipienti del film con glomerulonefrite"
+      },
+      "corretta": "B",
+      "spiegazione": "Le statine possono causare dolori muscolari e miopatie che possono evolvere in rabdomiolisi, cioè rottura delle cellule muscolari striate; la fuoriuscita di mioglobina può determinare una grave insufficienza renale. Per questo si dosa la CPK.",
+      "distrattori": {
+        "A": "Il testo non descrive un danno renale diretto da accumulo del farmaco.",
+        "C": "Il testo cita il CYP3A4 come enzima che metabolizza l'atorvastatina, non come causa di danno renale.",
+        "D": "La precipitazione con il calcio riguarda le tetracicline con i latticini nello stomaco.",
+        "E": "Il testo lega l'allergia agli eccipienti a reazioni di ipersensibilità, non al danno renale da statine."
+      },
+      "riferimento": "p. 48 – Tossicità muscolare delle statine"
+    },
+    {
+      "id": "04-009",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Atorvastatina: interazioni",
+      "domanda": "Un paziente in terapia stabile con atorvastatina inizia una terapia antitubercolare con rifampicina. Quale conseguenza è prevedibile secondo il testo?",
+      "opzioni": {
+        "A": "Aumento delle concentrazioni plasmatiche di atorvastatina e maggior rischio di miopatia",
+        "B": "Nessuna interazione, perché la rifampicina agisce sul CYP2D6",
+        "C": "Riduzione dell'assorbimento intestinale per formazione di chelati",
+        "D": "Metabolismo accelerato dell'atorvastatina, che può non raggiungere concentrazioni efficaci",
+        "E": "Aumento della biodisponibilità per inibizione del metabolismo di primo passaggio"
+      },
+      "corretta": "D",
+      "spiegazione": "L'atorvastatina è metabolizzata dal CYP3A4. Un induttore, che aumenta l'espressione dei citocromi, accelera il metabolismo del farmaco, che viene eliminato troppo velocemente senza raggiungere concentrazioni efficaci. Il testo cita la rifampicina (terapia cronica di mesi) e l'iperico tra i farmaci che interferiscono.",
+      "distrattori": {
+        "A": "L'aumento delle concentrazioni con più reazioni avverse è atteso con gli inibitori del CYP3A4 (es. succo di pompelmo).",
+        "B": "L'isoforma coinvolta nel metabolismo dell'atorvastatina è il CYP3A4, e la rifampicina interferisce con esso.",
+        "C": "La chelazione con il calcio è descritta per tetracicline e latticini.",
+        "E": "L'effetto descritto per l'induttore è l'opposto: metabolismo accelerato."
+      },
+      "riferimento": "p. 48-49 – Interazioni (CYP3A4)"
+    },
+    {
+      "id": "04-010",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Atorvastatina: scheda tecnica",
+      "domanda": "Quale affermazione sui dati di scheda tecnica dell'atorvastatina è FALSA?",
+      "opzioni": {
+        "A": "La biodisponibilità orale è di circa il 12%",
+        "B": "Il volume medio di distribuzione è di 381 L",
+        "C": "Il legame alle proteine plasmatiche è del 98%",
+        "D": "Negli anziani è necessario ridurre la dose",
+        "E": "Può essere assunta in qualsiasi momento della giornata, con o senza cibo"
+      },
+      "corretta": "D",
+      "spiegazione": "La scheda tecnica indica che negli anziani non è necessaria alcuna modifica della posologia, come anche nell'insufficienza renale. Le altre affermazioni corrispondono ai dati riportati.",
+      "distrattori": {
+        "A": "Vera: la biodisponibilità è molto bassa, del 12%, senza che ciò preoccupi perché la dose ne tiene conto.",
+        "B": "Vera: è un volume virtuale di 381 L.",
+        "C": "Vera: il farmaco è legato alle proteine plasmatiche per il 98%.",
+        "E": "Vera: si somministra in un'unica dose in qualsiasi momento, con o senza cibo, mantenendo lo stesso intervallo."
+      },
+      "riferimento": "p. 46-47, 50 – Popolazioni speciali e proprietà farmacocinetiche"
+    },
+    {
+      "id": "04-011",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Biodisponibilità e dose",
+      "domanda": "Un paziente assume 10 mg/die di morfina per via orale (biodisponibilità orale 25%) e deve passare alla via endovenosa. Quale ragionamento è corretto?",
+      "opzioni": {
+        "A": "Si mantiene la stessa dose di 10 mg, perché la dose dipende solo dal peso del paziente",
+        "B": "Si quadruplica la dose, perché per via endovenosa si perde il metabolismo di primo passaggio",
+        "C": "Si riduce la dose, perché per via orale arrivano in circolo circa 2,5 mg e per via endovenosa la biodisponibilità è del 100%",
+        "D": "Si raddoppia la dose, perché la morfina endovenosa viene eliminata più rapidamente",
+        "E": "Si mantiene la stessa dose, perché la biodisponibilità bassa non ha conseguenze cliniche"
+      },
+      "corretta": "C",
+      "spiegazione": "Con biodisponibilità orale del 25%, di 10 mg ne arrivano in circolazione sistemica circa 2,5 mg. Per via endovenosa la biodisponibilità è del 100%, quindi la dose va ridotta: la dose somministrata è sempre in funzione della biodisponibilità.",
+      "distrattori": {
+        "A": "Il testo lega la dose alla biodisponibilità della via scelta, non solo al peso.",
+        "B": "Perdere il primo passaggio aumenta la quota che raggiunge il circolo, quindi serve meno farmaco, non di più.",
+        "D": "Il testo non parla di eliminazione più rapida per via endovenosa.",
+        "E": "Il testo precisa che proprio per questo non bisognerà dare la stessa dose per via endovenosa."
+      },
+      "riferimento": "p. 50 – Biodisponibilità (esempio della morfina)"
+    },
+    {
+      "id": "04-012",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Metaboliti attivi e tossici",
+      "domanda": "Quale farmaco, citato nel testo come esempio di metabolita attivo, viene trasformato in morfina con un'azione analgesica molto più forte del composto di partenza?",
+      "opzioni": {
+        "A": "Paracetamolo",
+        "B": "Codeina",
+        "C": "Atorvastatina",
+        "D": "Lidocaina",
+        "E": "Rifampicina"
+      },
+      "corretta": "B",
+      "spiegazione": "La codeina, usata nella terapia del dolore e della tosse, ha come metabolita attivo la morfina, con azione analgesica molto più forte. La scheda tecnica riporta i metaboliti soprattutto quando sono attivi o tossici.",
+      "distrattori": {
+        "A": "Il paracetamolo è citato come esempio di farmaco con un metabolita tossico, non con un metabolita attivo analgesico.",
+        "C": "Il testo non cita metaboliti attivi dell'atorvastatina: ne sottolinea il metabolismo epatico tramite CYP3A4.",
+        "D": "La lidocaina è citata come esempio di posologia da titolare sull'effetto, non per i metaboliti.",
+        "E": "La rifampicina è citata come farmaco che interferisce con il metabolismo dell'atorvastatina."
+      },
+      "riferimento": "p. 50 – Biotrasformazione"
+    },
+    {
+      "id": "04-013",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Placebo e nocebo",
+      "domanda": "Negli studi controllati riportati in scheda tecnica, il 4,0% dei pazienti trattati con placebo ha interrotto lo studio per reazioni avverse (contro il 5,2% con atorvastatina). Come viene spiegato il fenomeno nel testo?",
+      "opzioni": {
+        "A": "Con la presenza di tracce di principio attivo nel placebo",
+        "B": "Con interazioni tra placebo e farmaci concomitanti metabolizzati dal CYP3A4",
+        "C": "Con l'effetto nocebo, legato all'impressionabilità del paziente",
+        "D": "Con l'effetto placebo, che produce solo risposte terapeutiche favorevoli",
+        "E": "Con un errore di randomizzazione tipico degli studi su statine"
+      },
+      "corretta": "C",
+      "spiegazione": "Gli effetti avversi riferiti con il placebo sono attribuiti all'effetto nocebo, dovuto all'impressionabilità del paziente. Il placebo è una sostanza inerte senza attività specifica che però può provocare risposte funzionali.",
+      "distrattori": {
+        "A": "Il placebo è definito come sostanza inerte, senza una specifica attività.",
+        "B": "Una sostanza inerte non può dare interazioni metaboliche: il testo non ipotizza nulla del genere.",
+        "D": "L'effetto placebo riguarda risposte favorevoli; gli effetti avversi con placebo sono detti nocebo.",
+        "E": "Il testo non chiama in causa errori metodologici."
+      },
+      "riferimento": "p. 49 – Effetti indesiderati e nocebo; p. 52 – Placebo"
+    },
+    {
+      "id": "04-014",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Placebo e nocebo",
+      "domanda": "Secondo il testo, in quali condizioni patologiche l'effetto placebo è particolarmente forte?",
+      "opzioni": {
+        "A": "Ipercolesterolemia e prevenzione cardiovascolare",
+        "B": "Malattie psichiatriche e sindrome del colon irritabile",
+        "C": "Infezioni batteriche e tubercolosi",
+        "D": "Artrite reumatoide e artrite psoriasica",
+        "E": "Malformazioni congenite e malattie genetiche"
+      },
+      "corretta": "B",
+      "spiegazione": "Il testo indica le malattie psichiatriche e il colon irritabile come condizioni con effetto placebo molto forte. Per questo, nei trial, un farmaco deve dimostrare una superiorità significativa rispetto al placebo per essere autorizzato.",
+      "distrattori": {
+        "A": "Sono le indicazioni dell'atorvastatina, non condizioni citate per l'effetto placebo.",
+        "C": "Il testo cita la tubercolosi solo per la terapia con rifampicina.",
+        "D": "Sono citate come indicazioni dell'infliximab nel discorso sui biosimilari.",
+        "E": "Le malformazioni congenite compaiono a proposito della talidomide e della farmacovigilanza."
+      },
+      "riferimento": "p. 52 – Quiz: che cosa è il placebo"
+    },
+    {
+      "id": "04-015",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Scheda tecnica (RCP)",
+      "domanda": "Perché, secondo il testo, per la maggior parte dei farmaci mancano informazioni sulla sicurezza in gravidanza e l'AIFA ne sconsiglia la prescrizione?",
+      "opzioni": {
+        "A": "Perché tutti i farmaci sono stati dimostrati teratogeni negli studi su animali",
+        "B": "Perché in gravidanza i farmaci non vengono assorbiti",
+        "C": "Perché non è etico condurre studi clinici su donne in gravidanza, e non si sa se siano dannosi per feto o madre",
+        "D": "Perché la scheda tecnica non prevede una sezione su gravidanza e allattamento",
+        "E": "Perché in gravidanza sono consentiti solo farmaci biologici"
+      },
+      "corretta": "C",
+      "spiegazione": "Molti farmaci sono controindicati in gravidanza soprattutto perché non sappiamo se sono dannosi: non si possono fare studi clinici su donne in gravidanza perché poco etico. Inoltre la fisiologia cambia e l'effetto del farmaco può essere diverso. Se il farmaco è indispensabile per la salute della madre, si prescrive con attento monitoraggio.",
+      "distrattori": {
+        "A": "Solo per alcuni farmaci c'è la certezza di teratogenicità (es. ACE-inibitori e sartani); per la maggioranza mancano informazioni.",
+        "B": "Il testo dice che le condizioni fisiologiche cambiano e l'effetto può essere diverso, non che i farmaci non siano assorbiti.",
+        "D": "Gravidanza e allattamento sono trattati proprio tra le controindicazioni della scheda tecnica.",
+        "E": "Il testo non pone alcuna regola del genere."
+      },
+      "riferimento": "p. 47 – Controindicazioni: gravidanza e allattamento"
+    },
+    {
+      "id": "04-016",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Farmaci equivalenti",
+      "domanda": "Quale affermazione sui farmaci generici (equivalenti), discussa nel vero/falso del testo, è VERA?",
+      "opzioni": {
+        "A": "Contengono fino al 20% in meno di principio attivo rispetto all'originale",
+        "B": "Sono esclusi dalla farmacovigilanza perché il principio attivo è già noto",
+        "C": "Per la loro approvazione sono necessari studi più ridotti, essenzialmente di farmacocinetica",
+        "D": "Se prodotti in Cina o in India non sono sottoposti a controlli",
+        "E": "Costano di più dell'originale perché devono ripetere gli studi clinici"
+      },
+      "corretta": "C",
+      "spiegazione": "Non trattandosi di un nuovo principio attivo, già conosciuto e in commercio da anni, per il generico non servono tutti gli studi: si richiedono studi di farmacocinetica. Il generico costa meno dell'originale, con risparmio per paziente e SSN.",
+      "distrattori": {
+        "A": "Falso (\"bufala\"): il margine di circa il 20% riguarda la variabilità biologica dei risultati di farmacocinetica, non la quantità di principio attivo.",
+        "B": "Falso: tutti i farmaci sono sottoposti a farmacovigilanza.",
+        "D": "Falso: sono sottoposti ai controlli, e quasi tutti i farmaci vengono prodotti in Cina.",
+        "E": "Falso: il generico costa meno e il suo iter di autorizzazione è semplificato."
+      },
+      "riferimento": "p. 53 – Vero o falso sui generici"
+    },
+    {
+      "id": "04-017",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Farmaci equivalenti",
+      "domanda": "Secondo il D.Lgs. 219 del 24 aprile 2006, un medicinale generico deve avere, rispetto al medicinale di riferimento:",
+      "opzioni": {
+        "A": "lo stesso meccanismo d'azione e una potenza simile, anche con principio attivo diverso",
+        "B": "la stessa composizione qualitativa e quantitativa di sostanze attive, la stessa forma farmaceutica e una bioequivalenza dimostrata da studi di biodisponibilità",
+        "C": "lo stesso principio attivo, anche in forma farmaceutica diversa, e un'efficacia dimostrata da nuovi trial di fase III",
+        "D": "la stessa sequenza amminoacidica e una similarità di qualità, efficacia e sicurezza dimostrata dal comparability exercise",
+        "E": "la stessa composizione qualitativa ma una quantità di principio attivo libera, purché l'effetto sia sovrapponibile"
+      },
+      "corretta": "B",
+      "spiegazione": "La definizione di legge richiede stessa composizione qualitativa e quantitativa di sostanze attive (stesso principio attivo nella stessa quantità, es. 10 mg), stessa forma farmaceutica e bioequivalenza dimostrata da studi appropriati di biodisponibilità.",
+      "distrattori": {
+        "A": "Lo stesso meccanismo d'azione non basta: serve lo stesso principio attivo nella stessa quantità.",
+        "C": "La forma farmaceutica deve essere la stessa e non si richiedono nuovi trial di efficacia, ma studi di farmacocinetica.",
+        "D": "È la logica dei biosimilari (farmaci biologici), approvati dall'EMA con il comparability exercise.",
+        "E": "Anche la quantità deve coincidere: se l'originale ha 10 mg, anche l'equivalente deve averne 10."
+      },
+      "riferimento": "p. 61 – Equivalenza (D.Lgs. 219/2006)"
+    },
+    {
+      "id": "04-018",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Farmaci equivalenti",
+      "domanda": "Un paziente usa Oki task (ketoprofene) e chiede al farmacista un generico in compresse contenente ketoprofene, pensando che sia il suo equivalente. Come va valutato, secondo il testo?",
+      "opzioni": {
+        "A": "È equivalente, perché contiene lo stesso principio attivo",
+        "B": "Non è equivalente, perché non basta lo stesso principio attivo: serve anche la stessa forma farmaceutica",
+        "C": "È equivalente solo se prodotto dalla stessa azienda dell'originale",
+        "D": "Non è equivalente, perché il ketoprofene è un farmaco biologico e può avere solo biosimilari",
+        "E": "È equivalente se il prezzo è inferiore di almeno il 20%"
+      },
+      "corretta": "B",
+      "spiegazione": "Non tutti i medicinali con lo stesso principio attivo sono equivalenti: devono presentarsi nella stessa forma farmaceutica. Il testo cita proprio l'Oki task, che non ha come equivalente un generico in compresse.",
+      "distrattori": {
+        "A": "Lo stesso principio attivo è necessario ma non sufficiente.",
+        "C": "Gli equivalenti sono prodotti da aziende diverse dopo la scadenza del brevetto.",
+        "D": "Il ketoprofene non è un farmaco biologico; il concetto di biosimilare riguarda i biologici.",
+        "E": "Il prezzo non rientra nella definizione di equivalenza."
+      },
+      "riferimento": "p. 61 – Equivalenza (esempio Oki task)"
+    },
+    {
+      "id": "04-019",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Bioequivalenza",
+      "domanda": "Quali sono i tre parametri, necessari e sufficienti, che devono essere studiati per certificare la bioequivalenza?",
+      "opzioni": {
+        "A": "AUC, Cmax e Tmax",
+        "B": "Volume di distribuzione, clearance ed emivita",
+        "C": "Legame proteico, Cmax ed emivita",
+        "D": "AUC, indice terapeutico ed efficacia clinica",
+        "E": "Tmax, volume di distribuzione e via di eliminazione"
+      },
+      "corretta": "A",
+      "spiegazione": "La bioequivalenza si certifica con la biodisponibilità misurata come area sotto la curva delle concentrazioni plasmatiche (AUC), la concentrazione massima (Cmax) e il tempo necessario a raggiungerla (Tmax). Gli studi si fanno su volontari sani confrontando le curve concentrazione-tempo di equivalente e originale.",
+      "distrattori": {
+        "B": "Non sono i parametri indicati dal testo per la bioequivalenza.",
+        "C": "Legame proteico ed emivita non compaiono tra i tre parametri.",
+        "D": "Non si richiedono studi di efficacia clinica: la bioequivalenza fa da surrogato dell'equivalenza terapeutica.",
+        "E": "Volume di distribuzione e via di eliminazione non fanno parte dei tre parametri."
+      },
+      "riferimento": "p. 62 – Parametri di bioequivalenza"
+    },
+    {
+      "id": "04-020",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Bioequivalenza",
+      "domanda": "Secondo il testo, come si collegano equivalenza farmaceutica, bioequivalenza ed equivalenza terapeutica?",
+      "opzioni": {
+        "A": "L'equivalenza farmaceutica da sola basta a garantire l'equivalenza terapeutica",
+        "B": "L'equivalenza terapeutica si dà per scontata quando ci sono sia equivalenza farmaceutica sia bioequivalenza",
+        "C": "La bioequivalenza coincide con l'equivalenza farmaceutica: stesso principio attivo nella stessa quantità",
+        "D": "L'equivalenza terapeutica va sempre dimostrata con nuovi trial clinici di efficacia",
+        "E": "La bioequivalenza riguarda solo l'identità degli eccipienti e del confezionamento"
+      },
+      "corretta": "B",
+      "spiegazione": "L'equivalenza farmaceutica è il concetto più semplice (stesso principio attivo, stessa quantità). La bioequivalenza è più ampia, perché richiede caratteristiche farmacocinetiche simili. Equivalenza farmaceutica più bioequivalenza portano a considerare scontata l'equivalenza terapeutica: la bioequivalenza ne è il surrogato.",
+      "distrattori": {
+        "A": "Serve anche la bioequivalenza, cioè una farmacocinetica simile.",
+        "C": "Il testo distingue l'equivalenza farmaceutica dalla bioequivalenza in senso stretto.",
+        "D": "Per gli equivalenti il dossier è semplificato e si basa su studi di farmacocinetica, non su nuovi trial di efficacia.",
+        "E": "La bioequivalenza riguarda la farmacocinetica (AUC, Cmax, Tmax)."
+      },
+      "riferimento": "p. 61-62 – Equivalenza farmaceutica, bioequivalenza ed equivalenza terapeutica"
+    },
+    {
+      "id": "04-021",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Bioequivalenza",
+      "domanda": "Alla scadenza del brevetto, un'azienda propone lo stesso principio attivo in un gel orosolubile a rilascio rapido, mentre l'originale è una formulazione a rilascio prolungato. Le curve concentrazione-tempo sono completamente diverse. Cosa si conclude?",
+      "opzioni": {
+        "A": "I due prodotti sono equivalenti perché contengono lo stesso principio attivo nella stessa dose",
+        "B": "Sono equivalenti se la differenza di Cmax è compensata da un Tmax più breve",
+        "C": "Non sono equivalenti: le curve diverse e la diversa forma farmaceutica escludono la bioequivalenza",
+        "D": "Sono biosimilari, perché ottenuti con un processo produttivo differente",
+        "E": "Sono equivalenti perché il limite di oscillazione ammesso dalla legge non si applica al Tmax"
+      },
+      "corretta": "C",
+      "spiegazione": "Il testo mostra due curve A e B dello stesso farmaco che non possono essere definite equivalenti perché completamente diverse, probabilmente per forma farmaceutica differente (rilascio rapido vs prolungato). Molte aziende alla scadenza del brevetto cambiano formulazione, ma il prodotto non è un equivalente.",
+      "distrattori": {
+        "A": "Stesso principio attivo e stessa dose non bastano: servono stessa forma farmaceutica e bioequivalenza.",
+        "B": "AUC, Cmax e Tmax devono essere tutti simili, non compensarsi a vicenda.",
+        "D": "Il concetto di biosimilare riguarda i farmaci biologici prodotti da organismi viventi.",
+        "E": "Il Tmax è uno dei tre parametri da confrontare per la bioequivalenza."
+      },
+      "riferimento": "p. 53, 62 – Curve A e B, cambio di formulazione"
+    },
+    {
+      "id": "04-022",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Brevetto",
+      "domanda": "Quale affermazione sul brevetto (certificato complementare di protezione) dei farmaci nell'Unione Europea è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Dura 20 anni a partire dalla data di commercializzazione",
+        "B": "Dura solitamente 10 anni (fino a 11-12 con estensione motivata) e comprende anche le fasi di sviluppo prima dell'autorizzazione",
+        "C": "Copre solo il periodo di vendita, quindi l'esclusività effettiva è sempre di almeno 10 anni",
+        "D": "È più lungo che negli Stati Uniti",
+        "E": "Alla scadenza il prezzo dell'originale resta invariato, perché è negoziato con l'AIFA"
+      },
+      "corretta": "B",
+      "spiegazione": "Il brevetto (certificato complementare di protezione) nell'UE dura solitamente 10 anni, 11 o 12 se il produttore chiede un'estensione motivata. I 10 anni coprono anche lo sviluppo e la presentazione dei dossier prima dell'autorizzazione, quindi l'esclusività effettiva di vendita può essere molto ridotta.",
+      "distrattori": {
+        "A": "Il testo indica una durata di 10 anni, estendibile a 11-12.",
+        "C": "Il brevetto comprende anche le fasi di sviluppo: l'esclusività di vendita effettiva può essere molto più breve.",
+        "D": "Negli Stati Uniti la protezione brevettuale è più lunga.",
+        "E": "Alla scadenza la concorrenza costringe anche il produttore dell'originale ad abbassare i prezzi."
+      },
+      "riferimento": "p. 60-61 – Brevetto"
+    },
+    {
+      "id": "04-023",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Farmaci equivalenti",
+      "domanda": "In farmacia sono disponibili Omeprazen (omeprazolo 10 mg, 14 compresse) e i suoi equivalenti. Quale affermazione è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Il nome dell'equivalente è scelto liberamente dall'azienda, come per un nuovo marchio",
+        "B": "L'equivalente può contenere 20 mg se la confezione ha meno compresse",
+        "C": "Il nome è stabilito per legge (principio attivo seguito dal nome dell'azienda) e, se il paziente sceglie l'originale, la differenza di prezzo è a suo carico",
+        "D": "La differenza di prezzo tra originale ed equivalente è sempre a carico del SSN",
+        "E": "L'equivalente può avere un blister diverso e non intercambiabile con l'originale"
+      },
+      "corretta": "C",
+      "spiegazione": "Il nome del generico è stabilito per legge: principio attivo seguito dal nome dell'azienda (es. Omeprazolo Teva, Omeprazolo Doc generici). Le preparazioni devono essere identiche (10 mg, 14 compresse, blister intercambiabili); l'unica differenza è il prezzo, e la differenza è pagata dal paziente, non dal SSN.",
+      "distrattori": {
+        "A": "Il nome è stabilito per legge, non scelto liberamente.",
+        "B": "La composizione quantitativa deve essere identica: 10 mg in 14 compresse.",
+        "D": "Il testo precisa che la differenza è pagata dal paziente e non è a carico del SSN.",
+        "E": "Preparazioni e blister devono essere intercambiabili."
+      },
+      "riferimento": "p. 63 – Esempio equivalenti (omeprazolo)"
+    },
+    {
+      "id": "04-024",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Farmaci equivalenti",
+      "domanda": "Scade il brevetto di una statina e compaiono i generici. Un medico propone a un paziente ben compensato di passare a una statina più recente, ancora sotto brevetto. Come giudica il testo questo comportamento?",
+      "opzioni": {
+        "A": "Corretto, perché i generici hanno meno principio attivo",
+        "B": "Corretto, perché la farmacovigilanza non si applica ai generici",
+        "C": "Uno stratagemma da evitare: farmaci molto simili proposti come nuovi a prezzo più alto, con cambio di terapia ingiustificato e aumento della spesa",
+        "D": "Obbligatorio per legge alla scadenza del brevetto dell'originale",
+        "E": "Indifferente, perché il prezzo dei farmaci sotto brevetto è uguale a quello dei generici"
+      },
+      "corretta": "C",
+      "spiegazione": "Il testo descrive come, alla scadenza del brevetto, le prescrizioni si spostino verso statine ancora sotto brevetto, molto simili ma più costose. Sono stratagemmi: perché cambiare terapia a un paziente compensato? In Sardegna si è arrivati a campagne di sensibilizzazione per contenere la spesa.",
+      "distrattori": {
+        "A": "È una \"bufala\": il generico contiene la dose dichiarata di principio attivo.",
+        "B": "Tutti i farmaci, generici compresi, sono soggetti a farmacovigilanza.",
+        "D": "Nessun obbligo di questo tipo è descritto nel testo.",
+        "E": "Il farmaco sotto brevetto costa di più."
+      },
+      "riferimento": "p. 63-64 – Mercato dei farmaci equivalenti"
+    },
+    {
+      "id": "04-025",
+      "difficolta": "base",
+      "tipo": "confronto",
+      "argomento": "Farmaci biologici",
+      "domanda": "Qual è la differenza tra farmaci biologici e biotecnologici secondo il testo?",
+      "opzioni": {
+        "A": "I biologici sono ottenuti per sintesi chimica, i biotecnologici da cellule viventi",
+        "B": "I biologici sono prodotti naturalmente da cellule viventi o estratti da organismi viventi; i biotecnologici sono prodotti da organismi modificati con ingegneria genetica",
+        "C": "I biologici sono molecole piccole, i biotecnologici sono molecole ad alto peso molecolare",
+        "D": "I biotecnologici sono identici alle controparti naturali, i biologici no",
+        "E": "Gli anticorpi monoclonali sono biologici, mentre emoderivati e vaccini a virus attenuati sono biotecnologici"
+      },
+      "corretta": "B",
+      "spiegazione": "I farmaci biologici sono sostanze prodotte da cellule viventi o estratte da organismi viventi (es. emoderivati, vaccini a virus attenuati). I biotecnologici sono prodotti da organismi modificati ad hoc con tecniche di ingegneria genetica e differiscono dalle controparti naturali (es. anticorpi monoclonali, vaccini ricombinanti).",
+      "distrattori": {
+        "A": "Nessuno dei due è ottenuto per sintesi chimica.",
+        "C": "Entrambi sono in genere molecole grandi, ad alto peso molecolare.",
+        "D": "Sono i biotecnologici a differire dalle loro controparti naturali.",
+        "E": "È l'inverso: gli anticorpi monoclonali sono biotecnologici, emoderivati e vaccini attenuati biologici."
+      },
+      "riferimento": "p. 56 – I farmaci biologici"
+    },
+    {
+      "id": "04-026",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Farmaci biologici",
+      "domanda": "Quale ordine di peso molecolare, riportato nel testo, è corretto per insulina, ormone della crescita e immunoglobuline?",
+      "opzioni": {
+        "A": "Insulina ~150.000 Da, ormone della crescita ~22.000 Da, immunoglobuline ~5.000 Da",
+        "B": "Insulina ~5.000 Da, ormone della crescita ~22.000 Da, immunoglobuline ~150.000 Da",
+        "C": "Insulina ~22.000 Da, ormone della crescita ~5.000 Da, immunoglobuline ~150.000 Da",
+        "D": "Insulina ~5.000 Da, ormone della crescita ~150.000 Da, immunoglobuline ~22.000 Da",
+        "E": "Insulina ~500 Da, ormone della crescita ~5.000 Da, immunoglobuline ~22.000 Da"
+      },
+      "corretta": "B",
+      "spiegazione": "Insulina (il primo farmaco biologico usato), ormone della crescita e immunoglobuline hanno peso molecolare crescente: circa 5.000, 22.000 e 150.000 dalton. L'insulina è tra i biologici più piccoli.",
+      "distrattori": {
+        "A": "Ordine invertito: l'insulina è la più piccola e le immunoglobuline le più grandi.",
+        "C": "L'insulina pesa circa 5.000 Da, non 22.000 (valore dell'ormone della crescita).",
+        "D": "Ormone della crescita e immunoglobuline sono scambiati.",
+        "E": "Valori non riportati nel testo: le immunoglobuline pesano circa 150.000 Da."
+      },
+      "riferimento": "p. 56 – I farmaci biologici più conosciuti"
+    },
+    {
+      "id": "04-027",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Anticorpi monoclonali",
+      "domanda": "Quale tipo di anticorpo monoclonale, distinto in base alla desinenza, è il meno immunogenico secondo il testo?",
+      "opzioni": {
+        "A": "Murino (desinenza -omab)",
+        "B": "Chimerico (porzione murina e porzione umana)",
+        "C": "Umanizzato (desinenza -zumab)",
+        "D": "Umano (desinenza -umab)",
+        "E": "Coniugato a un farmaco citotossico"
+      },
+      "corretta": "D",
+      "spiegazione": "Più aumenta la componente umana, meno probabile è la formazione di anticorpi anti-anticorpo, che limitano la terapia. Oggi si tende a sintetizzare anticorpi interamente umani (-umab) perché meno immunogenici.",
+      "distrattori": {
+        "A": "I murini, tra i primi sintetizzati, sono i più diversi dalla struttura umana e quindi i più immunogenici.",
+        "B": "I chimerici hanno ancora una porzione murina.",
+        "C": "Gli umanizzati hanno una componente umana crescente ma non totale.",
+        "E": "Gli anticorpi coniugati sono una categoria definita dal meccanismo (vettori di farmaco), non dalla componente umana."
+      },
+      "riferimento": "p. 57 – Classificazione degli anticorpi monoclonali"
+    },
+    {
+      "id": "04-028",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Anticorpi monoclonali",
+      "domanda": "L'infliximab è citato come esempio di uno dei due meccanismi d'azione principali degli anticorpi monoclonali. Quale?",
+      "opzioni": {
+        "A": "Penetra nella cellula per endocitosi e blocca un enzima intracellulare",
+        "B": "Lega una molecola solubile nel plasma o nel liquido extracellulare, il TNF, contrastandone l'azione con effetto immunomodulante antinfiammatorio",
+        "C": "Riconosce contemporaneamente un antigene tumorale e un antigene del linfocita",
+        "D": "Trasporta un chemioterapico che viene liberato dopo la lisi del linker",
+        "E": "Inibisce il CYP3A4 riducendo il metabolismo delle citochine"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli anticorpi monoclonali agiscono legando in modo specifico recettori sulla superficie cellulare oppure molecole solubili (es. TNF), contrastandone l'azione: in questo caso l'effetto è immunomodulante antinfiammatorio, come per l'infliximab. In alcuni casi coesistono entrambi i meccanismi.",
+      "distrattori": {
+        "A": "Per dimensioni e idrofilia gli anticorpi non riescono a entrare nella cellula, nemmeno con l'endocitosi.",
+        "C": "È il meccanismo degli anticorpi bispecifici.",
+        "D": "È il meccanismo degli anticorpi farmaco-coniugati.",
+        "E": "Gli anticorpi monoclonali non vanno incontro al metabolismo classico e il testo non descrive un'azione sui CYP."
+      },
+      "riferimento": "p. 58 – Meccanismo d'azione degli anticorpi monoclonali"
+    },
+    {
+      "id": "04-029",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Anticorpi monoclonali",
+      "domanda": "Quale caratteristica farmacocinetica degli anticorpi monoclonali è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Sono metabolizzati dal fegato tramite i citocromi e hanno un'emivita di poche ore",
+        "B": "Sono degradati lentamente da proteasi e, legandosi al recettore Fc neonatale, vengono riciclati, con emivita da giorni a settimane",
+        "C": "Sono assorbiti bene per via orale grazie alla loro idrofilia",
+        "D": "Vengono eliminati immodificati per filtrazione glomerulare",
+        "E": "Attraversano facilmente la barriera ematoencefalica grazie alle grandi dimensioni"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli anticorpi monoclonali non subiscono il metabolismo classico, ma hanno un turnover simile alle Ig naturali: sono degradati lentamente da proteasi plasmatiche o intracellulari. Internalizzati, si legano al recettore Fc neonatale e vengono riciclati fuori dalla cellula; quelli non legati sono distrutti dalle proteasi. L'emivita va da alcuni giorni a diverse settimane.",
+      "distrattori": {
+        "A": "Non vanno incontro al metabolismo classico e hanno un'emivita molto lunga.",
+        "C": "Si somministrano per via parenterale (endovenosa o sottocutanea); la via orale è ancora in studio.",
+        "D": "Il testo descrive degradazione da proteasi, non escrezione renale immodificata.",
+        "E": "La scarsa penetrazione nel SNC è uno dei loro limiti."
+      },
+      "riferimento": "p. 59 – Farmacocinetica degli anticorpi monoclonali"
+    },
+    {
+      "id": "04-030",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Anticorpi monoclonali",
+      "domanda": "Qual è il razionale degli anticorpi farmaco-coniugati descritto nel testo?",
+      "opzioni": {
+        "A": "L'anticorpo uccide direttamente la cellula tumorale, mentre il farmaco coniugato ne prolunga l'emivita",
+        "B": "L'anticorpo fa da vettore verso la cellula bersaglio, dove la molecola citotossica viene liberata dopo endocitosi, aumentando la selettività e l'indice terapeutico",
+        "C": "Il coniugato permette all'anticorpo di attraversare la barriera ematoencefalica",
+        "D": "Il linker deve essere il più stabile possibile, in modo che il farmaco non venga mai liberato",
+        "E": "Il coniugato serve a ridurre l'immunogenicità degli anticorpi murini"
+      },
+      "corretta": "B",
+      "spiegazione": "Negli anticorpi farmaco-coniugati l'anticorpo non è responsabile della morte della cellula ma è un vettore: il complesso antigene-anticorpo viene endocitato e la molecola citotossica liberata nella cellula. Si aumenta la selettività e quindi l'indice terapeutico, riducendo la tossicità rispetto ai chemioterapici classici.",
+      "distrattori": {
+        "A": "Il testo precisa che in questo caso gli anticorpi sono semplici vettori, non responsabili della morte cellulare.",
+        "C": "Il testo non attribuisce ai coniugati il superamento della BEE, che resta un limite degli anticorpi.",
+        "D": "Il linker deve tenere saldamente legato il farmaco ma essere abbastanza fragile da liberarlo.",
+        "E": "L'immunogenicità dipende dalla componente umana dell'anticorpo, non dalla coniugazione."
+      },
+      "riferimento": "p. 59-60 – Anticorpi farmaco-coniugati e sviluppi futuri"
+    },
+    {
+      "id": "04-031",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Anticorpi monoclonali",
+      "domanda": "Come spiega il testo il fallimento della terapia con anticorpi monoclonali nella malattia di Alzheimer?",
+      "opzioni": {
+        "A": "Gli anticorpi vengono rapidamente metabolizzati dal CYP3A4 epatico",
+        "B": "Gli anticorpi penetrano poco nel SNC attraverso la barriera ematoencefalica, per cui degradano solo la beta-amiloide periferica",
+        "C": "Gli anticorpi umani inducono anticorpi anti-farmaco che li neutralizzano completamente",
+        "D": "La somministrazione sottocutanea ogni 6 mesi non garantisce concentrazioni stabili",
+        "E": "Il recettore Fc neonatale li distrugge prima che raggiungano il bersaglio"
+      },
+      "corretta": "B",
+      "spiegazione": "Tra i limiti degli anticorpi monoclonali c'è la scarsa penetrazione nel SNC attraverso la BEE: nell'Alzheimer si ha la degradazione della sola beta-amiloide periferica e non di quella centrale.",
+      "distrattori": {
+        "A": "Gli anticorpi monoclonali non vanno incontro al metabolismo classico.",
+        "C": "Gli anticorpi umani sono i meno immunogenici; il testo non lega a questo il fallimento nell'Alzheimer.",
+        "D": "La somministrazione rara è presentata come un vantaggio per la compliance.",
+        "E": "Il legame al recettore Fc neonatale permette il riciclo degli anticorpi, non la loro distruzione."
+      },
+      "riferimento": "p. 59 – Limiti degli anticorpi monoclonali"
+    },
+    {
+      "id": "04-032",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Biosimilari",
+      "domanda": "In cosa differisce l'approvazione di un biosimilare da quella di un farmaco equivalente?",
+      "opzioni": {
+        "A": "Il biosimilare richiede solo studi di farmacocinetica, come l'equivalente",
+        "B": "Il biosimilare è approvato dall'EMA con il comparability exercise, che deve dimostrare similarità di qualità, efficacia e sicurezza",
+        "C": "Il biosimilare non richiede alcuno studio clinico perché ha la stessa sequenza amminoacidica",
+        "D": "Il biosimilare deve dimostrare di essere identico all'originatore in tutti i lotti",
+        "E": "Il biosimilare può essere commercializzato prima della scadenza del brevetto dell'originatore"
+      },
+      "corretta": "B",
+      "spiegazione": "Rispetto al processo degli equivalenti, basato quasi solo sulla farmacocinetica, il comparability exercise dell'EMA è più complesso: test fisico-chimici, test preclinici e trial clinici (in genere di fase I e III sull'indicazione principale) per stabilire una similarità di qualità, efficacia e sicurezza.",
+      "distrattori": {
+        "A": "Gli studi di sola farmacocinetica sono propri degli equivalenti di sintesi chimica.",
+        "C": "Il comparability exercise comprende trial clinici, di solito di fase I e III.",
+        "D": "Per la microeterogeneità non si può garantire l'identità: si parla di similitudine.",
+        "E": "Il biosimilare si produce una volta scaduta la copertura brevettuale dell'originatore."
+      },
+      "riferimento": "p. 86-87 – Approvazione dei biosimilari e comparability exercise"
+    },
+    {
+      "id": "04-033",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Biosimilari",
+      "domanda": "Perché due farmaci biologici con la stessa sequenza amminoacidica non possono essere definiti identici?",
+      "opzioni": {
+        "A": "Perché hanno sempre una diversa composizione quantitativa di principio attivo",
+        "B": "Per la microeterogeneità: modifiche post-traduzionali (es. glicosilazione) in siti diversi, presente anche tra lotti diversi dello stesso produttore",
+        "C": "Perché sono prodotti per sintesi chimica con processi brevettati diversi",
+        "D": "Perché la microeterogeneità esiste solo tra originatore e biosimilare, mai tra lotti dello stesso farmaco",
+        "E": "Perché i biosimilari sono sempre più immunogenici degli originatori"
+      },
+      "corretta": "B",
+      "spiegazione": "I biologici hanno una variabilità intrinseca (microeterogeneità): un peptide subisce modifiche post-traduzionali, come l'aggiunta di glucidi o lipidi, che possono riguardare siti diversi. Il fenomeno esiste anche tra lotti diversi dello stesso farmaco della stessa azienda: è un concetto intrinseco al farmaco.",
+      "distrattori": {
+        "A": "La differenza non riguarda la quantità di principio attivo, ma micro-variazioni strutturali.",
+        "C": "I biologici sono prodotti da organismi viventi, non per sintesi chimica.",
+        "D": "Il testo afferma che la microeterogeneità c'è anche tra lotti diversi dello stesso produttore.",
+        "E": "Non ci sono evidenze che i biosimilari siano più immunogenici degli originatori."
+      },
+      "riferimento": "p. 54-55, 86-87 – Microeterogeneità"
+    },
+    {
+      "id": "04-034",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Biosimilari",
+      "domanda": "Un biosimilare dell'infliximab supera il comparability exercise con studi condotti solo sull'artrite reumatoide. L'originatore è approvato anche per l'artrite psoriasica. Cosa prevede il testo?",
+      "opzioni": {
+        "A": "Il biosimilare può essere usato solo per l'artrite reumatoide finché non completa un trial specifico",
+        "B": "Attraverso l'estrapolazione delle indicazioni può essere approvato anche per l'artrite psoriasica senza ulteriori studi specifici",
+        "C": "Può essere usato off label per l'artrite psoriasica, sotto responsabilità del solo medico",
+        "D": "Deve ripetere solo gli studi di farmacocinetica sull'artrite psoriasica",
+        "E": "L'estensione è possibile solo se l'azienda è la stessa dell'originatore"
+      },
+      "corretta": "B",
+      "spiegazione": "Se il comparability exercise ha esito positivo, l'estrapolazione delle indicazioni consente di approvare il biosimilare per tutte le indicazioni autorizzate dell'originatore, senza studi separati per ciascuna: il testo usa proprio l'esempio dell'infliximab.",
+      "distrattori": {
+        "A": "Non è necessario un trial per ogni indicazione grazie all'estrapolazione.",
+        "C": "L'indicazione viene estesa formalmente, quindi non si tratta di uso off label.",
+        "D": "Non sono richiesti ulteriori studi specifici per l'artrite psoriasica.",
+        "E": "I biosimilari sono prodotti da aziende diverse dopo la scadenza del brevetto."
+      },
+      "riferimento": "p. 87 – Estrapolazione delle indicazioni"
+    },
+    {
+      "id": "04-035",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Biosimilari",
+      "domanda": "Una regione aggiudica la gara per l'infliximab a un biosimilare. Un paziente non naïve, che risponde bene all'originatore, è preoccupato dal cambio. Quale affermazione è corretta secondo il testo?",
+      "opzioni": {
+        "A": "L'AIFA obbliga il medico a sostituire l'originatore con il biosimilare",
+        "B": "Il cambio è sconsigliato perché i biosimilari sono più immunogenici",
+        "C": "L'AIFA non dà indicazioni né obblighi, ma finora non sono emerse differenze di efficacia, tossicità o sicurezza nel passaggio tra originatore e biosimilare",
+        "D": "Il paziente deve acquistare l'originatore in farmacia territoriale a proprie spese",
+        "E": "Il biosimilare deve essere sospeso se il paziente era già in trattamento"
+      },
+      "corretta": "C",
+      "spiegazione": "L'AIFA non fornisce indicazioni e non obbliga il medico, che però è spesso obbligato indirettamente perché la regione acquista il biosimilare. Finora non sono emerse differenze di efficacia o tossicità né problemi di sicurezza nel cambio, e l'immunogenicità di biosimilari e originatori è simile.",
+      "distrattori": {
+        "A": "Il testo precisa che l'AIFA non obbliga il medico a cambiare farmaco.",
+        "B": "Non ci sono evidenze di maggiore immunogenicità dei biosimilari.",
+        "D": "Questi farmaci in genere sono distribuiti dalle farmacie ospedaliere, non acquistati dal paziente.",
+        "E": "Lo switching non ha mostrato problemi di sicurezza."
+      },
+      "riferimento": "p. 88 – Gare d'appalto, switching e immunogenicità"
+    },
+    {
+      "id": "04-036",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Farmacovigilanza",
+      "domanda": "Quale evento, secondo il testo, diede avvio all'attuale sistema di farmacovigilanza?",
+      "opzioni": {
+        "A": "La morte di una quindicenne inglese durante un intervento in anestesia nel 1848",
+        "B": "Le malformazioni congenite nei figli di donne che avevano assunto talidomide in gravidanza, nel 1961",
+        "C": "La scoperta degli anticorpi monoclonali da parte di Köhler e Milstein nel 1975",
+        "D": "L'attivazione della Rete Nazionale di Farmacovigilanza nel 2001",
+        "E": "La carenza di azitromicina durante la pandemia"
+      },
+      "corretta": "B",
+      "spiegazione": "L'origine della farmacovigilanza risale al 1848, ma il caso che diede avvio al sistema attuale fu, nel 1961, l'osservazione di malformazioni congenite nei figli di donne trattate con talidomide per la nausea in gravidanza.",
+      "distrattori": {
+        "A": "Il caso del 1848 è indicato come origine remota della farmacovigilanza, non come avvio del sistema attuale.",
+        "C": "È un evento della storia degli anticorpi monoclonali, non della farmacovigilanza.",
+        "D": "La RNF è attiva dal 2001, ma non è l'evento che ha avviato il sistema.",
+        "E": "La carenza di azitromicina è citata come esempio di richieste inappropriate durante la pandemia."
+      },
+      "riferimento": "p. 146 – Farmacovigilanza (origini); p. 57 – Storia degli anticorpi monoclonali"
+    },
+    {
+      "id": "04-037",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Segnalazione di ADR",
+      "domanda": "Un medico osserva un'eruzione cutanea lieve in un paziente che ha da poco iniziato un farmaco, ma non è certo che sia correlata. Cosa deve fare secondo il testo?",
+      "opzioni": {
+        "A": "Non segnalare, perché la segnalazione richiede la certezza del nesso causale",
+        "B": "Non segnalare, perché vanno segnalate solo le reazioni gravi e inattese",
+        "C": "Segnalare: basta il sospetto, indipendentemente da gravità e prevedibilità, ed è un obbligo legale e deontologico",
+        "D": "Segnalare solo dopo aver effettuato una risomministrazione per confermare la reazione",
+        "E": "Presentare una denuncia, perché la segnalazione ha valore legale contro il produttore"
+      },
+      "corretta": "C",
+      "spiegazione": "Vanno segnalate tutte le reazioni di cui si sospetta una correlazione con un medicinale, indipendentemente da gravità e prevedibilità: non serve la certezza, il nesso sarà valutato dalle autorità regolatorie. Per l'operatore sanitario segnalare è un dovere deontologico e un obbligo legale; la segnalazione non è una denuncia.",
+      "distrattori": {
+        "A": "È sufficiente il sospetto: la causalità viene approfondita dalle autorità.",
+        "B": "Le reazioni si segnalano indipendentemente da gravità e prevedibilità.",
+        "D": "Il rechallenge è una delle variabili valutate, non un prerequisito per segnalare.",
+        "E": "La segnalazione di sospetta reazione avversa non è una denuncia."
+      },
+      "riferimento": "p. 146-147 – Domande chiave 1-6"
+    },
+    {
+      "id": "04-038",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Segnalazione di ADR",
+      "domanda": "Entro quanto tempo un operatore sanitario deve segnalare una sospetta reazione avversa, secondo il testo?",
+      "opzioni": {
+        "A": "Entro 7 giorni per tutti i farmaci",
+        "B": "Entro 24 ore per tutti i farmaci, vaccini compresi",
+        "C": "Entro 2 giorni per la maggior parte dei farmaci ed entro 36 ore per i farmaci biologici, vaccini compresi",
+        "D": "Entro 36 ore per i farmaci di sintesi ed entro 2 giorni per i biologici",
+        "E": "Non c'è un termine: la segnalazione tardiva ha lo stesso valore"
+      },
+      "corretta": "C",
+      "spiegazione": "La segnalazione va fatta entro 2 giorni da quando si viene a conoscenza del problema; per i farmaci biologici, vaccini compresi, entro 36 ore. Una segnalazione tardiva viene registrata ma è più difficile raccogliere le informazioni necessarie.",
+      "distrattori": {
+        "A": "7 giorni è il tempo entro cui le informazioni arrivano alla RNF, non il termine per l'operatore.",
+        "B": "Ogni 24 ore i dati passano dalla RNF a Eudravigilance; non è il termine di segnalazione.",
+        "D": "I tempi sono invertiti: 36 ore valgono per i biologici.",
+        "E": "Esiste una tempistica precisa; la segnalazione tardiva rende difficile raccogliere ulteriori informazioni."
+      },
+      "riferimento": "p. 147 – Domanda chiave 7"
+    },
+    {
+      "id": "04-039",
+      "difficolta": "avanzato",
+      "tipo": "nozionistica",
+      "argomento": "Farmacovigilanza",
+      "domanda": "Qual è il percorso corretto di una segnalazione inviata tramite il portale AIFA, secondo il testo?",
+      "opzioni": {
+        "A": "Va direttamente all'OMS, che la inoltra all'EMA ogni settimana",
+        "B": "Arriva entro 7 giorni alla Rete Nazionale di Farmacovigilanza, da cui ogni 24 ore passa a Eudravigilance e poi all'OMS",
+        "C": "Viene inviata solo all'azienda titolare dell'AIC, che decide se trasmetterla",
+        "D": "Resta nella Rete Nazionale di Farmacovigilanza e non viene condivisa a livello internazionale",
+        "E": "Arriva al PRAC entro 24 ore, che ritira subito il farmaco"
+      },
+      "corretta": "B",
+      "spiegazione": "Le segnalazioni (scheda o online) arrivano entro 7 giorni alla RNF, attiva dal 2001; da qui ogni 24 ore vanno al database europeo Eudravigilance e poi all'OMS. Se si segnala all'azienda, il responsabile comunica direttamente con Eudravigilance. Dopo pochi giorni la segnalazione è visibile a livello internazionale.",
+      "distrattori": {
+        "A": "L'OMS è l'ultimo passaggio, dopo RNF ed Eudravigilance.",
+        "C": "La segnalazione all'azienda è una delle possibili vie, ma non quella del portale AIFA.",
+        "D": "I dati confluiscono in Eudravigilance e all'OMS.",
+        "E": "Il PRAC interviene solo su segnali confermati, e il ritiro è la misura più estrema."
+      },
+      "riferimento": "p. 147 – Domanda chiave 10"
+    },
+    {
+      "id": "04-040",
+      "difficolta": "avanzato",
+      "tipo": "nozionistica",
+      "argomento": "Farmacovigilanza",
+      "domanda": "Nella valutazione del nesso causale di un segnale di sicurezza, quale affermazione è corretta secondo il testo?",
+      "opzioni": {
+        "A": "L'associazione temporale tra assunzione e reazione è sufficiente a dimostrare la causalità",
+        "B": "Esiste un numero minimo standard di segnalazioni oltre il quale si genera un segnale",
+        "C": "Si considerano anche la risposta alla sospensione (dechallenge) e alla risomministrazione (rechallenge), oltre a farmaci e patologie concomitanti",
+        "D": "Si valutano solo le segnalazioni degli operatori sanitari, non quelle dei pazienti",
+        "E": "Se il segnale è confermato, il PRAC deve sempre ritirare il farmaco dal commercio"
+      },
+      "corretta": "C",
+      "spiegazione": "Non esistono criteri standard sul numero di segnalazioni: si valutano qualità dei dati, caratteristiche di farmaco ed evento, forza delle evidenze e variabili specifiche (intervallo temporale, esami, dose, indicazione, cause alternative, dechallenge e rechallenge). La semplice associazione temporale non basta.",
+      "distrattori": {
+        "A": "Il testo afferma esplicitamente che la semplice associazione temporale non è sufficiente.",
+        "B": "Non esistono criteri standard sul numero di segnalazioni.",
+        "D": "Possono segnalare sia gli operatori sanitari sia i cittadini/pazienti.",
+        "E": "Il PRAC può non emanare raccomandazioni, chiedere altri dati, modificare il foglietto, richiedere studi post-autorizzativi o, nel peggiore dei casi, sospendere o revocare."
+      },
+      "riferimento": "p. 148 – Domande chiave 12-14"
+    },
+    {
+      "id": "04-041",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Farmacovigilanza",
+      "domanda": "Quale affermazione sulla farmacovigilanza è FALSA secondo il testo?",
+      "opzioni": {
+        "A": "Fino all'80% delle reazioni avverse è prevedibile e quindi potenzialmente evitabile",
+        "B": "Il limite maggiore della segnalazione spontanea è l'under-reporting",
+        "C": "Al momento dell'autorizzazione sono già note tutte le reazioni avverse, comprese quelle rare e tardive",
+        "D": "I rischi sono più difficili da scoprire dei benefici, perché non si può fare uno studio ad hoc come per i benefici",
+        "E": "La definizione di reazione avversa comprende anche l'errore medico e l'esposizione professionale"
+      },
+      "corretta": "C",
+      "spiegazione": "All'autorizzazione si conoscono i dati del dossier e le reazioni avverse più frequenti, ma non quelle rare, quelle a distanza di tempo, gli errori medici, l'uso off label, l'abuso: la sperimentazione clinica è diversa dalla popolazione reale, da qui il monitoraggio post-marketing.",
+      "distrattori": {
+        "A": "Vera: la letteratura riporta che fino all'80% delle ADR è prevedibile.",
+        "B": "Vera: solo una parte dei pazienti con reazioni avverse le segnala.",
+        "D": "Vera: è una delle conclusioni della conferenza.",
+        "E": "Vera: l'ADR è un effetto nocivo e non voluto, sia in uso conforme sia non conforme, compresi errore medico ed esposizione professionale."
+      },
+      "riferimento": "p. 146-148 – Farmacovigilanza"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Atorvastatina: nessun aggiustamento in insufficienza renale (eliminazione/inattivazione epatica), ma controindicata nella patologia epatica attiva; CK > 5 volte ULN al basale = non iniziare.",
+    "Induttori del CYP3A4 (rifampicina, iperico) riducono le concentrazioni di atorvastatina; inibitori (succo di pompelmo) le aumentano con più reazioni avverse.",
+    "Equivalente = stessa composizione qualitativa e quantitativa + stessa forma farmaceutica + bioequivalenza (AUC, Cmax, Tmax); il margine di circa il 20% riguarda la variabilità biologica, non il principio attivo.",
+    "Biosimilare non è il generico di un biologico: microeterogeneità (anche tra lotti), approvazione EMA con comparability exercise (qualità, efficacia, sicurezza) ed estrapolazione delle indicazioni.",
+    "Segnalazione ADR: basta il sospetto, non è una denuncia, obbligo per l'operatore; entro 2 giorni (36 ore per biologici e vaccini); RNF entro 7 giorni -> Eudravigilance ogni 24 h -> OMS."
+  ]
+}

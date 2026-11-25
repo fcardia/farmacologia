@@ -1,0 +1,451 @@
+{
+  "capitolo": 15,
+  "titolo": "Cannabinoidi",
+  "pagine": "264-276",
+  "domande": [
+    {
+      "id": "15-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Endocannabinoidi",
+      "domanda": "Quali sono i due principali endocannabinoidi del sistema cannabinoide endogeno?",
+      "opzioni": {
+        "A": "Anandamide (AEA) e 2-arachidonoilglicerolo (2-AG)",
+        "B": "Delta-9-tetraidrocannabinolo (THC) e cannabidiolo (CBD)",
+        "C": "Cannabidivarina (CBDV) e tetraidrocannabivarina (THCV)",
+        "D": "Anandamide (AEA) e 11-idrossi-THC",
+        "E": "Cannabigerolo e cannabinolo"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli endocannabinoidi sono molecole lipidiche derivate dai fosfolipidi di membrana (acido arachidonico); i due principali sono l'anandamide (AEA) e il 2-arachidonoilglicerolo (2-AG), sintetizzati e degradati da enzimi dedicati.",
+      "distrattori": {
+        "B": "THC e CBD sono i due principali fitocannabinoidi, cioè derivati dalla pianta, non molecole endogene.",
+        "C": "CBDV e THCV sono fitocannabinoidi minori in studio clinico, non endocannabinoidi.",
+        "D": "L'11-idrossi-THC è il metabolita attivo del THC, non un endocannabinoide.",
+        "E": "Cannabigerolo e cannabinolo sono fitocannabinoidi minori presenti nella pianta in basse concentrazioni."
+      },
+      "riferimento": "p. 267 – Sistema endocannabinoide; p. 269 – Endocannabinoidi"
+    },
+    {
+      "id": "15-002",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Recettori CB1 e CB2",
+      "domanda": "Dove è espresso prevalentemente il recettore cannabinoide CB2?",
+      "opzioni": {
+        "A": "Nel tronco encefalico, nei centri di regolazione delle funzioni vitali",
+        "B": "In periferia, soprattutto nelle cellule del sistema immunitario",
+        "C": "Nella corteccia cerebrale e nel cervelletto",
+        "D": "Nell'ippocampo e nell'amigdala",
+        "E": "Nei gangli della base e nello striato"
+      },
+      "corretta": "B",
+      "spiegazione": "CB1 e CB2 sono recettori metabotropici accoppiati a proteine G e molto omologhi. Il CB2 è espresso prevalentemente in periferia, specie nelle cellule del sistema immunitario, di cui regola l'attivazione; il CB1 è invece soprattutto centrale.",
+      "distrattori": {
+        "A": "Nel tronco encefalico i recettori cannabinoidi (CB1) sono molto rari: è proprio questo che spiega la sicurezza dei cannabinoidi.",
+        "C": "Corteccia cerebrale e cervelletto sono sedi tipiche del CB1, responsabile degli effetti centrali.",
+        "D": "Ippocampo e amigdala sono aree ricche di CB1 (memoria, emozioni), non di CB2.",
+        "E": "Gangli della base e striato esprimono abbondantemente CB1, coinvolto nella regolazione del movimento."
+      },
+      "riferimento": "pp. 267-268 – Recettori per i cannabinoidi"
+    },
+    {
+      "id": "15-003",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Farmaci a base di cannabinoidi",
+      "domanda": "Quale delle seguenti descrizioni corrisponde all'Epidyolex, farmaco con AIC in Italia?",
+      "opzioni": {
+        "A": "Associazione di THC e CBD in rapporto 1:1, indicata per il dolore nella spasticità da sclerosi multipla",
+        "B": "Forma sintetica di THC, disponibile solo su importazione con ricetta personalizzata",
+        "C": "Preparato a base di solo CBD, approvato per forme rare di epilessia come le sindromi di Dravet e di Lennox-Gastaut",
+        "D": "Analogo del cannabidiolo in fase 2 di sviluppo per epilessia e disturbi dello spettro autistico",
+        "E": "Varietà di infiorescenze coltivata in Italia con THC 5-8% e CBD 7,5-12%"
+      },
+      "corretta": "C",
+      "spiegazione": "L'Epidyolex contiene solo CBD ed è approvato per alcune forme rare di epilessia resistenti ad altri farmaci (sindrome di Dravet, sindrome di Lennox-Gastaut, sclerosi tuberosa); come il Sativex, è prescrivibile dallo specialista neurologo.",
+      "distrattori": {
+        "A": "THC:CBD 1:1 per la spasticità dolorosa da sclerosi multipla è il Sativex.",
+        "B": "Le forme sintetiche di THC da importazione sono dronabinol e nabilone, non approvati da EMA né AIFA.",
+        "D": "L'analogo del CBD in fase 2 per epilessia e autismo è la cannabidivarina (CBDV), non un farmaco con AIC.",
+        "E": "THC 5-8% e CBD 7,5-12% è la composizione della Cannabis FM2, un'infiorescenza, non un farmaco con AIC."
+      },
+      "riferimento": "p. 272 – Farmaci con AIC in Italia; Cannabidivarina"
+    },
+    {
+      "id": "15-004",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Fitocannabinoidi",
+      "domanda": "Perché le infiorescenze fresche di cannabis sono farmacologicamente inattive?",
+      "opzioni": {
+        "A": "Perché THC e CBD vi sono legati a proteine vegetali che ne impediscono l'assorbimento",
+        "B": "Perché contengono quasi esclusivamente terpeni, mentre i cannabinoidi si formano solo dopo l'essiccazione",
+        "C": "Perché THC e CBD sono presenti in forma acida inattiva e instabile, che si attiva con il calore o i raggi UV perdendo un gruppo carbossilico",
+        "D": "Perché il THC è presente come profarmaco che deve essere convertito dal CYP3A4 epatico in 11-idrossi-THC",
+        "E": "Perché il CBD, più abbondante nella pianta fresca, antagonizza completamente il THC sul recettore CB1"
+      },
+      "corretta": "C",
+      "spiegazione": "Nella pianta THC e CBD sono in forma acida, inattiva e instabile: si attivano per decarbossilazione con il calore (vaporizzazione, fumo) o con i raggi ultravioletti. Per questo anche le capsule galeniche contengono cannabis già decarbossilata.",
+      "distrattori": {
+        "A": "Il testo non descrive alcun legame a proteine vegetali: l'inattività dipende dalla forma acida delle molecole.",
+        "B": "I cannabinoidi sono già presenti nella pianta fresca, ma in forma acida; i terpeni sono solo una delle molte altre sostanze contenute.",
+        "D": "L'11-idrossi-THC è un metabolita attivo, ma il THC è già attivo di per sé una volta decarbossilato: non è un profarmaco.",
+        "E": "Nella pianta THC e CBD sono in equilibrio, ma il testo non attribuisce al CBD un antagonismo completo sul CB1; il CBD agisce poco sul CB1."
+      },
+      "riferimento": "p. 266 – I due principali fitocannabinoidi; p. 273 – Capsule gastroresistenti"
+    },
+    {
+      "id": "15-005",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Endocannabinoidi",
+      "domanda": "Quale descrizione del ruolo degli endocannabinoidi nella regolazione sinaptica è corretta?",
+      "opzioni": {
+        "A": "Sono accumulati in vescicole presinaptiche e liberati per esocitosi su recettori CB1 postsinaptici",
+        "B": "Sono prodotti su richiesta dal neurone postsinaptico e agiscono su recettori CB1 presinaptici accoppiati a proteine Gi, riducendo il rilascio di GABA e glutammato",
+        "C": "Sono prodotti dal neurone presinaptico e attivano canali ionici postsinaptici aumentando l'eccitabilità neuronale",
+        "D": "Sono prodotti dalle cellule immunitarie e raggiungono il cervello per attivare i recettori CB2 neuronali",
+        "E": "Sono prodotti su richiesta dal neurone postsinaptico e agiscono su recettori CB1 presinaptici accoppiati a proteine Gs, aumentando il rilascio di GABA e glutammato"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli endocannabinoidi sono neurotrasmettitori retrogradi: non vengono immagazzinati in vescicole ma sintetizzati al bisogno dal neurone postsinaptico, e agiscono sui CB1 presinaptici delle terminazioni GABAergiche o glutamatergiche. Il CB1 è accoppiato a una proteina G inibitoria e riduce il rilascio del neurotrasmettitore.",
+      "distrattori": {
+        "A": "Gli endocannabinoidi non sono accumulati in vescicole e i CB1 coinvolti sono presinaptici, non postsinaptici.",
+        "C": "La direzione è inversa (dal postsinaptico al presinaptico) e i CB1 sono recettori metabotropici, non canali ionici.",
+        "D": "Il CB2 è espresso soprattutto sulle cellule immunitarie in periferia; la regolazione sinaptica è mediata dal CB1 neuronale.",
+        "E": "Il CB1 presinaptico è accoppiato a una proteina G inibitoria e riduce, non aumenta, il rilascio di GABA e glutammato."
+      },
+      "riferimento": "p. 269 – Endocannabinoidi e regolazione sinaptica"
+    },
+    {
+      "id": "15-006",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Recettori CB1 e CB2",
+      "domanda": "A differenza degli oppioidi, è praticamente impossibile morire per intossicazione da cannabinoidi. Quale caratteristica del sistema cannabinoide lo spiega?",
+      "opzioni": {
+        "A": "Il THC è un agonista completo del CB1, che desensibilizza rapidamente il recettore",
+        "B": "I recettori CB1 sono localizzati quasi esclusivamente in periferia sulle cellule immunitarie",
+        "C": "I recettori CB1 sono molto rari nel tronco encefalico, dove hanno sede i centri regolatori delle funzioni vitali",
+        "D": "Gli endocannabinoidi competono con il THC impedendogli di raggiungere concentrazioni tossiche",
+        "E": "Il THC non attraversa la barriera ematoencefalica in quantità sufficienti a deprimere il SNC"
+      },
+      "corretta": "C",
+      "spiegazione": "I CB1 sono abbondanti in corteccia, cervelletto, gangli della base, ippocampo e amigdala, ma molto rari nel tronco encefalico: poiché i centri delle funzioni vitali non hanno recettori per i cannabinoidi, questi non interferiscono con le funzioni vitali e l'overdose fatale è praticamente impossibile.",
+      "distrattori": {
+        "A": "Il THC è un agonista parziale debole del CB1; sono i cannabinoidi sintetici a essere agonisti completi e più pericolosi.",
+        "B": "In periferia è espresso soprattutto il CB2; il CB1 è estremamente abbondante nel cervello.",
+        "D": "Il testo non descrive alcuna competizione protettiva tra endocannabinoidi e THC.",
+        "E": "Il THC raggiunge il SNC e ne produce gli effetti (psicotropi, cognitivi, mnemonici): la sicurezza dipende dalla distribuzione dei CB1."
+      },
+      "riferimento": "p. 268 – Distribuzione dei recettori CB1"
+    },
+    {
+      "id": "15-007",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "THC",
+      "domanda": "Quale confronto tra il THC e i cannabinoidi sintetici è corretto?",
+      "opzioni": {
+        "A": "Il THC è un agonista parziale a bassa affinità dei recettori CB1 e CB2; i cannabinoidi sintetici sono agonisti completi e molto più pericolosi",
+        "B": "Il THC è un agonista completo dei recettori CB1 e CB2; i cannabinoidi sintetici sono agonisti parziali e quindi più sicuri",
+        "C": "Il THC è un antagonista del CB1 e agonista del CB2; i cannabinoidi sintetici sono agonisti selettivi del CB1",
+        "D": "Il THC agisce soprattutto sul GPR55; i cannabinoidi sintetici agiscono sui recettori CB1 e CB2",
+        "E": "Il THC è un agonista parziale dei soli recettori CB2; i cannabinoidi sintetici sono agonisti completi dei soli CB1"
+      },
+      "corretta": "A",
+      "spiegazione": "Il THC è un agonista parziale dei recettori CB1 e CB2, debole e con affinità piuttosto ridotta. I cannabinoidi sintetici (molti venduti come \"cannabis legale\") sono invece agonisti completi, molto più pericolosi del THC.",
+      "distrattori": {
+        "B": "I ruoli sono invertiti: il THC è agonista parziale, i sintetici sono agonisti completi e più pericolosi.",
+        "C": "Il THC non è un antagonista del CB1: proprio le sue azioni sul CB1 ne determinano gli effetti psicoattivi e gratificanti.",
+        "D": "Il GPR55 è uno dei bersagli del CBD (azione antiepilettica), non del THC.",
+        "E": "Il THC si lega a entrambi i recettori, CB1 e CB2, che sono molto omologhi tra loro."
+      },
+      "riferimento": "p. 264 – Classificazione dei cannabinoidi; p. 269 – THC: farmacodinamica"
+    },
+    {
+      "id": "15-008",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "CBD",
+      "domanda": "Attraverso quale bersaglio il cannabidiolo (CBD) esercita, secondo il testo, la sua azione antiepilettica?",
+      "opzioni": {
+        "A": "Agonismo pieno sui recettori CB1 presinaptici delle terminazioni glutamatergiche",
+        "B": "Attivazione dei recettori CB2 sulle cellule immunitarie, con riduzione della neuroinfiammazione",
+        "C": "Inibizione degli enzimi di degradazione dell'anandamide, con aumento degli endocannabinoidi",
+        "D": "Azione sul recettore GPR55, con riduzione della neurotrasmissione eccitatoria e delle convulsioni",
+        "E": "Conversione epatica in 11-idrossi-THC, che attiva i recettori CB1 dell'ippocampo"
+      },
+      "corretta": "D",
+      "spiegazione": "Il CBD non agisce tanto sul CB1 (altrimenti sarebbe psicoattivo) ma su vari recettori, tra cui il GPR55, attraverso cui riduce l'attività di determinati neuroni, la neurotrasmissione eccitatoria e le convulsioni: da qui la sua indicazione nell'epilessia.",
+      "distrattori": {
+        "A": "Se il CBD agisse sul CB1 sarebbe psicoattivo; il testo esclude questo meccanismo.",
+        "B": "Il testo non attribuisce l'effetto antiepilettico del CBD al recettore CB2.",
+        "C": "Il testo non descrive per il CBD un'inibizione degli enzimi di degradazione degli endocannabinoidi.",
+        "E": "L'11-idrossi-THC è il metabolita del THC; il metabolita attivo del CBD è il 7-idrossi-CBD."
+      },
+      "riferimento": "p. 270 – CBD: farmacodinamica; p. 271 – Metabolismo"
+    },
+    {
+      "id": "15-009",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Farmacocinetica dei cannabinoidi",
+      "domanda": "Quale caratteristica distingue la farmacocinetica del THC assunto per via orale rispetto alla via inalatoria?",
+      "opzioni": {
+        "A": "Picco plasmatico rapido, sovrapponibile a quello della somministrazione endovenosa",
+        "B": "Picco tardivo (1-2 ore) e basso, per scarso assorbimento e metabolismo di primo passaggio epatico, con ampia variabilità legata al cibo",
+        "C": "Biodisponibilità più alta, perché la via orale evita la degradazione del THC nei polmoni",
+        "D": "Livelli di metaboliti molto più bassi, perché il THC orale viene eliminato immodificato con le urine",
+        "E": "Assorbimento indipendente dal cibo, perché il THC è una molecola idrofila"
+      },
+      "corretta": "B",
+      "spiegazione": "Per via orale il THC è assorbito male, lentamente e in modo variabile (dipende dal cibo e dai grassi): il picco arriva dopo 1-2 ore ed è più basso per l'esteso primo passaggio epatico, mentre i metaboliti (attivo e inattivo) raggiungono livelli superiori al THC stesso.",
+      "distrattori": {
+        "A": "Il picco rapido e simile alla via endovenosa è tipico della via inalatoria, favorita dall'elevata lipofilia.",
+        "C": "La biodisponibilità orale è molto bassa proprio per il metabolismo di primo passaggio epatico.",
+        "D": "Dopo assunzione orale i metaboliti raggiungono livelli anche più alti del THC, perché il farmaco viene metabolizzato mentre è assorbito.",
+        "E": "Il THC è molto lipofilo e il suo assorbimento orale dipende dal cibo e dalla presenza di sostanze grasse."
+      },
+      "riferimento": "pp. 270-271 – Farmacocinetica del THC e del CBD"
+    },
+    {
+      "id": "15-010",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Metabolismo dei cannabinoidi",
+      "domanda": "Quale affermazione sul metabolismo del THC e del CBD è corretta?",
+      "opzioni": {
+        "A": "Sono metabolizzati dal CYP2D6 in metaboliti inattivi, eliminati rapidamente con le urine in poche ore",
+        "B": "Sono eliminati immodificati per via renale, senza metabolismo epatico significativo",
+        "C": "Sono metabolizzati dal CYP1A2 e il metabolita principale del THC, il 7-idrossi-THC, è inattivo",
+        "D": "Sono metabolizzati dai CYP2C19 e CYP3A4; il THC forma il metabolita attivo 11-idrossi-THC e il CBD il 7-idrossi-CBD, poi glucuronoconiugati",
+        "E": "Sono metabolizzati dai CYP2C19 e CYP3A4 in metaboliti idrofili che scompaiono dal sangue entro 24 ore"
+      },
+      "corretta": "D",
+      "spiegazione": "THC e CBD sono metabolizzati dal fegato tramite CYP2C19 e CYP3A4: il metabolita principale del THC è l'11-idrossi-THC (attivo), quello attivo del CBD è il 7-idrossi-CBD; segue la fase 2 con glucuronoconiugazione. I metaboliti, lipofili, sono rilevabili per molti giorni.",
+      "distrattori": {
+        "A": "Gli isoenzimi indicati sono CYP2C19 e CYP3A4, e i metaboliti persistono per molti giorni, non poche ore.",
+        "B": "Entrambi vanno incontro a metabolismo epatico di fase 1 e fase 2.",
+        "C": "Il metabolita principale del THC è l'11-idrossi-THC ed è attivo; la posizione 7 riguarda il metabolita del CBD.",
+        "E": "I metaboliti del THC sono lipofili, vengono liberati molto lentamente e sono rilevabili nei test tossicologici per molti giorni."
+      },
+      "riferimento": "p. 271 – Metabolismo e clearance"
+    },
+    {
+      "id": "15-011",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Varietà di cannabis terapeutica",
+      "domanda": "Tra le varietà di cannabis per uso medico descritte, quale contiene un'elevata quantità di CBD con quasi assenza di THC?",
+      "opzioni": {
+        "A": "Bedrocan",
+        "B": "Cannabis FM1",
+        "C": "Bedica",
+        "D": "Bedrolite",
+        "E": "Bedrobinol"
+      },
+      "corretta": "D",
+      "spiegazione": "Il Bedrolite (THC < 0,4%, CBD 9%) è all'estremo opposto del Bedrocan: elevato CBD e THC quasi assente. Le varietà differiscono molto nel rapporto THC/CBD ed è importante scegliere quella adatta al paziente.",
+      "distrattori": {
+        "A": "Il Bedrocan ha la concentrazione di THC più elevata (19%) e CBD < 1%.",
+        "B": "La Cannabis FM1, coltivata in Italia, contiene THC 14-15% e CBD < 1%.",
+        "C": "Il Bedica contiene THC 13,5% e CBD < 1%.",
+        "E": "Il Bedrobinol contiene THC 12% e CBD < 1%."
+      },
+      "riferimento": "pp. 272-273 – Infiorescenze di cannabis"
+    },
+    {
+      "id": "15-012",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Controindicazioni della cannabis terapeutica",
+      "domanda": "Un uomo di 35 anni con dolore neuropatico cronico resistente alle terapie convenzionali chiede cannabis terapeutica. Dall'anamnesi emerge una schizofrenia in trattamento. Qual è la condotta corretta secondo il testo?",
+      "opzioni": {
+        "A": "Prescrivere una varietà ricca di THC, perché il CBD peggiorerebbe i sintomi psicotici",
+        "B": "Prescrivere la cannabis per via inalatoria, che consente al paziente di regolare meglio la dose",
+        "C": "Escludere la cannabis terapeutica, perché nei pazienti con comorbilità psichiatriche può scatenare episodi psicotici",
+        "D": "Prescriverla senza restrizioni, perché la cannabis ha pochi effetti tossici gravi",
+        "E": "Prescriverla solo dopo aver sospeso il trattamento antipsicotico"
+      },
+      "corretta": "C",
+      "spiegazione": "Prima di prescrivere cannabis terapeutica è fondamentale escludere pazienti con comorbilità psichiatriche, anche latenti: in un paziente con schizofrenia può scatenare episodi psicotici. Vanno esclusi anche i soggetti con tendenza a sviluppare dipendenze.",
+      "distrattori": {
+        "A": "Il THC è il componente psicoattivo: una varietà ricca di THC è la scelta più rischiosa, e il testo non attribuisce al CBD effetti psicotogeni.",
+        "B": "La via inalatoria non è consigliata per la cannabis terapeutica (prescritta per via orale) e non elimina il rischio psichiatrico.",
+        "D": "La bassa tossicità grave non annulla la controindicazione nei pazienti con comorbilità psichiatriche.",
+        "E": "Il testo indica di escludere questi pazienti, non di modificarne la terapia psichiatrica."
+      },
+      "riferimento": "pp. 274-275 – Popolazioni a rischio; Tossicità, reazioni avverse e dipendenza"
+    },
+    {
+      "id": "15-013",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Farmacocinetica dei cannabinoidi",
+      "domanda": "Una paziente inizia una terapia con soluzione oleosa di cannabis per via orale. Dopo 30 minuti dalla prima dose non avverte alcun effetto e vorrebbe assumerne subito un'altra. Quale indicazione è corretta?",
+      "opzioni": {
+        "A": "Può ripetere la dose, perché per via orale il THC raggiunge il picco entro pochi minuti e l'assenza di effetti indica una dose insufficiente",
+        "B": "Deve attendere: per via orale il picco di THC arriva dopo 1-2 ore e una nuova dose esporrebbe a livelli elevati e a rischio di intossicazione",
+        "C": "Può ripetere la dose, perché il primo passaggio epatico inattiva completamente il THC orale",
+        "D": "Deve passare alla via inalatoria, che è la via di prescrizione raccomandata per la cannabis terapeutica",
+        "E": "Deve assumere la dose successiva a digiuno, perché i grassi del pasto bloccano l'assorbimento del THC"
+      },
+      "corretta": "B",
+      "spiegazione": "Per via orale gli effetti compaiono dopo 1-2 ore e i livelli restano elevati per alcune ore. Chi non percepisce effetti e ripete l'assunzione rischia che i picchi si sommino: per questo le preparazioni orali espongono più facilmente a intossicazione rispetto alla via inalatoria.",
+      "distrattori": {
+        "A": "Il picco rapido è tipico della via inalatoria; per via orale il picco è tardivo (1-2 ore).",
+        "C": "Il primo passaggio riduce la biodisponibilità ma non inattiva completamente il THC, e l'11-idrossi-THC è a sua volta attivo.",
+        "D": "La via inalatoria non è consigliata perché difficile da controllare: la cannabis terapeutica è prescritta per via orale.",
+        "E": "Il testo dice che l'assorbimento orale è variabile e dipende da cibo e grassi, non che i grassi lo blocchino."
+      },
+      "riferimento": "pp. 270-271 – Farmacocinetica del THC e del CBD"
+    },
+    {
+      "id": "15-014",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Interazioni dei cannabinoidi",
+      "domanda": "Un paziente in terapia con Epidyolex (CBD) inizia una dieta ricca di succo di pompelmo, inibitore del CYP3A4. Quale conseguenza è attesa?",
+      "opzioni": {
+        "A": "Riduzione delle concentrazioni di CBD, con perdita del controllo delle crisi",
+        "B": "Nessuna interazione, perché il CBD viene eliminato solo per glucuronoconiugazione",
+        "C": "Aumento delle concentrazioni plasmatiche di CBD, con maggior rischio di reazioni avverse",
+        "D": "Comparsa di effetti psicotropi, perché il CYP3A4 inibito converte il CBD in THC",
+        "E": "Nessuna interazione, perché il CBD è un fitoterapico privo di interazioni farmacologiche significative"
+      },
+      "corretta": "C",
+      "spiegazione": "Il CBD è metabolizzato da CYP2C19 e CYP3A4. Un inibitore del CYP3A4, come il succo di pompelmo, riduce il metabolismo del farmaco e ne aumenta le concentrazioni plasmatiche, con maggiori reazioni avverse. Il CBD ha interazioni accertate e clinicamente significative.",
+      "distrattori": {
+        "A": "Una riduzione delle concentrazioni è attesa con un induttore (come la rifampicina), non con un inibitore.",
+        "B": "La glucuronoconiugazione (fase 2) segue l'ossidazione da parte di CYP2C19 e CYP3A4.",
+        "D": "Il testo non descrive alcuna conversione del CBD in THC: il metabolita attivo del CBD è il 7-idrossi-CBD.",
+        "E": "Il CBD è un farmaco a tutti gli effetti, con interazioni farmacologiche accertate e clinicamente significative."
+      },
+      "riferimento": "pp. 271-272 – Metabolismo e interazioni del CBD; p. 28 – Pompelmo e CYP3A4; p. 49 – Inibitori e induttori del CYP3A4"
+    },
+    {
+      "id": "15-015",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Preparazioni galeniche",
+      "domanda": "Un paziente a cui è stata prescritta cannabis da assumere come tisana riferisce di prepararne una grande quantità e di berla nell'arco di diversi giorni. Riferisce un effetto terapeutico in calo. Qual è la spiegazione più probabile secondo il testo?",
+      "opzioni": {
+        "A": "Il THC si ossida nel tempo, per cui la tisana conservata contiene meno principio attivo",
+        "B": "La conservazione converte il THC nella forma acida, ancora più attiva",
+        "C": "La tisana si concentra con il tempo, causando tolleranza da sovradosaggio",
+        "D": "Il CBD contenuto nella tisana si trasforma in 11-idrossi-THC, che è inattivo",
+        "E": "L'assunzione frazionata induce il CYP2D6 e accelera il metabolismo del THC"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra i problemi della cannabis terapeutica c'è la scarsa aderenza alle modalità di assunzione: se la tisana viene conservata e bevuta dopo giorni, il THC si ossida e la quantità assunta si riduce.",
+      "distrattori": {
+        "B": "La forma acida è quella inattiva e instabile presente nella pianta; la decarbossilazione la rende attiva, non il contrario.",
+        "C": "Il testo indica una perdita di THC per ossidazione, non una concentrazione della preparazione.",
+        "D": "L'11-idrossi-THC deriva dal metabolismo epatico del THC ed è attivo; non si forma dal CBD durante la conservazione.",
+        "E": "THC e CBD sono metabolizzati da CYP2C19 e CYP3A4; il testo non descrive un'autoinduzione del CYP2D6."
+      },
+      "riferimento": "p. 274 – Principali problematiche: vie di somministrazione"
+    },
+    {
+      "id": "15-016",
+      "difficolta": "avanzato",
+      "tipo": "falsa",
+      "argomento": "Indicazioni cliniche",
+      "domanda": "Riguardo alle indicazioni della cannabis ad uso terapeutico, quale affermazione è FALSA?",
+      "opzioni": {
+        "A": "In Sardegna è rimborsabile per l'effetto ipotensivo nel glaucoma, se la terapia convenzionale non è efficace",
+        "B": "Può essere usata come terapia di prima scelta nel dolore neuropatico cronico, data la solidità delle evidenze di efficacia",
+        "C": "È impiegata per stimolare l'appetito nella cachessia-anoressia di pazienti oncologici o con AIDS",
+        "D": "È impiegata per l'effetto antiemetico nella nausea e vomito da chemioterapia, radioterapia e terapie per l'HIV",
+        "E": "È impiegata per ridurre i movimenti involontari nella sindrome di Tourette"
+      },
+      "corretta": "B",
+      "spiegazione": "La cannabis va prescritta solo quando i farmaci tradizionali hanno fallito e mai come prima terapia. Le evidenze sull'efficacia, anche nel dolore neuropatico, sono ancora molto deboli e l'uso va sempre valutato rispetto ai possibili danni.",
+      "distrattori": {
+        "A": "Vero: l'effetto ipotensivo nel glaucoma è tra le indicazioni rimborsabili in Sardegna, sempre dopo fallimento della terapia convenzionale.",
+        "C": "Vero: la stimolazione dell'appetito nella cachessia-anoressia oncologica o da AIDS è un'indicazione riportata.",
+        "D": "Vero: l'effetto antiemetico e anticinetosico nella nausea e vomito da chemioterapia, radioterapia e terapie anti-HIV è un'indicazione riportata.",
+        "E": "Vero: la riduzione dei movimenti involontari del corpo e facciali nella sindrome di Tourette è un'indicazione riportata."
+      },
+      "riferimento": "pp. 275-276 – Indicazioni cliniche"
+    },
+    {
+      "id": "15-017",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Farmaci a base di cannabinoidi",
+      "domanda": "Quale confronto tra Sativex e dronabinol/nabilone è corretto?",
+      "opzioni": {
+        "A": "Il Sativex contiene THC e CBD 1:1, ha AIC in Italia ed è indicato nel dolore da spasticità nella sclerosi multipla; dronabinol e nabilone sono forme sintetiche di THC non approvate da EMA e AIFA, ottenibili su importazione",
+        "B": "Il Sativex è una forma sintetica di THC disponibile solo su importazione; dronabinol e nabilone contengono THC e CBD 1:1 e hanno AIC in Italia",
+        "C": "Il Sativex contiene solo CBD ed è indicato nella sindrome di Dravet; dronabinol e nabilone sono analoghi del CBD in fase 2 per l'autismo",
+        "D": "Il Sativex contiene THC e CBD 1:1 ed è prescrivibile da qualsiasi medico; dronabinol e nabilone hanno AIC e sono prescrivibili solo dal neurologo",
+        "E": "Il Sativex contiene THC e CBD 1:1, ma senza AIC in Italia; dronabinol e nabilone sono forme sintetiche di CBD approvate dall'EMA"
+      },
+      "corretta": "A",
+      "spiegazione": "Sativex (THC:CBD 1:1) ed Epidyolex (solo CBD) sono i due farmaci a base di cannabinoidi con AIC in Italia, prescrivibili dal neurologo. Dronabinol e nabilone sono forme sintetiche di THC, non approvate da EMA né AIFA, importabili su richiesta con ricetta personalizzata.",
+      "distrattori": {
+        "B": "I ruoli sono invertiti: il Sativex ha AIC e contiene THC e CBD; dronabinol e nabilone sono THC sintetico da importazione.",
+        "C": "Solo CBD con indicazione nella sindrome di Dravet è l'Epidyolex; l'analogo del CBD in fase 2 è la cannabidivarina.",
+        "D": "I farmaci con AIC (come il Sativex) sono prescrivibili solo dal neurologo; è la cannabis per uso medico a poter essere prescritta da qualsiasi medico.",
+        "E": "Il Sativex ha AIC in Italia; dronabinol e nabilone sono forme sintetiche di THC, non approvate dall'EMA."
+      },
+      "riferimento": "p. 264 – Prescrizione; p. 272 – Farmaci con AIC e farmaci da importazione"
+    },
+    {
+      "id": "15-018",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Fitocannabinoidi",
+      "domanda": "Quale affermazione sul rapporto tra THC e CBD nella pianta di cannabis è corretta?",
+      "opzioni": {
+        "A": "Le varietà più ricche di THC sono anche le più ricche di CBD, perché derivano dalla stessa via biosintetica",
+        "B": "THC e CBD sono in equilibrio: le varietà ricche di THC sono povere di CBD e viceversa, essendo vie biosintetiche alternative",
+        "C": "Il CBD è sempre il fitocannabinoide più abbondante, mentre il THC è presente solo in tracce",
+        "D": "La cannabis legale contiene THC e CBD in quantità simili, entrambi sotto lo 0,3%",
+        "E": "Il contenuto di THC della cannabis sequestrata è progressivamente diminuito negli ultimi decenni"
+      },
+      "corretta": "B",
+      "spiegazione": "THC e CBD sono prodotti da vie biosintetiche alternative: le piante ricche di THC sono povere di CBD e viceversa. Le varietà di cannabis legale sono ricche di CBD e contengono meno dello 0,3% di THC.",
+      "distrattori": {
+        "A": "Non esistono varietà ricche sia di THC sia di CBD: le due vie biosintetiche sono alternative.",
+        "C": "Il THC è in genere il fitocannabinoide più abbondante; il CBD è il secondo.",
+        "D": "La cannabis legale è ricca di CBD; è il THC a dover restare sotto lo 0,3%.",
+        "E": "Il contenuto di THC è aumentato negli anni per selezione delle varietà più ricche di THC, a discapito del CBD."
+      },
+      "riferimento": "pp. 265-267 – Fitocannabinoidi; equilibrio THC/CBD"
+    },
+    {
+      "id": "15-019",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Preparazioni galeniche",
+      "domanda": "Quale forma farmaceutica preparata dal farmacista a partire dalle infiorescenze è descritta come la più comune e comoda?",
+      "opzioni": {
+        "A": "La resina dispensata in siringhe, molto concentrata e densa",
+        "B": "Lo spray nasale con THC e CBD in rapporto 1:1",
+        "C": "La soluzione oleosa, con fitocomplesso in olio d'oliva in proporzione 1:10, assunta in gocce",
+        "D": "Le infiorescenze fresche da masticare, che preservano la forma acida dei cannabinoidi",
+        "E": "Le capsule gastroresistenti contenenti cannabis non decarbossilata"
+      },
+      "corretta": "C",
+      "spiegazione": "La soluzione oleosa è la forma galenica più comune e comoda: il fitocomplesso è in olio, di solito d'oliva, in proporzione 1:10, e l'assunzione in gocce unisce maneggevolezza, ripetibilità e controllo della posologia. Resta comunque un'ampia variabilità del contenuto di THC e CBD tra le preparazioni.",
+      "distrattori": {
+        "A": "La resina è poco utilizzata proprio perché molto concentrata, densa e difficile da usare.",
+        "B": "Lo spray con THC:CBD 1:1 è il Sativex, un farmaco con AIC, non una preparazione galenica dalle infiorescenze.",
+        "D": "Nella forma acida i cannabinoidi sono inattivi: le infiorescenze fresche non sono una forma farmaceutica utile.",
+        "E": "Le capsule gastroresistenti contengono cannabis già decarbossilata, cioè in forma attiva."
+      },
+      "riferimento": "pp. 273-274 – Preparazioni galeniche e variabilità"
+    }
+  ],
+  "punti_alto_rischio": [
+    "CB1 = soprattutto SNC (corteccia, cervelletto, gangli della base, ippocampo, amigdala), molto raro nel tronco encefalico (da qui la sicurezza, nessuna overdose fatale); CB2 = periferia, cellule immunitarie.",
+    "Endocannabinoidi (AEA, 2-AG) = neurotrasmettitori retrogradi: sintetizzati su richiesta dal neurone postsinaptico, agiscono su CB1 presinaptici accoppiati a Gi e riducono il rilascio di GABA e glutammato.",
+    "THC = agonista parziale debole di CB1/CB2 (psicoattivo); cannabinoidi sintetici = agonisti completi, più pericolosi; CBD = non psicoattivo, agisce su GPR55 (antiepilettico).",
+    "Via orale: picco dopo 1-2 h, bassa biodisponibilità per primo passaggio, variabilità legata al cibo, rischio di intossicazione se si ripete la dose; via inalatoria: picco rapido simile all'endovena. Metabolismo da CYP2C19 e CYP3A4: 11-idrossi-THC (attivo) e 7-idrossi-CBD, poi glucuronoconiugazione.",
+    "Sativex (THC:CBD 1:1, sclerosi multipla) ed Epidyolex (solo CBD, Dravet/Lennox-Gastaut/sclerosi tuberosa) hanno AIC e sono prescritti dal neurologo; dronabinol e nabilone = THC sintetico da importazione; la cannabis per uso medico può prescriverla qualsiasi medico, mai come prima scelta, escludendo i pazienti con comorbilità psichiatriche."
+  ]
+}

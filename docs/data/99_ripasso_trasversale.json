@@ -1,0 +1,1164 @@
+{
+  "capitolo": 99,
+  "titolo": "Ripasso trasversale",
+  "pagine": "1-334",
+  "domande": [
+    {
+      "id": "99-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Induttori e inibitori del CYP",
+      "domanda": "Quale gruppo comprende SOLO farmaci descritti nel testo come induttori enzimatici?",
+      "opzioni": {
+        "A": "Rifampicina, carbamazepina, fenobarbital, iperico",
+        "B": "Rifampicina, derivati azolici, carbamazepina, cimetidina",
+        "C": "Fenobarbital, isoniazide, iperico, succo di pompelmo",
+        "D": "Carbamazepina, cloramfenicolo, derivati azolici, fenobarbital",
+        "E": "Iperico, cimetidina, succo di pompelmo, rifampicina"
+      },
+      "corretta": "A",
+      "spiegazione": "Rifampicina (aumenta la sintesi del CYP3A4), carbamazepina (uno dei più potenti induttori del CYP), fenobarbital (induttore di CYP2C e CYP3A) e iperico (induce diversi enzimi metabolici) sono tutti induttori.",
+      "distrattori": {
+        "B": "I derivati azolici sono potenti inibitori del CYP3A4 e la cimetidina inibisce il metabolismo della fenitoina.",
+        "C": "L'isoniazide inibisce il metabolismo della fenitoina e il succo di pompelmo inibisce il CYP3A4.",
+        "D": "Cloramfenicolo e derivati azolici sono citati come inibitori, non come induttori.",
+        "E": "Cimetidina e succo di pompelmo sono inibitori enzimatici."
+      },
+      "riferimento": "pp. 28, 33 – Pompelmo; p. 189 – Iperico; pp. 229-230, 232 – Fenobarbital, fenitoina, carbamazepina; p. 325 – Rifampicina; p. 334 – Azoli"
+    },
+    {
+      "id": "99-002",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Induttori e inibitori del CYP",
+      "domanda": "Quale dei seguenti è descritto come potente INIBITORE del CYP3A4?",
+      "opzioni": {
+        "A": "Rifampicina",
+        "B": "Carbamazepina",
+        "C": "Derivati azolici",
+        "D": "Fenobarbital",
+        "E": "Iperico"
+      },
+      "corretta": "C",
+      "spiegazione": "I derivati azolici sono potentissimi inibitori del citocromo P450, soprattutto del CYP3A4. L'inibizione è immediata e aumenta i livelli dei farmaci che ne sono substrato.",
+      "distrattori": {
+        "A": "La rifampicina è un induttore del CYP3A4.",
+        "B": "La carbamazepina è uno dei più potenti induttori del CYP.",
+        "D": "Il fenobarbital è un induttore di CYP2C e CYP3A.",
+        "E": "L'iperico induce diversi enzimi metabolici."
+      },
+      "riferimento": "p. 189 – Iperico; pp. 229, 232 – Fenobarbital, carbamazepina; p. 325 – Rifampicina; p. 334 – Derivati azolici"
+    },
+    {
+      "id": "99-003",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Induttori e inibitori del CYP",
+      "domanda": "Un paziente in terapia con atorvastatina deve iniziare un antimicotico azolico. Quale rischio va considerato e quale parametro è utile controllare?",
+      "opzioni": {
+        "A": "Inefficacia della statina per induzione del CYP3A4; controllo del colesterolo",
+        "B": "Aumento dei livelli della statina con rischio di miopatia e rabdomiolisi; dosaggio della CPK",
+        "C": "Spiazzamento della statina dall'albumina con ipoglicemia; controllo della glicemia",
+        "D": "Allungamento del QT da somma di effetti; controllo dell'elettrocardiogramma",
+        "E": "Neurite ottica dose-dipendente; controllo della vista"
+      },
+      "corretta": "B",
+      "spiegazione": "L'atorvastatina è metabolizzata dal CYP3A4. Gli azoli lo inibiscono e ne aumentano i livelli, con rischio di tossicità. Il danno muscolare da statine può arrivare alla rabdomiolisi, con mioglobina e insufficienza renale: per questo si dosa la CPK.",
+      "distrattori": {
+        "A": "Gli azoli sono inibitori, non induttori: l'inefficacia della statina è tipica dell'associazione con induttori come rifampicina o iperico.",
+        "C": "Il testo descrive un'interazione metabolica sul CYP3A4, non uno spiazzamento proteico.",
+        "D": "L'allungamento del QT da somma di effetti è descritto per i macrolidi associati ad altri farmaci che allungano il QT.",
+        "E": "La neurite ottica dose-dipendente è l'effetto avverso caratteristico dell'etambutolo."
+      },
+      "riferimento": "pp. 48-49 – Atorvastatina: tossicità muscolare e interazioni CYP3A4; p. 334 – Derivati azolici"
+    },
+    {
+      "id": "99-004",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Induttori e inibitori del CYP",
+      "domanda": "Una donna assume un contraccettivo con etinilestradiolo. Quale affermazione confronta correttamente l'effetto del succo di pompelmo e quello della rifampicina?",
+      "opzioni": {
+        "A": "Entrambi inducono il CYP3A4 e riducono l'efficacia del contraccettivo",
+        "B": "Entrambi inibiscono il CYP3A4 e aumentano il rischio di trombosi",
+        "C": "Il pompelmo riduce l'efficacia del contraccettivo, la rifampicina aumenta il rischio di trombosi",
+        "D": "Il pompelmo aumenta i livelli dell'estrogeno (rischio di trombosi), la rifampicina ne accelera il metabolismo (inefficacia)",
+        "E": "Nessuno dei due interferisce, perché l'etinilestradiolo non è metabolizzato dal CYP3A4"
+      },
+      "corretta": "D",
+      "spiegazione": "Il succo di pompelmo inibisce il CYP3A4 e aumenta la biodisponibilità dell'etinilestradiolo (case report di trombosi). La rifampicina induce il CYP3A4 e accelera il metabolismo dei substrati: sono segnalati casi di inefficacia dei contraccettivi ormonali.",
+      "distrattori": {
+        "A": "Il pompelmo è un inibitore, non un induttore del CYP3A4.",
+        "B": "La rifampicina è un induttore, non un inibitore.",
+        "C": "Gli effetti sono invertiti: il pompelmo aumenta i livelli, la rifampicina li riduce.",
+        "E": "L'estradiolo è citato tra i substrati del CYP3A4."
+      },
+      "riferimento": "pp. 27-28, 33 – CYP3A4 e case report pompelmo; p. 325 – Rifampicina: induzione enzimatica"
+    },
+    {
+      "id": "99-005",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Induttori e inibitori del CYP",
+      "domanda": "Un paziente in terapia con atorvastatina e con un antidepressivo inizia ad assumere di sua iniziativa un prodotto a base di iperico, ritenendolo innocuo perché 'naturale'. Quale conseguenza è più probabile?",
+      "opzioni": {
+        "A": "Aumento dei livelli di entrambi i farmaci per inibizione del CYP3A4",
+        "B": "Nessuna interazione, perché i prodotti fitoterapici non influenzano il metabolismo",
+        "C": "Riduzione dell'efficacia dei farmaci per induzione degli enzimi che li metabolizzano",
+        "D": "Spiazzamento dei farmaci dalle proteine plasmatiche con aumento della quota libera",
+        "E": "Blocco della secrezione tubulare dei farmaci con loro accumulo"
+      },
+      "corretta": "C",
+      "spiegazione": "L'iperico può indurre diversi enzimi metabolici e ha interazioni rilevanti anche con gli antidepressivi. È citato anche tra i farmaci che interferiscono con il metabolismo dell'atorvastatina via CYP3A4: un induttore accelera il metabolismo e il farmaco può non raggiungere concentrazioni efficaci.",
+      "distrattori": {
+        "A": "L'iperico è un induttore, non un inibitore.",
+        "B": "Il testo sottolinea proprio le interazioni dell'iperico, che spesso il paziente non riferisce perché lo considera naturale.",
+        "D": "Il meccanismo descritto per l'iperico è l'induzione enzimatica, non lo spiazzamento proteico.",
+        "E": "Il testo non attribuisce all'iperico interferenze con la secrezione tubulare."
+      },
+      "riferimento": "pp. 48-49 – Atorvastatina, interazioni; pp. 188-189 – Iperico"
+    },
+    {
+      "id": "99-006",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Induttori e inibitori del CYP",
+      "domanda": "Un paziente epilettico ben controllato con fenitoina inizia la terapia antitubercolare con isoniazide. Quale rischio va previsto?",
+      "opzioni": {
+        "A": "Riduzione dei livelli di fenitoina, con ricomparsa delle crisi, per induzione enzimatica",
+        "B": "Aumento dei livelli di fenitoina, con rischio di tossicità, per inibizione del suo metabolismo",
+        "C": "Inefficacia dell'isoniazide, perché la fenitoina ne accelera l'acetilazione",
+        "D": "Nessuna interazione, perché l'isoniazide è eliminata solo per via renale immodificata",
+        "E": "Neurite ottica, per effetto additivo dei due farmaci"
+      },
+      "corretta": "B",
+      "spiegazione": "Antifungini, cimetidina, dicumarolo, cloramfenicolo, sulfonamidi e isoniazide inibiscono il metabolismo della fenitoina. Con la cinetica non lineare della fenitoina, l'aumento dei livelli può portare rapidamente a tossicità.",
+      "distrattori": {
+        "A": "L'isoniazide è citata tra i farmaci che inibiscono il metabolismo della fenitoina, non tra gli induttori.",
+        "C": "Il testo non descrive un effetto della fenitoina sull'acetilazione dell'isoniazide.",
+        "D": "L'isoniazide è inattivata nel fegato per acetilazione, non eliminata immodificata.",
+        "E": "La neurite ottica è caratteristica dell'etambutolo; l'isoniazide dà neurite periferica da carenza di vitamina B6."
+      },
+      "riferimento": "pp. 229-230 – Fenitoina: cinetica non lineare e interazioni; pp. 322-324 – Isoniazide"
+    },
+    {
+      "id": "99-007",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Induttori e inibitori del CYP",
+      "domanda": "Un inibitore del CYP viene associato a un farmaco che deve essere trasformato da quell'enzima nella sua forma attiva (profarmaco). Quale effetto ci si deve aspettare?",
+      "opzioni": {
+        "A": "Aumento dell'effetto, perché il farmaco somministrato viene eliminato più lentamente",
+        "B": "Nessuna variazione, perché l'inibizione riguarda solo i farmaci già attivi",
+        "C": "Aumento della sintesi dell'enzima per compensare l'inibizione",
+        "D": "Riduzione dell'effetto, perché si forma meno metabolita attivo",
+        "E": "Accumulo di metaboliti tossici per saturazione del glutatione"
+      },
+      "corretta": "D",
+      "spiegazione": "Un profarmaco è inattivo e viene attivato dagli enzimi (es. L-DOPA → dopamina, cortisone → idrocortisone). Per gli azoli il testo precisa che, con i profarmaci, l'effetto dell'inibizione è opposto a quello sui farmaci attivi: si forma meno metabolita attivo.",
+      "distrattori": {
+        "A": "Per un farmaco attivo l'inibizione ne aumenta i livelli e l'effetto; con un profarmaco l'effetto è opposto.",
+        "B": "L'inibizione riduce anche la conversione dei profarmaci nella forma attiva.",
+        "C": "Gli inibitori agiscono sull'enzima senza modificarne la sintesi.",
+        "E": "La saturazione del glutatione riguarda il sovradosaggio di paracetamolo."
+      },
+      "riferimento": "p. 22 – Profarmaci; pp. 32-33 – Inibizione enzimatica; p. 334 – Derivati azolici e profarmaci"
+    },
+    {
+      "id": "99-008",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Farmacogenetica",
+      "domanda": "Il CYP2D6 metabolizza molti farmaci, tra cui la codeina. Cosa succede in un metabolizzatore ultrarapido del CYP2D6 che assume codeina?",
+      "opzioni": {
+        "A": "La codeina viene eliminata immodificata e l'effetto analgesico è nullo",
+        "B": "Si forma una quantità di morfina molto maggiore del normale, con rischio di intossicazione e depressione respiratoria",
+        "C": "La codeina si accumula perché il CYP2D6 viene saturato, con effetto antitosse prolungato",
+        "D": "Aumenta la formazione di parabenzochinone, con rischio di epatotossicità",
+        "E": "Si ha induzione del CYP3A4, che accelera l'eliminazione degli altri farmaci"
+      },
+      "corretta": "B",
+      "spiegazione": "I metabolizzatori ultrarapidi hanno polimorfismi che aumentano l'attività del CYP2D6: dalla codeina si forma più morfina, con livelli elevati che possono causare un'intossicazione simile a un'overdose. I polimorfismi dei citocromi distinguono metabolizzatori rapidi, lenti e ultrarapidi.",
+      "distrattori": {
+        "A": "Nell'ultrarapido la conversione in morfina è aumentata, non assente.",
+        "C": "Nell'ultrarapido il metabolismo è accelerato, non saturato.",
+        "D": "Il parabenzochinone è il metabolita tossico del paracetamolo.",
+        "E": "Il polimorfismo riguarda l'attività del CYP2D6, non un'induzione del CYP3A4."
+      },
+      "riferimento": "pp. 28-29 – CYP2D6 e farmacogenetica; pp. 260-262 – Codeina, metabolizzatori ultrarapidi"
+    },
+    {
+      "id": "99-009",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Farmacogenetica",
+      "domanda": "Quale affermazione sui polimorfismi metabolici descritti nel testo è corretta?",
+      "opzioni": {
+        "A": "Gli acetilatori lenti sono più esposti alla tossicità dell'isoniazide; i metabolizzatori ultrarapidi del CYP2D6 alla tossicità della codeina",
+        "B": "Gli acetilatori rapidi sono più esposti alla tossicità dell'isoniazide; i metabolizzatori lenti del CYP2D6 alla tossicità della codeina",
+        "C": "Gli acetilatori lenti richiedono dosi più alte di isoniazide; gli ultrarapidi del CYP2D6 hanno un'analgesia ridotta con la codeina",
+        "D": "Il polimorfismo dell'isoniazide riguarda il CYP3A4; quello della codeina l'acetilazione epatica",
+        "E": "I polimorfismi metabolici non dipendono dall'etnia, perché riguardano enzimi presenti in tutti"
+      },
+      "corretta": "A",
+      "spiegazione": "L'isoniazide è inattivata per acetilazione: negli acetilatori lenti la tossicità è più probabile, negli acetilatori rapidi servono dosi più alte. La codeina è convertita in morfina dal CYP2D6: negli ultrarapidi si forma troppa morfina, con rischio di intossicazione.",
+      "distrattori": {
+        "B": "Gli acetilatori rapidi eliminano troppo in fretta l'isoniazide e servono dosi più alte; il rischio di intossicazione da codeina è descritto per gli ultrarapidi.",
+        "C": "Sono gli acetilatori rapidi a richiedere dosi più alte; negli ultrarapidi l'effetto della codeina è aumentato, non ridotto.",
+        "D": "Gli enzimi sono invertiti: isoniazide → acetilazione, codeina → CYP2D6.",
+        "E": "Il testo sottolinea che le frequenze dei polimorfismi variano tra le etnie."
+      },
+      "riferimento": "pp. 28-29 – Farmacogenetica; pp. 260-262 – Codeina e CYP2D6; pp. 322-324 – Isoniazide, acetilatori"
+    },
+    {
+      "id": "99-010",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Interazioni serotoninergiche e IMAO",
+      "domanda": "Un paziente con morbo di Parkinson in terapia con rasagilina sviluppa una depressione. Quale classe di antidepressivi il testo raccomanda di evitare in associazione?",
+      "opzioni": {
+        "A": "Gli inibitori selettivi della ricaptazione della serotonina e della noradrenalina",
+        "B": "I sali di litio",
+        "C": "Gli antipsicotici atipici",
+        "D": "Le benzodiazepine a emivita breve",
+        "E": "Gli agonisti dopaminergici diretti"
+      },
+      "corretta": "A",
+      "spiegazione": "Con gli inibitori delle MAO-B (selegilina, rasagilina) va evitata l'associazione con gli inibitori selettivi della ricaptazione di serotonina e noradrenalina. Allo stesso modo l'associazione SSRI + I-MAO può causare una sindrome serotoninergica.",
+      "distrattori": {
+        "B": "Il litio è uno stabilizzante dell'umore; il testo non lo cita tra le associazioni da evitare con gli inibitori delle MAO-B.",
+        "C": "Gli antipsicotici atipici non sono antidepressivi e non sono citati in questa interazione.",
+        "D": "Le benzodiazepine non sono antidepressivi e non sono citate in questa interazione.",
+        "E": "Gli agonisti dopaminergici sono antiparkinsoniani, non antidepressivi."
+      },
+      "riferimento": "p. 170 – Inibitori delle MAO-B; p. 184 – SSRI, sindrome serotoninergica"
+    },
+    {
+      "id": "99-011",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Interazioni serotoninergiche e IMAO",
+      "domanda": "Perché la tiramina degli alimenti può causare una crisi ipertensiva in un paziente in terapia con un I-MAO?",
+      "opzioni": {
+        "A": "Perché la tiramina inibisce la ricaptazione della noradrenalina come la cocaina",
+        "B": "Perché la tiramina è un agonista diretto dei recettori β1 cardiaci",
+        "C": "Perché gli I-MAO aumentano l'assorbimento intestinale della tiramina",
+        "D": "Perché la tiramina inibisce le COMT e blocca il catabolismo dell'adrenalina",
+        "E": "Perché, con le MAO epatiche bloccate, la tiramina entra in circolo e, come releasing agent, libera noradrenalina"
+      },
+      "corretta": "E",
+      "spiegazione": "Normalmente la tiramina alimentare viene completamente degradata dalle MAO epatiche e la sua biodisponibilità orale è nulla. Se le MAO sono bloccate entra in circolo e, come amina simpaticomimetica ad azione indiretta (releasing agent, come le amfetamine), stimola il simpatico: crisi ipertensive con cefalea pulsante.",
+      "distrattori": {
+        "A": "La cocaina è un inibitore della ricaptazione; la tiramina è un releasing agent.",
+        "B": "La tiramina è un agonista indiretto: agisce aumentando il rilascio di noradrenalina.",
+        "C": "Il problema non è un maggiore assorbimento, ma la mancata degradazione da parte delle MAO epatiche.",
+        "D": "L'interazione riguarda il blocco delle MAO, non un'inibizione delle COMT da parte della tiramina."
+      },
+      "riferimento": "pp. 98, 108-109 – Agonisti indiretti; p. 179 – I-MAO, wine and cheese reaction"
+    },
+    {
+      "id": "99-012",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Soglia convulsiva",
+      "domanda": "In un paziente epilettico vanno usati con cautela i farmaci che riducono la soglia convulsiva. Quale abbinamento è descritto correttamente nel testo?",
+      "opzioni": {
+        "A": "Benzodiazepine e fenobarbital, che riducono la soglia convulsiva",
+        "B": "Antidepressivi triciclici, che riducono la soglia convulsiva, e tramadolo, che associato a triciclici o antipsicotici aumenta il rischio di convulsioni",
+        "C": "Etosuccimide e valproato, che riducono la soglia convulsiva nelle assenze",
+        "D": "SSRI e metadone, che riducono la soglia convulsiva per blocco del GABA-A",
+        "E": "Clonidina e prazosina, che riducono la soglia convulsiva per blocco adrenergico"
+      },
+      "corretta": "B",
+      "spiegazione": "Tra gli effetti avversi dei TCA c'è la riduzione della soglia convulsiva: sono sconsigliati nell'epilessia. Il tramadolo, per il meccanismo simile ai triciclici, associato a triciclici e antipsicotici aumenta il rischio di convulsioni. Anche la clozapina abbassa la soglia convulsiva.",
+      "distrattori": {
+        "A": "Benzodiazepine e fenobarbital sono anticonvulsivanti, usati nello stato di male e nelle crisi.",
+        "C": "Etosuccimide e valproato sono antiepilettici, efficaci anche nelle assenze.",
+        "D": "Il testo non attribuisce a SSRI e metadone un blocco del GABA-A che abbassi la soglia convulsiva.",
+        "E": "Il testo non attribuisce a clonidina e prazosina effetti sulla soglia convulsiva."
+      },
+      "riferimento": "p. 181 – TCA, effetti avversi; p. 205 – Clozapina; pp. 225, 228, 233 – Antiepilettici; p. 251 – Tramadolo, interazioni"
+    },
+    {
+      "id": "99-013",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Astinenza e sua gestione",
+      "domanda": "Quale farmaco antiadrenergico, agonista α2, viene usato per attenuare la sindrome d'astinenza da oppioidi?",
+      "opzioni": {
+        "A": "Prazosina",
+        "B": "Propranololo",
+        "C": "Clonidina",
+        "D": "Dobutamina",
+        "E": "Naltrexone"
+      },
+      "corretta": "C",
+      "spiegazione": "Durante l'astinenza si attiva il sistema noradrenergico centrale e periferico. La clonidina, agonista α2 presinaptico che attraversa la BEE e riduce l'attività del locus coeruleus, è usata nelle sindromi d'astinenza da oppioidi, alcol e nicotina.",
+      "distrattori": {
+        "A": "La prazosina è un antagonista α1 selettivo usato come antipertensivo e nel feocromocitoma.",
+        "B": "Il propranololo è un β-bloccante liposolubile usato per tremore essenziale e ansia, non per l'astinenza da oppioidi.",
+        "D": "La dobutamina è un agonista adrenergico con azione inotropa cardiaca.",
+        "E": "Il naltrexone è un antagonista oppioide: non attenua l'astinenza."
+      },
+      "riferimento": "pp. 121-122 – Clonidina; pp. 258-259 – Sindrome d'astinenza da oppioidi"
+    },
+    {
+      "id": "99-014",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Antidoti",
+      "domanda": "Quale affermazione confronta correttamente flumazenil e naloxone?",
+      "opzioni": {
+        "A": "Entrambi sono agonisti parziali e producono da soli un effetto sedativo lieve",
+        "B": "Il flumazenil antagonizza gli oppioidi, il naloxone le benzodiazepine",
+        "C": "Entrambi hanno emivita molto lunga, per cui basta una sola somministrazione",
+        "D": "Sono antagonisti competitivi; il flumazenil può scatenare l'astinenza nel paziente dipendente da benzodiazepine e il naloxone, con emivita di circa 1 ora, può richiedere dosi ripetute",
+        "E": "Sono antagonisti non competitivi irreversibili, per cui il loro effetto non è sormontabile"
+      },
+      "corretta": "D",
+      "spiegazione": "Il flumazenil è un antagonista competitivo sul sito delle benzodiazepine del GABA-A: nel paziente dipendente l'interruzione brusca può scatenare l'astinenza. Il naloxone è un antagonista oppioide competitivo con emivita di circa 1 ora: con oppioidi a emivita lunga l'overdose può ricomparire e la somministrazione va ripetuta.",
+      "distrattori": {
+        "A": "Sono antagonisti; il flumazenil da solo non produce effetti.",
+        "B": "È il contrario: il flumazenil antagonizza le benzodiazepine, il naloxone gli oppioidi.",
+        "C": "Il naloxone ha un'emivita breve, ed è proprio questo il suo limite.",
+        "E": "Entrambi sono antagonisti competitivi, quindi reversibili."
+      },
+      "riferimento": "pp. 219-220 – Flumazenil; pp. 255-256 – Naloxone"
+    },
+    {
+      "id": "99-015",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Antidoti",
+      "domanda": "Quale abbinamento tra intossicazione e antidoto è corretto?",
+      "opzioni": {
+        "A": "Paracetamolo – flumazenil",
+        "B": "Benzodiazepine – naloxone",
+        "C": "Oppioidi – N-acetilcisteina",
+        "D": "Curari non depolarizzanti – farmaci anticolinesterasici",
+        "E": "Muscarina – farmaci anticolinesterasici"
+      },
+      "corretta": "D",
+      "spiegazione": "Gli anticolinesterasici aumentano l'acetilcolina disponibile e superano l'antagonismo competitivo dei curari non depolarizzanti. Gli altri antidoti corretti sono: N-acetilcisteina per il paracetamolo, flumazenil per le benzodiazepine, naloxone per gli oppioidi, atropina per la muscarina.",
+      "distrattori": {
+        "A": "L'antidoto del paracetamolo è la N-acetilcisteina; il flumazenil antagonizza le benzodiazepine.",
+        "B": "Le benzodiazepine si antagonizzano con il flumazenil; il naloxone è l'antagonista degli oppioidi.",
+        "C": "Gli oppioidi si antagonizzano con il naloxone; la N-acetilcisteina è l'antidoto del paracetamolo.",
+        "E": "Nella crisi colinergica da muscarina si usa l'atropina; un anticolinesterasico peggiorerebbe l'eccesso di acetilcolina."
+      },
+      "riferimento": "p. 24 – Paracetamolo; p. 137 – Muscarina; p. 157 – Curari, antidoto; p. 219 – Flumazenil; pp. 255-256 – Naloxone"
+    },
+    {
+      "id": "99-016",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Antidoti",
+      "domanda": "In una crisi colinergica da funghi contenenti muscarina si somministra atropina solfato per via endovenosa. Perché la dose può essere adeguata all'entità dell'intossicazione?",
+      "opzioni": {
+        "A": "Perché l'atropina è un antagonista competitivo dei recettori muscarinici e l'antagonismo è sormontabile",
+        "B": "Perché l'atropina inibisce irreversibilmente l'acetilcolinesterasi",
+        "C": "Perché l'atropina blocca i recettori nicotinici della placca motrice",
+        "D": "Perché l'atropina accelera il metabolismo epatico della muscarina",
+        "E": "Perché l'atropina non attraversa mai la barriera ematoencefalica, a nessuna dose"
+      },
+      "corretta": "A",
+      "spiegazione": "L'atropina è un antagonista competitivo dei recettori muscarinici. Essendo l'antagonismo sormontabile, l'effetto dipende dal rapporto tra le concentrazioni e la dose si adegua alla quantità di agonista. Lo stesso principio spiega perché gli anticolinesterasici revertono i curari competitivi.",
+      "distrattori": {
+        "B": "Gli inibitori dell'acetilcolinesterasi aumentano l'acetilcolina e peggiorerebbero il quadro.",
+        "C": "L'atropina è un antagonista muscarinico, non nicotinico.",
+        "D": "Il testo descrive un antagonismo recettoriale, non un effetto sul metabolismo della muscarina.",
+        "E": "A dosi elevate (oltre 10 mg) l'atropina raggiunge il SNC, con allucinazioni, delirio e coma."
+      },
+      "riferimento": "p. 137 – Crisi colinergica da muscarina; pp. 139-140 – Atropina; p. 157 – Antagonismo competitivo dei curari"
+    },
+    {
+      "id": "99-017",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Antidoti",
+      "domanda": "Un paziente viene trovato incosciente con miosi estrema poco reattiva alla luce e 2-3 atti respiratori al minuto. Dopo il naloxone si risveglia, ma un'ora dopo torna soporoso. Perché?",
+      "opzioni": {
+        "A": "Il naloxone è un agonista parziale e a lungo termine causa sedazione",
+        "B": "L'emivita del naloxone è di circa 1 ora: esaurito il suo effetto ricompare quello dell'oppioide, per cui vanno ripetute le dosi",
+        "C": "Si tratta di un'intossicazione da benzodiazepine, che il naloxone non antagonizza",
+        "D": "Il naloxone induce il CYP2D6 e aumenta la formazione di morfina",
+        "E": "Si è sviluppata tolleranza al naloxone dopo una sola somministrazione"
+      },
+      "corretta": "B",
+      "spiegazione": "Miosi estrema e respiro molto rallentato sono i segni inequivocabili dell'overdose da oppioidi. Il naloxone, antagonista competitivo, ha emivita di circa 1 ora: con dosi elevate o oppioidi a lunga emivita l'effetto dell'oppioide ricompare. Bisogna ripetere le somministrazioni e monitorare il paziente.",
+      "distrattori": {
+        "A": "Il naloxone è un antagonista puro, non un agonista parziale.",
+        "C": "La miosi estrema e il risveglio con il naloxone indicano un'overdose da oppioidi.",
+        "D": "Il naloxone non ha effetti descritti sui citocromi.",
+        "E": "Il testo spiega la ricaduta con la breve emivita del naloxone, non con la tolleranza."
+      },
+      "riferimento": "pp. 255-256 – Overdose: segni e naloxone"
+    },
+    {
+      "id": "99-018",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Antidoti",
+      "domanda": "Quale antidoto NON agisce come antagonista competitivo su un recettore?",
+      "opzioni": {
+        "A": "Naloxone",
+        "B": "Flumazenil",
+        "C": "Atropina",
+        "D": "Naltrexone",
+        "E": "N-acetilcisteina"
+      },
+      "corretta": "E",
+      "spiegazione": "La N-acetilcisteina è l'antidoto dell'intossicazione da paracetamolo, la cui tossicità dipende dalla saturazione del glutatione e dall'accumulo di parabenzochinone. Non agisce su un recettore. Gli altri sono antagonisti competitivi.",
+      "distrattori": {
+        "A": "Il naloxone è un antagonista competitivo dei recettori oppioidi.",
+        "B": "Il flumazenil è un antagonista competitivo sul sito delle benzodiazepine del GABA-A.",
+        "C": "L'atropina è un antagonista competitivo dei recettori muscarinici.",
+        "D": "Il naltrexone è un antagonista puro competitivo dei recettori oppioidi, a lunga durata d'azione."
+      },
+      "riferimento": "p. 24 – Paracetamolo e N-acetilcisteina; p. 137 – Atropina; p. 219 – Flumazenil; pp. 256-257 – Naloxone, naltrexone"
+    },
+    {
+      "id": "99-019",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Antidoti",
+      "domanda": "Due effetti avversi si prevengono con una vitamina. Quale abbinamento è corretto?",
+      "opzioni": {
+        "A": "Isoniazide – vitamina K; fenitoina in gravidanza – vitamina B6 alla madre",
+        "B": "Isoniazide – acido folico; fenitoina in gravidanza – vitamina B6",
+        "C": "Isoniazide – vitamina B6 (piridossina); fenitoina in gravidanza – vitamina K al neonato",
+        "D": "Isoniazide – vitamina K; valproato in gravidanza – vitamina B6",
+        "E": "Etambutolo – vitamina B6; fenitoina in gravidanza – acido folico al neonato"
+      },
+      "corretta": "C",
+      "spiegazione": "L'isoniazide, simile alla vitamina B6, ne causa una carenza funzionale con neurite periferica: si previene con la piridossina. La fenitoina aumenta il metabolismo della vitamina K: nei neonati di madri trattate si sono viste ipotrombinemia ed emorragia, prevenibili con la vitamina K.",
+      "distrattori": {
+        "A": "Le due vitamine sono invertite.",
+        "B": "L'acido folico è citato per ridurre le malformazioni da antiepilettici, non per l'isoniazide.",
+        "D": "Per il valproato il testo cita l'acido folico contro le malformazioni (spina bifida), non la vitamina B6.",
+        "E": "La neurite dell'etambutolo è ottica e dose-dipendente, non da carenza di B6; al neonato della fenitoina si dà vitamina K."
+      },
+      "riferimento": "pp. 230-231, 235 – Fenitoina, vitamina K, gravidanza; pp. 323-324 – Isoniazide e vitamina B6; p. 326 – Etambutolo"
+    },
+    {
+      "id": "99-020",
+      "difficolta": "avanzato",
+      "tipo": "falsa",
+      "argomento": "Depressione respiratoria",
+      "domanda": "Quale affermazione sulla depressione respiratoria da farmaci è FALSA?",
+      "opzioni": {
+        "A": "Il sovradosaggio di benzodiazepine dà depressione respiratoria, pericolosa nei pazienti con BPCO",
+        "B": "Nell'overdose da oppioidi il respiro rallenta fino a 2-3 atti al minuto per perdita della sensibilità alla pCO2",
+        "C": "La clindamicina a dosi elevate può potenziare il blocco neuromuscolare dei curari fino alla depressione respiratoria",
+        "D": "Il tramadolo associato alla ketamina aumenta il rischio di depressione respiratoria",
+        "E": "Nel paziente tollerante all'analgesia da oppioidi la tolleranza non si sviluppa mai per la depressione respiratoria"
+      },
+      "corretta": "E",
+      "spiegazione": "Per gli oppioidi la tolleranza si sviluppa per tutti gli effetti, anche se non contemporaneamente: il paziente divenuto tollerante all'analgesia lo è anche per la depressione respiratoria, per cui aumentando la dose non bisogna temerla.",
+      "distrattori": {
+        "A": "Vera: sonno prolungato e depressione respiratoria sono gli effetti tossici del sovradosaggio acuto.",
+        "B": "Vera: è uno dei due segni inequivocabili dell'overdose, insieme alla miosi.",
+        "C": "Vera: è un'interazione descritta per la clindamicina con i farmaci che bloccano la placca.",
+        "D": "Vera: il testo la indica tra le interazioni del tramadolo."
+      },
+      "riferimento": "p. 216 – Benzodiazepine, sovradosaggio; p. 251 – Tramadolo; p. 254 – Tolleranza agli oppioidi; p. 255 – Overdose; p. 308 – Lincosamidi"
+    },
+    {
+      "id": "99-021",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Stesso effetto, meccanismi diversi",
+      "domanda": "Quale coppia comprende due farmaci che liberano istamina, con ipotensione e broncocostrizione?",
+      "opzioni": {
+        "A": "Fentanyl e succinilcolina",
+        "B": "Morfina e tubocurarina",
+        "C": "Fentanyl e tubocurarina",
+        "D": "Morfina e fentanyl",
+        "E": "Atropina e neostigmina"
+      },
+      "corretta": "B",
+      "spiegazione": "La morfina libera istamina, con ipotensione e broncocostrizione (grave negli asmatici). La tubocurarina libera istamina dai mastociti, con ipotensione, tachicardia compensatoria e broncocostrizione. Il fentanyl invece non libera istamina e per questo è preferito dagli anestesisti.",
+      "distrattori": {
+        "A": "Il fentanyl non libera istamina; per la succinilcolina il testo descrive altre reazioni avverse, tra cui l'ipertermia maligna.",
+        "C": "Il fentanyl non determina rilascio di istamina.",
+        "D": "Il fentanyl si distingue proprio dalla morfina per l'assenza di rilascio di istamina.",
+        "E": "Il testo non attribuisce a questi farmaci un rilascio di istamina."
+      },
+      "riferimento": "p. 158 – Tubocurarina, rilascio di istamina; p. 247 – Morfina e fentanyl, effetti indesiderati"
+    },
+    {
+      "id": "99-022",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Tossicità d'organo",
+      "domanda": "Quale classe di antibiotici si accumula nell'endolinfa e può causare sordità neurosensoriale permanente e disturbi dell'equilibrio?",
+      "opzioni": {
+        "A": "Macrolidi",
+        "B": "Tetracicline",
+        "C": "Fluorochinoloni",
+        "D": "Aminoglicosidi",
+        "E": "Penicilline"
+      },
+      "corretta": "D",
+      "spiegazione": "Gli aminoglicosidi si accumulano nell'endolinfa e possono danneggiare l'organo del Corti e l'apparato vestibolare. L'acufene è il primo segno di tossicità uditiva: vanno monitorati i livelli plasmatici.",
+      "distrattori": {
+        "A": "Per i macrolidi il testo sottolinea l'allungamento del QT.",
+        "B": "Per le tetracicline il testo descrive fototossicità e colorazione dei denti.",
+        "C": "Per i fluorochinoloni il testo descrive la tendinite fino alla rottura del tendine.",
+        "E": "Per le penicilline la reazione avversa principale descritta è l'allergia, fino allo shock anafilattico."
+      },
+      "riferimento": "pp. 293-294 – Penicilline, reazioni avverse; pp. 303-304 – Aminoglicosidi; p. 306 – Tetracicline; pp. 311-312 – Macrolidi; p. 317 – Fluorochinoloni"
+    },
+    {
+      "id": "99-023",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Tossicità d'organo",
+      "domanda": "Quale coppia comprende due antimicrobici per cui il testo descrive un danno renale?",
+      "opzioni": {
+        "A": "Aminoglicosidi e amfotericina B",
+        "B": "Penicilline e cefalosporine",
+        "C": "Macrolidi e ketolidi",
+        "D": "Aciclovir e penicilline",
+        "E": "Tetracicline ed etambutolo"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli aminoglicosidi entrano per pinocitosi nelle cellule del tubulo prossimale, causano fosfolipidosi lisosomiale e possono arrivare alla necrosi tubulare acuta. I polieni (amfotericina B) sono poco selettivi: oltre il 70% dei pazienti ha reazioni avverse, compreso il danno renale.",
+      "distrattori": {
+        "B": "Per i β-lattamici il testo indica una tossicità scarsa (sono i più usati anche in gravidanza): la reazione avversa principale è l'allergia.",
+        "C": "Per macrolidi e ketolidi il testo sottolinea l'allungamento del QT, non la nefrotossicità.",
+        "D": "L'aciclovir è descritto come particolarmente ben tollerato.",
+        "E": "Per le tetracicline il testo descrive fototossicità e affinità per il calcio; per l'etambutolo la neurite ottica."
+      },
+      "riferimento": "p. 304 – Aminoglicosidi, nefrotossicità; p. 316 – Antibiotici in gravidanza; pp. 331-332 – Aciclovir; pp. 333-334 – Polieni"
+    },
+    {
+      "id": "99-024",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Tossicità d'organo",
+      "domanda": "Un paziente con schizofrenia resistente è in terapia con clozapina e, per una comorbidità, gli viene proposta anche la carbamazepina. Quale effetto avverso condividono i due farmaci, da sorvegliare con esami ematici frequenti?",
+      "opzioni": {
+        "A": "Epatotossicità con aumento delle transaminasi",
+        "B": "Agranulocitosi",
+        "C": "Iperplasia gengivale",
+        "D": "Neurite ottica",
+        "E": "Ototossicità"
+      },
+      "corretta": "B",
+      "spiegazione": "La clozapina può causare agranulocitosi, potenzialmente mortale per sepsi: servono esami regolari e, se i granulociti calano, la sospensione immediata. Con la carbamazepina il rischio di anemia aplastica e agranulocitosi è aumentato di 5-8 volte: sono consigliati esami del sangue frequenti.",
+      "distrattori": {
+        "A": "L'epatotossicità con monitoraggio delle transaminasi è descritta per l'isoniazide.",
+        "C": "Il testo non associa l'iperplasia gengivale né alla clozapina né alla carbamazepina.",
+        "D": "La neurite ottica è caratteristica dell'etambutolo.",
+        "E": "L'ototossicità è caratteristica degli aminoglicosidi."
+      },
+      "riferimento": "p. 205 – Clozapina, agranulocitosi; p. 232 – Carbamazepina"
+    },
+    {
+      "id": "99-025",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Tossicità d'organo",
+      "domanda": "Un paziente in terapia antitubercolare con isoniazide e rifampicina, del tutto asintomatico, presenta transaminasi pari a 4 volte i valori normali. Qual è la condotta indicata dal testo?",
+      "opzioni": {
+        "A": "Sospendere subito tutti i farmaci, perché qualsiasi rialzo delle transaminasi è inaccettabile",
+        "B": "Sostituire l'isoniazide con l'etambutolo, che è epatotossico in misura maggiore",
+        "C": "Somministrare N-acetilcisteina, antidoto dell'epatotossicità da isoniazide",
+        "D": "Aggiungere un induttore enzimatico per accelerare l'eliminazione dell'isoniazide",
+        "E": "Proseguire la terapia monitorando, perché nell'asintomatico sono tollerati rialzi fino a 5 volte"
+      },
+      "corretta": "E",
+      "spiegazione": "Con l'isoniazide sono tollerati rialzi delle transaminasi fino a 3 volte se i sintomi sono lievi e fino a 5 volte se il paziente è asintomatico. Il farmaco si sospende quando compaiono sintomi veri (nausea, vomito, cachessia, ittero). Anche la rifampicina è epatotossica, per cui la funzione epatica va sorvegliata.",
+      "distrattori": {
+        "A": "Il testo indica soglie di tolleranza precise e non impone la sospensione a qualsiasi rialzo.",
+        "B": "Il testo non descrive l'etambutolo come più epatotossico; il suo effetto caratteristico è la neurite ottica.",
+        "C": "La N-acetilcisteina è l'antidoto dell'intossicazione da paracetamolo.",
+        "D": "Un induttore non è indicato e il testo non lo propone; la rifampicina è già un induttore."
+      },
+      "riferimento": "p. 24 – Paracetamolo; p. 323 – Isoniazide, epatotossicità; pp. 325-326 – Rifampicina, reazioni avverse; Etambutolo"
+    },
+    {
+      "id": "99-026",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Tossicità d'organo",
+      "domanda": "A un paziente con QT già lungo, in terapia con idrossiclorochina, viene prescritta azitromicina. Quale rischio è descritto?",
+      "opzioni": {
+        "A": "Ototossicità additiva per accumulo nell'endolinfa",
+        "B": "Inefficacia dell'azitromicina per induzione del suo metabolismo",
+        "C": "Ulteriore allungamento del QT per effetto sinergico, con rischio di torsioni di punta",
+        "D": "Blocco neuromuscolare con depressione respiratoria",
+        "E": "Reazione simile al disulfiram con accumulo di acetaldeide"
+      },
+      "corretta": "C",
+      "spiegazione": "I macrolidi (eritromicina, azitromicina) possono allungare il QT. Associati ad altri farmaci con lo stesso effetto, come l'idrossiclorochina, agiscono in modo sinergico: in un paziente con QT lungo il rischio è di aritmie gravi (torsioni di punta) fino all'arresto cardiaco.",
+      "distrattori": {
+        "A": "L'accumulo nell'endolinfa con ototossicità è descritto per gli aminoglicosidi.",
+        "B": "Il testo non descrive un'induzione del metabolismo dell'azitromicina da parte dell'idrossiclorochina.",
+        "D": "Il blocco neuromuscolare con depressione respiratoria è descritto per la clindamicina a dosi elevate.",
+        "E": "La reazione disulfiram-simile è descritta per il metronidazolo con l'alcol."
+      },
+      "riferimento": "p. 304 – Aminoglicosidi; p. 308 – Lincosamidi; p. 311 – Metronidazolo, macrolidi; p. 312 – Macrolidi, reazioni avverse"
+    },
+    {
+      "id": "99-027",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Tossicità d'organo",
+      "domanda": "Quale abbinamento tra antimicrobico ed effetto avverso caratteristico è corretto?",
+      "opzioni": {
+        "A": "Fluorochinoloni – tendinite fino alla rottura del tendine d'Achille",
+        "B": "Tetracicline – neurite ottica dose-dipendente",
+        "C": "Etambutolo – fototossicità con gravi eritemi",
+        "D": "Cotrimossazolo – ipertermia maligna",
+        "E": "Pirazinamide – colorazione arancione dei liquidi biologici"
+      },
+      "corretta": "A",
+      "spiegazione": "I fluorochinoloni hanno trofismo per cartilagini e tendini e possono dare tendinite fino alla rottura del tendine d'Achille. Sono più a rischio gli over 65, chi assume corticosteroidi e chi ha lesioni tendinee pregresse.",
+      "distrattori": {
+        "B": "Le tetracicline danno fototossicità e colorazione dei denti; la neurite ottica è dell'etambutolo.",
+        "C": "L'etambutolo dà neurite ottica; la fototossicità è delle tetracicline.",
+        "D": "Il cotrimossazolo può causare la sindrome di Stevens-Johnson/Lyell; l'ipertermia maligna è descritta per la succinilcolina.",
+        "E": "La pirazinamide dà iperuricemia e gotta; la colorazione arancione dei liquidi è della rifampicina."
+      },
+      "riferimento": "p. 160 – Succinilcolina; p. 306 – Tetracicline; p. 317 – Fluorochinoloni; p. 319 – Cotrimossazolo; pp. 325-327 – Rifampicina, etambutolo, pirazinamide"
+    },
+    {
+      "id": "99-028",
+      "difficolta": "base",
+      "tipo": "caso_clinico",
+      "argomento": "Tossicità d'organo",
+      "domanda": "Un paziente in terapia con un antimicrobico beve alcol e presenta vasodilatazione, rossore, tachicardia, sudorazione e cefalea. Quale farmaco è più probabilmente responsabile?",
+      "opzioni": {
+        "A": "Azitromicina",
+        "B": "Metronidazolo",
+        "C": "Amoxicillina",
+        "D": "Aciclovir",
+        "E": "Vancomicina"
+      },
+      "corretta": "B",
+      "spiegazione": "Il metronidazolo ha un effetto simile al disulfiram: inibisce l'aldeide deidrogenasi, per cui l'acetaldeide prodotta dal metabolismo dell'alcol si accumula e causa questi sintomi.",
+      "distrattori": {
+        "A": "Per l'azitromicina il testo sottolinea l'allungamento del QT, non l'interazione con l'alcol.",
+        "C": "Per le penicilline la reazione avversa principale descritta è l'allergia.",
+        "D": "L'aciclovir è descritto come particolarmente ben tollerato.",
+        "E": "Per la vancomicina il testo non descrive un'interazione con l'alcol."
+      },
+      "riferimento": "pp. 293-294 – Penicilline; pp. 300-301 – Vancomicina; pp. 311-312 – Metronidazolo, macrolidi; pp. 331-332 – Aciclovir"
+    },
+    {
+      "id": "99-029",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Monitoraggio e indice terapeutico",
+      "domanda": "Per quale gruppo di farmaci il testo raccomanda il controllo dei livelli plasmatici, e per quale motivo?",
+      "opzioni": {
+        "A": "Penicilline, aciclovir e cefalosporine, perché hanno una tossicità molto alta",
+        "B": "Benzodiazepine, Z-drugs e fentanyl, perché la cinetica è sempre di ordine zero",
+        "C": "Paracetamolo, metadone e THC, perché non hanno metaboliti",
+        "D": "Litio (range terapeutico ristretto), aminoglicosidi (oto- e nefrotossicità crescenti con i livelli) e fenitoina (cinetica non lineare)",
+        "E": "Macrolidi, ketolidi e linezolid, perché sono eliminati solo con la bile"
+      },
+      "corretta": "D",
+      "spiegazione": "Il litio ha un range terapeutico molto ristretto e la litemia va monitorata. Per gli aminoglicosidi, all'aumento dei livelli cresce il rischio di oto- e nefrotossicità. La fenitoina ha una cinetica non lineare: piccoli aumenti di dose possono dare aumenti sproporzionati dei livelli.",
+      "distrattori": {
+        "A": "I β-lattamici hanno tossicità scarsa e l'aciclovir è ben tollerato.",
+        "B": "Per questi farmaci il testo non descrive una cinetica di ordine zero né il monitoraggio dei livelli.",
+        "C": "Tutti e tre hanno metaboliti (tossici, attivi o rilevabili a lungo) e il testo non ne prescrive il dosaggio plasmatico.",
+        "E": "Il testo non indica il dosaggio plasmatico per questi farmaci e non li descrive come eliminati solo con la bile."
+      },
+      "riferimento": "pp. 229-230 – Fenitoina; p. 191 – Litio; pp. 303-304 – Aminoglicosidi"
+    },
+    {
+      "id": "99-030",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Farmaci in gravidanza",
+      "domanda": "Quale gruppo associa correttamente una situazione in gravidanza al farmaco indicato nel testo come utilizzabile?",
+      "opzioni": {
+        "A": "Infezione batterica – tetraciclina; ipertensione gravidica – propranololo; herpes – ganciclovir",
+        "B": "Infezione batterica – β-lattamico; ipertensione gravidica – metildopa; herpes genitale prima del parto – aciclovir",
+        "C": "Infezione batterica – fluorochinolone; epilessia – valproato; dipendenza da oppioidi – naltrexone",
+        "D": "Infezione batterica – cloramfenicolo; ipertensione gravidica – clonidina; herpes – penciclovir",
+        "E": "Infezione batterica – aminoglicoside; epilessia – fenobarbital; ipertensione gravidica – prazosina"
+      },
+      "corretta": "B",
+      "spiegazione": "In gravidanza i β-lattamici (penicilline e cefalosporine) hanno tossicità fetale scarsa o nulla. La metildopa è la prima scelta nell'ipertensione gravidica. L'aciclovir è ben tollerato ed è indicato anche in gravidanza, se necessario, per evitare il contagio del bambino durante il parto.",
+      "distrattori": {
+        "A": "Le tetracicline vanno evitate per i problemi all'osso fetale; ganciclovir e penciclovir possono essere teratogeni ed embriotossici.",
+        "C": "Il valproato ha il rischio teratogeno più alto (spina bifida); nella dipendenza da oppioidi in gravidanza il testo indica il metadone.",
+        "D": "Il testo non indica cloramfenicolo né clonidina in gravidanza, e il penciclovir è più pericoloso per il feto.",
+        "E": "Il fenobarbital ha un rischio teratogeno elevato; aminoglicosidi e prazosina non sono indicati per la gravidanza."
+      },
+      "riferimento": "p. 133 – Metildopa; p. 235 – Antiepilettici in gravidanza; p. 248 – Metadone; p. 306 – Tetracicline; p. 316 – Antibiotici in gravidanza; pp. 331-332 – Aciclovir e analoghi"
+    },
+    {
+      "id": "99-031",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Farmaci in gravidanza",
+      "domanda": "Quale affermazione sui rischi dei farmaci in gravidanza è FALSA?",
+      "opzioni": {
+        "A": "La placenta è più fenestrata e meno selettiva della barriera ematoencefalica",
+        "B": "Le tetracicline vanno evitate per i possibili problemi all'osso fetale",
+        "C": "Il metadone non è teratogeno e non dà al neonato un'astinenza particolarmente violenta",
+        "D": "La fenitoina assunta in gravidanza può causare emorragie nel neonato, prevenibili con la vitamina K",
+        "E": "Il valproato è l'antiepilettico con il rischio teratogeno più basso"
+      },
+      "corretta": "E",
+      "spiegazione": "Il valproato ha il rischio teratogeno massimo tra gli antiepilettici e aumenta il rischio di spina bifida. Il rischio è basso per lamotrigina, oxcarbazepina e levetiracetam. L'acido folico riduce molto il rischio di malformazioni.",
+      "distrattori": {
+        "A": "Vera: la placenta ha pori ampi per far passare nutrienti e anticorpi, quindi il feto è meno protetto del cervello.",
+        "B": "Vera: le tetracicline legano il calcio di denti e ossa.",
+        "C": "Vera: per questo il metadone è usato in gravidanza nella dipendenza da oppioidi.",
+        "D": "Vera: la fenitoina aumenta il metabolismo della vitamina K."
+      },
+      "riferimento": "pp. 20-21 – Placenta e BEE; pp. 230-231, 235 – Fenitoina, gravidanza; p. 248 – Metadone; p. 306 – Tetracicline"
+    },
+    {
+      "id": "99-032",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Farmaci in gravidanza",
+      "domanda": "Una donna in gravidanza assume una tetraciclina. Quali due fattori spiegano il rischio per il feto?",
+      "opzioni": {
+        "A": "La BEE fetale è più selettiva di quella materna e trattiene il farmaco nel SNC",
+        "B": "Le tetracicline inducono il CYP3A4 fetale e ne alterano lo sviluppo",
+        "C": "La placenta è poco selettiva e lascia passare il farmaco; le tetracicline hanno grande affinità per il calcio e possono legarsi all'osso fetale",
+        "D": "Le tetracicline vengono escrete nel latte e non attraversano la placenta",
+        "E": "Le tetracicline bloccano la sintesi della parete cellulare delle cellule fetali"
+      },
+      "corretta": "C",
+      "spiegazione": "La placenta è più fenestrata e meno selettiva della BEE, quindi ciò che la attraversa può influenzare lo sviluppo fetale. Le tetracicline hanno grande affinità per il calcio: colorano i denti di giallo-bruno e possono dare problemi all'osso del feto. Per questo vanno evitate in gravidanza salvo necessità.",
+      "distrattori": {
+        "A": "Il testo non descrive una maggiore selettività della BEE fetale; il punto è la scarsa selettività della placenta.",
+        "B": "Il testo non attribuisce alle tetracicline un'induzione enzimatica.",
+        "D": "Il rischio fetale dipende proprio dal passaggio placentare.",
+        "E": "Le tetracicline agiscono sul ribosoma batterico, non sulla parete; il danno fetale dipende dal legame al calcio."
+      },
+      "riferimento": "pp. 20-21 – Placenta e BEE; pp. 305-306 – Tetracicline"
+    },
+    {
+      "id": "99-033",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Età e metabolismo",
+      "domanda": "Perché il cloramfenicolo può causare la sindrome grigia nel neonato?",
+      "opzioni": {
+        "A": "Perché il neonato ha un volume di distribuzione minore e il farmaco resta confinato nel plasma",
+        "B": "Perché la capacità metabolica del neonato è ancora immatura e la glucuronoconiugazione lenta fa accumulare il farmaco",
+        "C": "Perché il cloramfenicolo induce gli enzimi epatici del neonato e produce metaboliti tossici",
+        "D": "Perché il cloramfenicolo è eliminato immodificato dal rene, immaturo nel neonato",
+        "E": "Perché il cloramfenicolo non attraversa la barriera ematoencefalica del neonato"
+      },
+      "corretta": "B",
+      "spiegazione": "La capacità di metabolizzare i farmaci è assente nel feto, compare nel bambino e raggiunge il picco dopo i 12 anni. Il 90% del cloramfenicolo è glucuronidato nel fegato: se la glucuronoconiugazione è lenta (neonato, anziano) il farmaco si accumula e nel neonato ne deriva la sindrome grigia.",
+      "distrattori": {
+        "A": "Il cloramfenicolo ha un ampio volume di distribuzione; il problema è il metabolismo.",
+        "C": "Il testo parla di glucuronoconiugazione lenta, non di induzione enzimatica.",
+        "D": "Il cloramfenicolo è prima glucuronidato nel fegato e poi escreto per filtrazione glomerulare.",
+        "E": "Il cloramfenicolo entra bene nel liquor; la sindrome grigia dipende dall'accumulo."
+      },
+      "riferimento": "p. 30 – Fattori che influenzano il metabolismo (età); pp. 309-310 – Cloramfenicolo"
+    },
+    {
+      "id": "99-034",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Farmaci in gravidanza",
+      "domanda": "Quale classe di antibiotici è indicata come autorizzata in gravidanza, perché la tossicità fetale è considerata scarsa o nulla?",
+      "opzioni": {
+        "A": "Tetracicline",
+        "B": "Fluorochinoloni",
+        "C": "Aminoglicosidi",
+        "D": "β-lattamici (penicilline e cefalosporine)",
+        "E": "Cloramfenicolo"
+      },
+      "corretta": "D",
+      "spiegazione": "Pochi antibiotici sono autorizzati in gravidanza, principalmente i β-lattamici, per i quali è accettata una tossicità fetale scarsa o nulla. Gli altri si usano valutando il rapporto rischio/beneficio, che diventa prioritario solo nelle infezioni gravi della madre.",
+      "distrattori": {
+        "A": "Le tetracicline vanno evitate per l'affinità per il calcio e i possibili danni all'osso fetale.",
+        "B": "I fluorochinoloni non sono tra gli antibiotici autorizzati in gravidanza.",
+        "C": "Gli aminoglicosidi hanno oto- e nefrotossicità e non sono tra quelli autorizzati.",
+        "E": "Il cloramfenicolo si accumula quando la glucuronoconiugazione è lenta, come nel neonato."
+      },
+      "riferimento": "pp. 303-304 – Aminoglicosidi; p. 306 – Tetracicline; pp. 309-310 – Cloramfenicolo; pp. 315-316 – Fluorochinoloni, antibiotici in gravidanza"
+    },
+    {
+      "id": "99-035",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Stesso effetto, meccanismi diversi",
+      "domanda": "Un uomo anziano con ipertrofia prostatica sviluppa ritenzione urinaria. Quale farmaco può esserne responsabile per antagonismo muscarinico?",
+      "opzioni": {
+        "A": "Un antidepressivo triciclico come l'amitriptilina",
+        "B": "Un inibitore dell'acetilcolinesterasi come la neostigmina",
+        "C": "Un agonista muscarinico come la pilocarpina",
+        "D": "Un antagonista α1 come la prazosina",
+        "E": "Un aminoglicoside come la gentamicina"
+      },
+      "corretta": "A",
+      "spiegazione": "I TCA bloccano i recettori muscarinici: xerostomia, stipsi, visione offuscata, tachicardia e ritenzione urinaria, quest'ultima importante negli anziani con ipertrofia prostatica. Effetti simili danno gli anticolinergici antiparkinsoniani, per il loro cross con il sistema nervoso autonomo.",
+      "distrattori": {
+        "B": "Gli anticolinesterasici aumentano l'acetilcolina, con effetti opposti all'antagonismo muscarinico.",
+        "C": "Un agonista muscarinico stimola i recettori, invece di bloccarli.",
+        "D": "La prazosina è un antagonista α1: il testo ne descrive l'effetto ipotensivo, non un antagonismo muscarinico.",
+        "E": "Per gli aminoglicosidi il testo descrive oto- e nefrotossicità, non effetti antimuscarinici."
+      },
+      "riferimento": "p. 126 – Prazosina; pp. 136, 144 – Agonisti muscarinici, anticolinesterasici; p. 174 – Anticolinergici nel Parkinson; p. 181 – TCA, effetti avversi"
+    },
+    {
+      "id": "99-036",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Età e metabolismo",
+      "domanda": "Una donna di 82 anni assume da mesi una benzodiazepina per dormire e riferisce sonnolenza al mattino, confusione e una caduta recente. Qual è la spiegazione più coerente con il testo?",
+      "opzioni": {
+        "A": "Nell'anziano il metabolismo è rallentato: la benzodiazepina si accumula e lascia un effetto residuo al mattino",
+        "B": "Si è sviluppata tolleranza all'effetto ansiolitico, che è il più soggetto a tolleranza",
+        "C": "Nell'anziano la BEE è impermeabile alle benzodiazepine, che agiscono solo in periferia",
+        "D": "La benzodiazepina induce il proprio metabolismo e si formano metaboliti eccitatori",
+        "E": "È un effetto paradosso tipico dei giovani adulti, raro nell'anziano"
+      },
+      "corretta": "A",
+      "spiegazione": "Nell'anziano il metabolismo dei farmaci è rallentato: le benzodiazepine si accumulano, l'eliminazione è difficoltosa e resta un effetto residuo al mattino (sedazione, confusione, riflessi rallentati, cadute). I metaboliti attivi, come nordiazepam e oxazepam dal diazepam, prolungano ulteriormente l'effetto.",
+      "distrattori": {
+        "B": "La tolleranza è spiccata per gli effetti ipnotico e anticonvulsivante, molto meno per quello ansiolitico; inoltre la tolleranza ridurrebbe l'effetto, non lo prolungherebbe.",
+        "C": "Le benzodiazepine agiscono a livello centrale sul GABA-A.",
+        "D": "Il testo non attribuisce alle benzodiazepine un'autoinduzione con metaboliti eccitatori.",
+        "E": "Il quadro descritto è quello dell'accumulo nell'anziano, non di un effetto paradosso."
+      },
+      "riferimento": "p. 23 – Metaboliti attivi del diazepam; p. 30 – Età e metabolismo; p. 208 – Benzodiazepine nell'anziano; pp. 217-218 – Tolleranza"
+    },
+    {
+      "id": "99-037",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Cinetiche saturabili",
+      "domanda": "Perché un piccolo aumento della dose di fenitoina può far salire in modo sproporzionato i livelli plasmatici?",
+      "opzioni": {
+        "A": "Perché la fenitoina è un profarmaco attivato più rapidamente a dosi alte",
+        "B": "Perché a dosi alte la fenitoina induce il proprio metabolismo",
+        "C": "Perché a dosi alte i sistemi epatici di eliminazione si saturano e la cinetica passa dal primo ordine all'ordine zero",
+        "D": "Perché la fenitoina viene spiazzata dall'albumina dai propri metaboliti",
+        "E": "Perché a dosi alte la fenitoina viene riassorbita completamente nel tubulo distale"
+      },
+      "corretta": "C",
+      "spiegazione": "La fenitoina ha una cinetica non lineare: a dosi basse l'eliminazione è di primo ordine, a dosi alte i sistemi epatici si saturano e la cinetica diventa di ordine zero. È lo stesso principio della saturazione dei trasportatori: quando tutti i siti sono occupati, la quantità eliminata non cresce più con la concentrazione.",
+      "distrattori": {
+        "A": "La fenitoina non è descritta come profarmaco.",
+        "B": "Un'autoinduzione accelererebbe l'eliminazione e ridurrebbe i livelli.",
+        "D": "Il testo spiega la cinetica non lineare con la saturazione del metabolismo, non con lo spiazzamento.",
+        "E": "Il testo non attribuisce la cinetica non lineare della fenitoina al riassorbimento tubulare."
+      },
+      "riferimento": "pp. 37-38 – Saturazione dei trasportatori e cinetica di ordine zero; pp. 229-230 – Cinetica non lineare della fenitoina"
+    },
+    {
+      "id": "99-038",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Monitoraggio e indice terapeutico",
+      "domanda": "Il litio non viene metabolizzato, non si lega alle proteine ed è eliminato per via renale. Quale situazione aumenta il rischio di tossicità da litio?",
+      "opzioni": {
+        "A": "L'associazione con un induttore del CYP3A4 come la rifampicina",
+        "B": "L'associazione con un diuretico tiazidico, che ne riduce l'eliminazione",
+        "C": "Un'abbondante idratazione con acqua contenente sodio",
+        "D": "L'associazione con un farmaco fortemente legato all'albumina",
+        "E": "Una ridotta funzionalità epatica, che ne blocca la glucuronoconiugazione"
+      },
+      "corretta": "B",
+      "spiegazione": "Il litio è eliminato per via renale con emivita di circa 24 ore e ha un range terapeutico molto ristretto. I diuretici tiazidici riducono l'eliminazione del litio e ne aumentano le concentrazioni: un tremore grossolano può essere un segno di tossicità. La litemia va monitorata.",
+      "distrattori": {
+        "A": "Il litio non viene metabolizzato, per cui un induttore enzimatico non ne modifica i livelli.",
+        "C": "Il testo raccomanda proprio di idratarsi abbondantemente con acqua contenente sodio.",
+        "D": "Il litio non si lega alle proteine plasmatiche, quindi non può essere spiazzato.",
+        "E": "Il litio non subisce metabolismo epatico né coniugazione."
+      },
+      "riferimento": "pp. 19-20 – Legame proteico; pp. 190-192 – Litio: farmacocinetica, interazioni, effetti renali"
+    },
+    {
+      "id": "99-039",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Escrezione renale",
+      "domanda": "Quale coppia comprende due farmaci eliminati prevalentemente immodificati per via renale?",
+      "opzioni": {
+        "A": "Diazepam e morfina",
+        "B": "Carbamazepina e fenitoina",
+        "C": "Isoniazide e cloramfenicolo",
+        "D": "THC e codeina",
+        "E": "Litio e penicilline"
+      },
+      "corretta": "E",
+      "spiegazione": "Il litio è uno ione: non è metabolizzato ed è eliminato per via renale. Quasi tutte le penicilline sono poco metabolizzate e si ritrovano immodificate nelle urine; sfruttano anche il sistema tubulare di secrezione degli acidi organici. In entrambi i casi la funzione renale condiziona i livelli plasmatici.",
+      "distrattori": {
+        "A": "Il diazepam è glucuronoconiugato e forma metaboliti attivi; la morfina è glucuronata nel fegato.",
+        "B": "La carbamazepina è metabolizzata dal CYP3A4 in un epossido; la fenitoina ha metabolismo epatico saturabile.",
+        "C": "L'isoniazide è acetilata nel fegato; il cloramfenicolo è glucuronidato per il 90%.",
+        "D": "Il THC è metabolizzato dai CYP2C19 e CYP3A4; la codeina è convertita in morfina dal CYP2D6."
+      },
+      "riferimento": "p. 37 – Secrezione tubulare; p. 190 – Litio; p. 293 – Farmacocinetica delle penicilline; pp. 23, 29, 230, 232, 246, 262, 271, 309, 322 – Metabolismo degli altri farmaci"
+    },
+    {
+      "id": "99-040",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Metaboliti attivi e profarmaci",
+      "domanda": "Quale abbinamento tra farmaco e metabolita attivo è corretto?",
+      "opzioni": {
+        "A": "Diazepam – parabenzochinone",
+        "B": "Morfina – morfina-6-glucuronide",
+        "C": "Paracetamolo – nordiazepam",
+        "D": "THC – 7-idrossi-CBD",
+        "E": "Carbamazepina – N-acetil-isoniazide"
+      },
+      "corretta": "B",
+      "spiegazione": "La glucuronazione epatica della morfina produce la morfina-6-glucuronide, metabolita attivo che continua a dare analgesia. Altri metaboliti attivi citati: nordiazepam e oxazepam (diazepam), l'epossido della carbamazepina, l'11-idrossi-THC.",
+      "distrattori": {
+        "A": "Il parabenzochinone è il metabolita tossico del paracetamolo; i metaboliti attivi del diazepam sono nordiazepam e oxazepam.",
+        "C": "Il nordiazepam deriva dal diazepam; il paracetamolo forma il parabenzochinone.",
+        "D": "Il metabolita attivo del THC è l'11-idrossi-THC; il 7-idrossi-CBD deriva dal CBD.",
+        "E": "La carbamazepina forma un epossido attivo; la N-acetil-isoniazide è il prodotto di inattivazione dell'isoniazide."
+      },
+      "riferimento": "pp. 23-24 – Diazepam, paracetamolo; p. 232 – Carbamazepina; p. 246 – Morfina; p. 271 – THC e CBD; p. 322 – Isoniazide"
+    },
+    {
+      "id": "99-041",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Metaboliti attivi e profarmaci",
+      "domanda": "L-DOPA, metildopa e codeina diventano attive dopo una trasformazione nell'organismo. Quale affermazione è corretta?",
+      "opzioni": {
+        "A": "Tutte e tre sono convertite in morfina dal CYP2D6",
+        "B": "La metildopa diventa dopamina e agisce sui recettori D2 striatali",
+        "C": "La L-DOPA è convertita in noradrenalina e agisce sugli α2 centrali",
+        "D": "La L-DOPA diventa dopamina nel SNC; la metildopa diventa metil-noradrenalina, agonista α2; la codeina è convertita in morfina dal CYP2D6",
+        "E": "La codeina è convertita in metil-noradrenalina, che ne spiega l'effetto antitosse"
+      },
+      "corretta": "D",
+      "spiegazione": "La L-DOPA attraversa la BEE tramite carrier e diventa dopamina. La metildopa, falso neurotrasmettitore, diventa metil-noradrenalina, agonista α2 che riduce la liberazione di noradrenalina. La codeina è convertita in morfina dal CYP2D6 (circa il 10%).",
+      "distrattori": {
+        "A": "Solo la codeina è convertita in morfina dal CYP2D6.",
+        "B": "La metildopa diventa metil-noradrenalina, agonista α2, e non agisce sui D2.",
+        "C": "La L-DOPA è usata come precursore della dopamina nel Parkinson.",
+        "E": "La metil-noradrenalina deriva dalla metildopa; la codeina è convertita in morfina."
+      },
+      "riferimento": "p. 22 – Profarmaci (L-DOPA); p. 133 – Metildopa; pp. 260-262 – Codeina e CYP2D6"
+    },
+    {
+      "id": "99-042",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Escrezione renale",
+      "domanda": "La pirazinamide può causare iperuricemia e gotta. Quale principio dell'escrezione renale spiega questo effetto?",
+      "opzioni": {
+        "A": "La filtrazione glomerulare, che blocca le molecole oltre i 60 kD",
+        "B": "Il riassorbimento passivo dei farmaci lipofili nel tubulo distale",
+        "C": "Il circolo enteroepatico, che riporta l'acido urico nell'intestino",
+        "D": "La saturazione del legame alle proteine plasmatiche",
+        "E": "La competizione per gli stessi sistemi di trasporto tubulari, non specifici e saturabili"
+      },
+      "corretta": "E",
+      "spiegazione": "I trasportatori della secrezione tubulare non sono specifici, sono saturabili e possono andare in competizione tra sostanze diverse. La pirazinamide compete con l'acido urico a livello renale e ne riduce l'escrezione: l'iperuricemia può far precipitare cristalli nelle articolazioni (gotta).",
+      "distrattori": {
+        "A": "La filtrazione glomerulare non spiega una competizione tra due sostanze.",
+        "B": "Il riassorbimento passivo dei lipofili non riguarda la competizione con l'acido urico.",
+        "C": "Il circolo enteroepatico riguarda i farmaci escreti con la bile.",
+        "D": "Il testo descrive una competizione a livello renale, non sulle proteine plasmatiche."
+      },
+      "riferimento": "pp. 34-38 – Filtrazione, secrezione e riassorbimento tubulare; p. 327 – Pirazinamide, reazioni avverse"
+    },
+    {
+      "id": "99-043",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Barriera ematoencefalica",
+      "domanda": "Quale sostanza, se somministrata direttamente, NON attraversa la barriera ematoencefalica?",
+      "opzioni": {
+        "A": "Dopamina",
+        "B": "L-DOPA",
+        "C": "Clonidina",
+        "D": "Propranololo",
+        "E": "Scopolamina"
+      },
+      "corretta": "A",
+      "spiegazione": "La dopamina somministrata non attraversa la BEE: per questo nel Parkinson si usa la L-DOPA, che passa tramite carrier e viene convertita in dopamina nel SNC. Per lo stesso motivo la dopamina, usata nello shock, ha azioni periferiche.",
+      "distrattori": {
+        "B": "La L-DOPA attraversa la BEE tramite carrier.",
+        "C": "La clonidina attraversa bene la BEE e riduce l'attività del locus coeruleus.",
+        "D": "Il propranololo è liposolubile e attraversa la BEE, con effetti su tremore e ansia.",
+        "E": "La scopolamina attraversa la BEE, con effetti centrali (es. sulla memoria, cinetosi)."
+      },
+      "riferimento": "p. 22 – L-DOPA e dopamina; p. 117 – Dopamina; pp. 121-122 – Clonidina; pp. 128-129 – Propranololo; p. 140 – Scopolamina"
+    },
+    {
+      "id": "99-044",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Stesso effetto, meccanismi diversi",
+      "domanda": "Quale gruppo comprende tre farmaci che, secondo il testo, possono causare sintomi parkinsoniani o extrapiramidali?",
+      "opzioni": {
+        "A": "Levodopa, amantadina, rasagilina",
+        "B": "Clozapina a basse dosi, aciclovir, litio",
+        "C": "Antipsicotici tipici, metoclopramide a dosi elevate, metildopa",
+        "D": "Atropina, scopolamina, triesifenidile",
+        "E": "Benzodiazepine, flumazenil, Z-drugs"
+      },
+      "corretta": "C",
+      "spiegazione": "Gli antipsicotici tipici bloccano i D2 della via nigrostriatale (effetti extrapiramidali precoci e discinesia tardiva). La metoclopramide, antagonista D2, a dosi elevate supera la BEE e dà effetti neurologici simili. Tra le reazioni avverse della metildopa il testo elenca sintomi parkinsoniani.",
+      "distrattori": {
+        "A": "Sono farmaci antiparkinsoniani, che aumentano la disponibilità di dopamina.",
+        "B": "La clozapina è un atipico con bassa occupazione dei D2; aciclovir e litio non sono associati a sintomi parkinsoniani nel testo.",
+        "D": "Gli antimuscarinici sono usati contro i sintomi del Parkinson, non li causano.",
+        "E": "Il testo non associa questi farmaci a sintomi extrapiramidali."
+      },
+      "riferimento": "p. 133 – Metildopa; p. 174 – Anticolinergici nel Parkinson; pp. 202-203 – Effetti extrapiramidali, metoclopramide; p. 204 – Atipici"
+    },
+    {
+      "id": "99-045",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Barriera ematoencefalica",
+      "domanda": "Le penicilline in genere non attraversano le meningi integre. Perché possono comunque essere efficaci in un paziente con meningite?",
+      "opzioni": {
+        "A": "Perché nella meningite vengono trasportate attivamente dalla P-glicoproteina nel SNC",
+        "B": "Perché la meningite aumenta il loro legame all'albumina e il trasporto nel liquor",
+        "C": "Perché la meningite ne riduce l'escrezione renale, aumentando i livelli plasmatici",
+        "D": "Perché la meningite rende la BEE più permeabile e le penicilline passano quando le meningi sono infiammate",
+        "E": "Perché nella meningite si somministrano per via orale, che bypassa la BEE"
+      },
+      "corretta": "D",
+      "spiegazione": "Condizioni patologiche come la meningite rendono la BEE più permeabile e la patologia può modificare la distribuzione del farmaco. La maggior parte delle penicilline non attraversa le meningi integre, ma passa quando sono irritate.",
+      "distrattori": {
+        "A": "Il testo spiega il passaggio con l'aumento della permeabilità, non con un trasporto attivo.",
+        "B": "Il farmaco legato alle proteine non attraversa le barriere: passa solo la quota libera.",
+        "C": "Il testo non collega la meningite all'escrezione renale delle penicilline.",
+        "E": "La via di somministrazione non permette di 'bypassare' la BEE."
+      },
+      "riferimento": "pp. 19-21 – Legame proteico, BEE e meningite; p. 293 – Farmacocinetica delle penicilline"
+    },
+    {
+      "id": "99-046",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Tolleranza",
+      "domanda": "Quale affermazione confronta correttamente la tolleranza descritta per diversi farmaci?",
+      "opzioni": {
+        "A": "Con le benzodiazepine la tolleranza è spiccata per l'effetto ansiolitico; con gli oppioidi non si sviluppa mai per la depressione respiratoria",
+        "B": "Con le benzodiazepine la tolleranza è spiccata per gli effetti ipnotico e anticonvulsivante; con gli oppioidi si sviluppa per tutti gli effetti, anche se non contemporaneamente",
+        "C": "La tolleranza da induzione enzimatica è irreversibile e dipende dal blocco dei recettori",
+        "D": "La tachifilassi è la forma di tolleranza che si sviluppa lentamente con la terapia cronica",
+        "E": "Con gli oppioidi la tolleranza acuta è dovuta all'induzione del CYP2D6"
+      },
+      "corretta": "B",
+      "spiegazione": "Per le benzodiazepine la tolleranza è spiccata per gli effetti ipnotico e anticonvulsivante, molto meno per quello ansiolitico. Per gli oppioidi si sviluppa per tutti gli effetti, non contemporaneamente: la tolleranza acuta deriva dal ridotto accoppiamento recettore-proteina G, quella cronica dalla down-regolazione. L'induzione enzimatica dà invece una tolleranza metabolica, reversibile.",
+      "distrattori": {
+        "A": "Per le benzodiazepine la tolleranza all'effetto ansiolitico è scarsa; per gli oppioidi si sviluppa anche per la depressione respiratoria.",
+        "C": "L'induzione enzimatica è reversibile e dà una tolleranza metabolica, legata all'aumento dell'eliminazione.",
+        "D": "La tachifilassi è un fenomeno acuto, da somministrazioni ravvicinate; la tolleranza è lenta e cronica.",
+        "E": "La tolleranza acuta agli oppioidi dipende dal ridotto accoppiamento recettore-proteina G."
+      },
+      "riferimento": "p. 31 – Tolleranza da induzione enzimatica; pp. 105-107 – Tachifilassi e tolleranza; pp. 217-218 – Tolleranza alle benzodiazepine; pp. 253-254 – Tolleranza agli oppioidi"
+    },
+    {
+      "id": "99-047",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Agonisti parziali",
+      "domanda": "Quale gruppo comprende tre esempi di agonismo parziale citati nel testo?",
+      "opzioni": {
+        "A": "Aripiprazolo sui D2, THC sui CB1/CB2, β-bloccanti con attività simpaticomimetica intrinseca sui recettori β",
+        "B": "Naloxone sui μ, flumazenil sul GABA-A, atropina sui muscarinici",
+        "C": "Fentanyl sui μ, aloperidolo sui D2, prazosina sugli α1",
+        "D": "Cannabinoidi sintetici sui CB1, isoproterenolo sui β, morfina sui μ",
+        "E": "Clozapina sui D2, propranololo sui β, naltrexone sui μ"
+      },
+      "corretta": "A",
+      "spiegazione": "L'aripiprazolo è un agonista parziale D2. Il THC è un agonista parziale, a bassa affinità, dei CB1 e CB2. I β-bloccanti con ASI sono agonisti parziali che, avendo attività minore della molecola endogena, si comportano funzionalmente da antagonisti.",
+      "distrattori": {
+        "B": "Naloxone, flumazenil e atropina sono antagonisti competitivi.",
+        "C": "Il fentanyl è un agonista completo; aloperidolo e prazosina sono antagonisti.",
+        "D": "I cannabinoidi sintetici sono agonisti completi, come morfina e isoproterenolo nei rispettivi recettori.",
+        "E": "Clozapina, propranololo e naltrexone agiscono da antagonisti."
+      },
+      "riferimento": "pp. 77-78 – Agonisti parziali; p. 130 – ASI dei β-bloccanti; p. 205 – Aripiprazolo; p. 269 – THC"
+    },
+    {
+      "id": "99-048",
+      "difficolta": "base",
+      "tipo": "confronto",
+      "argomento": "Stesso effetto, meccanismi diversi",
+      "domanda": "Clonidina e metildopa riducono entrambe l'attività simpatica. Qual è il meccanismo comune?",
+      "opzioni": {
+        "A": "Il blocco dei recettori β1 cardiaci",
+        "B": "Il blocco selettivo dei recettori α1 vascolari",
+        "C": "L'inibizione delle MAO nel terminale noradrenergico",
+        "D": "L'attivazione dei recettori α2, che riduce la liberazione di noradrenalina",
+        "E": "L'antagonismo dei recettori D2 nel tronco cerebrale"
+      },
+      "corretta": "D",
+      "spiegazione": "La clonidina è un agonista α2 presinaptico che attraversa la BEE e inibisce i neuroni noradrenergici centrali. La metildopa, falso neurotrasmettitore, diventa metil-noradrenalina, agonista α2 che riduce la liberazione di noradrenalina agendo nel tronco cerebrale.",
+      "distrattori": {
+        "A": "Il blocco β1 è il meccanismo dei β-bloccanti.",
+        "B": "Il blocco α1 selettivo è il meccanismo della prazosina.",
+        "C": "L'inibizione delle MAO è il meccanismo degli I-MAO.",
+        "E": "Il testo descrive per entrambi un'azione sugli α2, non sui D2."
+      },
+      "riferimento": "pp. 121-122 – Clonidina; p. 126 – Prazosina; p. 133 – Metildopa"
+    },
+    {
+      "id": "99-049",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Stesso effetto, meccanismi diversi",
+      "domanda": "Quale gruppo comprende tre farmaci associati nel testo all'aumento di peso?",
+      "opzioni": {
+        "A": "Antidepressivi triciclici (blocco H1), clozapina, olanzapina",
+        "B": "Bupropione, metronidazolo, fluorochinoloni",
+        "C": "Amantadina, entacapone, pramipexolo",
+        "D": "Flumazenil, naloxone, naltrexone",
+        "E": "Isoniazide, etambutolo, pirazinamide"
+      },
+      "corretta": "A",
+      "spiegazione": "I TCA bloccano i recettori H1, che controllano il comportamento alimentare e il ciclo sonno-veglia: aumento di peso e sonnolenza. La clozapina dà aumento di peso e sindrome metabolica. L'olanzapina dà aumento di peso e sonnolenza.",
+      "distrattori": {
+        "B": "Il testo non associa questi farmaci all'aumento di peso.",
+        "C": "Sono antiparkinsoniani, per i quali il testo non descrive aumento di peso.",
+        "D": "Sono antagonisti usati come antidoti o nella dipendenza, non associati all'aumento di peso.",
+        "E": "Per gli antitubercolari il testo descrive altre tossicità (epatica, neurite, gotta)."
+      },
+      "riferimento": "p. 181 – TCA, effetti avversi; pp. 205-206 – Clozapina, olanzapina"
+    },
+    {
+      "id": "99-050",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Stesso effetto, meccanismi diversi",
+      "domanda": "Antidepressivi triciclici e prazosina possono entrambi causare ipotensione ortostatica. Attraverso quale meccanismo comune?",
+      "opzioni": {
+        "A": "Il rilascio di istamina dai mastociti",
+        "B": "Il blocco dei recettori α1-adrenergici",
+        "C": "L'attivazione dei recettori α2 presinaptici",
+        "D": "L'antagonismo dei recettori muscarinici",
+        "E": "Il blocco dei recettori H1 istaminergici"
+      },
+      "corretta": "B",
+      "spiegazione": "Il blocco α1 dei TCA causa ipotensione ortostatica e vertigini. La prazosina, antagonista α1 selettivo, dà l'effetto prima dose e vertigini da ipotensione ortostatica, perché in piedi manca la vasocostrizione mediata dagli α1.",
+      "distrattori": {
+        "A": "Il rilascio di istamina è descritto per morfina e tubocurarina.",
+        "C": "L'attivazione α2 è il meccanismo di clonidina e metildopa.",
+        "D": "L'antagonismo muscarinico dei TCA dà xerostomia, stipsi e ritenzione urinaria.",
+        "E": "Il blocco H1 dei TCA dà aumento di peso e sonnolenza."
+      },
+      "riferimento": "p. 126 – Prazosina, reazioni avverse; p. 181 – TCA, effetti avversi"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Induttori (rifampicina, carbamazepina, fenobarbital, iperico) riducono i livelli dei substrati del CYP3A4 (inefficacia di statine e contraccettivi); inibitori (azoli, pompelmo, e per la fenitoina cimetidina e isoniazide) li aumentano (tossicità). Con i profarmaci l'effetto si inverte.",
+    "Antidoti: N-acetilcisteina (paracetamolo), naloxone (oppioidi, emivita ~1 h: ripetere), flumazenil (benzodiazepine, rischio di astinenza nel dipendente), atropina (muscarina), anticolinesterasici (curari non depolarizzanti).",
+    "Monitoraggio: litio (range ristretto, tiazidici ↑ litemia), aminoglicosidi (oto- e nefrotossicità), fenitoina (cinetica di ordine zero), clozapina e carbamazepina (emocromo per agranulocitosi), isoniazide (transaminasi fino a 5x nell'asintomatico).",
+    "Gravidanza: sì β-lattamici, metildopa, aciclovir, metadone; evitare tetracicline (osso fetale), valproato (rischio massimo, spina bifida), ganciclovir/penciclovir; fenitoina → vitamina K al neonato.",
+    "Stesso effetto, meccanismi diversi: ipotensione da blocco α1 (TCA, prazosina) o da istamina (morfina, tubocurarina); sintomi extrapiramidali da antipsicotici tipici, metoclopramide ad alte dosi, metildopa; soglia convulsiva ridotta da TCA, clozapina e tramadolo."
+  ]
+}

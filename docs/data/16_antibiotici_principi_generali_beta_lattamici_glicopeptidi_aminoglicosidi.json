@@ -1,0 +1,842 @@
+{
+  "capitolo": 16,
+  "titolo": "Antibiotici: principi generali, β-lattamici, glicopeptidi e aminoglicosidi",
+  "pagine": "276-304",
+  "domande": [
+    {
+      "id": "16-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Resistenza e uso improprio",
+      "domanda": "Tra i principali batteri multiresistenti diffusi in Italia, la sigla CREC indica:",
+      "opzioni": {
+        "A": "Staphylococcus aureus resistente alla meticillina",
+        "B": "Enterococcus faecium resistente alla vancomicina",
+        "C": "Escherichia coli resistente alle cefalosporine di III generazione",
+        "D": "Klebsiella resistente alle cefalosporine di III generazione",
+        "E": "Escherichia coli resistente ai carbapenemi"
+      },
+      "corretta": "C",
+      "spiegazione": "Il testo elenca come principali batteri multiresistenti in Italia MRSA (S. aureus resistente alla meticillina), VRE (Enterococcus faecium resistente alla vancomicina) e CREC (E. coli resistente alle cefalosporine di III generazione).",
+      "distrattori": {
+        "A": "Questa è la definizione di MRSA, non di CREC.",
+        "B": "Questa è la definizione di VRE, non di CREC.",
+        "D": "Klebsiella è citata tra i batteri resistenti frequenti in Italia, ma la sigla CREC si riferisce a E. coli.",
+        "E": "La resistenza indicata dalla sigla CREC riguarda le cefalosporine di III generazione, non i carbapenemi."
+      },
+      "riferimento": "p. 277 – Batteri multiresistenti in Italia"
+    },
+    {
+      "id": "16-002",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Resistenza e uso improprio",
+      "domanda": "Una paziente con mal di gola da due giorni assume di sua iniziativa l'amoxicillina avanzata da una precedente prescrizione. Quale commento è coerente con quanto riportato nel testo?",
+      "opzioni": {
+        "A": "È una scelta corretta, perché le faringiti sono quasi sempre di origine batterica",
+        "B": "È inappropriato: le faringiti sono per lo più virali e una terapia non mirata seleziona ceppi resistenti",
+        "C": "È accettabile purché assuma anche fermenti lattici, che impediscono la selezione di ceppi resistenti",
+        "D": "È sconsigliato soprattutto perché l'amoxicillina non viene assorbita per via orale",
+        "E": "È rischioso soprattutto perché l'amoxicillina ha un indice terapeutico ristretto e una spiccata nefrotossicità"
+      },
+      "corretta": "B",
+      "spiegazione": "Il testo cita come esempi di uso improprio la prescrizione di antibiotici per faringiti, che nella maggior parte dei casi sono virali, e l'autosomministrazione di antibiotici avanzati: una terapia non mirata e inappropriata porta sempre alla selezione di ceppi resistenti.",
+      "distrattori": {
+        "A": "Il testo afferma l'opposto: le faringiti sono nella maggior parte dei casi di origine virale.",
+        "C": "I fermenti lattici servono molto poco persino contro il dismicrobismo da antibiotici e non hanno alcun ruolo nel prevenire le resistenze.",
+        "D": "Le aminopenicilline (ampicillina e amoxicillina) sono somministrabili e assorbibili per via orale.",
+        "E": "Le penicilline hanno un indice terapeutico molto elevato e le loro reazioni avverse rilevanti sono soprattutto allergiche."
+      },
+      "riferimento": "p. 277 – Uso consapevole degli antibiotici; p. 289-290 – Aminopenicilline; p. 293-294 – ADR alle penicilline"
+    },
+    {
+      "id": "16-003",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Chemioprofilassi",
+      "domanda": "Un paziente deve essere sottoposto a una piccola asportazione cutanea in regime ambulatoriale. Secondo quanto riportato nel testo, come va considerata la profilassi antibiotica preoperatoria?",
+      "opzioni": {
+        "A": "Non è raccomandata: per interventi su organi sterili o sterilizzabili le linee guida puntano sull'igiene del campo operatorio e delle mani",
+        "B": "È raccomandata, perché la cute è un organo non sterile come l'intestino",
+        "C": "È raccomandata dalle linee guida per tutelare il medico da eventuali denunce",
+        "D": "È raccomandata con ceftriaxone, perché la profilassi a tappeto non seleziona ceppi resistenti",
+        "E": "È raccomandata con un aminoglicoside per via orale, come disinfettante della cute"
+      },
+      "corretta": "A",
+      "spiegazione": "Le linee guida sconsigliano la profilassi a tappeto, superflua e dannosa perché seleziona ceppi resistenti. È giustificata nei campi operatori sporchi (chirurgia addominale, intestino), non nelle piccole chirurgie o su organi sterili (fegato) o sterilizzabili (cute), dove conta l'igiene del campo operatorio e delle mani.",
+      "distrattori": {
+        "B": "Il testo indica la cute come organo sterilizzabile, contrapposto agli organi non sterili come l'intestino.",
+        "C": "La profilassi per ragioni medico-legali è 'medicina difensiva', non una raccomandazione delle linee guida, e danneggia la collettività.",
+        "D": "La profilassi a tappeto seleziona sempre ceppi resistenti, soprattutto negli ospedali.",
+        "E": "Gli aminoglicosidi orali si usano come disinfettanti intestinali prima di un intervento, non sulla cute."
+      },
+      "riferimento": "p. 280-281 – Chemioprofilassi; p. 297 – Ceftriaxone, profilassi chirurgica"
+    },
+    {
+      "id": "16-004",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Battericidi e batteriostatici",
+      "domanda": "Quale affermazione descrive correttamente gli antibiotici batteriostatici?",
+      "opzioni": {
+        "A": "Provocano la lisi osmotica del batterio interferendo con la sintesi della parete",
+        "B": "Sono in ogni caso meno efficaci dei battericidi nell'eradicare l'infezione",
+        "C": "Richiedono picchi pari ad almeno 10 volte la MIC per essere efficaci",
+        "D": "Comprendono gli aminoglicosidi, che bloccano la subunità 30S",
+        "E": "Inibiscono la replicazione batterica in modo reversibile e l'eradicazione dipende dal sistema immunitario dell'ospite"
+      },
+      "corretta": "E",
+      "spiegazione": "I batteriostatici inibiscono la replicazione senza effetto letale diretto; l'azione è reversibile dopo l'allontanamento del farmaco e l'eradicazione è affidata al sistema immunitario dell'ospite. Questo non li rende necessariamente meno utili dei battericidi.",
+      "distrattori": {
+        "A": "La lisi osmotica da inibizione della sintesi della parete è propria dei battericidi (β-lattamici, glicopeptidi).",
+        "B": "Il testo precisa che un batteriostatico può essere efficace quanto un battericida, a seconda dei ceppi.",
+        "C": "Picchi pari a circa 10 volte la MIC caratterizzano l'attività concentrazione-dipendente (es. aminoglicosidi), non la batteriostasi.",
+        "D": "Gli aminoglicosidi sono gli unici inibitori della sintesi proteica ad azione battericida."
+      },
+      "riferimento": "p. 280 e 282 – Battericidi e batteriostatici"
+    },
+    {
+      "id": "16-005",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Tempo/concentrazione-dipendenza",
+      "domanda": "Quale schema di somministrazione rispetta il tipo di attività antibatterica di penicilline e aminoglicosidi?",
+      "opzioni": {
+        "A": "Penicilline in dose unica giornaliera con picco elevato; aminoglicosidi in dosi frequenti per restare sopra la MIC",
+        "B": "Penicilline in dosi frequenti per mantenere a lungo la concentrazione sopra la MIC; aminoglicosidi in dose unica giornaliera con picco elevato",
+        "C": "Entrambe le classi in dose unica giornaliera, grazie all'effetto post-antibiotico",
+        "D": "Entrambe le classi in dosi frequenti, perché entrambe hanno attività tempo-dipendente",
+        "E": "Penicilline in infusione continua a concentrazioni pari a 10 volte la MIC; aminoglicosidi in dosi frequenti"
+      },
+      "corretta": "B",
+      "spiegazione": "Le penicilline hanno attività tempo-dipendente: conta il tempo in cui la concentrazione resta sopra la MIC, quindi servono somministrazioni regolari e aderenza. Gli aminoglicosidi hanno attività concentrazione-dipendente: si cerca un picco elevato (anche 10 volte la MIC), spesso con una singola dose giornaliera.",
+      "distrattori": {
+        "A": "Lo schema è invertito: la dose unica con picco elevato è tipica degli aminoglicosidi.",
+        "C": "L'effetto post-antibiotico è descritto per gli aminoglicosidi; le penicilline, tempo-dipendenti, devono essere somministrate con regolarità.",
+        "D": "Gli aminoglicosidi hanno attività concentrazione-dipendente, non tempo-dipendente.",
+        "E": "Per le penicilline oltre 4 volte la MIC non si ottiene alcun vantaggio; inoltre lo schema degli aminoglicosidi è sbagliato."
+      },
+      "riferimento": "p. 280, 282-283 – Attività tempo- e concentrazione-dipendente; p. 288 – Penicilline; p. 303 – Aminoglicosidi"
+    },
+    {
+      "id": "16-006",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Tempo/concentrazione-dipendenza",
+      "domanda": "Un paziente immunocompromesso deve essere trattato con una penicillina. Quale obiettivo farmacocinetico è corretto?",
+      "opzioni": {
+        "A": "Concentrazione sopra la MIC per almeno il 40% delle 24 ore, come nell'immunocompetente",
+        "B": "Picco pari ad almeno 10 volte la MIC, anche se poi la concentrazione scende a lungo sotto la MIC",
+        "C": "Concentrazione sopra la MIC per circa l'80% delle 24 ore, senza vantaggio nel superare 4 volte la MIC",
+        "D": "Concentrazione il più alta possibile, perché l'attività battericida aumenta in modo proporzionale oltre 4 volte la MIC",
+        "E": "Una sola somministrazione giornaliera, perché l'effetto post-antibiotico compensa le concentrazioni sotto la MIC"
+      },
+      "corretta": "C",
+      "spiegazione": "Per le penicilline (tempo-dipendenti) nell'immunocompetente la concentrazione deve superare la MIC per almeno il 40% delle 24 ore; nell'immunocompromesso la terapia deve essere più aggressiva, circa l'80%. L'attività battericida è massima a 4 volte la MIC: oltre non si ha alcun vantaggio.",
+      "distrattori": {
+        "A": "Il 40% vale per il paziente immunocompetente; nell'immunocompromesso l'obiettivo sale all'80%.",
+        "B": "Il picco a 10 volte la MIC è la strategia per gli antibiotici concentrazione-dipendenti come gli aminoglicosidi.",
+        "D": "Oltre 4 volte la MIC l'attività battericida delle penicilline non aumenta.",
+        "E": "La dose unica giornaliera sfruttando l'effetto post-antibiotico è tipica degli aminoglicosidi; le penicilline hanno spesso emivita breve e richiedono somministrazioni frequenti."
+      },
+      "riferimento": "p. 288 – Caratteristiche delle penicilline"
+    },
+    {
+      "id": "16-007",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Effetto post-antibiotico",
+      "domanda": "Un antibiotico continua a esercitare un'attività battericida anche quando la sua concentrazione scende molto al di sotto della MIC. Quale coppia fenomeno–esempio è corretta?",
+      "opzioni": {
+        "A": "Effetto post-antibiotico – aminoglicosidi",
+        "B": "Effetto post-antibiotico – penicilline naturali",
+        "C": "Attività tempo-dipendente – aminoglicosidi",
+        "D": "Resistenza innata – anaerobi",
+        "E": "Attività concentrazione-dipendente – penicilline"
+      },
+      "corretta": "A",
+      "spiegazione": "L'effetto post-antibiotico (PAE) è la capacità di alcuni antibiotici di mantenere un'azione battericida o batteriostatica a concentrazioni inferiori alla MIC; l'esempio citato sono gli aminoglicosidi, che per questo possono essere dati in dose unica giornaliera.",
+      "distrattori": {
+        "B": "Le penicilline sono tempo-dipendenti: perdono efficacia se la concentrazione resta a lungo sotto la MIC.",
+        "C": "Gli aminoglicosidi hanno attività concentrazione-dipendente, non tempo-dipendente.",
+        "D": "La resistenza innata indica batteri naturalmente insensibili a un antibiotico, non l'attività sotto la MIC.",
+        "E": "Le penicilline hanno attività tempo-dipendente."
+      },
+      "riferimento": "p. 280, 283 – Effetto post-antibiotico; p. 303 – Aminoglicosidi, tempo di azione"
+    },
+    {
+      "id": "16-008",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Meccanismi di resistenza",
+      "domanda": "Per quale motivo i batteri anaerobi presentano una resistenza naturale agli aminoglicosidi?",
+      "opzioni": {
+        "A": "Producono β-lattamasi plasmidiche che idrolizzano anche gli aminoglicosidi",
+        "B": "Hanno acquisito mutazioni dei siti di legame sulla subunità 30S",
+        "C": "Sostituiscono il dipeptide D-Ala-D-Ala con D-Ala-D-lattato",
+        "D": "Mancano del sistema di trasporto dipendente dall'ossigeno che gli aminoglicosidi usano per entrare nella cellula",
+        "E": "Possiedono ribosomi 80S, ai quali gli aminoglicosidi non si legano"
+      },
+      "corretta": "D",
+      "spiegazione": "Gli aminoglicosidi entrano nella cellula batterica sfruttando un sistema di trasporto dipendente dall'ossigeno, assente negli anaerobi: per questo gli anaerobi sono naturalmente (innatamente) resistenti.",
+      "distrattori": {
+        "A": "Le β-lattamasi idrolizzano l'anello β-lattamico, che gli aminoglicosidi non possiedono.",
+        "B": "L'alterazione dei siti di legame ribosomiali è un meccanismo di resistenza acquisita, non la causa della resistenza naturale degli anaerobi.",
+        "C": "La sostituzione D-Ala-D-lattato è un meccanismo di resistenza ai glicopeptidi (vancomicina).",
+        "E": "I ribosomi 80S sono quelli degli eucarioti; i batteri hanno ribosomi 70S (30S + 50S)."
+      },
+      "riferimento": "p. 284 – Resistenza naturale; p. 302-303 – Aminoglicosidi, resistenza"
+    },
+    {
+      "id": "16-009",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Bersagli degli antibiotici",
+      "domanda": "Quale associazione tra classe di antibiotico, bersaglio ed effetto è corretta?",
+      "opzioni": {
+        "A": "Tetracicline – subunità 30S – battericida",
+        "B": "Macrolidi – subunità 30S – batteriostatico",
+        "C": "Cloramfenicolo – subunità 50S – battericida",
+        "D": "Rifampicina – DNA girasi – battericida",
+        "E": "Aminoglicosidi – subunità 30S – battericida"
+      },
+      "corretta": "E",
+      "spiegazione": "Aminoglicosidi e tetracicline agiscono sulla subunità 30S, macrolidi e cloramfenicolo sulla 50S. Gli inibitori della sintesi proteica sono batteriostatici, con l'unica eccezione degli aminoglicosidi, che sono battericidi.",
+      "distrattori": {
+        "A": "Le tetracicline agiscono sulla 30S ma sono batteriostatiche.",
+        "B": "I macrolidi agiscono sulla subunità 50S.",
+        "C": "Il cloramfenicolo agisce sulla 50S ma, come gli altri inibitori della sintesi proteica diversi dagli aminoglicosidi, è batteriostatico.",
+        "D": "La rifampicina inibisce l'RNA polimerasi batterica; la DNA girasi è il bersaglio di chinolonici e fluorochinolonici."
+      },
+      "riferimento": "p. 284 – Principali target degli antibiotici; p. 302 – Inibitori della sintesi proteica"
+    },
+    {
+      "id": "16-010",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Glicopeptidi",
+      "domanda": "Perché lo spettro d'azione di glicopeptidi come la vancomicina è ristretto ai batteri Gram-positivi?",
+      "opzioni": {
+        "A": "Perché i Gram-negativi non possiedono peptidoglicano nella parete",
+        "B": "Perché la loro struttura voluminosa e idrofila non riesce a superare la membrana esterna dei Gram-negativi",
+        "C": "Perché i Gram-negativi producono β-lattamasi che idrolizzano la vancomicina",
+        "D": "Perché nei Gram-negativi il bersaglio è la subunità 50S e non la parete",
+        "E": "Perché i Gram-negativi sono naturalmente privi delle porine"
+      },
+      "corretta": "B",
+      "spiegazione": "Nei Gram-negativi il peptidoglicano è compreso tra due membrane e l'antibiotico deve prima superare la membrana esterna. I glicopeptidi hanno una struttura enorme, complessa e idrofila che non riesce ad attraversarla: per questo agiscono solo sui Gram-positivi.",
+      "distrattori": {
+        "A": "Anche i Gram-negativi hanno peptidoglicano, solo più sottile e circondato da una membrana esterna.",
+        "C": "Le β-lattamasi idrolizzano l'anello β-lattamico, assente nei glicopeptidi.",
+        "D": "Il bersaglio dei glicopeptidi è la sintesi della parete (dimero D-Ala-D-Ala) in tutti i batteri sensibili.",
+        "E": "I Gram-negativi possiedono porine nella membrana esterna; è attraverso di esse che molti antibiotici entrano."
+      },
+      "riferimento": "p. 285-286 – Parete dei Gram-negativi e porine; p. 300 – Glicopeptidi"
+    },
+    {
+      "id": "16-011",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Sintesi della parete",
+      "domanda": "Quale associazione tra antibiotico e fase della sintesi della parete batterica in cui agisce è corretta?",
+      "opzioni": {
+        "A": "Cicloserina – fase esterna alla membrana, blocco delle transpeptidasi",
+        "B": "Bacitracina – fase citoplasmatica, analogo competitivo della D-alanina",
+        "C": "Fosfomicina – fase citoplasmatica, analogo del fosfoenolpiruvato che impedisce la sintesi dell'acido N-acetilmuramico",
+        "D": "β-lattamici – fase di membrana, blocco del trasporto dei precursori",
+        "E": "Vancomicina – fase citoplasmatica, inibizione degli enzimi che sintetizzano il dimero D-Ala-D-Ala"
+      },
+      "corretta": "C",
+      "spiegazione": "Nella prima fase (citoplasmatica) agiscono cicloserina (analogo della D-alanina) e fosfomicina (analogo del fosfoenolpiruvato, impedisce la sintesi dell'acido N-acetilmuramico); nella seconda (membrana) la bacitracina; nella terza (esterna) i β-lattamici, che bloccano le transpeptidasi, e la vancomicina, che lega il dimero D-Ala-D-Ala.",
+      "distrattori": {
+        "A": "La cicloserina agisce nella fase citoplasmatica come analogo della D-alanina; le transpeptidasi sono il bersaglio dei β-lattamici.",
+        "B": "La bacitracina agisce nella seconda fase, a livello della membrana; l'analogo della D-alanina è la cicloserina.",
+        "D": "I β-lattamici agiscono nella terza fase, esterna alla membrana, bloccando la transpeptidazione.",
+        "E": "La vancomicina non inibisce la sintesi del dimero ma si lega al dimero D-Ala-D-Ala, impedendo l'accrescimento del peptidoglicano (terza fase); inibire gli enzimi che formano il dimero è l'azione della cicloserina."
+      },
+      "riferimento": "p. 286-287 – Sintesi della parete batterica"
+    },
+    {
+      "id": "16-012",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Penicilline",
+      "domanda": "Qual è il meccanismo d'azione delle penicilline?",
+      "opzioni": {
+        "A": "Legano il dimero D-Ala-D-Ala, impedendo l'accrescimento del peptidoglicano",
+        "B": "Impediscono la sintesi dell'acido N-acetilmuramico nel citoplasma",
+        "C": "Legano la subunità 30S del ribosoma, impedendo l'inizio della sintesi proteica",
+        "D": "Inibiscono le PBP, enzimi che catalizzano la transpeptidazione e la formazione dei legami crociati del peptidoglicano",
+        "E": "Inibiscono la DNA girasi, impedendo lo srotolamento del DNA batterico"
+      },
+      "corretta": "D",
+      "spiegazione": "Le penicilline hanno come bersagli multipli le PBP (penicillin binding proteins), enzimi che svolgono la transpeptidazione, cioè la formazione dei legami crociati tra le molecole di peptidoglicano nella terza fase della sintesi della parete. Il risultato è un'azione battericida.",
+      "distrattori": {
+        "A": "Il legame al dimero D-Ala-D-Ala è il meccanismo della vancomicina.",
+        "B": "L'inibizione della sintesi dell'acido N-acetilmuramico è propria della fosfomicina.",
+        "C": "Il legame alla 30S con blocco dell'inizio della sintesi proteica è il meccanismo degli aminoglicosidi.",
+        "E": "La DNA girasi è il bersaglio dei chinolonici e fluorochinolonici."
+      },
+      "riferimento": "p. 287-288 – Penicilline, meccanismo d'azione"
+    },
+    {
+      "id": "16-013",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "β-lattamasi",
+      "domanda": "In che modo le β-lattamasi inattivano gli antibiotici β-lattamici?",
+      "opzioni": {
+        "A": "Idrolizzano il legame ammidico dell'anello β-lattamico a 4 atomi, aprendolo",
+        "B": "Idrolizzano l'anello a 5 atomi contenente zolfo condensato all'anello β-lattamico",
+        "C": "Sostituiscono la D-alanina terminale del peptidoglicano con lattato",
+        "D": "Modificano le porine, impedendo l'accesso dell'antibiotico alle PBP",
+        "E": "Mutano le PBP, riducendone l'affinità per l'antibiotico"
+      },
+      "corretta": "A",
+      "spiegazione": "L'anello β-lattamico (4 atomi: 3 di carbonio e 1 di azoto) è la parte essenziale della molecola ma anche la più labile: le β-lattamasi (o penicillinasi) idrolizzano il legame ammidico aprendo l'anello, e ciò basta a rendere inattivo l'antibiotico.",
+      "distrattori": {
+        "B": "Il bersaglio delle β-lattamasi è l'anello β-lattamico, non l'anello condensato che varia tra le classi.",
+        "C": "La sostituzione D-Ala-D-lattato è un meccanismo di resistenza ai glicopeptidi.",
+        "D": "La modificazione delle porine è un meccanismo di resistenza distinto, che non comporta inattivazione enzimatica.",
+        "E": "Le mutazioni delle PBP sono un altro meccanismo di resistenza ai β-lattamici, non l'azione delle β-lattamasi."
+      },
+      "riferimento": "p. 287-288 – Anello β-lattamico; p. 291 – β-lattamasi"
+    },
+    {
+      "id": "16-014",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Penicilline naturali",
+      "domanda": "In un paziente con sifilide si decide di usare la penicillina G. Quale affermazione sulla sua somministrazione è corretta?",
+      "opzioni": {
+        "A": "Si somministra per via orale, perché la sua emivita lunga consente una sola dose al giorno",
+        "B": "Si preferisce la penicillina V per via orale, che ha una biodisponibilità elevata",
+        "C": "Si associa all'acido clavulanico per prolungarne l'emivita",
+        "D": "Si somministra per via parenterale, e i complessi con procaina o benzatina consentono iniezioni distanziate",
+        "E": "Non è indicata, perché Treponema pallidum è ormai resistente e si preferisce un'aminopenicillina"
+      },
+      "corretta": "D",
+      "spiegazione": "La penicillina G è degradata dall'acido gastrico e ha emivita breve (1-2 ore), quindi si somministra per via parenterale. Complessata con procaina o benzatina viene liberata lentamente, permettendo somministrazioni distanziate. Treponema pallidum resta uno dei pochi batteri sensibili.",
+      "distrattori": {
+        "A": "La penicillina G è gastrosensibile e ha un'emivita breve, di circa 1-2 ore.",
+        "B": "La penicillina V è più resistente all'acido e può essere data per via orale, ma la sua biodisponibilità è bassissima.",
+        "C": "L'acido clavulanico è un inibitore delle β-lattamasi, associato all'amoxicillina; non prolunga l'emivita.",
+        "E": "Treponema pallidum è una delle due indicazioni residue della penicillina G."
+      },
+      "riferimento": "p. 289-290 – Penicilline naturali"
+    },
+    {
+      "id": "16-015",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Inibitori delle β-lattamasi",
+      "domanda": "In una coltura di batteri produttori di β-lattamasi, l'acido clavulanico da solo non ha effetto e l'amoxicillina da sola ha un effetto scarso, mentre l'associazione uccide i batteri. Quale meccanismo spiega questo risultato?",
+      "opzioni": {
+        "A": "L'acido clavulanico è un debole battericida il cui effetto si somma a quello dell'amoxicillina",
+        "B": "L'acido clavulanico si lega in modo covalente alle β-lattamasi inattivandole in modo permanente e protegge l'amoxicillina dall'idrolisi",
+        "C": "L'acido clavulanico aumenta la permeabilità delle porine, facilitando l'accesso dell'amoxicillina alle PBP",
+        "D": "L'acido clavulanico si lega alle PBP mutate, ripristinandone l'affinità per l'amoxicillina",
+        "E": "L'acido clavulanico riduce l'escrezione renale dell'amoxicillina, aumentandone la concentrazione"
+      },
+      "corretta": "B",
+      "spiegazione": "L'acido clavulanico è un inibitore 'suicida' delle β-lattamasi: si lega covalentemente all'enzima inattivandolo in modo permanente. Da solo non ha attività né battericida né batteriostatica; l'amoxicillina, sensibile alle β-lattamasi, da sola è poco efficace. Insieme hanno un effetto sinergico.",
+      "distrattori": {
+        "A": "L'acido clavulanico non è un antibiotico e non ha attività battericida né batteriostatica propria.",
+        "C": "Il testo non attribuisce agli inibitori delle β-lattamasi alcun effetto sulle porine; il loro bersaglio sono le β-lattamasi.",
+        "D": "Gli inibitori delle β-lattamasi non agiscono sulle PBP; le mutazioni delle PBP sono un meccanismo di resistenza diverso.",
+        "E": "L'effetto dell'associazione è farmacodinamico (protezione dall'idrolisi), non dovuto a una modifica dell'escrezione."
+      },
+      "riferimento": "p. 290 – Aminopenicilline; p. 292 – Inibitori suicidi delle β-lattamasi e sinergismo"
+    },
+    {
+      "id": "16-016",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Inibitori delle β-lattamasi",
+      "domanda": "Perché amoxicillina e acido clavulanico (come ampicillina e sulbactam) vengono commercializzati in associazione fissa?",
+      "opzioni": {
+        "A": "Perché le due molecole devono avere la stessa cinetica e trovarsi insieme nei fluidi corporei per esercitare l'effetto sinergico",
+        "B": "Perché l'associazione permette di ridurre la dose di amoxicillina e quindi la sua nefrotossicità",
+        "C": "Perché l'inibitore rallenta il metabolismo epatico dell'amoxicillina, prolungandone l'emivita",
+        "D": "Perché l'inibitore, se dato da solo, avrebbe un'attività batteriostatica che selezionerebbe ceppi resistenti",
+        "E": "Perché la somministrazione separata aumenterebbe il rischio di allergia crociata"
+      },
+      "corretta": "A",
+      "spiegazione": "L'antibiotico e l'inibitore delle β-lattamasi da soli non sono efficaci: devono agire sempre insieme. Per questo le associazioni sono fisse e studiate in modo che le due molecole abbiano la medesima farmacocinetica e siano presenti contemporaneamente nei fluidi corporei (concetto indicato come molto importante).",
+      "distrattori": {
+        "B": "Le penicilline hanno un indice terapeutico molto elevato; la ragione dell'associazione fissa è cinetica, non la riduzione di una tossicità renale.",
+        "C": "Le penicilline subiscono uno scarso metabolismo e sono escrete immodificate nelle urine.",
+        "D": "L'acido clavulanico non ha attività né battericida né batteriostatica.",
+        "E": "L'allergia crociata riguarda penicilline e cefalosporine per la somiglianza strutturale, non la modalità di associazione."
+      },
+      "riferimento": "p. 290-292 – Associazioni con inibitori delle β-lattamasi; p. 293 – Farmacocinetica delle penicilline"
+    },
+    {
+      "id": "16-017",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Inibitori delle β-lattamasi",
+      "domanda": "Quale abbinamento tra inibitore delle β-lattamasi e antibiotico associato è riportato correttamente?",
+      "opzioni": {
+        "A": "Sulbactam – amoxicillina",
+        "B": "Acido clavulanico – ampicillina",
+        "C": "Tazobactam – piperacillina",
+        "D": "Tazobactam – oxacillina",
+        "E": "Avibactam – amoxicillina, come inibitore di prima generazione"
+      },
+      "corretta": "C",
+      "spiegazione": "Gli inibitori di prima generazione sono acido clavulanico (con amoxicillina), sulbactam (con ampicillina) e tazobactam (con altri antibiotici come la piperacillina). Avibactam, vaborbactam e relebactam sono di seconda generazione, associati a penicilline e cefalosporine più recenti.",
+      "distrattori": {
+        "A": "Il sulbactam è associato all'ampicillina.",
+        "B": "L'acido clavulanico è associato all'amoxicillina.",
+        "D": "L'oxacillina è intrinsecamente resistente alle β-lattamasi e non necessita di inibitori.",
+        "E": "L'avibactam è un inibitore di seconda generazione, associato a penicilline e cefalosporine più recenti."
+      },
+      "riferimento": "p. 291-292 – Strategie contro le β-lattamasi"
+    },
+    {
+      "id": "16-018",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Penicilline antistafilococciche",
+      "domanda": "Che cosa distingue oxacillina, cloxacillina e dicloxacillina dalle aminopenicilline?",
+      "opzioni": {
+        "A": "Sono resistenti alle β-lattamasi e hanno uno spettro ampio su Gram+ e Gram-",
+        "B": "Sono sensibili alle β-lattamasi e vanno sempre associate all'acido clavulanico",
+        "C": "Sono attive su Pseudomonas e somministrabili solo per via parenterale",
+        "D": "Sono penicilline naturali, ottenute per estrazione dalle colture",
+        "E": "Sono resistenti alle β-lattamasi grazie a un radicale voluminoso vicino all'anello β-lattamico e hanno spettro ristretto agli stafilococchi"
+      },
+      "corretta": "E",
+      "spiegazione": "Le penicilline antistafilococciche (isossazolilpenicilline) sono resistenti alle β-lattamasi perché un radicale voluminoso maschera il sito di idrolisi; hanno spettro ristretto agli stafilococchi, si danno per os o per via parenterale e non necessitano di inibitori. Le aminopenicilline invece sono ad ampio spettro ma sensibili alle β-lattamasi.",
+      "distrattori": {
+        "A": "Lo spettro delle antistafilococciche è ristretto agli stafilococchi; l'ampio spettro è delle aminopenicilline.",
+        "B": "Sensibilità alle β-lattamasi e associazione con inibitori caratterizzano le aminopenicilline.",
+        "C": "L'attività su Pseudomonas e la via solo parenterale sono proprie di carbossi- e ureidopenicilline; le antistafilococciche si danno anche per os.",
+        "D": "Le penicilline naturali sono la penicillina G e la V; le antistafilococciche sono semisintetiche."
+      },
+      "riferimento": "p. 288-289 – Classificazione delle penicilline; p. 291-292 – Penicilline antistafilococciche"
+    },
+    {
+      "id": "16-019",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Penicilline antipseudomonas",
+      "domanda": "Un paziente ricoverato sviluppa una sepsi da Pseudomonas aeruginosa. Tra le penicilline, quale scelta è coerente con il testo?",
+      "opzioni": {
+        "A": "Amoxicillina + acido clavulanico per via orale",
+        "B": "Piperacillina + tazobactam per via parenterale",
+        "C": "Dicloxacillina per via orale",
+        "D": "Penicillina V per via orale",
+        "E": "Penicillina G benzatina per via intramuscolare"
+      },
+      "corretta": "B",
+      "spiegazione": "Carbossi- e ureidopenicilline (come la piperacillina, definita penicillina anti-pseudomonas) sono usate in ospedale per germi difficili come Pseudomonas; si somministrano per via parenterale ma sono sensibili alle β-lattamasi, per cui la piperacillina viene associata al tazobactam.",
+      "distrattori": {
+        "A": "Le aminopenicilline con inibitore sono farmaci di uso prevalentemente ambulatoriale; per Pseudomonas il testo indica carbossi- e ureidopenicilline.",
+        "C": "La dicloxacillina ha spettro ristretto agli stafilococchi.",
+        "D": "La penicillina V ha spettro ristretto e biodisponibilità orale bassissima.",
+        "E": "La penicillina G ha spettro ristretto ed è ormai usata quasi solo per Treponema pallidum e streptococchi sensibili."
+      },
+      "riferimento": "p. 289-291 – Carbossipenicilline e ureidopenicilline; p. 292 – Tazobactam"
+    },
+    {
+      "id": "16-020",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Meccanismi di resistenza",
+      "domanda": "Quale affermazione sui meccanismi di resistenza alle penicilline è FALSA?",
+      "opzioni": {
+        "A": "Le modificazioni delle porine possono impedire all'antibiotico di raggiungere le PBP",
+        "B": "Le mutazioni delle PBP possono conferire resistenza",
+        "C": "Le β-lattamasi sono sempre codificate da geni cromosomici e non possono essere trasmesse ad altri ceppi",
+        "D": "L'anello β-lattamico può essere idrolizzato anche da enzimi diversi dalle β-lattamasi",
+        "E": "Il numero di varianti di β-lattamasi identificate è cresciuto in modo esponenziale a partire dagli anni '70"
+      },
+      "corretta": "C",
+      "spiegazione": "Le β-lattamasi possono essere cromosomiche (insite nel genoma batterico) oppure plasmidiche, e in questo caso la resistenza può essere ceduta ad altri ceppi. L'affermazione che siano sempre cromosomiche e non trasmissibili è quindi falsa.",
+      "distrattori": {
+        "A": "Vera: l'impossibilità di accesso alle PBP, per esempio per modificazione delle porine, è uno dei meccanismi elencati.",
+        "B": "Vera: le mutazioni delle PBP sono un meccanismo di resistenza ai β-lattamici.",
+        "D": "Vera: il testo elenca l'inattivazione per idrolisi del legame ammidico dell'anello β-lattamico da parte di enzimi diversi dalle β-lattamasi.",
+        "E": "Vera: il testo correla questo aumento esponenziale alla diffusione e trasmissione della resistenza."
+      },
+      "riferimento": "p. 291 – Meccanismi di resistenza alle penicilline e β-lattamasi"
+    },
+    {
+      "id": "16-021",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Farmacocinetica delle penicilline",
+      "domanda": "Quale affermazione sulla farmacocinetica delle penicilline è corretta?",
+      "opzioni": {
+        "A": "Subiscono un esteso metabolismo epatico e sono escrete come metaboliti inattivi",
+        "B": "Sono eliminate prevalentemente per via biliare, come il ceftriaxone",
+        "C": "Raggiungono concentrazioni elevate nel liquor anche a meningi integre",
+        "D": "Subiscono uno scarso metabolismo e sono escrete per lo più immodificate con le urine",
+        "E": "Sono controindicate in gravidanza per il rischio fetale"
+      },
+      "corretta": "D",
+      "spiegazione": "Quasi tutte le penicilline sono scarsamente metabolizzate: si ritrovano immodificate nelle urine e l'escrezione è quasi sempre renale (storicamente la penicillina veniva recuperata dalle urine). La maggior parte non attraversa le meningi integre, ma passa quando le meningi sono irritate.",
+      "distrattori": {
+        "A": "Le penicilline subiscono uno scarso metabolismo.",
+        "B": "L'eliminazione biliare è descritta per alcune cefalosporine (ceftriaxone, cefamandolo, cefoperazone), non per le penicilline.",
+        "C": "La maggior parte delle penicilline non penetra le meningi integre; il passaggio aumenta con meningi irritate.",
+        "E": "Le penicilline sono tra i pochi farmaci utilizzabili tranquillamente in gravidanza."
+      },
+      "riferimento": "p. 280 – Penicillina eliminata immodificata; p. 293 – Farmacocinetica delle penicilline; p. 296 – Eliminazione delle cefalosporine"
+    },
+    {
+      "id": "16-022",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Reazioni avverse delle penicilline",
+      "domanda": "Una paziente con faringite batterica riferisce una pregressa allergia alla penicillina. Quale scelta è coerente con il testo?",
+      "opzioni": {
+        "A": "Amoxicillina + acido clavulanico, perché l'inibitore riduce il rischio allergico",
+        "B": "Una cefalosporina di prima generazione, priva di reattività crociata con le penicilline",
+        "C": "Un macrolide, cioè un antibiotico non β-lattamico con spettro e azione spesso simili",
+        "D": "Oxacillina, perché resistente alle β-lattamasi",
+        "E": "Penicillina V per via orale, perché la via orale annulla il rischio di reazione"
+      },
+      "corretta": "C",
+      "spiegazione": "Nel paziente allergico alle penicilline non si danno penicilline né, di regola, cefalosporine (allergia crociata per la struttura simile, salvo forse IV-V e alcune di III generazione): si sceglie possibilmente un non β-lattamico, per esempio un macrolide.",
+      "distrattori": {
+        "A": "L'amoxicillina resta una penicillina; l'acido clavulanico inibisce le β-lattamasi e non ha effetto sull'allergia.",
+        "B": "Penicilline e cefalosporine hanno allergia crociata; le possibili eccezioni riguardano solo alcune cefalosporine di III, IV e V generazione.",
+        "D": "L'oxacillina è una penicillina: la resistenza alle β-lattamasi non riguarda l'allergia.",
+        "E": "La via orale rallenta la reazione rispetto alla via endovenosa, ma non elimina il rischio in un paziente allergico."
+      },
+      "riferimento": "p. 293-294 – ADR alle penicilline, allergia crociata"
+    },
+    {
+      "id": "16-023",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Reazioni avverse delle penicilline",
+      "domanda": "Perché, in un paziente allergico, una penicillina somministrata per via endovenosa espone a un rischio di shock anafilattico più alto rispetto alla via orale, e qual è il trattamento indicato?",
+      "opzioni": {
+        "A": "Perché la penicillina è di per sé un antigene completo che attiva direttamente i mastociti; si trattano i sintomi dopo l'assorbimento",
+        "B": "Perché la via endovenosa provoca un picco tossico dose-dipendente sul SNC; il trattamento è un anticonvulsivante",
+        "C": "Perché per via orale l'assorbimento è più rapido, ma la reazione è limitata all'intestino; si somministra lidocaina",
+        "D": "Perché si immette rapidamente in circolo un'elevata quantità di apteni che, legandosi a proteine, scatenano la risposta immunitaria; si somministra adrenalina il prima possibile",
+        "E": "Perché per via endovenosa la penicillina viene metabolizzata a un composto allergenico; si somministra acido clavulanico"
+      },
+      "corretta": "D",
+      "spiegazione": "Le penicilline agiscono da apteni: da sole non evocano risposta immunitaria, ma legate a proteine plasmatiche e tissutali sì. Per via endovenosa se ne immette rapidamente una grande quantità; per via orale la reazione è rallentata dalla velocità di assorbimento. Il farmaco salvavita è l'adrenalina, da iniettare il prima possibile.",
+      "distrattori": {
+        "A": "La penicillina è un aptene: diventa immunogena solo legandosi a macromolecole; inoltre lo shock richiede adrenalina immediata.",
+        "B": "Convulsioni e psicosi sono effetti sul SNC delle dosi elevate, distinti dallo shock anafilattico, che si tratta con adrenalina.",
+        "C": "Per via orale la reazione è più lenta perché limitata dalla velocità di assorbimento; la lidocaina si associa alle penicilline intramuscolari per ridurre il dolore.",
+        "E": "Le penicilline sono scarsamente metabolizzate; l'acido clavulanico inibisce le β-lattamasi e non ha ruolo nello shock."
+      },
+      "riferimento": "p. 294 – Shock anafilattico da penicilline"
+    },
+    {
+      "id": "16-024",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Reazioni avverse delle penicilline",
+      "domanda": "Quale affermazione sulle reazioni avverse delle penicilline è FALSA?",
+      "opzioni": {
+        "A": "Possono alterare il microbiota intestinale favorendo Clostridium difficile e la colite pseudomembranosa",
+        "B": "A dosi elevate possono causare irritazione meningea, psicosi e convulsioni",
+        "C": "Nelle iniezioni intramuscolari vengono talvolta associate alla lidocaina per ridurre il dolore",
+        "D": "Sono responsabili di una quota fino al 10% di tutte le reazioni avverse ai farmaci",
+        "E": "L'associazione di fermenti lattici è di provata efficacia nel prevenire il dismicrobismo da antibiotici"
+      },
+      "corretta": "E",
+      "spiegazione": "Il testo afferma che i fermenti lattici servono molto poco a evitare il dismicrobismo da antibiotici e che le evidenze a favore della loro associazione sono molto deboli: sono spesso 'soldi sprecati'.",
+      "distrattori": {
+        "A": "Vera: il dismicrobismo può favorire Clostridium difficile e la colite pseudomembranosa.",
+        "B": "Vera: tra le reazioni rare a dosi elevate sono citate irritazione meningea, psicosi e convulsioni.",
+        "C": "Vera: l'associazione penicillina-lidocaina rende l'iniezione meno dolorosa e migliora la farmacocinetica.",
+        "D": "Vera: le penicilline causano la maggior parte delle allergie ai farmaci, fino al 10% di tutte le ADR."
+      },
+      "riferimento": "p. 293-294 – ADR alle penicilline"
+    },
+    {
+      "id": "16-025",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Cefalosporine",
+      "domanda": "Quale cefalosporina è citata come esempio di V generazione, attiva su alcuni ceppi di MRSA e riservata all'uso ospedaliero?",
+      "opzioni": {
+        "A": "Cefazolina",
+        "B": "Cefoxitina",
+        "C": "Ceftriaxone",
+        "D": "Cefepime",
+        "E": "Ceftolozane"
+      },
+      "corretta": "E",
+      "spiegazione": "Le cefalosporine di V generazione sono farmaci di nicchia, efficaci su alcuni ceppi di MRSA, usati solo in ospedale sotto supervisione di un infettivologo o microbiologo; l'esempio citato è il ceftolozane.",
+      "distrattori": {
+        "A": "La cefazolina è una cefalosporina di I generazione.",
+        "B": "La cefoxitina è una cefalosporina di II generazione.",
+        "C": "Il ceftriaxone è una cefalosporina di III generazione.",
+        "D": "Il cefepime è una cefalosporina di IV generazione."
+      },
+      "riferimento": "p. 294-295 – Classificazione delle cefalosporine"
+    },
+    {
+      "id": "16-026",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Cefalosporine",
+      "domanda": "Quale caratteristica è attribuita correttamente alla rispettiva generazione di cefalosporine?",
+      "opzioni": {
+        "A": "III generazione: resistenti alle β-lattamasi e capaci di raggiungere concentrazioni abbastanza elevate nel liquor anche a meningi integre",
+        "B": "I generazione: spettro ampio esteso ai Gram- e resistenza alle β-lattamasi",
+        "C": "II generazione: spettro ristretto ai Gram+ e resistenza alle β-lattamasi",
+        "D": "IV generazione: maggiore sensibilità alle β-lattamasi rispetto alla III e uso prevalentemente ambulatoriale",
+        "E": "V generazione: uso diffuso in medicina generale per le infezioni urinarie non complicate"
+      },
+      "corretta": "A",
+      "spiegazione": "Le cefalosporine di III generazione hanno spettro esteso a Gram+ e Gram-, sono resistenti alle β-lattamasi e, a differenza delle altre, raggiungono concentrazioni abbastanza elevate nel liquor anche a meningi integre.",
+      "distrattori": {
+        "B": "Le cefalosporine di I generazione hanno spettro ristretto ai Gram+ e sono sensibili alle β-lattamasi.",
+        "C": "Le cefalosporine di II generazione sono più efficaci contro i Gram- e sono anch'esse sensibili alle β-lattamasi.",
+        "D": "La IV generazione è più resistente all'idrolisi da β-lattamasi rispetto alla III ed è usata in ospedale nelle infezioni più gravi.",
+        "E": "La V generazione è di nicchia, riservata all'uso ospedaliero sotto supervisione specialistica."
+      },
+      "riferimento": "p. 294-296 – Generazioni e farmacocinetica delle cefalosporine"
+    },
+    {
+      "id": "16-027",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Ceftriaxone",
+      "domanda": "In reparto è disponibile solo una confezione di ceftriaxone 'per uso intramuscolare', ma il paziente ha un accesso venoso. Qual è la condotta corretta?",
+      "opzioni": {
+        "A": "Somministrarla per via endovenosa, perché le preparazioni parenterali di ceftriaxone sono intercambiabili",
+        "B": "Somministrarla per via endovenosa molto lentamente, perché l'unico rischio è la flebite",
+        "C": "Non somministrarla per via endovenosa, perché contiene un anestetico locale che in circolo può causare convulsioni o la morte",
+        "D": "Sostituirla con ceftriaxone per via orale alla stessa dose",
+        "E": "Somministrarla per via endovenosa dopo aver premedicato con adrenalina"
+      },
+      "corretta": "C",
+      "spiegazione": "Per il ceftriaxone le due preparazioni parenterali sono diverse: quella intramuscolare contiene un anestetico locale (l'iniezione è dolorosa e irritante). Iniettare un anestetico locale in circolo è estremamente pericoloso (convulsioni, morte): per questo la confezione riporta 'solo uso intramuscolare'.",
+      "distrattori": {
+        "A": "Il testo sottolinea che, a differenza di molti farmaci iniettabili, le due preparazioni del ceftriaxone non sono intercambiabili.",
+        "B": "La lenta infusione serve a prevenire le flebiti con la preparazione endovenosa, ma non elimina il pericolo dell'anestetico locale.",
+        "D": "Il ceftriaxone non è somministrabile per via orale.",
+        "E": "L'adrenalina è il trattamento dello shock anafilattico, non previene la tossicità dell'anestetico locale in circolo."
+      },
+      "riferimento": "p. 296-297 – Ceftriaxone, farmacocinetica ed effetti indesiderati"
+    },
+    {
+      "id": "16-028",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Carbapenemi",
+      "domanda": "Perché la tienamicina, primo carbapenemico naturale, è difficile da usare in clinica, rendendo necessario lo sviluppo dell'imipenem?",
+      "opzioni": {
+        "A": "Perché ha spettro ristretto ai Gram+ come le penicilline naturali",
+        "B": "Perché viene inattivata dal CYP3A4 epatico",
+        "C": "Perché è chimicamente instabile e viene idrolizzata a livello renale dalla deidropeptidasi-I (DHP-I)",
+        "D": "Perché è inattivata dall'acido gastrico come la penicillina G",
+        "E": "Perché è degradata dalle carbapenemasi presenti in tutti i batteri"
+      },
+      "corretta": "C",
+      "spiegazione": "La tienamicina, isolata da Streptomyces cattleya, è efficace ma chimicamente instabile: in soluzione va incontro a degradazione spontanea e viene idrolizzata nel rene dalla deidropeptidasi-I (DHP-I). L'imipenem ne è il derivato più stabile.",
+      "distrattori": {
+        "A": "Il testo descrive la tienamicina come antibiotico efficace; il limite è chimico e farmacocinetico, non lo spettro. L'imipenem, suo derivato, ha spettro molto ampio.",
+        "B": "Il testo indica come responsabile della degradazione la DHP-I renale, non un enzima CYP epatico.",
+        "D": "La gastrosensibilità è un limite della penicillina G, non quello indicato per la tienamicina.",
+        "E": "Le carbapenemasi sono un meccanismo di resistenza di alcuni batteri, non la causa dell'instabilità della tienamicina."
+      },
+      "riferimento": "p. 298 – Carbapenemi, tienamicina e imipenem"
+    },
+    {
+      "id": "16-029",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Carbapenemi e monobattami",
+      "domanda": "Quale affermazione su carbapenemi e monobattami è corretta?",
+      "opzioni": {
+        "A": "L'aztreonam ha spettro simile agli aminoglicosidi, limitato agli aerobi Gram-, ma senza la loro tossicità",
+        "B": "L'aztreonam è attivo su aerobi Gram-, Gram+ e anaerobi",
+        "C": "L'imipenem distribuisce bene nel SNC ed è di prima scelta nelle meningiti batteriche",
+        "D": "Le carbapenemasi idrolizzano esclusivamente i carbapenemi, risparmiando penicilline e cefalosporine",
+        "E": "I monobattami, data la struttura monociclica semplice, sono sensibili alle β-lattamasi"
+      },
+      "corretta": "A",
+      "spiegazione": "L'aztreonam, monobattamico isolato da Chromobacterium violaceum, ha spettro simile a quello degli aminoglicosidi (solo aerobi Gram-, non anaerobi né Gram+) ma è privo della loro tossicità; spesso è associato alla piperacillina nelle infezioni gravi da Pseudomonas aeruginosa ed Enterobacter.",
+      "distrattori": {
+        "B": "L'aztreonam è attivo solo sugli aerobi Gram-, non su anaerobi e Gram+.",
+        "C": "Come molte penicilline, l'imipenem non ha una buona distribuzione nel SNC e non si usa nelle meningiti batteriche.",
+        "D": "Le carbapenemasi estendono la loro attività anche a penicilline, cefalosporine e monobattami.",
+        "E": "Nonostante la struttura semplice, i monobattami sono resistenti alle β-lattamasi."
+      },
+      "riferimento": "p. 299 – Imipenem, carbapenemasi e monobattami"
+    },
+    {
+      "id": "16-030",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Glicopeptidi",
+      "domanda": "Un paziente sviluppa una colite pseudomembranosa da Clostridium difficile dopo una terapia antibiotica. Perché in questo caso la vancomicina viene somministrata per via orale?",
+      "opzioni": {
+        "A": "Perché per via orale è ben assorbita e raggiunge alte concentrazioni plasmatiche",
+        "B": "Perché per via orale non è assorbita e resta nel lume intestinale, agendo in modo topico",
+        "C": "Perché per via orale evita la nefrotossicità, essendo metabolizzata dal fegato prima di raggiungere il rene",
+        "D": "Perché per via endovenosa non è attiva sui Gram+ anaerobi",
+        "E": "Perché il Clostridium difficile è un Gram- e la vancomicina orale supera la membrana esterna"
+      },
+      "corretta": "B",
+      "spiegazione": "Per la sua struttura la vancomicina non è assorbita per via orale: data per os rimane nel lume intestinale, con un trattamento di fatto topico. Per questo è il trattamento d'elezione della colite pseudomembranosa da C. difficile; per le infezioni sistemiche si usa per lenta infusione endovenosa.",
+      "distrattori": {
+        "A": "La vancomicina non ha assorbimento orale.",
+        "C": "La vancomicina non subisce metabolismo; per os semplicemente non viene assorbita.",
+        "D": "Lo spettro della vancomicina comprende i Gram+ anaerobi come i clostridi; la scelta della via orale dipende dalla sede intestinale dell'infezione.",
+        "E": "I clostridi sono elencati tra i Gram+ anaerobi; i glicopeptidi non superano la membrana esterna dei Gram-."
+      },
+      "riferimento": "p. 300-301 – Glicopeptidi e vancomicina"
+    },
+    {
+      "id": "16-031",
+      "difficolta": "avanzato",
+      "tipo": "nozionistica",
+      "argomento": "Glicopeptidi",
+      "domanda": "Un enterococco presenta una resistenza inducibile, di alto livello, sia alla vancomicina sia alla teicoplanina. Quale fenotipo di resistenza è descritto?",
+      "opzioni": {
+        "A": "VanB",
+        "B": "VanC",
+        "C": "VanD",
+        "D": "VanA",
+        "E": "VanE"
+      },
+      "corretta": "D",
+      "spiegazione": "Tra le resistenze acquisite ai glicopeptidi, quelle inducibili sono VanA (alto livello per vancomicina e teicoplanina) e VanB (solo vancomicina); quelle costitutive sono VanD e VanE.",
+      "distrattori": {
+        "A": "VanB è inducibile ma riguarda solo la vancomicina.",
+        "B": "VanC media una resistenza intrinseca di basso livello alla vancomicina in alcuni enterococchi e clostridi.",
+        "C": "VanD è costitutiva e cromosomica: alto livello per la vancomicina e ridotta sensibilità alla teicoplanina.",
+        "E": "VanE è costitutiva e di basso livello per la vancomicina."
+      },
+      "riferimento": "p. 300 – Glicopeptidi, meccanismi di resistenza"
+    },
+    {
+      "id": "16-032",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Aminoglicosidi",
+      "domanda": "Quale meccanismo spiega l'azione battericida degli aminoglicosidi, a differenza degli altri inibitori della sintesi proteica?",
+      "opzioni": {
+        "A": "Interferiscono con l'attacco del tRNA al complesso mRNA-ribosoma, bloccando l'allungamento",
+        "B": "Si legano alla subunità 50S e impediscono la traslocazione sul ribosoma",
+        "C": "Si legano alla subunità 50S e inibiscono la formazione del legame peptidico",
+        "D": "Si legano all'rRNA 16S della subunità 30S, impediscono l'inizio della sintesi e causano errata incorporazione di aminoacidi con proteine di membrana anomale",
+        "E": "Si legano al dimero D-Ala-D-Ala, causando lisi osmotica della cellula"
+      },
+      "corretta": "D",
+      "spiegazione": "Gli aminoglicosidi si legano all'rRNA 16S della subunità 30S, interferendo con il formilmetionil-tRNA e impedendo l'inizio della sintesi proteica. Inoltre inducono un'errata incorporazione di aminoacidi: le proteine di membrana anomale alterano l'equilibrio osmotico, con rapida morte della cellula.",
+      "distrattori": {
+        "A": "L'interferenza con l'attacco del tRNA al complesso mRNA-ribosoma è il meccanismo delle tetracicline, batteriostatiche.",
+        "B": "Il legame alla 50S con blocco della traslocazione è il meccanismo dell'eritromicina (macrolidi).",
+        "C": "Il legame alla 50S con inibizione del legame peptidico è il meccanismo del cloramfenicolo.",
+        "E": "Il legame al dimero D-Ala-D-Ala è il meccanismo dei glicopeptidi."
+      },
+      "riferimento": "p. 302-303 – Inibitori della sintesi proteica e meccanismo d'azione degli aminoglicosidi"
+    },
+    {
+      "id": "16-033",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Aminoglicosidi",
+      "domanda": "Perché gli aminoglicosidi vengono spesso associati ai β-lattamici?",
+      "opzioni": {
+        "A": "Perché il danno alla parete prodotto dal β-lattamico facilita l'ingresso dell'aminoglicoside nel batterio",
+        "B": "Perché l'aminoglicoside inibisce le β-lattamasi, proteggendo il β-lattamico",
+        "C": "Perché il β-lattamico riduce la nefrotossicità dell'aminoglicoside",
+        "D": "Perché entrambi hanno attività tempo-dipendente e lo stesso schema posologico",
+        "E": "Perché il β-lattamico rende l'aminoglicoside assorbibile per via orale"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli aminoglicosidi sono molto polari e non passano facilmente gli involucri esterni dei batteri; quando la parete è danneggiata da un β-lattamico il loro ingresso è facilitato. Per questa sinergia la somministrazione associata è molto comune.",
+      "distrattori": {
+        "B": "Gli aminoglicosidi non inibiscono le β-lattamasi: questo è il ruolo di acido clavulanico, sulbactam, tazobactam.",
+        "C": "Il testo non attribuisce ai β-lattamici una protezione dalla nefrotossicità; la tossicità si riduce monitorando i livelli e con la dose unica giornaliera.",
+        "D": "Gli aminoglicosidi hanno attività concentrazione-dipendente, a differenza dei β-lattamici.",
+        "E": "Gli aminoglicosidi restano non assorbibili per os; per effetti sistemici vanno somministrati per via endovenosa."
+      },
+      "riferimento": "p. 302 – Aminoglicosidi, spettro e sinergia con i β-lattamici"
+    },
+    {
+      "id": "16-034",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Aminoglicosidi",
+      "domanda": "Un paziente defedato in terapia endovenosa con gentamicina per una sepsi da Gram- riferisce la comparsa di acufene. Quale interpretazione e condotta sono corrette?",
+      "opzioni": {
+        "A": "È un effetto banale della terapia topica e non richiede provvedimenti",
+        "B": "È il primo segno di nefrotossicità tubulare e va valutata solo la creatinina",
+        "C": "Conviene frazionare la dose in più somministrazioni giornaliere per ridurre il picco, perché la tossicità dipende dal picco",
+        "D": "È un effetto tipico dei β-lattamici associati e non dell'aminoglicoside",
+        "E": "È il primo segno di ototossicità: vanno controllati i livelli plasmatici dell'aminoglicoside, il cui aumento accresce il rischio di danno uditivo e renale"
+      },
+      "corretta": "E",
+      "spiegazione": "Gli aminoglicosidi si accumulano nell'endolinfa e possono danneggiare organo del Corti e apparato vestibolare (sordità neurosensoriale permanente, disturbi dell'equilibrio). L'acufene è il primo segno di tossicità uditiva; vanno monitorati i livelli ematici, perché al loro aumento cresce il rischio di oto- e nefrotossicità.",
+      "distrattori": {
+        "A": "Il paziente è in terapia endovenosa: la tossicità degli aminoglicosidi è correlata proprio alla via endovenosa, non a quella topica.",
+        "B": "L'acufene è indicato come primo segno di tossicità uditiva, non renale.",
+        "C": "La somministrazione una volta al giorno è ritenuta in grado di massimizzare l'efficacia e minimizzare accumulo e tossicità.",
+        "D": "L'ototossicità è uno dei due effetti avversi caratteristici degli aminoglicosidi."
+      },
+      "riferimento": "p. 303-304 – Aminoglicosidi, utilizzo ed effetti avversi"
+    },
+    {
+      "id": "16-035",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Aminoglicosidi",
+      "domanda": "Come si sviluppa la nefrotossicità da aminoglicosidi?",
+      "opzioni": {
+        "A": "Per precipitazione di cristalli del farmaco nei dotti collettori",
+        "B": "Per pinocitosi nelle cellule del tubulo prossimale, accumulo nei lisosomi con fosfolipidosi, rottura lisosomiale e necrosi tubulare",
+        "C": "Per una reazione allergica con nefrite interstiziale mediata da apteni",
+        "D": "Per accumulo nell'endolinfa e apoptosi delle cellule sensoriali",
+        "E": "Per vasocostrizione dell'arteriola afferente e riduzione del filtrato glomerulare"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli aminoglicosidi vengono incorporati per pinocitosi dalle cellule epiteliali del tubulo prossimale, si accumulano nei lisosomi causando fosfolipidosi lisosomiale; segue rottura dei lisosomi, necrosi cellulare e fosfolipiduria, fino a necrosi tubulare acuta e insufficienza renale. Gentamicina, netilmicina e amikacina sono i più a rischio.",
+      "distrattori": {
+        "A": "Il testo non descrive precipitazione di cristalli; la sequenza indicata parte dalla pinocitosi nel tubulo prossimale.",
+        "C": "Le reazioni mediate da apteni sono descritte per le penicilline; la nefrotossicità degli aminoglicosidi è un danno tubulare diretto.",
+        "D": "L'accumulo nell'endolinfa con apoptosi delle cellule sensoriali è il meccanismo dell'ototossicità.",
+        "E": "Il testo non indica un meccanismo vascolare: il danno è a carico delle cellule del tubulo prossimale."
+      },
+      "riferimento": "p. 304 – Aminoglicosidi, nefrotossicità"
+    },
+    {
+      "id": "16-036",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Aminoglicosidi",
+      "domanda": "In quale situazione gli aminoglicosidi vengono somministrati per via orale?",
+      "opzioni": {
+        "A": "Nella terapia delle sepsi neonatali",
+        "B": "Nelle infezioni urinarie non complicate in ambulatorio",
+        "C": "Come disinfettanti intestinali, per ridurre la flora microbica prima di un intervento chirurgico",
+        "D": "Nelle infezioni sistemiche da anaerobi",
+        "E": "Nella profilassi delle congiuntiviti batteriche"
+      },
+      "corretta": "C",
+      "spiegazione": "Gli aminoglicosidi, molto polari, non sono assorbiti per os: l'unica situazione in cui si danno per via orale è come disinfettanti intestinali, per 'pulire' l'intestino riducendo la flora microbica prima di un intervento chirurgico.",
+      "distrattori": {
+        "A": "Nelle sepsi neonatali e dei pazienti defedati si usano per via parenterale (endovenosa).",
+        "B": "Le infezioni urinarie non complicate sono tra le indicazioni ambulatoriali tipiche delle aminopenicilline.",
+        "D": "Gli anaerobi sono naturalmente resistenti agli aminoglicosidi.",
+        "E": "Nelle congiuntiviti si usano per via oculare (es. collirio di tobramicina), non orale."
+      },
+      "riferimento": "p. 290 – Aminopenicilline; p. 302-303 – Aminoglicosidi, esempi e utilizzo"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Penicilline (β-lattamici) = attività tempo-dipendente: conta il tempo sopra la MIC (≥40% delle 24 h nell'immunocompetente, ~80% nell'immunocompromesso; oltre 4 volte la MIC nessun vantaggio). Aminoglicosidi = concentrazione-dipendenti: picco ~10 volte la MIC, dose unica giornaliera, effetto post-antibiotico.",
+    "Inibitori delle β-lattamasi (acido clavulanico + amoxicillina, sulbactam + ampicillina, tazobactam + piperacillina) non hanno attività antibatterica propria: sono inibitori suicidi e l'associazione è fissa perché le due molecole devono avere la stessa farmacocinetica (sinergismo).",
+    "Non confondere i bersagli della parete: β-lattamici = PBP/transpeptidasi; vancomicina = dimero D-Ala-D-Ala (resistenza: D-Ala-D-lattato); fosfomicina = sintesi dell'acido N-acetilmuramico; cicloserina = analogo della D-alanina; bacitracina = fase di membrana.",
+    "Allergia alle penicilline: reattività crociata con le cefalosporine (salvo forse alcune di III-V generazione) → preferire un non β-lattamico (es. macrolide); lo shock anafilattico è più probabile per via endovenosa e si tratta subito con adrenalina.",
+    "Aminoglicosidi: unici inibitori della sintesi proteica battericidi (16S rRNA della 30S); inattivi sugli anaerobi (trasporto O2-dipendente); tossicità oto- (acufene primo segno) e nefro- (tubulo prossimale, fosfolipidosi lisosomiale) → monitorare i livelli ematici."
+  ]
+}

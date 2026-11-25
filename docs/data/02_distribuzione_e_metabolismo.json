@@ -1,0 +1,520 @@
+{
+  "capitolo": 2,
+  "titolo": "Distribuzione e metabolismo",
+  "pagine": "17-33",
+  "domande": [
+    {
+      "id": "02-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Volume di distribuzione",
+      "domanda": "Secondo il modello del volume apparente di distribuzione (Vd), un farmaco con Vd inferiore a circa 5 L:",
+      "opzioni": {
+        "A": "è rimasto prevalentemente nel compartimento plasmatico",
+        "B": "si è accumulato in uno o più tessuti periferici",
+        "C": "si è distribuito in modo omogeneo in tutti i liquidi corporei",
+        "D": "ha attraversato facilmente la barriera ematoencefalica",
+        "E": "è stato quasi completamente eliminato prima di distribuirsi"
+      },
+      "corretta": "A",
+      "spiegazione": "Il volume plasmatico medio è di circa 5 L: un Vd simile o inferiore indica che la concentrazione plasmatica è elevata rispetto alla dose somministrata e che il farmaco non si è distribuito ai tessuti.",
+      "distrattori": {
+        "B": "L'accumulo tissutale è indicato da un Vd superiore a circa 42 L.",
+        "C": "La distribuzione nei liquidi totali (plasma + interstizio + liquidi intracellulari) corrisponde a circa 42 L, non a 5 L.",
+        "D": "Il passaggio nel SNC implica uscita dal plasma, quindi un Vd più alto; il testo non lega il Vd < 5 L alla BEE.",
+        "E": "Il Vd descrive come il farmaco si distribuisce, non quanto ne viene eliminato."
+      },
+      "riferimento": "p. 18 – Volume apparente di distribuzione"
+    },
+    {
+      "id": "02-002",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Volume di distribuzione",
+      "domanda": "In un adulto, un farmaco ha un volume apparente di distribuzione di 300 L. Quale interpretazione è corretta?",
+      "opzioni": {
+        "A": "Il farmaco resta confinato nel plasma, come avviene tipicamente per l'eparina",
+        "B": "Il valore è impossibile, perché supera il volume totale dei liquidi corporei",
+        "C": "Il farmaco si concentra in uno o più tessuti, lasciando bassa la concentrazione plasmatica",
+        "D": "La concentrazione plasmatica è elevata rispetto alla dose somministrata",
+        "E": "Il farmaco è molto idrofilico e viene eliminato con le urine senza distribuirsi"
+      },
+      "corretta": "C",
+      "spiegazione": "Un Vd superiore a circa 42 L indica che uno o più tessuti acquisiscono il farmaco e lo concentrano più degli altri: la concentrazione plasmatica è bassa rispetto alla dose. Il volume è 'apparente' proprio perché non corrisponde a un volume reale.",
+      "distrattori": {
+        "A": "L'eparina è l'esempio di farmaco ad azione plasmatica con Vd basso, non alto.",
+        "B": "Il Vd è un parametro apparente, non realistico: valori superiori a 42 L sono possibili e indicano accumulo tissutale.",
+        "D": "Una concentrazione plasmatica elevata rispetto alla dose corrisponde a un Vd piccolo.",
+        "E": "Un farmaco totalmente idrofilico verrebbe eliminato senza raggiungere i tessuti, quindi avrebbe un Vd basso."
+      },
+      "riferimento": "pp. 18-19 – Volume apparente di distribuzione"
+    },
+    {
+      "id": "02-003",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Volume di distribuzione",
+      "domanda": "Quale farmaco viene citato come esempio classico di farmaco ad azione plasmatica con volume di distribuzione basso?",
+      "opzioni": {
+        "A": "Diazepam",
+        "B": "Eparina",
+        "C": "L-DOPA",
+        "D": "Paracetamolo",
+        "E": "Etinilestradiolo"
+      },
+      "corretta": "B",
+      "spiegazione": "L'eparina è il caso classico di farmaco che deve avere un'azione plasmatica e che presenta un volume di distribuzione basso.",
+      "distrattori": {
+        "A": "Il diazepam è citato come esempio di farmaco con metaboliti attivi che agisce a livello centrale, quindi deve uscire dal plasma.",
+        "C": "La L-DOPA è citata come profarmaco che attraversa la BEE tramite carrier.",
+        "D": "Il paracetamolo è citato come esempio di farmaco con metabolita tossico.",
+        "E": "L'etinilestradiolo è citato nel caso clinico dell'interazione con il succo di pompelmo."
+      },
+      "riferimento": "p. 19 – Volume apparente di distribuzione"
+    },
+    {
+      "id": "02-004",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Legame alle proteine plasmatiche",
+      "domanda": "Un paziente assume un farmaco fortemente legato alle proteine plasmatiche. Gli viene aggiunto un secondo farmaco che compete per gli stessi siti di legame. Cosa ci si deve aspettare per il primo farmaco?",
+      "opzioni": {
+        "A": "Una riduzione della quota libera, perché il legame alle proteine è irreversibile",
+        "B": "Nessuna variazione, perché ogni proteina plasmatica lega un solo farmaco specifico",
+        "C": "Un aumento della quota sequestrata dalle proteine e quindi farmacologicamente inattiva",
+        "D": "Un aumento della quota libera, con possibili effetti indesiderati non previsti",
+        "E": "Una riduzione della tossicità, perché il secondo farmaco ne accelera la coniugazione"
+      },
+      "corretta": "D",
+      "spiegazione": "Il legame alle proteine plasmatiche è saturabile, reversibile e poco specifico: un secondo farmaco che compete per i siti 'scalza' il primo, ne aumenta la quota libera (attiva) e può alterare il rapporto tra effetto e tossicità.",
+      "distrattori": {
+        "A": "Il legame è reversibile, ed è proprio questo che permette lo spiazzamento.",
+        "B": "Le proteine plasmatiche sono aspecifiche nel loro legame e competono per diversi farmaci.",
+        "C": "Lo spiazzamento libera il primo farmaco dalle proteine, non ne aumenta la quota legata.",
+        "E": "Lo spiazzamento agisce sul legame proteico, non sulle reazioni di coniugazione, e semmai aumenta il rischio di tossicità."
+      },
+      "riferimento": "pp. 19-20 – Legame alle proteine plasmatiche"
+    },
+    {
+      "id": "02-005",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Legame alle proteine plasmatiche",
+      "domanda": "Quale affermazione sul legame dei farmaci alle proteine plasmatiche è FALSA?",
+      "opzioni": {
+        "A": "Solo il farmaco libero può esercitare l'effetto farmacologico",
+        "B": "Il legame alle proteine plasmatiche è saturabile",
+        "C": "L'albumina è una delle proteine plasmatiche che legano i farmaci",
+        "D": "La quota legata alle proteine è quella farmacologicamente attiva",
+        "E": "L'insufficienza epatica o renale può modificare i livelli di proteine plasmatiche"
+      },
+      "corretta": "D",
+      "spiegazione": "La quota sequestrata dalle proteine plasmatiche non ha effetto farmacologico: agisce solo il farmaco libero. Per questo il legame proteico va considerato quando si stabiliscono le dosi.",
+      "distrattori": {
+        "A": "Vera: il farmaco libero è quello disponibile per agire sul recettore.",
+        "B": "Vera: a un certo punto non ci sono più siti di legame disponibili.",
+        "C": "Vera: l'albumina è citata come esempio, insieme ad altre proteine.",
+        "E": "Vera: insufficienza epatica e renale, enteropatie, parassitosi e ustioni alterano i livelli di proteine plasmatiche."
+      },
+      "riferimento": "pp. 19-20 – Legame alle proteine plasmatiche"
+    },
+    {
+      "id": "02-006",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Barriere (BEE e placenta)",
+      "domanda": "Quale affermazione confronta correttamente la barriera ematoencefalica (BEE) e la placenta?",
+      "opzioni": {
+        "A": "La placenta è più fenestrata e meno selettiva della BEE, per cui il feto è meno protetto del cervello",
+        "B": "La BEE ha pori più ampi della placenta, per cui è attraversata più facilmente da molecole grandi",
+        "C": "La placenta possiede più strati di tight junctions della BEE e lascia passare solo piccole molecole",
+        "D": "Le due barriere hanno la stessa selettività, ma solo la BEE dispone di carrier per i farmaci",
+        "E": "La BEE impedisce il passaggio di tutte le molecole idrosolubili, anche in presenza di carrier"
+      },
+      "corretta": "A",
+      "spiegazione": "La placenta ha pori molto grandi, fisiologicamente necessari per far passare nutrienti e anticorpi al feto: è meno selettiva della BEE. Paradossalmente il feto è meno protetto del cervello, motivo di prudenza con i farmaci in gravidanza.",
+      "distrattori": {
+        "B": "È il contrario: la BEE, con le tight junctions, blocca le molecole grandi.",
+        "C": "Le tight junctions e i diversi strati di capillari caratterizzano la BEE, non la placenta.",
+        "D": "Le due barriere hanno selettività molto diversa: la placenta è più permeabile.",
+        "E": "La BEE lascia passare molecole idrosolubili con l'ausilio dei carrier, oltre a glucosio, alcuni ioni, gas e molecole lipofile."
+      },
+      "riferimento": "pp. 20-21 – Barriera ematoencefalica e placenta"
+    },
+    {
+      "id": "02-007",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Barriere (BEE e placenta)",
+      "domanda": "Un paziente con meningite viene trattato con un farmaco che, in condizioni normali, attraversa poco la barriera ematoencefalica. Quale considerazione farmacocinetica è corretta?",
+      "opzioni": {
+        "A": "La meningite aumenta il numero di strati della BEE, riducendo ancora di più il passaggio del farmaco",
+        "B": "La distribuzione non cambia, perché il passaggio della BEE dipende solo dalle caratteristiche del farmaco",
+        "C": "La meningite rende la BEE più permeabile, per cui la distribuzione del farmaco al SNC può cambiare",
+        "D": "La meningite rende la BEE permeabile soltanto a glucosio, ioni e gas, non ai farmaci",
+        "E": "La meningite aumenta il legame del farmaco all'albumina, impedendone l'ingresso nel SNC"
+      },
+      "corretta": "C",
+      "spiegazione": "Condizioni patologiche come la meningite rendono la BEE più permeabile. Bisogna sempre considerare che la patologia da trattare può aver modificato la distribuzione del farmaco.",
+      "distrattori": {
+        "A": "La meningite rende la BEE più permeabile, non più selettiva.",
+        "B": "La capacità di attraversare le membrane dipende anche dalle caratteristiche della cellula, che possono essere alterate da condizioni patologiche.",
+        "D": "Glucosio, alcuni ioni e gas attraversano la BEE anche in condizioni normali; la meningite ne aumenta la permeabilità in generale.",
+        "E": "Il testo non collega la meningite al legame con l'albumina, ma alla permeabilità della BEE."
+      },
+      "riferimento": "pp. 18, 21 – Distribuzione, barriera ematoencefalica"
+    },
+    {
+      "id": "02-008",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Profarmaci e metaboliti attivi",
+      "domanda": "Nella terapia del Parkinson si somministra L-DOPA invece della dopamina. Perché?",
+      "opzioni": {
+        "A": "La L-DOPA è più idrofila della dopamina e diffonde liberamente attraverso le tight junctions",
+        "B": "La L-DOPA è un metabolita attivo della dopamina con durata d'azione più lunga",
+        "C": "La dopamina viene coniugata con il glutatione nel fegato e trasformata in un metabolita tossico",
+        "D": "La L-DOPA inibisce in modo irreversibile gli enzimi che degradano la dopamina",
+        "E": "La dopamina non attraversa la BEE, mentre la L-DOPA la attraversa tramite carrier e viene poi convertita"
+      },
+      "corretta": "E",
+      "spiegazione": "La L-DOPA è un profarmaco: attraversa la BEE grazie ai carrier e viene convertita in dopamina nel SNC, dove serve a compensare la deplezione dopaminergica. La dopamina somministrata non passerebbe la BEE e verrebbe metabolizzata in periferia.",
+      "distrattori": {
+        "A": "La L-DOPA attraversa la BEE tramite carrier, non per diffusione libera attraverso le tight junctions, che invece bloccano il passaggio.",
+        "B": "La L-DOPA è un precursore (profarmaco) della dopamina, non un suo metabolita.",
+        "C": "La coniugazione con glutatione è descritta per il metabolita tossico del paracetamolo, non per la dopamina.",
+        "D": "Il testo descrive la L-DOPA come profarmaco convertito in dopamina, non come inibitore enzimatico."
+      },
+      "riferimento": "p. 22 – Profarmaci"
+    },
+    {
+      "id": "02-009",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Profarmaci e metaboliti attivi",
+      "domanda": "Un paziente trattato con diazepam rimane sedato anche quando i livelli plasmatici di diazepam sono ormai bassi. Qual è la spiegazione?",
+      "opzioni": {
+        "A": "Il diazepam si lega in modo irreversibile al recettore GABAergico",
+        "B": "Si accumula il metabolita tossico parabenzochinone",
+        "C": "Il diazepam induce il CYP3A4 e ne accelera il metabolismo",
+        "D": "I metaboliti attivi nordiazepam e oxazepam prolungano l'effetto",
+        "E": "La glucuronoconiugazione lo rende più lipofilo e ne favorisce l'accumulo cerebrale"
+      },
+      "corretta": "D",
+      "spiegazione": "Il diazepam produce i metaboliti attivi nordiazepam e oxazepam, che mantengono l'effetto anche quando il farmaco originario non c'è più: l'azione è slegata dall'emivita del diazepam e varia con il grado individuale di metabolizzazione.",
+      "distrattori": {
+        "A": "Il testo attribuisce la sedazione persistente ai metaboliti attivi, non a un legame irreversibile al recettore.",
+        "B": "Il parabenzochinone è il metabolita tossico del paracetamolo.",
+        "C": "Il diazepam è citato come substrato del CYP3A4, non come induttore; un metabolismo più rapido ridurrebbe comunque l'effetto.",
+        "E": "La glucuronoconiugazione rende le molecole più polari e quindi più facili da eliminare."
+      },
+      "riferimento": "pp. 23, 27, 29 – Metaboliti attivi, CYP3A4, reazioni di fase II"
+    },
+    {
+      "id": "02-010",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Paracetamolo",
+      "domanda": "Qual è il meccanismo dell'epatotossicità da dosi eccessive di paracetamolo?",
+      "opzioni": {
+        "A": "Il paracetamolo inibisce irreversibilmente il CYP3A4 e si accumula immodificato nel fegato",
+        "B": "Il glutatione si satura e il parabenzochinone non coniugato attacca le proteine epatiche",
+        "C": "Il paracetamolo spiazza il glutatione dall'albumina e ne aumenta la quota libera",
+        "D": "Il coniugato parabenzochinone-glutatione diventa più lipofilo e si deposita negli epatociti",
+        "E": "Il paracetamolo induce enzimi di fase II che producono quantità crescenti di metaboliti tossici"
+      },
+      "corretta": "B",
+      "spiegazione": "Il paracetamolo produce il metabolita tossico parabenzochinone, normalmente coniugato con il glutatione e reso idrosolubile. A dosi eccessive il glutatione si satura: il parabenzochinone libero attacca in modo aspecifico le proteine epatiche.",
+      "distrattori": {
+        "A": "La tossicità dipende dal metabolita parabenzochinone, non dall'accumulo del farmaco immodificato.",
+        "C": "Il glutatione coniuga il metabolita tossico; il testo non parla di spiazzamento dall'albumina.",
+        "D": "La coniugazione con glutatione inattiva il metabolita e lo rende idrosolubile, quindi eliminabile.",
+        "E": "Il problema è la saturazione della coniugazione (fase II), non un'induzione enzimatica."
+      },
+      "riferimento": "p. 24 – Metabolita tossico: il paracetamolo"
+    },
+    {
+      "id": "02-011",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Paracetamolo",
+      "domanda": "Un bambino ha ricevuto dosi ripetute di paracetamolo a intervalli più brevi di quelli raccomandati e presenta segni di danno epatico. Quale antidoto è indicato?",
+      "opzioni": {
+        "A": "Flumazenil",
+        "B": "Naloxone",
+        "C": "N-acetilcisteina",
+        "D": "Atropina",
+        "E": "Idrocortisone"
+      },
+      "corretta": "C",
+      "spiegazione": "L'antidoto dell'intossicazione da paracetamolo è la N-acetilcisteina. Bambini (dosi e intervalli non rispettati) e anziani (ridotta funzionalità epatica) sono particolarmente a rischio di epatotossicità.",
+      "distrattori": {
+        "A": "Il flumazenil è l'antagonista delle benzodiazepine.",
+        "B": "Il naloxone è l'antagonista degli oppioidi usato nell'overdose.",
+        "D": "L'atropina è un antagonista dei recettori muscarinici, non un antidoto del paracetamolo.",
+        "E": "L'idrocortisone è citato come forma attiva del cortisone, non come antidoto."
+      },
+      "riferimento": "pp. 22, 24 – Paracetamolo, profarmaci"
+    },
+    {
+      "id": "02-012",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Fasi del metabolismo",
+      "domanda": "Quale affermazione descrive correttamente il rapporto tra reazioni di fase I e di fase II?",
+      "opzioni": {
+        "A": "La fase I comprende glucuronazione e solfatazione, la fase II le ossidazioni del citocromo P450",
+        "B": "La fase I espone gruppi funzionali, che la fase II usa per legare covalentemente un agente coniugante",
+        "C": "La fase II forma legami deboli, che si dissociano facilmente in base alle concentrazioni",
+        "D": "La fase I rende la molecola più lipofila per favorirne l'escrezione con le urine",
+        "E": "La fase II avviene solo in fegato e polmone, mentre la fase I solo nell'intestino"
+      },
+      "corretta": "B",
+      "spiegazione": "Le reazioni di fase I (di funzionalizzazione) espongono gruppi chimici (-OH, -COOH, -NH2, -SH); quelle di fase II (di coniugazione) li usano come sito per un legame covalente con un agente coniugante endogeno, rendendo la molecola polare ed eliminabile.",
+      "distrattori": {
+        "A": "È il contrario: glucuronazione e solfatazione sono reazioni di fase II, le ossidazioni del CYP450 sono di fase I.",
+        "C": "La coniugazione forma legami covalenti, forti e stabili, che richiedono energia.",
+        "D": "Il metabolismo rende le molecole più idrofile, perché l'urina è acquosa.",
+        "E": "Il fegato è l'organo più attivo, ma anche intestino e polmone hanno attività metabolica; il testo non divide le fasi per organo."
+      },
+      "riferimento": "pp. 24-25, 29 – Reazioni di fase I e II"
+    },
+    {
+      "id": "02-013",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Fasi del metabolismo",
+      "domanda": "Quale delle seguenti è una reazione di fase II?",
+      "opzioni": {
+        "A": "Idrossilazione da parte del citocromo P450",
+        "B": "Ossidazione da parte dell'alcol deidrogenasi",
+        "C": "Glucuronazione",
+        "D": "Ossidazione da parte della xantina ossidasi",
+        "E": "Reazione catalizzata dall'aromatasi"
+      },
+      "corretta": "C",
+      "spiegazione": "La glucuronazione è una reazione di coniugazione (fase II), come solfatazione, acetilazione e metilazione. Il diazepam, per esempio, viene glucuronoconiugato.",
+      "distrattori": {
+        "A": "L'idrossilazione del CYP450 è un'ossidazione di fase I.",
+        "B": "L'alcol deidrogenasi è un esempio di ossidazione di fase I indipendente dal CYP450.",
+        "D": "La xantina ossidasi è un esempio di ossidazione di fase I indipendente dal CYP450.",
+        "E": "L'aromatasi è un esempio di ossidazione di fase I indipendente dal CYP450."
+      },
+      "riferimento": "p. 29 – Ossidazioni indipendenti dal CYP450, reazioni di fase II"
+    },
+    {
+      "id": "02-014",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Citocromo P450",
+      "domanda": "In cosa le ossidasi indipendenti dal citocromo P450 (come l'alcol deidrogenasi) differiscono dal CYP450?",
+      "opzioni": {
+        "A": "Si trovano nella frazione cellulare solubile e sono selettive per il substrato",
+        "B": "Si trovano sul reticolo endoplasmatico e non sono selettive per il substrato",
+        "C": "Appartengono alle reazioni di fase II e coniugano il farmaco al glutatione",
+        "D": "Sono presenti soltanto negli epatociti e non in rene o polmone",
+        "E": "Devono il nome all'assorbimento della luce a 450 nm"
+      },
+      "corretta": "A",
+      "spiegazione": "Le ossidazioni indipendenti dal CYP450 si trovano nella frazione solubile di fegato, rene e polmone e sono selettive per il substrato. Il CYP450 invece è legato alla membrana del reticolo endoplasmatico e non è selettivo.",
+      "distrattori": {
+        "B": "Queste sono le caratteristiche del CYP450 (ossidasi a funzione mista del reticolo endoplasmatico).",
+        "C": "Sono ossidazioni di fase I, non reazioni di coniugazione.",
+        "D": "Si trovano nella frazione solubile di fegato, rene e polmone.",
+        "E": "È il CYP450 a chiamarsi così per l'assorbimento a 450 nm."
+      },
+      "riferimento": "pp. 25-26, 29 – Ossidasi a funzione mista, CYP450, ossidazioni indipendenti"
+    },
+    {
+      "id": "02-015",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Citocromo P450",
+      "domanda": "Quale associazione tra enzima e substrati è riportata correttamente?",
+      "opzioni": {
+        "A": "CYP3A4 – antidepressivi triciclici, antipsicotici, β-bloccanti",
+        "B": "CYP2D6 – benzodiazepine, estradiolo, statine",
+        "C": "CYP2D6 – antidepressivi triciclici, antipsicotici, β-bloccanti",
+        "D": "Alcol deidrogenasi – benzodiazepine, estradiolo, statine",
+        "E": "Aromatasi – antidepressivi triciclici, antipsicotici, statine"
+      },
+      "corretta": "C",
+      "spiegazione": "Il CYP2D6 metabolizza fino al 20-30% dei farmaci, tra cui antidepressivi triciclici, antipsicotici e β-bloccanti. Il CYP3A4 metabolizza benzodiazepine (diazepam, alprazolam), estradiolo e statine.",
+      "distrattori": {
+        "A": "Triciclici, antipsicotici e β-bloccanti sono citati come substrati del CYP2D6.",
+        "B": "Benzodiazepine, estradiolo e statine sono citati come substrati del CYP3A4.",
+        "D": "L'alcol deidrogenasi è un'ossidasi selettiva per il substrato, indipendente dal CYP450.",
+        "E": "L'aromatasi è un'ossidasi indipendente dal CYP450; questi farmaci sono attribuiti al CYP2D6 e al CYP3A4."
+      },
+      "riferimento": "pp. 27-29 – CYP3A4, CYP2D6"
+    },
+    {
+      "id": "02-016",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Succo di pompelmo",
+      "domanda": "Una donna di 42 anni che assume un contraccettivo a base di etinilestradiolo arriva in pronto soccorso con una trombosi. Da poco segue una dieta a base di pompelmo. Qual è il meccanismo più probabile?",
+      "opzioni": {
+        "A": "Il pompelmo induce il CYP3A4, con formazione di metaboliti protrombotici",
+        "B": "Il pompelmo inibisce il CYP2D6 e fa accumulare l'etinilestradiolo",
+        "C": "Il pompelmo spiazza l'etinilestradiolo dall'albumina e ne aumenta la quota libera",
+        "D": "Il pompelmo satura il glutatione e lascia circolare metaboliti tossici",
+        "E": "Il pompelmo inibisce il CYP3A4 e aumenta la biodisponibilità dell'etinilestradiolo"
+      },
+      "corretta": "E",
+      "spiegazione": "Il succo di pompelmo inibisce il CYP3A4: l'etinilestradiolo viene metabolizzato meno, resta in circolo più del dovuto e i suoi effetti avversi (qui la trombosi) aumentano.",
+      "distrattori": {
+        "A": "Il pompelmo è un inibitore, non un induttore; un'induzione ridurrebbe i livelli del contraccettivo.",
+        "B": "L'isoforma inibita dal pompelmo è il CYP3A4, che metabolizza anche l'estradiolo.",
+        "C": "Il meccanismo descritto è metabolico (inibizione del citocromo), non lo spiazzamento proteico.",
+        "D": "La saturazione del glutatione è il meccanismo della tossicità del paracetamolo."
+      },
+      "riferimento": "pp. 27-28, 33 – CYP3A4, case report pompelmo"
+    },
+    {
+      "id": "02-017",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Induzione e inibizione enzimatica",
+      "domanda": "Qual è il meccanismo classico dell'induzione enzimatica descritto per il citocromo P450?",
+      "opzioni": {
+        "A": "Il ligando si lega covalentemente al citocromo e ne aumenta l'attività senza nuova sintesi",
+        "B": "Il ligando interagisce con l'eterodimero PXR-RXR e aumenta la trascrizione del gene dell'enzima",
+        "C": "Il ligando blocca la TATA-box binding protein e riduce la degradazione dell'enzima",
+        "D": "Il ligando aumenta il legame del farmaco alle proteine plasmatiche e ne rallenta l'eliminazione",
+        "E": "Il ligando inibisce in modo competitivo l'enzima e ne stimola la sintesi compensatoria"
+      },
+      "corretta": "B",
+      "spiegazione": "Nell'induzione il ligando interagisce con un eterodimero PXR-RXR e con coattivatori sul DNA; si legano la TBP e la RNA polimerasi e il gene viene trascritto: si produce più enzima, non un enzima più attivo. Esistono anche altri meccanismi, come la stabilizzazione della proteina.",
+      "distrattori": {
+        "A": "Nell'induzione l'enzima non viene attivato di più: ne viene prodotto di più.",
+        "C": "La TBP si lega al promotore e partecipa all'attivazione della trascrizione, non viene bloccata.",
+        "D": "L'induzione aumenta la quantità di enzima e quindi accelera l'eliminazione del farmaco.",
+        "E": "Gli inibitori agiscono sulla proteina senza modificarne la sintesi; l'inibizione competitiva non è un meccanismo di induzione."
+      },
+      "riferimento": "pp. 30-32 – Induzione enzimatica"
+    },
+    {
+      "id": "02-018",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Induzione e inibizione enzimatica",
+      "domanda": "Durante una terapia cronica con un farmaco che induce gli enzimi del proprio metabolismo, è necessario aumentare progressivamente la dose per mantenere lo stesso effetto. Di quale fenomeno si tratta?",
+      "opzioni": {
+        "A": "Tolleranza metabolica dovuta all'aumento della velocità di eliminazione",
+        "B": "Inibizione enzimatica irreversibile dovuta a un legame covalente",
+        "C": "Saturazione dei siti di legame sulle proteine plasmatiche",
+        "D": "Accumulo di metaboliti attivi che antagonizzano il farmaco originario",
+        "E": "Riduzione della permeabilità della BEE causata dal farmaco"
+      },
+      "corretta": "A",
+      "spiegazione": "L'induzione enzimatica può causare tolleranza: aumenta la quantità di enzima, il farmaco viene eliminato più in fretta e, a parità di dose, l'effetto si riduce. L'induzione è reversibile e può anche aumentare la tossicità, se l'enzima produce metaboliti tossici.",
+      "distrattori": {
+        "B": "L'inibizione rallenta il metabolismo e aumenterebbe i livelli del farmaco, non ne ridurrebbe l'effetto.",
+        "C": "Lo scenario descrive un farmaco che induce il proprio metabolismo, quindi una tolleranza di tipo metabolico.",
+        "D": "Il testo descrive metaboliti attivi che prolungano l'effetto (diazepam), non che antagonizzano il farmaco.",
+        "E": "Il testo non indica variazioni della BEE come causa di tolleranza."
+      },
+      "riferimento": "p. 31 – Caratteristiche dell'induzione enzimatica"
+    },
+    {
+      "id": "02-019",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Induzione e inibizione enzimatica",
+      "domanda": "Quale affermazione distingue correttamente l'inibizione enzimatica dall'induzione?",
+      "opzioni": {
+        "A": "L'inibizione riduce la trascrizione del gene, mentre l'induzione aumenta l'attività dell'enzima esistente",
+        "B": "Induzione e inibizione agiscono entrambe esclusivamente modificando la trascrizione genica",
+        "C": "L'induzione è sempre irreversibile, mentre l'inibizione è sempre reversibile e competitiva",
+        "D": "L'inibizione accelera l'eliminazione del farmaco, mentre l'induzione la rallenta",
+        "E": "L'inibizione riduce l'attività dell'enzima già presente senza modificarne la sintesi, l'induzione ne aumenta la quantità"
+      },
+      "corretta": "E",
+      "spiegazione": "Gli inibitori riducono la trasformazione metabolica agendo sulla proteina enzimatica, senza modificarne la sintesi. L'induzione invece aumenta l'espressione dell'enzima, che viene prodotto in quantità maggiore.",
+      "distrattori": {
+        "A": "È il contrario: l'inibizione agisce sulla proteina, l'induzione aumenta la quantità di enzima prodotto.",
+        "B": "Solo l'induzione agisce (classicamente) sulla trascrizione; l'inibizione agisce sulla proteina.",
+        "C": "L'induzione è reversibile; gli inibitori possono essere reversibili oppure irreversibili.",
+        "D": "È il contrario: l'induzione accelera l'eliminazione, l'inibizione la rallenta."
+      },
+      "riferimento": "pp. 30-32 – Induzione e inibizione enzimatica"
+    },
+    {
+      "id": "02-020",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Fattori che influenzano il metabolismo",
+      "domanda": "Secondo il testo, come varia la capacità di metabolizzare i farmaci con l'età?",
+      "opzioni": {
+        "A": "È massima nel neonato e poi si riduce progressivamente",
+        "B": "È assente nel feto e raggiunge il picco dopo i 12 anni",
+        "C": "Raggiunge il plateau intorno ai 25 anni, come il neurosviluppo",
+        "D": "Non dipende dall'età, ma solo dalla funzionalità del fegato",
+        "E": "È uguale nel bambino e nell'adulto, perché gli enzimi sono costitutivi"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli enzimi devono essere espressi e la loro espressione aumenta con lo sviluppo: il feto non è in grado di metabolizzare i farmaci, la capacità compare nel bambino e raggiunge il picco dopo i 12 anni (plateau nel giovane adulto).",
+      "distrattori": {
+        "A": "Feto e neonato hanno una capacità metabolica ridotta, che aumenta con lo sviluppo.",
+        "C": "I 25 anni sono citati per il neurosviluppo, non per il metabolismo dei farmaci.",
+        "D": "Lo stato del fegato conta, ma l'età è elencata come fattore a sé.",
+        "E": "L'espressione degli enzimi aumenta con lo sviluppo, quindi è diversa tra bambino e adulto."
+      },
+      "riferimento": "p. 30 – Fattori che influenzano il metabolismo"
+    },
+    {
+      "id": "02-021",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Citocromo P450",
+      "domanda": "Quale caratteristica del citocromo P450 è corretta?",
+      "opzioni": {
+        "A": "Si trova nella frazione solubile del citoplasma ed è selettivo per il substrato",
+        "B": "Catalizza soprattutto reazioni di coniugazione con l'acido glucuronico",
+        "C": "Deve il nome all'assorbimento della luce a 450 nm e si trova sulla membrana del reticolo endoplasmatico",
+        "D": "Comprende 3 famiglie in tutto, tutte coinvolte nel metabolismo dei farmaci",
+        "E": "È presente nel polmone e nell'intestino, ma non nel fegato"
+      },
+      "corretta": "C",
+      "spiegazione": "Il citocromo P450 deve il nome all'assorbimento della luce a 450 nm. È un'ossidasi a funzione mista legata alla membrana del reticolo endoplasmatico (si ritrova nei microsomi) che usa il NADPH per idrossilare il substrato. Delle 18 famiglie, le 1, 2 e 3 metabolizzano gli xenobiotici.",
+      "distrattori": {
+        "A": "Queste sono le caratteristiche delle ossidazioni indipendenti dal CYP450; il CYP450 non è selettivo.",
+        "B": "Il CYP450 catalizza ossidazioni di fase I; la glucuronazione è una reazione di fase II.",
+        "D": "Le famiglie sono 18; solo le prime 3 sono coinvolte nel metabolismo degli xenobiotici.",
+        "E": "Il CYP450 è presente negli epatociti; il fegato è l'organo più attivo nel metabolismo."
+      },
+      "riferimento": "pp. 25-27 – Citocromo P450"
+    },
+    {
+      "id": "02-022",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Farmacogenetica",
+      "domanda": "Quale distribuzione dei fenotipi metabolici dei citocromi viene riportata negli studi di farmacogenetica?",
+      "opzioni": {
+        "A": "Rapidi 50-60%, lenti 30-40%, ultrarapidi 5-10%",
+        "B": "Rapidi 5-10%, lenti 85-95%, ultrarapidi 1-10%",
+        "C": "Rapidi 85-95%, lenti 1-2%, ultrarapidi 10-20%",
+        "D": "Rapidi 85-95%, lenti 5-10%, ultrarapidi 1-10%",
+        "E": "Rapidi 70-80%, lenti 15-20%, ultrarapidi meno dell'1%"
+      },
+      "corretta": "D",
+      "spiegazione": "I polimorfismi rendono i soggetti metabolizzatori rapidi (85-95%), lenti (5-10%) o ultrarapidi (1-10%), con una distribuzione a campana. Le frequenze possono variare tra etnie e anche un singolo SNP può fare la differenza.",
+      "distrattori": {
+        "A": "Le percentuali sono sbagliate: i rapidi sono la grande maggioranza (85-95%).",
+        "B": "Le percentuali di rapidi e lenti sono invertite.",
+        "C": "I lenti sono il 5-10% e gli ultrarapidi l'1-10%.",
+        "E": "Le percentuali non corrispondono a quelle riportate (85-95%, 5-10%, 1-10%)."
+      },
+      "riferimento": "pp. 28-29 – Farmacogenetica"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Vd < 5 L = farmaco confinato nel plasma (es. eparina); Vd > 42 L = accumulo in uno o più tessuti: il volume è 'apparente', non reale.",
+    "Agisce solo il farmaco libero: il legame alle proteine plasmatiche è saturabile, reversibile e aspecifico, quindi un secondo farmaco può spiazzare il primo e aumentarne la quota libera.",
+    "La placenta è più fenestrata e meno selettiva della BEE; la meningite rende la BEE più permeabile.",
+    "Profarmaco (L-DOPA, cortisone) ≠ metabolita attivo (nordiazepam e oxazepam dal diazepam) ≠ metabolita tossico (parabenzochinone dal paracetamolo, antidoto N-acetilcisteina).",
+    "Induzione = più enzima prodotto (PXR-RXR, reversibile, tolleranza metabolica); inibizione = enzima esistente bloccato senza modificarne la sintesi (es. pompelmo sul CYP3A4). CYP3A4: benzodiazepine, estradiolo, statine; CYP2D6: triciclici, antipsicotici, β-bloccanti."
+  ]
+}

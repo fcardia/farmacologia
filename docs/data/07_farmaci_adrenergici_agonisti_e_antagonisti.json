@@ -1,0 +1,750 @@
+{
+  "capitolo": 7,
+  "titolo": "Farmaci adrenergici: agonisti e antagonisti",
+  "pagine": "114-133",
+  "domande": [
+    {
+      "id": "07-001",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Noradrenalina",
+      "domanda": "La noradrenalina in infusione provoca un aumento marcato della pressione sistolica e diastolica, ma la frequenza cardiaca si riduce. Come si spiega questo effetto paradosso?",
+      "opzioni": {
+        "A": "L'aumento pressorio attiva il riflesso vagale dei barocettori, il cui effetto cronotropo negativo prevale sulla stimolazione diretta dei recettori β1",
+        "B": "La noradrenalina è priva di qualsiasi azione sui recettori β1 cardiaci, per cui la frequenza può solo diminuire",
+        "C": "La noradrenalina stimola i recettori β2 cardiaci, che mediano un effetto cronotropo negativo",
+        "D": "La noradrenalina viene trasformata in un metabolita ad azione colinergica diretta sul nodo seno-atriale",
+        "E": "La vasocostrizione riduce il ritorno venoso e per via meccanica rallenta la scarica del nodo seno-atriale"
+      },
+      "corretta": "A",
+      "spiegazione": "La noradrenalina è potente agonista α e agonista β1: l'effetto diretto sarebbe cronotropo positivo, ma l'aumento pressorio innesca il riflesso vagale barocettoriale, che prevale. Dopo vagotomia si osserverebbe l'effetto diretto di stimolazione cardiaca.",
+      "distrattori": {
+        "B": "La noradrenalina è agonista dei recettori β1: l'effetto diretto sul cuore è cronotropo positivo e si manifesta se si elimina il riflesso vagale.",
+        "C": "La noradrenalina ha azione debolissima o nulla sui β2; la bradicardia è attribuita dal testo al riflesso vagale.",
+        "D": "Non è descritta alcuna conversione in un mediatore colinergico: la noradrenalina è degradata da COMT e MAO.",
+        "E": "Il testo attribuisce la riduzione della frequenza al riflesso barocettoriale, non a una riduzione del ritorno venoso."
+      },
+      "riferimento": "p. 114 – Noradrenalina, effetti"
+    },
+    {
+      "id": "07-002",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Noradrenalina",
+      "domanda": "Qual è l'uso clinico della noradrenalina indicato nel testo?",
+      "opzioni": {
+        "A": "Shock cardiogeno, per ottenere una vasocostrizione generalizzata senza contemporanea attivazione della funzionalità cardiaca",
+        "B": "Trattamento cronico dell'ipertensione arteriosa per via orale",
+        "C": "Trattamento di prima scelta del broncospasmo acuto",
+        "D": "Trattamento del blocco atrio-ventricolare totale e dell'arresto cardiaco",
+        "E": "Trattamento degli stati ipotensivi cronici per via transdermica"
+      },
+      "corretta": "A",
+      "spiegazione": "La noradrenalina ha pochissimi impieghi medici: è usata nello shock cardiogeno per ottenere vasocostrizione generalizzata e come vasocostrittore locale in associazione con anestetici locali.",
+      "distrattori": {
+        "B": "La noradrenalina è ipertensiva e la via orale è inefficace: si somministra per via parenterale.",
+        "C": "La noradrenalina provoca broncocostrizione; la broncodilatazione è propria degli agonisti β2 e dell'isoproterenolo.",
+        "D": "Blocco atrio-ventricolare totale e arresto cardiaco sono indicazioni dell'isoproterenolo.",
+        "E": "L'impiego negli stati ipotensivi è proprio della midodrina; la via transdermica è citata per la clonidina."
+      },
+      "riferimento": "p. 115 – Noradrenalina, usi terapeutici"
+    },
+    {
+      "id": "07-003",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Noradrenalina",
+      "domanda": "Un paziente giunge in pronto soccorso con shock ipovolemico e ipotensione grave. Quale considerazione è corretta riguardo all'impiego della noradrenalina?",
+      "opzioni": {
+        "A": "Non è sufficiente vasocostringere: occorre prima correggere la volemia",
+        "B": "È il farmaco di prima scelta, perché la vasocostrizione ripristina da sola la perfusione tissutale",
+        "C": "È inadatta perché a basse dosi provoca vasodilatazione, come l'adrenalina",
+        "D": "Va somministrata per via sottocutanea per ottenere un effetto prolungato",
+        "E": "Va preferita alla dopamina perché aumenta il flusso ematico renale"
+      },
+      "corretta": "A",
+      "spiegazione": "Nello shock ipovolemico il testo avverte che somministrare noradrenalina per vasocostringere non basta: bisogna prima correggere la volemia.",
+      "distrattori": {
+        "B": "Il testo precisa che la noradrenalina non è un farmaco di prima scelta, a differenza dell'adrenalina e della dopamina.",
+        "C": "A piccole dosi la noradrenalina, grazie alla sua selettività recettoriale, non causa vasodilatazione, al contrario dell'adrenalina.",
+        "D": "L'iniezione sottocutanea è evitata perché il farmaco è scarsamente assorbito; si usa la via parenterale endovenosa.",
+        "E": "La noradrenalina riduce il flusso di urina; è la dopamina ad aumentare il flusso ematico renale e la diuresi."
+      },
+      "riferimento": "p. 115 – Noradrenalina, reazioni avverse"
+    },
+    {
+      "id": "07-004",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Isoproterenolo",
+      "domanda": "L'isoproterenolo determina un aumento della pressione differenziale. Quale combinazione di effetti ne è responsabile?",
+      "opzioni": {
+        "A": "Aumento lieve della sistolica per effetto β1 sulla gittata e forte riduzione della diastolica per riduzione β2 delle resistenze periferiche",
+        "B": "Forte aumento della sistolica per effetto α1 e lieve aumento della diastolica per effetto β1",
+        "C": "Riduzione della sistolica per vasodilatazione β2 e aumento della diastolica per vasocostrizione α",
+        "D": "Aumento sia della sistolica sia della diastolica per vasocostrizione generalizzata mediata dai recettori α",
+        "E": "Riduzione della sistolica e della diastolica per blocco dei recettori β1 cardiaci"
+      },
+      "corretta": "A",
+      "spiegazione": "L'isoproterenolo è altamente specifico per β1 e β2 e privo di azione α: l'effetto β1 aumenta la gittata e lievemente la sistolica, l'effetto β2 riduce le resistenze periferiche e quindi la diastolica, con aumento della pressione differenziale.",
+      "distrattori": {
+        "B": "L'isoproterenolo ha azione nulla sui recettori α e la diastolica diminuisce, non aumenta.",
+        "C": "L'isoproterenolo non agisce sui recettori α; è la diastolica a ridursi per vasodilatazione β2.",
+        "D": "La vasocostrizione α non fa parte del profilo dell'isoproterenolo, agonista β puro.",
+        "E": "L'isoproterenolo è un agonista β, non un bloccante: aumenta frequenza e forza di contrazione."
+      },
+      "riferimento": "p. 116 – Isoproterenolo, effetti cardiovascolari"
+    },
+    {
+      "id": "07-005",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Isoproterenolo",
+      "domanda": "Per quale condizione il testo indica l'uso dell'isoproterenolo?",
+      "opzioni": {
+        "A": "Blocco atrio-ventricolare totale, inclusa la sindrome di Adams-Stokes",
+        "B": "Ipertensione gravidica",
+        "C": "Sindrome da astinenza da oppioidi",
+        "D": "Iperplasia prostatica benigna",
+        "E": "Minaccia di parto pretermine"
+      },
+      "corretta": "A",
+      "spiegazione": "L'isoproterenolo, pur poco utilizzato perché non selettivo, è indicato nel blocco atrio-ventricolare totale (inclusa la sindrome di Adams-Stokes) e nell'arresto cardiaco, nel broncospasmo durante anestesia generale e nello shock cardiogeno.",
+      "distrattori": {
+        "B": "L'ipertensione gravidica è l'indicazione di prima scelta della metildopa.",
+        "C": "Le sindromi da astinenza da oppioidi sono trattate con la clonidina.",
+        "D": "L'iperplasia prostatica benigna è indicazione degli α-antagonisti, come la prazosina.",
+        "E": "L'effetto tocolitico nella minaccia di parto pretermine è attribuito ai β2-agonisti, in particolare alla ritodrina."
+      },
+      "riferimento": "p. 116 – Isoproterenolo, usi terapeutici"
+    },
+    {
+      "id": "07-006",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Dopamina",
+      "domanda": "A basse concentrazioni la dopamina produce il suo effetto più importante. Quale?",
+      "opzioni": {
+        "A": "Vasodilatazione delle arteriole renali mediata dai recettori D1 vasali attraverso l'aumento di cAMP",
+        "B": "Effetto inotropo positivo sul miocardio mediato dai recettori β1",
+        "C": "Vasocostrizione generalizzata mediata dai recettori α",
+        "D": "Broncodilatazione mediata dai recettori β2 bronchiali",
+        "E": "Riduzione del rilascio di noradrenalina dalle terminazioni nervose"
+      },
+      "corretta": "A",
+      "spiegazione": "A basse concentrazioni prevale la selettività per i recettori dopaminergici D1 della muscolatura liscia dei vasi renali: l'aumento di cAMP determina vasodilatazione delle arteriole renali, effetto più importante a queste dosi.",
+      "distrattori": {
+        "B": "L'effetto inotropo positivo via β1 compare a concentrazioni superiori, quando la dopamina perde la selettività per i D1.",
+        "C": "La vasocostrizione α richiede quantità molto elevate di dopamina, data la bassissima selettività per questi recettori.",
+        "D": "Il testo non attribuisce alla dopamina un effetto broncodilatatore.",
+        "E": "La dopamina provoca al contrario liberazione di noradrenalina dalle terminazioni nervose."
+      },
+      "riferimento": "p. 117 – Dopamina, effetti cardiovascolari e renali"
+    },
+    {
+      "id": "07-007",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Dopamina",
+      "domanda": "Un paziente in shock presenta bassa gittata cardiaca e oliguria. Quale proprietà rende la dopamina particolarmente adatta a questo quadro?",
+      "opzioni": {
+        "A": "La dilatazione delle arteriole renali e splancniche aumenta il flusso ematico renale e quindi la diuresi",
+        "B": "Il blocco dei recettori α1 renali riduce le resistenze e aumenta la filtrazione",
+        "C": "L'inibizione della liberazione di renina riduce la ritenzione idrosalina",
+        "D": "L'effetto agonista sui recettori β2 delle arteriole renali aumenta la perfusione del rene",
+        "E": "L'aumento del tono del detrusore vescicale migliora lo svuotamento e il flusso urinario"
+      },
+      "corretta": "A",
+      "spiegazione": "La dopamina è indicata negli stati di bassa gittata con compromessa funzionalità renale: la dilatazione delle arteriole renali e splancniche aumenta il flusso ematico renale e la diuresi, utile nello shock con oliguria.",
+      "distrattori": {
+        "B": "La dopamina è un agonista, non un bloccante α; la vasodilatazione renale è mediata dai recettori D1.",
+        "C": "L'inibizione della liberazione di renina è un effetto renale dei β-bloccanti, non della dopamina.",
+        "D": "La vasodilatazione renale della dopamina a basse dosi è mediata dai recettori dopaminergici D1, non dai β2.",
+        "E": "L'aumento del tono vescicale e della contrattilità del detrusore è descritto per gli α-antagonisti."
+      },
+      "riferimento": "p. 117-118 – Dopamina, effetti renali e usi terapeutici"
+    },
+    {
+      "id": "07-008",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Dobutamina",
+      "domanda": "Perché la dobutamina, somministrata come miscela racemica, non esercita un'azione netta sui recettori α1?",
+      "opzioni": {
+        "A": "Perché la forma levogira è agonista α1 e la destrogira è antagonista α1, con effetti opposti che si annullano",
+        "B": "Perché entrambi gli stereoisomeri sono privi di affinità per i recettori α1",
+        "C": "Perché i recettori α1 sono bloccati in modo irreversibile da un metabolita della dobutamina",
+        "D": "Perché la dobutamina si lega agli α1 solo dopo attivazione metabolica epatica, che è assente",
+        "E": "Perché la forte stimolazione β1 desensibilizza rapidamente i recettori α1 vascolari"
+      },
+      "corretta": "A",
+      "spiegazione": "La dobutamina ha due stereoisomeri con proprietà di legame opposte sugli α1: la forma levogira è agonista, la destrogira antagonista. Nel racemo i due effetti si annullano e non si esercita alcuna azione netta sui recettori α.",
+      "distrattori": {
+        "B": "Entrambi gli stereoisomeri hanno affinità per gli α1, ma con attività opposta.",
+        "C": "Il blocco irreversibile e covalente dei recettori α è proprio della fenossibenzamina, non della dobutamina.",
+        "D": "Il testo non descrive alcuna attivazione metabolica della dobutamina; anzi è rapidamente degradata da COMT e MAO.",
+        "E": "Non è descritta una desensibilizzazione degli α1 indotta dalla stimolazione β1."
+      },
+      "riferimento": "p. 118 – Dobutamina, struttura"
+    },
+    {
+      "id": "07-009",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Dobutamina",
+      "domanda": "Quale caratteristica distingue il profilo emodinamico della dobutamina da quello dell'isoproterenolo?",
+      "opzioni": {
+        "A": "La dobutamina aumenta la contrattilità più della frequenza e non modifica in modo rilevante le resistenze periferiche",
+        "B": "La dobutamina aumenta la frequenza cardiaca molto più della contrattilità",
+        "C": "La dobutamina riduce fortemente la pressione diastolica per spiccata azione β2",
+        "D": "La dobutamina provoca vasocostrizione marcata e aumento delle resistenze periferiche",
+        "E": "La dobutamina non ha alcun effetto sui recettori β1 cardiaci"
+      },
+      "corretta": "A",
+      "spiegazione": "La dobutamina è l'unico agonista quasi selettivo per i β1: l'effetto inotropo positivo supera quello cronotropo e le resistenze periferiche restano sostanzialmente invariate, perché la vasocostrizione α1 è compensata dalla vasodilatazione β2.",
+      "distrattori": {
+        "B": "Nella dobutamina l'effetto inotropo prevale su quello cronotropo: la frequenza resta invariata o aumenta solo lievemente.",
+        "C": "La forte riduzione della diastolica per azione β2 è tipica dell'isoproterenolo, non della dobutamina.",
+        "D": "La dobutamina non ha un'azione netta sui recettori α, quindi non provoca vasocostrizione marcata.",
+        "E": "La dobutamina è agonista completa dei recettori β con spiccata affinità proprio per i β1."
+      },
+      "riferimento": "p. 118-119 – Dobutamina, effetti cardiovascolari"
+    },
+    {
+      "id": "07-010",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Decongestionanti nasali",
+      "domanda": "Perché l'uso cronico di un decongestionante nasale ad azione α1-agonista può portare a dipendenza e rinite cronica iatrogena?",
+      "opzioni": {
+        "A": "Perché al termine dell'effetto la vasodilatazione di rimbalzo è maggiore, aumenta la congestione e spinge ad aumentare la dose",
+        "B": "Perché il farmaco attraversa la barriera ematoencefalica e attiva i circuiti centrali della ricompensa",
+        "C": "Perché l'assorbimento sistemico determina una progressiva up-regulation dei recettori β2 bronchiali",
+        "D": "Perché il legame irreversibile ai recettori α1 richiede la sintesi di nuovi recettori a ogni somministrazione",
+        "E": "Perché la vasocostrizione prolungata riduce la clearance epatica del farmaco, che si accumula"
+      },
+      "corretta": "A",
+      "spiegazione": "La vasocostrizione allevia la congestione, ma al termine dell'effetto la vasodilatazione, e con essa la congestione nasale, aumentano molto di più: serve così una dose maggiore, fino alla dipendenza della mucosa dal farmaco e alla rinite cronica iatrogena.",
+      "distrattori": {
+        "B": "Il testo spiega la dipendenza con un meccanismo locale della mucosa nasale, non con un'azione centrale.",
+        "C": "Non è descritta alcuna up-regulation dei recettori β2 legata all'uso dei decongestionanti.",
+        "D": "Il legame irreversibile al recettore α è proprio della fenossibenzamina, non dei decongestionanti nasali.",
+        "E": "Il testo non lega il fenomeno a una ridotta clearance epatica del farmaco."
+      },
+      "riferimento": "p. 120-121 – Fenilefrina, uso come decongestionante"
+    },
+    {
+      "id": "07-011",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Fenilefrina",
+      "domanda": "Quale caratteristica farmacocinetica distingue la fenilefrina dalle catecolamine e ne prolunga l'effetto?",
+      "opzioni": {
+        "A": "Non è substrato delle COMT, perché le manca uno dei due gruppi -OH del gruppo fenilico",
+        "B": "Non è substrato delle MAO, perché ha un gruppo metilico in posizione α",
+        "C": "È legata per oltre il 99% alle proteine plasmatiche, che fungono da deposito",
+        "D": "È eliminata immodificata per via biliare con ampio circolo entero-epatico",
+        "E": "È un profarmaco che si accumula nei granuli vescicolari delle terminazioni nervose"
+      },
+      "corretta": "A",
+      "spiegazione": "Alla fenilefrina manca uno dei due gruppi -OH sul gruppo fenilico, quindi non è substrato delle COMT: ha perciò un'emivita più lunga rispetto alle catecolamine e produce una vasocostrizione prolungata.",
+      "distrattori": {
+        "B": "Il testo riferisce la resistenza alla sola COMT; il gruppo metilico in posizione α è la caratteristica strutturale della metildopa.",
+        "C": "Non è descritto alcun legame proteico elevato come causa della maggiore durata d'azione.",
+        "D": "Il testo non descrive un'eliminazione biliare né un circolo entero-epatico della fenilefrina.",
+        "E": "La fenilefrina è un agonista diretto selettivo α1, non un profarmaco accumulato nelle vescicole; la midodrina è il profarmaco citato."
+      },
+      "riferimento": "p. 120 – Fenilefrina"
+    },
+    {
+      "id": "07-012",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Midodrina",
+      "domanda": "Quali effetti produce la midodrina, profarmaco selettivo per i recettori α1?",
+      "opzioni": {
+        "A": "Aumento delle resistenze periferiche e della pressione arteriosa, con bradicardia sinusale",
+        "B": "Riduzione delle resistenze periferiche e tachicardia riflessa marcata",
+        "C": "Broncodilatazione e aumento della frequenza cardiaca",
+        "D": "Riduzione della pressione arteriosa per azione sui recettori presinaptici del tronco encefalico",
+        "E": "Aumento della contrattilità miocardica senza variazioni della pressione arteriosa"
+      },
+      "corretta": "A",
+      "spiegazione": "La midodrina si lega preferenzialmente ai recettori α1 e non attiva i β-adrenergici: aumenta le resistenze periferiche e la pressione arteriosa e provoca bradicardia sinusale. È usata negli stati ipotensivi.",
+      "distrattori": {
+        "B": "La midodrina aumenta le resistenze periferiche; la loro riduzione con tachicardia riflessa è tipica degli α-antagonisti.",
+        "C": "La midodrina non attiva i recettori β-adrenergici, quindi non è broncodilatatrice.",
+        "D": "L'azione sui recettori presinaptici del tronco cerebrale con riduzione pressoria è propria di clonidina e metildopa.",
+        "E": "La midodrina agisce sui recettori α1 vascolari e aumenta la pressione arteriosa."
+      },
+      "riferimento": "p. 120 – Midodrina"
+    },
+    {
+      "id": "07-013",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Clonidina",
+      "domanda": "Perché la clonidina, agonista dei recettori α2, riduce la pressione arteriosa invece di aumentarla?",
+      "opzioni": {
+        "A": "Perché attiva recettori α2 presinaptici riducendo la liberazione di noradrenalina e, superando la barriera ematoencefalica, inibisce i neuroni noradrenergici centrali",
+        "B": "Perché blocca in modo competitivo i recettori α1 della muscolatura liscia vascolare",
+        "C": "Perché inibisce la sintesi delle catecolamine come falso neurotrasmettitore",
+        "D": "Perché impedisce il trasporto vescicolare delle catecolamine nelle terminazioni simpatiche",
+        "E": "Perché antagonizza i recettori β1 cardiaci riducendo gittata e frequenza"
+      },
+      "corretta": "A",
+      "spiegazione": "I recettori α2 sono presinaptici: la clonidina ne riduce la liberazione di noradrenalina e la frequenza cardiaca. Attraversa bene la barriera ematoencefalica e riduce l'attività del locus coeruleus, con inibizione centrale e, in periferia, prevalenza dell'attività parasimpatica.",
+      "distrattori": {
+        "B": "Il blocco competitivo degli α1 vascolari è il meccanismo della prazosina, i cui effetti il testo definisce opposti a quelli della clonidina.",
+        "C": "L'inibizione della sintesi delle catecolamine è attribuita alla α-metildopa tra gli antagonisti indiretti.",
+        "D": "Il blocco del trasporto vescicolare delle catecolamine è il meccanismo della reserpina.",
+        "E": "La clonidina non è un β-bloccante: è un agonista dei recettori α2."
+      },
+      "riferimento": "p. 121-122 – Clonidina"
+    },
+    {
+      "id": "07-014",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Clonidina",
+      "domanda": "In quale situazione clinica il testo indica come impiego principale della clonidina?",
+      "opzioni": {
+        "A": "Sindromi da astinenza da oppioidi, alcool e nicotina",
+        "B": "Trattamento di prima scelta dell'ipertensione arteriosa essenziale",
+        "C": "Profilassi dell'emicrania e tremore essenziale",
+        "D": "Shock con oliguria e bassa gittata cardiaca",
+        "E": "Glaucoma ad angolo aperto"
+      },
+      "corretta": "A",
+      "spiegazione": "La clonidina è usata come farmaco di seconda o terza scelta e viene impiegata principalmente nelle sindromi da astinenza da oppioidi, alcool e nicotina, perché durante l'astinenza si ha un'attivazione del sistema noradrenergico centrale e periferico.",
+      "distrattori": {
+        "B": "Nell'ipertensione la clonidina è farmaco di seconda o terza scelta, perché esistono farmaci più efficaci e meglio tollerati.",
+        "C": "Profilassi dell'emicrania e tremore essenziale sono indicazioni dei β-bloccanti, in particolare del propranololo.",
+        "D": "Lo shock con oliguria e bassa gittata è indicazione della dopamina.",
+        "E": "Il glaucoma ad angolo aperto è indicazione dei β-bloccanti, che riducono la produzione di umor acqueo."
+      },
+      "riferimento": "p. 122 – Clonidina, usi terapeutici"
+    },
+    {
+      "id": "07-015",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "β2-agonisti",
+      "domanda": "L'attivazione del recettore β2 della muscolatura liscia bronchiale porta a broncodilatazione. Quale evento intracellulare è descritto come iniziale in questa cascata?",
+      "opzioni": {
+        "A": "L'attivazione dei sistemi del cAMP",
+        "B": "L'attivazione della fosfolipasi C con produzione di IP3",
+        "C": "L'aumento diretto della chinasi della catena leggera della miosina",
+        "D": "La chiusura dei canali del potassio con depolarizzazione",
+        "E": "L'inibizione delle ATPasi di membrana per il sodio e il calcio"
+      },
+      "corretta": "A",
+      "spiegazione": "L'agonista legandosi al recettore β2 attiva i sistemi del cAMP, con una cascata che comprende aumento del Ca e apertura dei canali K+, inibizione della fosfolipasi C, riduzione della chinasi della catena leggera della miosina e incremento di scambiatori e ATPasi: il risultato è la diminuita contrazione della muscolatura liscia.",
+      "distrattori": {
+        "B": "La fosfolipasi C viene inibita, non attivata, nella cascata descritta per i β2-agonisti.",
+        "C": "La chinasi della catena leggera della miosina viene ridotta, il che favorisce il rilasciamento muscolare.",
+        "D": "Il testo descrive l'apertura dei canali del potassio, non la loro chiusura.",
+        "E": "Le ATPasi per sodio e calcio risultano incrementate, non inibite."
+      },
+      "riferimento": "p. 122 – Agonisti selettivi dei recettori β2, meccanismo d'azione"
+    },
+    {
+      "id": "07-016",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "β2-agonisti",
+      "domanda": "Quale associazione tra classe di β2-agonisti, farmaco e profilo temporale è corretta?",
+      "opzioni": {
+        "A": "SABA, salbutamolo, onset di 5 minuti e durata fino a 6 ore",
+        "B": "LABA, salmeterolo, onset di 5 minuti e durata fino a 24 ore",
+        "C": "SABA, formoterolo, onset di 20-30 minuti e durata fino a 12 ore",
+        "D": "Ultra-LABA, terbutalina, monosomministrazione quotidiana",
+        "E": "LABA, indacaterolo, onset di 5 minuti e durata fino a 6 ore"
+      },
+      "corretta": "A",
+      "spiegazione": "I SABA (salbutamolo, terbutalina, fenoterolo, orciprenalina) hanno onset di 5 minuti e durata fino a 6 ore; i LABA (salmeterolo, formoterolo) onset di 20-30 minuti e durata fino a 12 ore; gli ultra-LABA, come l'indacaterolo, durano 24 ore con una sola somministrazione.",
+      "distrattori": {
+        "B": "Il salmeterolo è un LABA con onset di 20-30 minuti e durata fino a 12 ore, non 24.",
+        "C": "Il formoterolo è classificato tra i LABA, non tra i SABA.",
+        "D": "La terbutalina è un SABA; la monosomministrazione quotidiana caratterizza gli ultra-LABA come l'indacaterolo.",
+        "E": "L'indacaterolo è un ultra-LABA con durata di 24 ore."
+      },
+      "riferimento": "p. 122-123 – Classificazione dei β2-agonisti"
+    },
+    {
+      "id": "07-017",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "β2-agonisti",
+      "domanda": "Una donna con minaccia di parto pretermine viene trattata con un β2-agonista. Quale farmaco e quale effetto cita il testo in questa indicazione?",
+      "opzioni": {
+        "A": "Ritodrina, per l'inibizione delle contrazioni e il rilassamento uterino (effetto tocolitico)",
+        "B": "Salmeterolo, per la riduzione della pressione arteriosa materna",
+        "C": "Indacaterolo, per la maturazione polmonare del feto",
+        "D": "Terbutalina, per l'aumento del flusso ematico placentare mediato dai recettori D1",
+        "E": "Metildopa, per il rilassamento della muscolatura liscia uterina"
+      },
+      "corretta": "A",
+      "spiegazione": "I β2-agonisti, in particolare la ritodrina, sono impiegati nelle minacce d'aborto o di parto pretermine grazie alla capacità di inibire le contrazioni e indurre il rilassamento uterino: si parla di farmaco tocolitico.",
+      "distrattori": {
+        "B": "Il salmeterolo è citato come LABA per asma e BPCO, non come tocolitico né come antipertensivo.",
+        "C": "L'indacaterolo è un ultra-LABA per l'asma cronico; il testo non gli attribuisce effetti sulla maturazione polmonare fetale.",
+        "D": "La terbutalina è citata tra i SABA; i recettori D1 riguardano l'azione renale della dopamina.",
+        "E": "La metildopa è indicata nell'ipertensione gravidica come antipertensivo, non come tocolitico."
+      },
+      "riferimento": "p. 123 – β2-agonisti, impieghi"
+    },
+    {
+      "id": "07-018",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Classificazione degli antagonisti adrenergici",
+      "domanda": "Tra gli antagonisti adrenergici indiretti, quale abbinamento farmaco-meccanismo è corretto?",
+      "opzioni": {
+        "A": "Reserpina: blocco del trasporto vescicolare delle catecolamine",
+        "B": "Guanetidina: inibizione della sintesi delle catecolamine",
+        "C": "α-metildopa: blocco del rilascio delle catecolamine",
+        "D": "Fenossibenzamina: blocco del trasporto vescicolare delle catecolamine",
+        "E": "Prazosina: inibizione della sintesi delle catecolamine"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli antagonisti indiretti svolgono un antagonismo funzionale su tre punti: inibizione della sintesi delle catecolamine (α-metildopa), blocco del trasporto vescicolare (reserpina) e blocco del rilascio (guanetidina).",
+      "distrattori": {
+        "B": "La guanetidina blocca il rilascio delle catecolamine, non la loro sintesi.",
+        "C": "Alla α-metildopa è attribuita l'inibizione della sintesi delle catecolamine.",
+        "D": "La fenossibenzamina è un antagonista diretto, α-bloccante irreversibile non competitivo.",
+        "E": "La prazosina è un antagonista diretto α1-selettivo."
+      },
+      "riferimento": "p. 124 – Antagonisti adrenergici, classificazione"
+    },
+    {
+      "id": "07-019",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "α1-antagonisti",
+      "domanda": "Perché la prazosina produce scarsa tachicardia riflessa rispetto agli α-antagonisti non selettivi?",
+      "opzioni": {
+        "A": "Perché non bloccando i recettori α2 presinaptici non promuove il rilascio di noradrenalina",
+        "B": "Perché blocca contemporaneamente i recettori β1 cardiaci",
+        "C": "Perché aumenta il precarico cardiaco, che compensa la caduta pressoria",
+        "D": "Perché il suo legame al recettore α1 è irreversibile e covalente",
+        "E": "Perché non riduce le resistenze vascolari periferiche e quindi non attiva i barocettori"
+      },
+      "corretta": "A",
+      "spiegazione": "La prazosina è α1-selettiva: non tocca gli α2 e quindi non promuove il rilascio di noradrenalina. Negli antagonisti non selettivi il blocco degli α2 aumenta la liberazione di noradrenalina, che agisce sui soli recettori β liberi, con marcata attivazione cardiaca.",
+      "distrattori": {
+        "B": "La prazosina è una chinazolina α1-selettiva; i recettori β restano liberi, ed è proprio per questo che una certa tachicardia riflessa resta possibile.",
+        "C": "La prazosina diminuisce il precarico cardiaco e non aumenta la gittata.",
+        "D": "Il legame irreversibile e covalente è caratteristica della fenossibenzamina, α-antagonista non selettivo.",
+        "E": "La prazosina riduce nettamente le resistenze vascolari periferiche: il suo effetto principale è un'importante vasodilatazione."
+      },
+      "riferimento": "p. 126-127 – Prazosina e α-antagonisti non selettivi"
+    },
+    {
+      "id": "07-020",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "α1-antagonisti",
+      "domanda": "Un paziente anziano inizia la terapia con prazosina e, alzandosi dopo la prima dose, va incontro a sincope. Come si spiega questo evento?",
+      "opzioni": {
+        "A": "È l'effetto prima dose: l'effetto ipotensivo può essere molto marcato, aggravato dalla mancata vasocostrizione α1 in ortostatismo",
+        "B": "È dovuto alla tachicardia riflessa intensa tipica degli α1-selettivi",
+        "C": "È un effetto da sospensione, analogo a quello descritto per la clonidina",
+        "D": "È dovuto all'aumento del tono del detrusore con riflesso vagale vescicale",
+        "E": "È dovuto al blocco dei recettori β1 con bradicardia severa"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra le reazioni avverse della prazosina il testo indica l'effetto prima dose, con ipotensione molto marcata fino alla sincope e alla caduta del paziente, e le vertigini da ipotensione ortostatica, perché manca la vasocostrizione mediata dagli α1 nel passaggio in ortostatismo.",
+      "distrattori": {
+        "B": "La prazosina produce scarsa tachicardia riflessa; la tachicardia marcata è propria degli α-antagonisti non selettivi.",
+        "C": "Le reazioni da sospensione sono descritte per la clonidina, non come causa dell'evento alla prima dose di prazosina.",
+        "D": "L'aumento del tono vescicale è un effetto genitourinario sfruttato nell'ipertrofia prostatica, non una causa di sincope.",
+        "E": "La prazosina non blocca i recettori β1."
+      },
+      "riferimento": "p. 126 – Prazosina, reazioni avverse"
+    },
+    {
+      "id": "07-021",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "α-antagonisti",
+      "domanda": "In un paziente con feocromocitoma candidato all'intervento chirurgico, quale sequenza di blocco recettoriale indica il testo e perché?",
+      "opzioni": {
+        "A": "Prima gli α e poi i β, per evitare un eccessivo innalzamento della pressione",
+        "B": "Prima i β e poi gli α, per prevenire la tachicardia riflessa",
+        "C": "Solo i β-bloccanti, perché gli α-bloccanti sono controindicati nel feocromocitoma",
+        "D": "Solo gli α2-agonisti, perché riducono il rilascio di catecolamine dal tumore",
+        "E": "Prima i β e poi gli α, per ridurre la secrezione di renina"
+      },
+      "corretta": "A",
+      "spiegazione": "Il feocromocitoma è un tumore secernente adrenalina: la prazosina è usata in associazione con i β-bloccanti e in preoperatorio si bloccano prima gli α e poi i β, per evitare un eccessivo innalzamento della pressione.",
+      "distrattori": {
+        "B": "La sequenza indicata è l'opposta: prima gli α, poi i β.",
+        "C": "Il feocromocitoma è anzi una delle indicazioni degli α-antagonisti, selettivi e non selettivi.",
+        "D": "Il testo non indica gli α2-agonisti nel trattamento del feocromocitoma.",
+        "E": "La riduzione della secrezione di renina è un effetto renale dei β-bloccanti, non la ragione della sequenza."
+      },
+      "riferimento": "p. 126 – Prazosina, usi terapeutici"
+    },
+    {
+      "id": "07-022",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "β-bloccanti: effetti e usi",
+      "domanda": "Quale tra i seguenti è un effetto renale dei β-bloccanti descritto nel testo?",
+      "opzioni": {
+        "A": "Inibizione della liberazione di renina",
+        "B": "Vasodilatazione delle arteriole renali mediata dai recettori D1",
+        "C": "Aumento dell'escrezione di potassio con ipokaliemia",
+        "D": "Aumento del flusso ematico renale e della diuresi",
+        "E": "Aumento dell'assorbimento di sodio e cloro con ritenzione di fluidi"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra gli effetti farmacologici dei β-bloccanti, a livello renale è indicata l'inibizione della liberazione di renina; essa contribuisce anche all'azione antipertensiva di questi farmaci.",
+      "distrattori": {
+        "B": "La vasodilatazione renale via recettori D1 è propria della dopamina a basse dosi.",
+        "C": "L'ipokaliemia è un disturbo metabolico descritto per i β2-agonisti.",
+        "D": "L'aumento del flusso ematico renale e della diuresi è effetto della dopamina.",
+        "E": "L'aumentato assorbimento di Na e Cl è descritto per la clonidina."
+      },
+      "riferimento": "p. 128 – β-bloccanti, effetti farmacologici"
+    },
+    {
+      "id": "07-023",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "β-bloccanti: effetti e usi",
+      "domanda": "Un musicista chiede un farmaco per l'ansia da palcoscenico e riferisce anche un tremore essenziale. Quale β-bloccante e quale presupposto farmacologico sono indicati nel testo?",
+      "opzioni": {
+        "A": "Propranololo, perché è liposolubile e attraversa la barriera ematoencefalica",
+        "B": "Atenololo, perché è idrofilo e ha emivita prolungata",
+        "C": "Sotalolo, perché blocca le correnti ioniche al potassio",
+        "D": "Esmololo, perché ha il più alto rapporto di selettività β1/β2",
+        "E": "Nadololo, perché non penetra nel tessuto cerebrale"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli effetti neuropsichici dei β-bloccanti si manifestano nei farmaci che attraversano la barriera ematoencefalica, cioè i liposolubili: il propranololo è indicato per l'attenuazione del tremore essenziale e per la sintomatologia ansiosa, oltre che nella profilassi dell'emicrania.",
+      "distrattori": {
+        "B": "L'atenololo è poco liposolubile e non penetra nel tessuto cerebrale, quindi è privo di questi effetti centrali.",
+        "C": "Il sotalolo è citato per il blocco delle correnti al K+, non per gli effetti centrali.",
+        "D": "L'esmololo è un β1-selettivo con rapporto 40/1, inferiore al bisoprololo (75/1), e non è indicato per questi usi.",
+        "E": "Il nadololo è un β-bloccante idrofilo che non penetra nel tessuto cerebrale."
+      },
+      "riferimento": "p. 128-129 – β-bloccanti, effetti neuropsichici e usi"
+    },
+    {
+      "id": "07-024",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "β-bloccanti: liposolubilità",
+      "domanda": "Quale affermazione sul ruolo della liposolubilità dei β-bloccanti corrisponde al testo e alla tabella?",
+      "opzioni": {
+        "A": "I più liposolubili, come propranololo e metoprololo, subiscono metabolismo epatico, hanno minore biodisponibilità orale ed emivita più breve",
+        "B": "I più liposolubili sono escreti immodificati dal rene e hanno la durata d'azione più lunga",
+        "C": "Gli idrofili, come atenololo e nadololo, attraversano facilmente la barriera ematoencefalica",
+        "D": "La liposolubilità non influisce sulla durata e sulla regolarità dell'effetto",
+        "E": "Gli idrofili hanno clearance esclusivamente epatica e biodisponibilità orale completa"
+      },
+      "corretta": "A",
+      "spiegazione": "La liposolubilità determina durata e regolarità dell'effetto: i β-bloccanti più liposolubili (metoprololo, propranololo) sono metabolizzati nel fegato, hanno biodisponibilità orale minore rispetto alla via endovenosa ed emivita più breve, e attraversano la barriera ematoencefalica.",
+      "distrattori": {
+        "B": "L'escrezione renale immodificata con durata d'azione prolungata caratterizza i meno liposolubili, come atenololo e nadololo.",
+        "C": "Gli idrofili non penetrano nel tessuto cerebrale.",
+        "D": "Il testo afferma esplicitamente che la liposolubilità permette di stabilire durata e regolarità dell'effetto.",
+        "E": "Gli idrofili hanno clearance prevalentemente renale; nella tabella l'atenololo ha clearance epatica/renale 10-90."
+      },
+      "riferimento": "p. 129 – β-bloccanti, liposolubilità (tabella)"
+    },
+    {
+      "id": "07-025",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "β-bloccanti: cardioselettività",
+      "domanda": "Un paziente asmatico con cardiopatia richiede un β-bloccante. Quale considerazione è coerente con il testo?",
+      "opzioni": {
+        "A": "Nessun β-bloccante è strettamente cardiospecifico, ma il bisoprololo ha un buon rapporto di cardioselettività che riduce, senza annullare, gli effetti collaterali",
+        "B": "I β-bloccanti cardioselettivi sono del tutto privi di affinità per i recettori β2 e quindi sicuri nell'asmatico",
+        "C": "La broncocostrizione indotta è facilmente contrastabile aumentando la dose di β2-agonista",
+        "D": "Il propranololo è da preferire perché il suo rapporto di selettività β1/β2 è il più alto",
+        "E": "L'omologia tra β1 e β2 è minima, per cui la selettività è assoluta"
+      },
+      "corretta": "A",
+      "spiegazione": "Nessun β-bloccante è strettamente cardiospecifico, poiché tra β1 e β2 c'è almeno il 60% di omologia nei siti di legame. Il bisoprololo, con il miglior rapporto di cardioselettività della tabella (75/1), consente il trattamento di questi pazienti con riduzione, ma non annullamento, degli effetti collaterali.",
+      "distrattori": {
+        "B": "I β-bloccanti cardioselettivi mantengono affinità per i β2 extracardiaci: la selettività è solo relativa.",
+        "C": "Il testo precisa che i β-agonisti non riescono a contrastare la broncocostrizione, perché vi è competizione con il bloccante.",
+        "D": "Il propranololo è un β-bloccante non selettivo, privo di rapporto di selettività β1/β2 nella tabella.",
+        "E": "L'omologia tra β1 e β2 è di almeno il 60%, soprattutto nei siti di legame."
+      },
+      "riferimento": "p. 130 – β-bloccanti, cardioselettività (tabella)"
+    },
+    {
+      "id": "07-026",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "β-bloccanti: ASI",
+      "domanda": "Che cosa comporta l'attività simpaticomimetica intrinseca (ASI) di alcuni β-bloccanti?",
+      "opzioni": {
+        "A": "Sono agonisti parziali: attenuano gli effetti delle catecolamine endogene, con minore bradicardia a riposo e minore broncospasmo",
+        "B": "Sono antagonisti irreversibili, con effetto più prolungato e maggiore bradicardia notturna",
+        "C": "Aumentano l'azione anti-aritmica rispetto ai β-bloccanti privi di ASI",
+        "D": "Impediscono qualsiasi alterazione dell'assetto lipidico e della perfusione periferica",
+        "E": "Conferiscono un effetto vasodilatatore diretto, come nel carvedilolo e nel nebivololo"
+      },
+      "corretta": "A",
+      "spiegazione": "I β-bloccanti con ASI sono agonisti parziali: avendo attività minore rispetto alla molecola endogena si comportano funzionalmente da antagonisti e ne attenuano gli effetti. Clinicamente danno minor bradicardia, minor broncospasmo, minor riduzione della perfusione periferica e minor alterazione dell'assetto lipidico.",
+      "distrattori": {
+        "B": "L'ASI riguarda l'agonismo parziale, non l'irreversibilità del legame, e comporta minore bradicardia notturna.",
+        "C": "L'azione anti-aritmica è maggiore nei β-bloccanti non selettivi e privi di ASI.",
+        "D": "Il testo indica una minore alterazione dell'assetto lipidico e della perfusione, non la loro assenza; permane inoltre il rischio di broncocostrizione nei predisposti.",
+        "E": "L'effetto vasodilatatore diretto di labetalolo, carvedilolo, celiprololo e nebivololo è classificato tra le proprietà accessorie, distinte dall'ASI."
+      },
+      "riferimento": "p. 130 – Attività simpaticomimetica intrinseca"
+    },
+    {
+      "id": "07-027",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "β-bloccanti e scompenso cardiaco",
+      "domanda": "In un paziente con scompenso cardiaco grave si decide di introdurre un β-bloccante. Quale scelta e quale modalità sono indicate dal testo?",
+      "opzioni": {
+        "A": "Carvedilolo, iniziando con dosaggio bassissimo e monitoraggio emodinamico, perché acutamente i β-bloccanti possono esacerbare lo scompenso",
+        "B": "Propranololo a dose piena fin dall'inizio, perché l'effetto inotropo negativo è trascurabile",
+        "C": "Qualsiasi β-bloccante, dato che l'intera classe ha dimostrato pari beneficio sulla sopravvivenza",
+        "D": "Atenololo, l'unico che ha dimostrato di migliorare la sopravvivenza nello scompenso grave",
+        "E": "Nessun β-bloccante, perché nello scompenso restano controindicati"
+      },
+      "corretta": "A",
+      "spiegazione": "Solo carvedilolo, metoprololo e bisoprololo migliorano la sopravvivenza nello scompenso lieve-moderato, e tra questi solo il carvedilolo nello scompenso grave. Poiché acutamente i β-bloccanti possono esacerbare lo scompenso, si procede con estrema cautela, dosaggio bassissimo e monitoraggio della risposta emodinamica.",
+      "distrattori": {
+        "B": "L'inizio a dose piena contrasta con la cautela richiesta; il propranololo non è tra i farmaci che hanno dimostrato beneficio sulla sopravvivenza nello scompenso.",
+        "C": "I β-bloccanti sono una classe eterogenea: solo tre agenti hanno dimostrato di migliorare significativamente la sopravvivenza.",
+        "D": "Nello scompenso grave il beneficio sulla sopravvivenza è dimostrato per il carvedilolo, non per l'atenololo.",
+        "E": "Un tempo controindicati, oggi i β-bloccanti sono considerati farmaci di prima scelta nello scompenso cardiaco."
+      },
+      "riferimento": "p. 131-132 – β-bloccanti e scompenso cardiaco"
+    },
+    {
+      "id": "07-028",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "β-bloccanti: controindicazioni",
+      "domanda": "Quale affermazione sulle controindicazioni e reazioni avverse dei β-bloccanti è FALSA?",
+      "opzioni": {
+        "A": "Nel paziente diabetico sono indicati perché aumentano la risposta metabolica all'ipoglicemia",
+        "B": "Possono mascherare i sintomi delle crisi ipoglicemiche interferendo con la risposta metabolica",
+        "C": "Nell'asma bronchiale lieve i cardioselettivi e quelli con ASI possono essere usati con grande cautela",
+        "D": "Possono causare insonnia, allucinazioni e aggravamento della depressione se attraversano la barriera ematoencefalica",
+        "E": "Riducono la tolleranza allo sforzo e possono causare disturbi sessuali"
+      },
+      "corretta": "A",
+      "spiegazione": "Il diabete è una controindicazione: i β-bloccanti causano una ridotta risposta all'ipoglicemia e ne mascherano i sintomi. L'affermazione che li indica nel diabetico perché aumentano tale risposta è quindi falsa.",
+      "distrattori": {
+        "B": "È vero: l'interferenza con la risposta metabolica all'ipoglicemia è elencata tra gli effetti metabolici, da considerare nei diabetici.",
+        "C": "È vero: nell'asma bronchiale i cardioselettivi e quelli con ASI possono essere utilizzati con grande cautela, mentre asma e BPCO gravi restano controindicazioni.",
+        "D": "È vero: insonnia, allucinazioni e aggravamento della depressione sono reazioni avverse dei β-bloccanti che attraversano la BEE.",
+        "E": "È vero: diminuzione della tolleranza allo sforzo e disturbi sessuali sono elencati tra le reazioni avverse."
+      },
+      "riferimento": "p. 132 – β-bloccanti, controindicazioni e reazioni avverse"
+    },
+    {
+      "id": "07-029",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Metildopa",
+      "domanda": "Perché la metildopa è definita un falso neurotrasmettitore con azione simpaticolitica?",
+      "opzioni": {
+        "A": "Perché viene trasformata in metil-noradrenalina, che agisce da agonista α2 riducendo la liberazione di noradrenalina",
+        "B": "Perché blocca in modo competitivo i recettori α1 della muscolatura liscia vascolare",
+        "C": "Perché impedisce l'accumulo vescicolare delle catecolamine nelle terminazioni simpatiche",
+        "D": "Perché si comporta da agonista parziale dei recettori β1 cardiaci",
+        "E": "Perché inibisce le COMT e le MAO prolungando l'azione della noradrenalina"
+      },
+      "corretta": "A",
+      "spiegazione": "La metildopa è una DOPA con un gruppo metile in posizione α: diventando metil-noradrenalina agisce come agonista α2 adrenergico e, nella classe dei simpaticolitici, riduce la liberazione di noradrenalina agendo sui recettori presinaptici del tronco cerebrale. Attraversa la BEE.",
+      "distrattori": {
+        "B": "Il blocco competitivo degli α1 vascolari è il meccanismo delle chinazoline come la prazosina.",
+        "C": "Il blocco del trasporto vescicolare delle catecolamine è attribuito alla reserpina.",
+        "D": "L'agonismo parziale sui recettori β è la caratteristica dei β-bloccanti con ASI.",
+        "E": "La metildopa non è descritta come inibitore di COMT e MAO, e un tale effetto aumenterebbe l'attività noradrenergica."
+      },
+      "riferimento": "p. 133 – Metildopa (falso neurotrasmettitore)"
+    },
+    {
+      "id": "07-030",
+      "difficolta": "base",
+      "tipo": "caso_clinico",
+      "argomento": "Metildopa",
+      "domanda": "Una donna in gravidanza presenta ipertensione. Quale farmaco adrenergico il testo indica come trattamento di prima scelta e quali reazioni avverse ne segnala?",
+      "opzioni": {
+        "A": "Metildopa; sedazione, depressione, riduzione della libido, sintomi parkinsoniani, epatotossicità e anemie",
+        "B": "Prazosina; effetto prima dose, cefalea e disfunzione erettile",
+        "C": "Clonidina; secchezza delle fauci, tachicardia e reazioni da sospensione",
+        "D": "Propranololo; broncocostrizione e insonnia",
+        "E": "Fenilefrina; crisi ipertensive e irregolarità cardiache"
+      },
+      "corretta": "A",
+      "spiegazione": "La metildopa è indicata come trattamento di prima scelta nell'ipertensione gravidica; le sue reazioni avverse comprendono sedazione, depressione, riduzione della libido, sintomi parkinsoniani, epatotossicità e anemie.",
+      "distrattori": {
+        "B": "La prazosina non è indicata nell'ipertensione gravidica e nell'ipertensione non è di prima scelta, pur avendo quelle reazioni avverse.",
+        "C": "La clonidina ha azione simile alla metildopa, ma è farmaco di seconda-terza scelta e non è indicata nell'ipertensione gravidica.",
+        "D": "I β-bloccanti non sono farmaci di prima scelta nell'ipertensione in assenza di comorbidità cardiovascolari.",
+        "E": "La fenilefrina è un agonista α1 che aumenta la pressione arteriosa: sarebbe dannosa in questo contesto."
+      },
+      "riferimento": "p. 133 – Metildopa, effetti farmacologici e reazioni avverse"
+    },
+    {
+      "id": "07-031",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "α-antagonisti non selettivi",
+      "domanda": "Quale caratteristica distingue la fenossibenzamina dalle imidazoline tra gli α-antagonisti non selettivi?",
+      "opzioni": {
+        "A": "La fenossibenzamina blocca il recettore in modo covalente e irreversibile, garantendo un'azione prolungata non antagonizzabile per competizione",
+        "B": "La fenossibenzamina è selettiva per i soli recettori α1",
+        "C": "La fenossibenzamina agisce come agonista parziale dei recettori α2",
+        "D": "La fenossibenzamina è l'unico α-bloccante competitivo della classe",
+        "E": "La fenossibenzamina non provoca tachicardia riflessa perché risparmia i recettori α2"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli α-antagonisti non selettivi si distinguono in irreversibili non competitivi, che legano il recettore in modo covalente (fenossibenzamina), e competitivi (imidazoline); il legame irreversibile è talvolta utile perché garantisce un'azione prolungata.",
+      "distrattori": {
+        "B": "La fenossibenzamina è un antagonista non selettivo: blocca sia α1 sia α2.",
+        "C": "L'agonismo parziale è descritto per i β-bloccanti con attività simpaticomimetica intrinseca.",
+        "D": "Sono le imidazoline a essere indicate come antagonisti competitivi; la fenossibenzamina è non competitiva.",
+        "E": "Gli antagonisti non selettivi, bloccando anche gli α2, danno maggiore tachicardia riflessa."
+      },
+      "riferimento": "p. 127 – α-antagonisti non selettivi"
+    },
+    {
+      "id": "07-032",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "β-bloccanti: proprietà accessorie",
+      "domanda": "Quale abbinamento tra β-bloccante e proprietà accessoria è corretto secondo il testo?",
+      "opzioni": {
+        "A": "Sotalolo: blocco delle correnti ioniche al potassio",
+        "B": "Carvedilolo: blocco delle correnti ioniche al potassio",
+        "C": "Nebivololo: attività simpaticomimetica intrinseca marcata",
+        "D": "Atenololo: effetto vasodilatatore periferico diretto",
+        "E": "Propranololo: effetto vasodilatatore periferico diretto"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra i β-bloccanti con proprietà accessorie, labetalolo, carvedilolo, celiprololo e nebivololo hanno un effetto vasodilatatore periferico, mentre il sotalolo determina il blocco delle correnti ioniche al K+.",
+      "distrattori": {
+        "B": "Il carvedilolo è citato per l'effetto vasodilatatore diretto, non per il blocco delle correnti al potassio.",
+        "C": "Il nebivololo è elencato tra i β-bloccanti con effetto vasodilatatore periferico, non per l'ASI.",
+        "D": "L'atenololo è citato come β-bloccante idrofilo β1-selettivo, non tra quelli con proprietà vasodilatatorie.",
+        "E": "Il propranololo è il capostipite non selettivo e liposolubile, privo delle proprietà accessorie elencate."
+      },
+      "riferimento": "p. 131 – β-bloccanti con proprietà accessorie"
+    }
+  ],
+  "punti_alto_rischio": [
+    "La noradrenalina riduce la frequenza cardiaca per riflesso vagale barocettoriale, non perché priva di azione β1: dopo vagotomia emerge l'effetto cronotropo positivo diretto.",
+    "La dopamina a basse dosi vasodilata le arteriole renali (D1) e aumenta la diuresi; solo a dosi crescenti compaiono l'effetto β1 inotropo e, a dosi molto alte, la vasocostrizione α.",
+    "La dobutamina racemica non ha azione netta sugli α1 perché i due stereoisomeri sono uno agonista e l'altro antagonista; l'effetto inotropo prevale sul cronotropo.",
+    "Clonidina e metildopa sono agonisti α2 simpaticolitici che ABBASSANO la pressione, al contrario degli agonisti α1 (fenilefrina, midodrina) che la aumentano.",
+    "Nessun β-bloccante è strettamente cardiospecifico (≥60% di omologia β1-β2): la cardioselettività riduce ma non annulla broncocostrizione e rischio nel diabetico; nello scompenso grave solo il carvedilolo ha dimostrato beneficio sulla sopravvivenza."
+  ]
+}

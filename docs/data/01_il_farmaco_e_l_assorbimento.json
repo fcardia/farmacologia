@@ -1,0 +1,520 @@
+{
+  "capitolo": 1,
+  "titolo": "Il farmaco e l'assorbimento",
+  "pagine": "1-16",
+  "domande": [
+    {
+      "id": "01-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Definizione e farmaco ideale",
+      "domanda": "Quali caratteristiche definiscono il farmaco ideale secondo il testo?",
+      "opzioni": {
+        "A": "Meccanismo specifico e selettivo, attività a basse dosi e tossicità trascurabile",
+        "B": "Meccanismo ad ampio spettro su più bersagli, attività ad alte dosi e assenza di metabolismo",
+        "C": "Assenza totale di effetti collaterali a qualunque dose, grazie a un'elevata selettività",
+        "D": "Elevata idrofilia, che impedisce il passaggio delle membrane e quindi la tossicità",
+        "E": "Origine esclusivamente naturale, senza modifiche da parte dei chimici farmaceutici"
+      },
+      "corretta": "A",
+      "spiegazione": "Il farmaco ideale ha un meccanismo specifico (si sa dove agisce) e selettivo (distingue anche piccole differenze tra bersagli), è attivo a basse dosi e ha tossicità trascurabile.",
+      "distrattori": {
+        "B": "Il testo chiede selettività, non azione su più bersagli, e attività a basse dosi, non alte.",
+        "C": "Il testo sottolinea che un farmaco senza effetti collaterali non esiste: se una molecola ha un effetto, avrà anche effetti indesiderati.",
+        "D": "L'idrofilia non è una caratteristica del farmaco ideale: ostacola il passaggio delle membrane e quindi l'assorbimento.",
+        "E": "Il testo cita sia sostanze naturali sia molecole modificate dai chimici farmaceutici per migliorarne le caratteristiche."
+      },
+      "riferimento": "p. 2 – Caratteristiche di un farmaco ideale"
+    },
+    {
+      "id": "01-002",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Definizione e farmaco ideale",
+      "domanda": "Quale affermazione sul farmaco e sul rapporto rischio/beneficio è FALSA?",
+      "opzioni": {
+        "A": "Un farmaco è una sostanza di composizione nota con proprietà curative o profilattiche",
+        "B": "Secondo Paracelso è la dose che fa la differenza tra effetto terapeutico ed effetto tossico",
+        "C": "Il termine inglese drugs non distingue tra farmaci e molecole che danno dipendenza",
+        "D": "Un farmaco ben sviluppato non produce effetti collaterali se usato alla dose corretta",
+        "E": "Un farmaco può essere somministrato anche allo scopo di definire una diagnosi"
+      },
+      "corretta": "D",
+      "spiegazione": "È falsa: il farmaco ideale senza effetti collaterali non esiste. Se una molecola ha un effetto, avrà anche effetti indesiderati: per questo va sempre valutato il rapporto rischio/beneficio.",
+      "distrattori": {
+        "A": "Vera: è la definizione di farmaco data nel testo.",
+        "B": "Vera: \"è la dose che fa il veleno\" (Paracelso) è il principio alla base del rapporto rischio/beneficio.",
+        "C": "Vera: drugs richiama sia il rimedio sia il veleno e non distingue le due cose.",
+        "E": "Vera: la definizione include la somministrazione per definire una diagnosi, oltre che per ripristinare, correggere o modificare funzioni."
+      },
+      "riferimento": "pp. 1-2 – Il farmaco e le sue caratteristiche"
+    },
+    {
+      "id": "01-003",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Sviluppo dei farmaci",
+      "domanda": "In quale fase della sperimentazione clinica si valuta per la prima volta l'efficacia del farmaco su un numero limitato di pazienti selezionati?",
+      "opzioni": {
+        "A": "Fase 1",
+        "B": "Fase 2",
+        "C": "Fase 3",
+        "D": "Fase 4",
+        "E": "Indagine preclinica in vivo"
+      },
+      "corretta": "B",
+      "spiegazione": "La fase 2 valuta l'efficacia su pochi pazienti selezionati (poche centinaia): il numero è limitato per esporre poche persone a eventuali problemi e per contenere i costi.",
+      "distrattori": {
+        "A": "La fase 1 valuta sicurezza e tollerabilità su soggetti sani (poche decine), non l'efficacia sui pazienti.",
+        "C": "La fase 3 conferma l'efficacia su un numero maggiore di pazienti (poche migliaia), con confronto verso placebo o un farmaco noto.",
+        "D": "La fase 4 è la farmacovigilanza, dopo l'immissione in commercio.",
+        "E": "L'indagine preclinica in vivo si svolge su modelli animali, non su pazienti."
+      },
+      "riferimento": "pp. 3-4 – Sviluppo e produzione di nuovi farmaci"
+    },
+    {
+      "id": "01-004",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Placebo e nocebo",
+      "domanda": "In uno studio di fase 3 controllato con placebo, un paziente del gruppo placebo, molto suggestionabile e informato sugli effetti collaterali previsti, sviluppa proprio quei sintomi. Come si chiama il fenomeno?",
+      "opzioni": {
+        "A": "Effetto placebo",
+        "B": "Tolleranza",
+        "C": "Effetto nocebo",
+        "D": "Resistenza",
+        "E": "Effetto di primo passaggio"
+      },
+      "corretta": "C",
+      "spiegazione": "L'effetto nocebo è la risposta patologica di soggetti suggestionabili che, temendo l'insorgere di un sintomo, ne favoriscono la comparsa, anche dopo la somministrazione di un placebo.",
+      "distrattori": {
+        "A": "Il placebo è la sostanza inattiva di confronto (\"acqua fresca\"); qui il fenomeno è la comparsa di sintomi negativi temuti, cioè il nocebo.",
+        "B": "La tolleranza è la riduzione dell'effetto di un farmaco attivo che richiede dosi crescenti.",
+        "D": "La resistenza riguarda microrganismi o cellule che non vengono più uccisi da una molecola citotossica.",
+        "E": "Il primo passaggio è il metabolismo epatico di un farmaco orale, non un fenomeno di suggestione."
+      },
+      "riferimento": "p. 4 – Effetto nocebo"
+    },
+    {
+      "id": "01-005",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Sviluppo dei farmaci",
+      "domanda": "Quale affermazione sulla fase 4 (farmacovigilanza) è corretta?",
+      "opzioni": {
+        "A": "Termina con la registrazione del farmaco e non ha conseguenze sulla sua commercializzazione",
+        "B": "Possono segnalare eventi avversi solo gli sperimentatori che hanno condotto la fase 3",
+        "C": "Si svolge su volontari sani prima dell'immissione in commercio",
+        "D": "Raccoglie segnalazioni di eventi avversi da medici, farmacisti e altri operatori e può portare a ritornare alle fasi precedenti o al ritiro dal commercio",
+        "E": "Riguarda soltanto i farmaci da banco e non quelli con obbligo di prescrizione"
+      },
+      "corretta": "D",
+      "spiegazione": "La farmacovigilanza monitora il farmaco già in commercio: chiunque operi nel settore può segnalare eventi avversi (es. tramite AIFA ed EudraVigilance/EMA). Se le segnalazioni aumentano, si torna alle fasi precedenti e tutti i farmaci possono essere ritirati.",
+      "distrattori": {
+        "A": "La farmacovigilanza \"non finisce mai\" e può portare al ritiro dal commercio.",
+        "B": "Le segnalazioni arrivano da molti attori, dal medico di base al farmacista.",
+        "C": "Le prove su volontari sani sono la fase 1, prima della commercializzazione.",
+        "E": "Il testo afferma che tutti i farmaci possono essere ritirati dal commercio, senza limitazioni."
+      },
+      "riferimento": "p. 4 – Fase 4, farmacovigilanza"
+    },
+    {
+      "id": "01-006",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Farmacocinetica e ADME",
+      "domanda": "Qual è la differenza tra farmacocinetica e farmacodinamica?",
+      "opzioni": {
+        "A": "La farmacocinetica studia l'azione sul bersaglio; la farmacodinamica studia assorbimento ed eliminazione",
+        "B": "La farmacocinetica studia il \"viaggio\" del farmaco nell'organismo (ADME); la farmacodinamica la sua azione sul bersaglio",
+        "C": "La farmacocinetica riguarda solo la via orale; la farmacodinamica solo le vie parenterali",
+        "D": "La farmacocinetica studia le singole classi di farmaci; la farmacodinamica la sperimentazione clinica",
+        "E": "Sono sinonimi: entrambe descrivono l'andamento temporale delle concentrazioni plasmatiche"
+      },
+      "corretta": "B",
+      "spiegazione": "La farmacocinetica studia ciò che succede al farmaco nell'organismo: andamento temporale delle concentrazioni del farmaco e dei metaboliti (assorbimento, distribuzione, metabolismo, eliminazione). La farmacodinamica studia l'azione del farmaco giunto sul bersaglio.",
+      "distrattori": {
+        "A": "È l'inversione dei due concetti, proprio la confusione che il testo invita a evitare.",
+        "C": "La farmacocinetica riguarda tutte le vie di somministrazione; la via cambia l'andamento dei livelli plasmatici.",
+        "D": "Le singole classi di farmaci sono materia della farmacologia speciale.",
+        "E": "Solo la farmacocinetica descrive l'andamento delle concentrazioni nel tempo; la farmacodinamica riguarda l'azione sul bersaglio."
+      },
+      "riferimento": "pp. 1, 5 – Farmacocinetica e farmacodinamica"
+    },
+    {
+      "id": "01-007",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Curva farmacocinetica",
+      "domanda": "Nella curva concentrazione-tempo dopo somministrazione orale, che cosa delimita la finestra terapeutica (indice terapeutico)?",
+      "opzioni": {
+        "A": "Il tempo zero e il Tmax",
+        "B": "La Cmax e l'area sotto la curva (AUC)",
+        "C": "La MEC e la MTC",
+        "D": "L'onset time e la durata d'azione",
+        "E": "La concentrazione al tempo zero e la sua metà (t1/2)"
+      },
+      "corretta": "C",
+      "spiegazione": "Sotto la MEC (concentrazione minima efficace) il farmaco \"è come se non ci fosse\"; sopra la MTC (massima concentrazione tollerata) diventa tossico. L'intervallo tra le due è la finestra terapeutica.",
+      "distrattori": {
+        "A": "Il Tmax è il tempo per raggiungere la Cmax: sono riferimenti temporali, non limiti di concentrazione efficace o tossica.",
+        "B": "Cmax e AUC descrivono il picco e l'esposizione complessiva, non i limiti di efficacia e tossicità.",
+        "D": "Onset time e durata d'azione dipendono dal tempo in cui la concentrazione resta sopra la MEC, ma non definiscono la finestra.",
+        "E": "Il dimezzamento della concentrazione definisce l'emivita, non l'indice terapeutico."
+      },
+      "riferimento": "pp. 5-6 – Curva di farmacocinetica"
+    },
+    {
+      "id": "01-008",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Ionizzazione e assorbimento",
+      "domanda": "Un farmaco acido debole viene assunto per via orale. Perché viene assorbito già a livello gastrico?",
+      "opzioni": {
+        "A": "Nel pH acido dello stomaco è ionizzato e quindi più idrosolubile, perciò attraversa i pori acquosi",
+        "B": "Nel pH acido dello stomaco è in forma non ionizzata (HA), più liposolubile, e attraversa la membrana verso il plasma più basico",
+        "C": "Il pH basico del plasma lo attrae per gradiente elettrico indipendentemente dalla pKa",
+        "D": "La forma ionizzata viene rimbalzata dalla membrana lipidica e trasportata nel plasma dalla P-glicoproteina",
+        "E": "Lo stato di ionizzazione non influenza l'assorbimento: conta solo il peso molecolare"
+      },
+      "corretta": "B",
+      "spiegazione": "Un acido debole in ambiente acido è prevalentemente non ionizzato (HA): più liposolubile, attraversa la membrana lipidica e passa nel plasma (pH 7,4). Il grado di ionizzazione dipende comunque dalla pKa della molecola.",
+      "distrattori": {
+        "A": "Un acido debole in ambiente acido non è ionizzato; la forma ionizzata è idrosolubile e viene respinta dalla membrana.",
+        "C": "Il passaggio dipende dallo stato di ionizzazione, che dipende sempre dalla pKa della molecola.",
+        "D": "La forma ionizzata non passa la membrana; la P-glicoproteina è un trasportatore che estromette i farmaci, non che li porta nel plasma.",
+        "E": "Il testo indica lo stato di ionizzazione come cruciale per l'assorbimento, insieme a liposolubilità e peso molecolare."
+      },
+      "riferimento": "pp. 6-7 – Assorbimento, stato di ionizzazione"
+    },
+    {
+      "id": "01-009",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Meccanismi di trasporto",
+      "domanda": "Quale affermazione distingue correttamente la diffusione facilitata dal trasporto attivo?",
+      "opzioni": {
+        "A": "La diffusione facilitata non richiede proteine; il trasporto attivo usa un carrier transmembrana",
+        "B": "La diffusione facilitata usa l'idrolisi dell'ATP; il trasporto attivo sfrutta solo l'endocitosi",
+        "C": "Entrambe richiedono ATP, ma solo la diffusione facilitata è saturabile",
+        "D": "La diffusione facilitata usa un carrier senza consumo di energia; il trasporto attivo usa l'ATP o un gradiente ionico per spostare il farmaco contro gradiente",
+        "E": "La diffusione facilitata è riservata ai farmaci molto lipofili; il trasporto attivo a quelli ionizzati"
+      },
+      "corretta": "D",
+      "spiegazione": "Nella diffusione facilitata una proteina transmembrana lega la molecola e ne facilita il passaggio. Il trasporto attivo usa l'energia di un gradiente ionico preesistente (es. pompa Na+/K+) o dell'idrolisi dell'ATP per pompare il farmaco in direzione contraria al gradiente.",
+      "distrattori": {
+        "A": "Anche la diffusione facilitata richiede una proteina transmembrana (carrier).",
+        "B": "L'ATP è usato dal trasporto attivo; l'endocitosi è un meccanismo distinto di invaginazione della membrana.",
+        "C": "Il testo non attribuisce consumo di ATP alla diffusione facilitata né parla di saturabilità.",
+        "E": "I farmaci lipofili passano per diffusione semplice, senza bisogno di carrier."
+      },
+      "riferimento": "p. 8 – Meccanismi di trasporto"
+    },
+    {
+      "id": "01-010",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Trasportatori (carriers)",
+      "domanda": "Quale affermazione sulle due principali famiglie di trasportatori di membrana è corretta?",
+      "opzioni": {
+        "A": "Gli SLC usano l'ATP; gli ABC fanno trasporto facilitato o secondo gradiente",
+        "B": "Gli SLC fanno trasporto facilitato o secondo gradiente; gli ABC (ATP-binding cassette) fanno trasporto attivo usando l'ATP",
+        "C": "Ogni carrier trasporta un solo farmaco specifico, per cui le famiglie comprendono pochi geni",
+        "D": "Sono espressi solo nell'intestino, dove servono all'assorbimento dei nutrienti",
+        "E": "Nella barriera ematoencefalica sono meno selettivi che negli altri epiteli"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli SLC (solute carriers) svolgono trasporto facilitato o secondo gradiente; gli ABC (ATP-binding cassette) usano il trasporto attivo con ATP. Sono famiglie geniche molto numerose e trasportano i farmaci in modo non selettivo.",
+      "distrattori": {
+        "A": "È l'inversione dei ruoli delle due famiglie.",
+        "C": "I carrier trasportano i farmaci in modo non selettivo e le famiglie contano fino a migliaia di geni.",
+        "D": "Sono localizzati soprattutto negli epiteli intestinali, renali ed epatici, ma sono presenti in tutte le cellule.",
+        "E": "La barriera ematoencefalica è più selettiva degli altri epiteli."
+      },
+      "riferimento": "pp. 8-9 – Trasportatori/carriers"
+    },
+    {
+      "id": "01-011",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Trasportatori (carriers)",
+      "domanda": "Perché la terapia antitumorale può portare a resistenza attraverso la P-glicoproteina?",
+      "opzioni": {
+        "A": "I farmaci antitumorali inibiscono la P-glicoproteina e il farmaco si accumula nei tessuti sani",
+        "B": "La P-glicoproteina è un carrier SLC che importa il farmaco nella cellula tumorale e ne accelera la degradazione",
+        "C": "I farmaci antitumorali inducono l'espressione della P-glicoproteina nelle cellule tumorali, che estromettono il farmaco con maggiore efficienza",
+        "D": "La P-glicoproteina lega il farmaco nel plasma e ne impedisce la distribuzione",
+        "E": "La P-glicoproteina è il trasportatore implicato nella resistenza agli antivirali, non agli antitumorali"
+      },
+      "corretta": "C",
+      "spiegazione": "La P-glicoproteina (famiglia ABC, epiteli intestinali) viene sovraespressa nelle cellule tumorali per induzione da parte degli antitumorali: il farmaco viene estromesso con più efficienza e la cellula non viene più uccisa (resistenza).",
+      "distrattori": {
+        "A": "Gli antitumorali ne inducono l'espressione, non la inibiscono.",
+        "B": "La P-glicoproteina appartiene alla famiglia ABC e svolge estromissione, non importazione.",
+        "D": "È un trasportatore di membrana, non una proteina plasmatica di legame.",
+        "E": "Per la resistenza agli antivirali il testo cita la MRP4 (anch'essa ABC, in fegato e reni); la P-glicoproteina è associata agli antitumorali."
+      },
+      "riferimento": "pp. 9-10 – P-glicoproteina e MRP4"
+    },
+    {
+      "id": "01-012",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Resistenza e tolleranza",
+      "domanda": "Un paziente in terapia cronica deve assumere dosi sempre più alte dello stesso farmaco per ottenere l'effetto che prima si raggiungeva con una dose minore. Quale termine descrive correttamente il fenomeno?",
+      "opzioni": {
+        "A": "Resistenza",
+        "B": "Tolleranza",
+        "C": "Effetto nocebo",
+        "D": "Ridotta biodisponibilità per primo passaggio",
+        "E": "Effetto placebo"
+      },
+      "corretta": "B",
+      "spiegazione": "La tolleranza è la progressiva riduzione dell'effetto rispetto alla dose somministrata, che obbliga ad aumentare la dose. Il testo insiste a non confonderla con la resistenza.",
+      "distrattori": {
+        "A": "La resistenza è la capacità di un microrganismo o di una cellula (es. tumorale) di sopravvivere all'azione letale di una molecola citotossica.",
+        "C": "Il nocebo è la comparsa di sintomi temuti in soggetti suggestionabili, non la perdita di effetto.",
+        "D": "Il primo passaggio riduce la quota di farmaco attivo già dalla prima dose; non spiega una perdita progressiva di effetto.",
+        "E": "Il placebo è la sostanza inattiva di confronto negli studi clinici."
+      },
+      "riferimento": "pp. 9-10 – Resistenza e tolleranza"
+    },
+    {
+      "id": "01-013",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Biodisponibilità",
+      "domanda": "Alla stessa dose, l'area sotto la curva (AUC) di un farmaco è 120 unità dopo somministrazione endovenosa e 30 unità dopo somministrazione orale. Qual è la biodisponibilità orale?",
+      "opzioni": {
+        "A": "4 (cioè 400%)",
+        "B": "0,25 (cioè 25%)",
+        "C": "0,75 (cioè 75%)",
+        "D": "1 (cioè 100%), perché il farmaco è lo stesso",
+        "E": "Non si può calcolare senza conoscere l'emivita"
+      },
+      "corretta": "B",
+      "spiegazione": "Biodisponibilità = AUC orale / AUC endovenosa = 30/120 = 0,25 (25%). Il valore è tra 0 e 1, perché la via endovenosa, considerata 100%, non subisce primo passaggio.",
+      "distrattori": {
+        "A": "È il rapporto rovesciato (AUC ev / AUC orale): la biodisponibilità non può superare 1.",
+        "C": "75% è la quota persa, non quella che raggiunge immodificata la circolazione sistemica.",
+        "D": "Il 100% spetta solo alla via endovenosa; per via orale la biodisponibilità è inferiore al 100%.",
+        "E": "Il calcolo si basa sul rapporto delle AUC, non sull'emivita."
+      },
+      "riferimento": "p. 12 – Biodisponibilità"
+    },
+    {
+      "id": "01-014",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Primo passaggio",
+      "domanda": "Che cosa avviene nel metabolismo di primo passaggio di un farmaco assunto per via orale?",
+      "opzioni": {
+        "A": "Il farmaco assorbito dallo stomaco e dall'intestino arriva al fegato tramite il sistema portale e viene in parte metabolizzato prima di raggiungere la circolazione sistemica",
+        "B": "Il farmaco viene metabolizzato nei polmoni durante il primo passaggio nel circolo polmonare",
+        "C": "Il farmaco viene eliminato dal rene al primo passaggio, prima di distribuirsi nei tessuti",
+        "D": "Il farmaco viene completamente inattivato, per cui i metaboliti prodotti non sono mai attivi",
+        "E": "Il farmaco passa direttamente nella vena cava attraverso le vene sublinguali, evitando il fegato"
+      },
+      "corretta": "A",
+      "spiegazione": "Dopo l'assunzione orale il farmaco (che può anche essere aggredito da acido gastrico, bile ed enzimi) è assorbito dall'intestino e attraverso il sistema portale raggiunge il fegato, che ne metabolizza una parte. Si producono metaboliti attivi o inattivi (a volte tossici) e la biodisponibilità si riduce.",
+      "distrattori": {
+        "B": "Il primo passaggio descritto nel testo è epatico, tramite il sistema portale.",
+        "C": "Non riguarda l'eliminazione renale.",
+        "D": "Non tutto il farmaco viene inattivato e i metaboliti possono anche essere farmacologicamente attivi.",
+        "E": "Descrive la via sublinguale, che proprio per questo evita il primo passaggio."
+      },
+      "riferimento": "p. 11 – Metabolismo di primo passaggio"
+    },
+    {
+      "id": "01-015",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Vie enterali",
+      "domanda": "A un paziente si somministra nitroglicerina per via sublinguale invece che per via orale. Quale considerazione è corretta?",
+      "opzioni": {
+        "A": "L'assorbimento è lento come per via orale, ma la biodisponibilità è inferiore",
+        "B": "Il farmaco subisce un effetto di primo passaggio superiore al 50%, come per via rettale",
+        "C": "Il farmaco deve attraversare il canale digestivo prima di raggiungere il circolo",
+        "D": "Assorbimento rapido senza primo passaggio, ma con maggiore rischio di effetti collaterali: dose e tempi vanno calibrati",
+        "E": "È la via più sicura perché, essendo lenta, non richiede di monitorare il paziente"
+      },
+      "corretta": "D",
+      "spiegazione": "La via sublinguale ha un assorbimento rapido (la nitroglicerina è l'esempio annotato nel testo) e, non passando per il canale digestivo, evita il primo passaggio. Proprio per la rapidità aumenta il rischio di effetti collaterali.",
+      "distrattori": {
+        "A": "L'assorbimento sublinguale è rapido e, senza primo passaggio, la quota di farmaco attivo non è ridotta dal fegato.",
+        "B": "Il primo passaggio parziale è una caratteristica della via rettale; la sublinguale non lo subisce.",
+        "C": "La molecola passa direttamente nel torrente circolatorio, senza attraversare il canale digestivo.",
+        "E": "La via considerata sicura perché lenta è quella orale; le vie rapide richiedono maggiore attenzione."
+      },
+      "riferimento": "pp. 11-12 – Via sublinguale"
+    },
+    {
+      "id": "01-016",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Vie enterali",
+      "domanda": "Un paziente non collaborante, che vomita e non riesce a deglutire, deve ricevere un farmaco senza ricorrere a un'iniezione. Quale via è preferenziale secondo il testo?",
+      "opzioni": {
+        "A": "Orale con preparazione retard",
+        "B": "Rettale",
+        "C": "Intramuscolare",
+        "D": "Endovenosa",
+        "E": "Transdermica con cerotto"
+      },
+      "corretta": "B",
+      "spiegazione": "La via rettale è utilizzabile anche in un paziente non collaborante che vomita o non può deglutire. Ha assorbimento variabile, effetto più rapido della via orale e un primo passaggio parziale.",
+      "distrattori": {
+        "A": "La via orale richiede un paziente collaborante in grado di deglutire.",
+        "C": "È una via iniettiva, che il caso vuole evitare.",
+        "D": "È una via iniettiva, che il caso vuole evitare.",
+        "E": "La via transdermica è molto lenta e il testo non la indica per questa situazione."
+      },
+      "riferimento": "p. 12 – Via rettale"
+    },
+    {
+      "id": "01-017",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Vie parenterali",
+      "domanda": "Quale svantaggio è tipico della via endovenosa?",
+      "opzioni": {
+        "A": "Subisce un marcato metabolismo di primo passaggio epatico",
+        "B": "Ha un assorbimento lento e incompleto",
+        "C": "Non si possono somministrare preparazioni in veicolo oleoso e i grandi volumi richiedono un'infusione lenta",
+        "D": "Non si può usare in emergenza per la lentezza dell'effetto",
+        "E": "Consente di somministrare solo volumi molto piccoli, come il sottocute"
+      },
+      "corretta": "C",
+      "spiegazione": "Gli svantaggi della via endovenosa sono: infusione lenta per i grandi volumi, impossibilità di usare veicoli oleosi (servono preparazioni specifiche per l'iniezione endovenosa) e maggiore rischio di reazioni avverse per la rapidità dell'effetto.",
+      "distrattori": {
+        "A": "La via endovenosa salta assorbimento e primo passaggio (biodisponibilità 100%).",
+        "B": "Il farmaco va direttamente in circolo: non c'è una fase di assorbimento.",
+        "D": "È utilizzabile in emergenza: molti farmaci salvavita si danno per questa via.",
+        "E": "Il limite dei volumi molto piccoli riguarda la via sottocutanea; quella endovenosa consente grandi volumi con infusione lenta."
+      },
+      "riferimento": "p. 13 – Via endovenosa"
+    },
+    {
+      "id": "01-018",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Vie parenterali",
+      "domanda": "Quale confronto tra vie di somministrazione è corretto?",
+      "opzioni": {
+        "A": "Intramuscolare: effetti dopo circa 10-30 minuti in soluzione acquosa, ma solo volumi ridotti; sottocutanea: soluzioni oleose più lente delle acquose e volumi molto piccoli",
+        "B": "Intramuscolare: grandi volumi in veicolo oleoso; sottocutanea: assorbimento più lento delle soluzioni acquose rispetto alle oleose",
+        "C": "Intramuscolare ed endovenosa hanno entrambe biodisponibilità del 100% e saltano l'assorbimento",
+        "D": "Transdermica: assorbimento rapido e durata breve, ma con primo passaggio epatico",
+        "E": "Sottocutanea: effetti più lenti della via orale, perché il sottocute è privo di vasi"
+      },
+      "corretta": "A",
+      "spiegazione": "L'intramuscolare ha un assorbimento abbastanza rapido delle soluzioni acquose (effetti in circa 10-30 minuti, contro circa 60 della via orale) ma permette volumi ridotti. Nella sottocutanea le soluzioni acquose si assorbono rapidamente e le oleose più lentamente; essendo il sottocute un'intercapedine tra derma e muscolo, si iniettano volumi molto piccoli.",
+      "distrattori": {
+        "B": "L'intramuscolare consente volumi ridotti, e nel sottocute sono le soluzioni oleose ad assorbirsi più lentamente.",
+        "C": "Solo l'endovenosa salta l'assorbimento ed è considerata al 100%.",
+        "D": "La via transdermica è molto lenta, ha durata prolungata e salta il primo passaggio.",
+        "E": "Il testo descrive l'assorbimento sottocutaneo delle soluzioni acquose come rapido e non lo confronta come più lento della via orale."
+      },
+      "riferimento": "pp. 13-14 – Vie intramuscolare, sottocutanea e transcutanea"
+    },
+    {
+      "id": "01-019",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Altre vie",
+      "domanda": "Perché la via inalatoria garantisce un assorbimento molto rapido?",
+      "opzioni": {
+        "A": "Perché i farmaci inalati non hanno limiti di dimensione molecolare",
+        "B": "Per la superficie assorbente di circa 200 m² e l'epitelio alveolare a stretto contatto con l'endotelio capillare",
+        "C": "Perché il farmaco subisce un primo passaggio polmonare che lo attiva",
+        "D": "Perché i farmaci inalati vengono preparati in veicolo oleoso",
+        "E": "Perché può avere solo finalità topica e non raggiunge il circolo sistemico"
+      },
+      "corretta": "B",
+      "spiegazione": "I farmaci si somministrano come gas/aerosol. La superficie assorbente polmonare è di circa 200 m², con epitelio alveolare ed endotelio capillare a stretto contatto e una ricca vascolarizzazione: l'assorbimento è molto rapido, con uso sia topico sia sistemico.",
+      "distrattori": {
+        "A": "La molecola deve avere dimensioni giuste, non troppo grandi, per raggiungere gli alveoli.",
+        "C": "Il testo non descrive un primo passaggio polmonare.",
+        "D": "I farmaci inalatori si somministrano come gas o aerosol.",
+        "E": "La finalità è soprattutto topica, ma la via può essere sfruttata anche per un effetto sistemico."
+      },
+      "riferimento": "p. 14 – Via inalatoria"
+    },
+    {
+      "id": "01-020",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Vie di somministrazione e picco plasmatico",
+      "domanda": "Come cambia il profilo plasmatico dello stesso principio attivo passando dalla via endovenosa a una via con assorbimento lento, come quella orale?",
+      "opzioni": {
+        "A": "Il picco è più alto e più breve",
+        "B": "Il picco è identico: cambia solo la biodisponibilità",
+        "C": "Il picco è immediato, ma la concentrazione scende più lentamente",
+        "D": "Il picco è più basso ma più duraturo",
+        "E": "Non si osserva alcun picco: la concentrazione resta costante"
+      },
+      "corretta": "D",
+      "spiegazione": "Più l'assorbimento è lento, più il picco plasmatico è basso; più è veloce, più è alto. Con la via endovenosa il picco è immediato; con la via orale l'assorbimento è più lento e il picco è più basso ma più duraturo.",
+      "distrattori": {
+        "A": "Un picco alto e rapido è tipico dell'assorbimento veloce (es. endovenosa).",
+        "B": "La velocità di assorbimento modifica anche l'altezza del picco.",
+        "C": "Il picco immediato caratterizza la via endovenosa; per via orale si raggiunge la Cmax dopo un certo tempo (Tmax).",
+        "E": "Anche per via orale la curva ha una Cmax, raggiunta al Tmax."
+      },
+      "riferimento": "pp. 5, 14 – Velocità di assorbimento e picco plasmatico"
+    },
+    {
+      "id": "01-021",
+      "difficolta": "base",
+      "tipo": "farmacocinetica",
+      "argomento": "Emivita",
+      "domanda": "Dopo 3 emivite, quale frazione della concentrazione iniziale di un farmaco rimane?",
+      "opzioni": {
+        "A": "25%",
+        "B": "12,5%",
+        "C": "6,25%",
+        "D": "33%",
+        "E": "50%"
+      },
+      "corretta": "B",
+      "spiegazione": "A ogni emivita la concentrazione si dimezza rispetto alla precedente: 100% → 50% → 25% → 12,5%. Dopo 10 emivite rimane circa lo 0,1% (0,0975%), quantità trascurabile.",
+      "distrattori": {
+        "A": "È la frazione rimasta dopo 2 emivite.",
+        "C": "È la frazione rimasta dopo 4 emivite.",
+        "D": "Sarebbe una riduzione di un terzo della dose iniziale a ogni emivita, ma il dimezzamento si calcola sul valore precedente.",
+        "E": "È la frazione rimasta dopo 1 emivita."
+      },
+      "riferimento": "p. 15 – Emivita (t1/2)"
+    },
+    {
+      "id": "01-022",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Emivita",
+      "domanda": "Un farmaco ha un'emivita molto breve. Quale conseguenza clinica è corretta?",
+      "opzioni": {
+        "A": "Si può somministrare una sola volta, perché il farmaco agisce prima di dimezzarsi",
+        "B": "L'emivita varia a ogni somministrazione, quindi l'intervallo si decide solo sui sintomi",
+        "C": "Le dosi vanno ravvicinate per non scendere sotto la MEC, e questo può ridurre l'aderenza alla terapia (compliance)",
+        "D": "La durata dell'effetto si allunga, perché il farmaco viene ridato più spesso",
+        "E": "Il rischio di accumulo e di metaboliti tossici diventa nullo"
+      },
+      "corretta": "C",
+      "spiegazione": "Con un'emivita breve la concentrazione si dimezza in poco tempo: per restare sopra la MEC bisogna ridare il farmaco a intervalli brevi. L'emivita determina anche la durata dell'effetto e i tempi di sospensione, e può influenzare l'aderenza se l'intervallo tra le dosi è difficile da sostenere.",
+      "distrattori": {
+        "A": "Una volta che la concentrazione scende sotto la MEC il farmaco non è più efficace: servono dosi ripetute.",
+        "B": "L'emivita è una costante per ogni farmaco.",
+        "D": "Un'emivita breve significa una durata dell'effetto della singola dose più breve.",
+        "E": "Il testo raccomanda di considerare sempre, nei cicli di emivita, il possibile accumulo e la formazione di metaboliti tossici."
+      },
+      "riferimento": "pp. 14-15 – Emivita: compliance, durata dell'effetto, sospensione"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Resistenza ≠ tolleranza: la resistenza riguarda microrganismi o cellule (es. tumorali) che non vengono più uccisi da una molecola citotossica; la tolleranza è la riduzione dell'effetto che obbliga ad aumentare la dose.",
+    "Biodisponibilità = AUC orale / AUC endovenosa (tra 0 e 1): la via endovenosa è il riferimento al 100%, l'orale è sempre < 100% per il primo passaggio epatico (sistema portale).",
+    "Un acido debole nello stomaco acido è NON ionizzato (HA), quindi liposolubile e assorbibile; la forma ionizzata è idrosolubile e viene respinta dalla membrana (dipende sempre dalla pKa).",
+    "SLC = trasporto facilitato/secondo gradiente; ABC (ATP-binding cassette) = trasporto attivo con ATP. P-glicoproteina → resistenza agli antitumorali; MRP4 → resistenza agli antivirali.",
+    "Primo passaggio: assente per sublinguale, endovenosa e transdermica; parziale per la rettale; presente per l'orale. Sotto la MEC il farmaco è inefficace, sopra la MTC è tossico; ogni emivita dimezza il valore precedente (3 t½ = 12,5%)."
+  ]
+}

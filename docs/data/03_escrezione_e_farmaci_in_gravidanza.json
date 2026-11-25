@@ -1,0 +1,497 @@
+{
+  "capitolo": 3,
+  "titolo": "Escrezione e farmaci in gravidanza",
+  "pagine": "34-42",
+  "domande": [
+    {
+      "id": "03-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Vie di escrezione",
+      "domanda": "Qual è la via di escrezione quantitativamente più importante per i farmaci e quale la segue per rilevanza?",
+      "opzioni": {
+        "A": "Renale, seguita da quella biliare",
+        "B": "Biliare, seguita da quella renale",
+        "C": "Polmonare, seguita da quella renale",
+        "D": "Salivare, seguita da quella biliare",
+        "E": "Attraverso il sudore, seguita da quella renale"
+      },
+      "corretta": "A",
+      "spiegazione": "L'escrezione di un farmaco è soprattutto renale; dopo quella renale, l'escrezione biliare è la via più importante, con successiva eliminazione fecale.",
+      "distrattori": {
+        "B": "L'ordine è invertito: la biliare viene dopo la renale.",
+        "C": "L'escrezione polmonare è una via secondaria, rilevante solo per sostanze volatili.",
+        "D": "La saliva è citata tra le vie secondarie, non tra le principali.",
+        "E": "Il sudore è elencato tra le vie minori insieme a lacrime, capelli e latte materno."
+      },
+      "riferimento": "p. 34 – Conclusione FARMACOCINETICA: Escrezione del farmaco"
+    },
+    {
+      "id": "03-002",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Filtrazione glomerulare",
+      "domanda": "Quali caratteristiche deve avere una molecola per attraversare il filtro glomerulare?",
+      "opzioni": {
+        "A": "Peso molecolare compreso tra 20 e 60 kD, forma non ionizzata e non legata alle proteine plasmatiche",
+        "B": "Peso molecolare superiore a 300 kDa ed elevata polarità",
+        "C": "Essere ionizzata, così da non essere riassorbita a valle",
+        "D": "Essere saldamente legata all'albumina, che la trasporta attraverso i capillari glomerulari",
+        "E": "Essere trasportata attivamente da carrier per gli acidi organici"
+      },
+      "corretta": "A",
+      "spiegazione": "Nel glomerulo passano solo piccole molecole (20-60 kD) non ionizzate e non legate alle proteine, per via dell'anatomia dei capillari, che hanno un diametro di soli 4 nanometri.",
+      "distrattori": {
+        "B": "Le grandi molecole polari oltre 300 kDa non sono eliminabili per via renale e seguono la via biliare.",
+        "C": "Durante la filtrazione glomerulare le molecole ionizzate non passano.",
+        "D": "Le proteine vengono trattenute: solo il farmaco libero può essere filtrato.",
+        "E": "Il trasporto mediato da carrier riguarda la secrezione nel tubulo prossimale, non la filtrazione glomerulare."
+      },
+      "riferimento": "pp. 34-35 – Fisiologia del nefrone"
+    },
+    {
+      "id": "03-003",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Riassorbimento tubulare",
+      "domanda": "Due farmaci vengono filtrati nello stesso modo dal glomerulo, ma uno è marcatamente liposolubile e non ionizzato mentre l'altro è idrofilo. Cosa ci si attende?",
+      "opzioni": {
+        "A": "Il farmaco liposolubile viene riassorbito passivamente e tende a essere escreto meno",
+        "B": "Il farmaco liposolubile passa nelle urine più facilmente, perché attraversa meglio le membrane tubulari verso il lume",
+        "C": "Il farmaco idrofilo viene riassorbito passivamente lungo tutto il nefrone",
+        "D": "I due farmaci vengono escreti nella stessa misura, perché il riassorbimento riguarda solo le molecole endogene",
+        "E": "Il farmaco idrofilo viene eliminato esclusivamente per via biliare"
+      },
+      "corretta": "A",
+      "spiegazione": "Il concetto generale è che i farmaci liposolubili e non ionizzati vengono riassorbiti passivamente attraverso il nefrone, perché le membrane sono costituite da lipidi, e hanno quindi minore tendenza a essere escreti; le molecole idrofile passano nelle urine più facilmente.",
+      "distrattori": {
+        "B": "È il contrario: la liposolubilità favorisce il rientro del farmaco attraverso le membrane, non la sua permanenza nelle urine.",
+        "C": "Il riassorbimento passivo riguarda le molecole lipofile; quelle idrofile possono essere riassorbite solo in modo attivo.",
+        "D": "Il riassorbimento riguarda primariamente le molecole endogene, ma è importante anche per l'escrezione dei farmaci.",
+        "E": "La via biliare è riservata alle grandi molecole polari non eliminabili per via renale."
+      },
+      "riferimento": "pp. 35-37 – Fisiologia del nefrone; Riassorbimento tubulare"
+    },
+    {
+      "id": "03-004",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Clearance",
+      "domanda": "Nella formula della clearance C = (U × V) / P, che cosa rappresenta il termine V?",
+      "opzioni": {
+        "A": "La velocità del flusso urinario, in ml/min",
+        "B": "Il volume apparente di distribuzione del farmaco, in litri",
+        "C": "Il volume di sangue che perfonde il rene in un minuto",
+        "D": "Il volume totale delle urine prodotte nelle 24 ore",
+        "E": "La velocità di filtrazione glomerulare, in ml/min"
+      },
+      "corretta": "A",
+      "spiegazione": "Nella formula C = (U × V) / P, U è la concentrazione nelle urine (mg/ml), V è la velocità del flusso urinario (ml/min) e P è la concentrazione plasmatica (mg/ml). La clearance è definita come il volume di sangue filtrato nell'unità di tempo e si esprime in mL/min o L/h.",
+      "distrattori": {
+        "B": "Il volume di distribuzione è un parametro distinto, legato alla distribuzione e non all'escrezione urinaria.",
+        "C": "Il flusso ematico renale non compare nella formula.",
+        "D": "V è una velocità (ml/min), non un volume accumulato nelle 24 ore.",
+        "E": "La VFG è un parametro correlato alla clearance, ma non è uno dei tre termini della formula."
+      },
+      "riferimento": "p. 36 – Clearance del farmaco"
+    },
+    {
+      "id": "03-005",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Clearance",
+      "domanda": "Perché, parlando di clearance, è necessario specificare sempre a quale clearance ci si riferisce?",
+      "opzioni": {
+        "A": "Perché la clearance totale è la somma della clearance renale, di quella epatica e delle altre clearance d'organo",
+        "B": "Perché la clearance renale e quella epatica si escludono a vicenda a seconda del farmaco",
+        "C": "Perché la clearance si misura in unità diverse a seconda dell'organo considerato",
+        "D": "Perché solo la clearance epatica dipende dalla quota di farmaco libero",
+        "E": "Perché la clearance totale coincide sempre con la velocità di filtrazione glomerulare"
+      },
+      "corretta": "A",
+      "spiegazione": "Nella realtà la clearance totale è data dalla clearance renale sommata alla clearance epatica e alle altre clearance d'organo (sudore, lacrime...): ricordarlo serve a non attribuire l'eliminazione al solo rene.",
+      "distrattori": {
+        "B": "Le diverse clearance non si escludono: si sommano nella clearance totale.",
+        "C": "La clearance si esprime comunque in mL/min o L/h, indipendentemente dall'organo.",
+        "D": "È la filtrazione glomerulare, cioè la clearance renale, a essere legata alla quota di farmaco libero.",
+        "E": "La coincidenza con la VFG è un caso particolare e piuttosto raro della sola clearance renale."
+      },
+      "riferimento": "p. 36 – Clearance del farmaco"
+    },
+    {
+      "id": "03-006",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Clearance",
+      "domanda": "In un paziente con una nefropatia che causa perdita massiva di proteine, come può risultare alterata la clearance di un farmaco ad alto legame proteico?",
+      "opzioni": {
+        "A": "Può aumentare, perché la minore quota legata lascia più farmaco libero disponibile alla filtrazione glomerulare",
+        "B": "Resta invariata, perché anche il farmaco legato alle proteine viene filtrato dal glomerulo",
+        "C": "Si annulla, perché senza proteine plasmatiche il farmaco non raggiunge il rene",
+        "D": "Diminuisce, perché la perdita di proteine impedisce la secrezione tubulare di qualunque farmaco",
+        "E": "Resta invariata, perché la clearance dipende unicamente dal flusso ematico renale"
+      },
+      "corretta": "A",
+      "spiegazione": "Poiché le proteine vengono trattenute dal glomerulo, solo il farmaco libero può essere filtrato; il legame proteico rallenta o impedisce il processo. In condizioni patologiche renali con perdita massiva di proteine la clearance del farmaco può quindi risultare alterata, aumentando la quota filtrabile.",
+      "distrattori": {
+        "B": "Il farmaco legato alle proteine non viene filtrato, perché le proteine sono trattenute.",
+        "C": "La perdita di proteine non impedisce l'arrivo del farmaco al rene: ne aumenta la quota libera.",
+        "D": "La secrezione tubulare è proprio il processo che consente di eliminare anche la quota legata alle proteine.",
+        "E": "Il flusso condiziona la velocità della filtrazione, ma la quota legata alle proteine è un determinante autonomo."
+      },
+      "riferimento": "p. 36 – Clearance del farmaco"
+    },
+    {
+      "id": "03-007",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Clearance e VFG",
+      "domanda": "Di una sostanza si osserva che la clearance renale è inferiore alla velocità di filtrazione glomerulare. Cosa se ne deduce?",
+      "opzioni": {
+        "A": "Viene in parte riassorbita a livello tubulare",
+        "B": "Viene in parte secreta a livello tubulare",
+        "C": "Viene filtrata totalmente, senza essere né secreta né riassorbita",
+        "D": "Viene completamente riassorbita",
+        "E": "È interamente legata alle proteine plasmatiche e viene eliminata solo per via biliare"
+      },
+      "corretta": "A",
+      "spiegazione": "Secondo lo schema riassuntivo: clearance = 0 significa sostanza completamente riassorbita; clearance = VFG, filtrata senza secrezione né riassorbimento; clearance > VFG, in parte secreta; clearance < VFG, in parte riassorbita.",
+      "distrattori": {
+        "B": "La secrezione tubulare aggiunge eliminazione e porta la clearance al di sopra della VFG.",
+        "C": "In quel caso clearance e VFG coincidono.",
+        "D": "Il riassorbimento completo corrisponde a una clearance pari a zero, non semplicemente inferiore alla VFG.",
+        "E": "Il confronto tra clearance e VFG descrive il comportamento tubulare della sostanza, non la via biliare."
+      },
+      "riferimento": "p. 38 – Ricapitolando clearance e VFG"
+    },
+    {
+      "id": "03-008",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Clearance e VFG",
+      "domanda": "La creatina ha una clearance renale di circa 127 ml/min, mentre la benzilpenicillina ha una clearance di circa 480 ml/min. Quale affermazione spiega correttamente la differenza?",
+      "opzioni": {
+        "A": "La benzilpenicillina viene anche secreta attivamente dal tubulo, mentre la creatina è solo filtrata",
+        "B": "La creatina viene attivamente riassorbita nel tubulo distale, mentre la benzilpenicillina no",
+        "C": "La benzilpenicillina è filtrata più facilmente perché ha peso molecolare minore",
+        "D": "La creatina circola legata alle proteine plasmatiche, che ne limitano la filtrazione",
+        "E": "La benzilpenicillina viene eliminata prevalentemente per via biliare, che si somma a quella renale"
+      },
+      "corretta": "A",
+      "spiegazione": "La creatina è l'esempio del caso clearance = VFG (sostanza filtrata liberamente, non legata alle proteine, né secreta né riassorbita, che non altera la funzionalità renale). La clearance maggiore della VFG, come quella della benzilpenicillina, indica che il farmaco viene anche secreto attivamente a livello tubulare.",
+      "distrattori": {
+        "B": "La creatina è l'esempio di sostanza che non viene né secreta né riassorbita.",
+        "C": "La clearance di un farmaco eliminato per sola filtrazione non può eccedere la VFG, qualunque sia la sua taglia.",
+        "D": "Nel caso descritto la sostanza non è legata alle proteine plasmatiche.",
+        "E": "La via biliare riguarda grandi molecole polari non eliminabili dal rene; qui si parla di clearance renale."
+      },
+      "riferimento": "pp. 36-37 – Correlazione tra clearance e velocità di filtrazione glomerulare"
+    },
+    {
+      "id": "03-009",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Secrezione tubulare",
+      "domanda": "Quale caratteristica dei trasportatori della secrezione tubulare prossimale è corretta?",
+      "opzioni": {
+        "A": "Sono saturabili, perché ogni trasportatore ha un numero limitato di siti per il ligando",
+        "B": "Sono altamente specifici per ciascun farmaco, che dispone del proprio carrier dedicato",
+        "C": "Operano secondo gradiente, e per questo non richiedono energia",
+        "D": "La loro attività aumenta quando la cellula va incontro a deplezione energetica",
+        "E": "Trasportano solo molecole lipofile di piccole dimensioni"
+      },
+      "corretta": "A",
+      "spiegazione": "I trasportatori della secrezione tubulare non sono specifici per un singolo farmaco, sono saturabili (quando il 100% dei siti è occupato il trasportatore è saturo), possono andare in competizione tra sostanze diverse e sono rallentati dalla deplezione di energia della cellula.",
+      "distrattori": {
+        "B": "Non sono specifici per nessun farmaco in particolare: le penicilline, ad esempio, sfruttano il sistema di trasporto degli acidi organici.",
+        "C": "Il transito avviene generalmente contro gradiente e richiede una grande quantità di energia.",
+        "D": "La deplezione di energia rallenta i trasportatori, non li potenzia.",
+        "E": "Il processo riguarda il transito di molecole idrofile e/o di grandi dimensioni."
+      },
+      "riferimento": "p. 37 – Secrezione tubulare"
+    },
+    {
+      "id": "03-010",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Secrezione tubulare",
+      "domanda": "Un paziente in terapia con penicillina G riceve contemporaneamente un altro farmaco che è anch'esso un anione organico secreto nel tubulo prossimale. Quale fenomeno è atteso?",
+      "opzioni": {
+        "A": "Competizione per lo stesso sistema di trasporto, con possibile rallentamento della secrezione di uno dei due",
+        "B": "Aumento del numero di trasportatori disponibili, con secrezione accelerata di entrambi",
+        "C": "Nessuna interazione, perché ogni farmaco utilizza un trasportatore specifico",
+        "D": "Blocco della filtrazione glomerulare di entrambi i farmaci",
+        "E": "Spostamento dell'eliminazione di entrambi i farmaci verso la via polmonare"
+      },
+      "corretta": "A",
+      "spiegazione": "I trasportatori tubulari non sono specifici e sono saturabili; possono quindi andare in competizione tra sostanze diverse, scenario che si verifica proprio nei regimi con più farmaci somministrati contemporaneamente. Le penicilline sfruttano il sistema di trasporto degli acidi organici, come altri anioni organici (furosemide, salicilato, indometacina, idroclorotiazide).",
+      "distrattori": {
+        "B": "Il numero di siti di legame è limitato: la coesistenza di più substrati satura il sistema, non lo amplia.",
+        "C": "I trasportatori non sono specifici per nessun farmaco in particolare, quindi l'interazione è possibile.",
+        "D": "La competizione riguarda il trasporto attivo tubulare, non la filtrazione glomerulare, che è un processo passivo di filtro.",
+        "E": "L'escrezione polmonare riguarda le sostanze volatili, come l'isoflurano e l'etanolo."
+      },
+      "riferimento": "p. 37 – Secrezione tubulare; Tabella 4-1 Composti secreti mediante i sistemi di trasporto tubulari renali"
+    },
+    {
+      "id": "03-011",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Secrezione tubulare",
+      "domanda": "Perché la secrezione tubulare è considerata una fase cruciale dell'eliminazione renale dei farmaci?",
+      "opzioni": {
+        "A": "Perché consente di eliminare anche la quota di farmaco legata alle proteine plasmatiche",
+        "B": "Perché permette il recupero delle molecole endogene necessarie all'organismo",
+        "C": "Perché è l'unico processo che non consuma energia e quindi non si esaurisce",
+        "D": "Perché avviene nel tubulo distale, l'ultima porzione del nefrone prima dell'escrezione",
+        "E": "Perché consente il passaggio delle molecole lipofile non ionizzate, altrimenti non filtrabili"
+      },
+      "corretta": "A",
+      "spiegazione": "La filtrazione glomerulare riguarda solo il farmaco libero; la secrezione tubulare è cruciale perché consente l'eliminazione della quota di farmaco che non è libera, ossia quella legata alle proteine plasmatiche.",
+      "distrattori": {
+        "B": "Il recupero delle molecole endogene (amminoacidi, sodio, glucosio) è compito del riassorbimento, non della secrezione.",
+        "C": "La secrezione attiva richiede una grande quantità di energia ed è saturabile.",
+        "D": "La secrezione attiva si verifica nel tubulo prossimale; il riassorbimento tubulare avviene nel tubulo distale.",
+        "E": "Il processo riguarda il transito di molecole idrofile e/o di grandi dimensioni; le molecole lipofile tendono semmai a essere riassorbite."
+      },
+      "riferimento": "p. 37 – Secrezione tubulare"
+    },
+    {
+      "id": "03-012",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Riassorbimento tubulare",
+      "domanda": "Riguardo al riassorbimento tubulare, quale affermazione corrisponde a quanto descritto?",
+      "opzioni": {
+        "A": "Il riassorbimento dei farmaci strutturalmente simili agli amminoacidi è agevolato dal fisiologico riassorbimento degli amminoacidi stessi",
+        "B": "Avviene nel tubulo prossimale e riguarda esclusivamente molecole idrofile",
+        "C": "Accelera la clearance renale, perché prolunga il contatto del farmaco con il nefrone",
+        "D": "Riguarda i farmaci in via prioritaria e le sostanze endogene solo in modo secondario",
+        "E": "Un farmaco riassorbito non può più esercitare alcun effetto, essendo ormai destinato all'eliminazione"
+      },
+      "corretta": "A",
+      "spiegazione": "Il rene riassorbe fisiologicamente amminoacidi, sodio e glucosio; i farmaci strutturalmente simili agli amminoacidi vengono riassorbiti più facilmente sfruttando questo processo. Il riassorbimento tubulare, inoltre, rallenta la clearance renale.",
+      "distrattori": {
+        "B": "Il riassorbimento tubulare avviene nel tubulo distale e può essere attivo per le molecole idrofile o passivo per quelle lipofile.",
+        "C": "Il riassorbimento tubulare rallenta la clearance renale, che risulta inferiore alla VFG.",
+        "D": "È l'opposto: il rene riassorbe soprattutto sostanze endogene e il passaggio dei farmaci è secondario.",
+        "E": "Se un farmaco o un suo metabolita viene riassorbito può tornare in circolo e continuare a esercitare il suo effetto."
+      },
+      "riferimento": "p. 37 – Riassorbimento tubulare"
+    },
+    {
+      "id": "03-013",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Cinetiche di escrezione",
+      "domanda": "Secondo quanto descritto a proposito delle curve di concentrazione plasmatica nel tempo, a quale meccanismo è attribuibile la cinetica di ordine zero?",
+      "opzioni": {
+        "A": "Ai sistemi di secrezione attiva, inizialmente saturati dall'alta concentrazione di farmaco",
+        "B": "Alla sola filtrazione glomerulare, senza secrezione né riassorbimento",
+        "C": "Al riassorbimento passivo dei farmaci lipofili nel tubulo distale",
+        "D": "All'escrezione biliare delle grandi molecole polari",
+        "E": "Al legame reversibile del farmaco con le proteine plasmatiche"
+      },
+      "corretta": "A",
+      "spiegazione": "La cinetica di ordine zero è attribuibile ai sistemi di secrezione attiva: all'inizio, per l'alta concentrazione di farmaco, tutti i siti di legame dei trasportatori sono occupati e il sistema è saturo; man mano che il farmaco viene eliminato i siti si liberano e il trasportatore non è più saturo. La cinetica di primo ordine corrisponde invece al farmaco filtrato ed eliminato senza secrezione né riassorbimento.",
+      "distrattori": {
+        "B": "La sola filtrazione senza secrezione né riassorbimento è associata alla cinetica di primo ordine.",
+        "C": "Il riassorbimento tubulare non viene indicato come determinante delle due cinetiche descritte.",
+        "D": "Le curve descritte riguardano i processi renali di escrezione.",
+        "E": "Il legame proteico influenza la quota filtrabile, ma non è il meccanismo indicato per la cinetica di ordine zero."
+      },
+      "riferimento": "p. 38 – Cinetiche di escrezione dei farmaci"
+    },
+    {
+      "id": "03-014",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Escrezione biliare e circolo enteroepatico",
+      "domanda": "Quale caratteristica distingue l'escrezione biliare da quella renale?",
+      "opzioni": {
+        "A": "Riguarda grandi molecole polari non eliminabili dal rene e si tratta sempre di un processo attivo",
+        "B": "Riguarda molecole di 20-60 kD, filtrate passivamente nel fegato",
+        "C": "Conduce all'eliminazione delle sostanze esclusivamente attraverso le urine",
+        "D": "Non richiede alcun processo metabolico preliminare sul farmaco",
+        "E": "Si applica soprattutto alle sostanze volatili, rapidamente eliminate dopo il passaggio epatico"
+      },
+      "corretta": "A",
+      "spiegazione": "Per via biliare vengono eliminate grandi molecole polari (oltre 300 kDa secondo il testo) che non sarebbero in alcun modo eliminabili tramite il rene; proprio per questo si tratta sempre di un processo attivo, che porta all'eliminazione attraverso le feci.",
+      "distrattori": {
+        "B": "L'intervallo 20-60 kD e il passaggio passivo riguardano la filtrazione glomerulare.",
+        "C": "La via biliare conduce all'eliminazione attraverso le feci; solo l'eventuale quota riassorbita nell'intestino può poi finire nelle urine.",
+        "D": "Attraverso questa via i farmaci vengono metabolizzati e aggiunti alla bile.",
+        "E": "Le sostanze volatili, come l'isoflurano, seguono la via polmonare."
+      },
+      "riferimento": "p. 38 – Circolo enteroepatico: escrezione biliare"
+    },
+    {
+      "id": "03-015",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Escrezione biliare e circolo enteroepatico",
+      "domanda": "Che cosa accade abitualmente alla quota di farmaco che raggiunge l'intestino con la bile, e perché?",
+      "opzioni": {
+        "A": "Di solito non viene più riassorbita, altrimenti si creerebbe un ciclo continuo e il farmaco non sarebbe mai eliminato completamente",
+        "B": "Viene sempre riassorbita integralmente, così da mantenere costante la concentrazione plasmatica",
+        "C": "Viene riassorbita e immessa in circolo senza subire ulteriori trasformazioni",
+        "D": "Viene immediatamente eliminata attraverso le urine, senza passare per le feci",
+        "E": "Viene convertita in una forma lipofila che ne favorisce l'escrezione fecale"
+      },
+      "corretta": "A",
+      "spiegazione": "Ciò che raggiunge l'intestino con la bile di solito non viene più riassorbito: in caso contrario si instaurerebbe un ciclo continuo e il farmaco non verrebbe mai eliminato del tutto. Quando un riassorbimento intestinale avviene, è probabile che le sostanze subiscano ulteriori processi metabolici prima dell'eliminazione urinaria.",
+      "distrattori": {
+        "B": "Un riassorbimento integrale impedirebbe l'eliminazione del farmaco.",
+        "C": "Nel caso di riassorbimento intestinale è probabile che intervengano ulteriori processi metabolici.",
+        "D": "L'escrezione biliare conduce all'eliminazione attraverso le feci.",
+        "E": "Le sostanze eliminate con la bile sono grandi molecole polari, non lipofile."
+      },
+      "riferimento": "p. 38 – Circolo enteroepatico: escrezione biliare"
+    },
+    {
+      "id": "03-016",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Vie di escrezione secondarie",
+      "domanda": "Per quale categoria di sostanze l'escrezione polmonare è particolarmente rilevante?",
+      "opzioni": {
+        "A": "Gli anestetici volatili come l'isoflurano e l'etanolo",
+        "B": "Le penicilline e gli altri anioni organici",
+        "C": "Le grandi molecole polari oltre 300 kDa",
+        "D": "I farmaci strutturalmente simili agli amminoacidi",
+        "E": "I farmaci ad alto legame con le proteine plasmatiche"
+      },
+      "corretta": "A",
+      "spiegazione": "L'escrezione polmonare è particolarmente rilevante per gli anestetici volatili come l'isoflurano, rapidamente eliminati con la respirazione, e per l'etanolo, la cui eliminazione polmonare è sfruttata nei test alcolemici sui conducenti, con evidente rilevanza medico-legale.",
+      "distrattori": {
+        "B": "Le penicilline sono secrete per via renale attraverso il sistema di trasporto degli acidi organici.",
+        "C": "Le grandi molecole polari seguono la via biliare.",
+        "D": "I farmaci simili agli amminoacidi sono coinvolti nel riassorbimento tubulare renale.",
+        "E": "L'alto legame proteico riguarda la filtrazione glomerulare e la secrezione tubulare, non la via polmonare."
+      },
+      "riferimento": "p. 39 – Altri esempi (vie di escrezione secondarie)"
+    },
+    {
+      "id": "03-017",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Escrezione nel latte materno",
+      "domanda": "Una donna che allatta chiede se, essendo nato il bambino, il rischio legato alle sostanze che assume sia finito. Quale risposta è coerente con quanto esposto?",
+      "opzioni": {
+        "A": "No: i farmaci passano anche nel latte materno, e nelle fasi in cui il latte è più grasso vengono legate maggiormente le sostanze lipofile",
+        "B": "Sì: dopo la nascita la barriera placentare non è più in gioco e l'esposizione del neonato cessa",
+        "C": "No, ma solo per i farmaci somministrati per via endovenosa, gli unici a passare nel latte",
+        "D": "Sì, purché si tratti di sostanze come la caffeina, che non sono considerate farmaci",
+        "E": "No, perché il latte materno ha una composizione costante che concentra tutti i farmaci allo stesso modo"
+      },
+      "corretta": "A",
+      "spiegazione": "Il latte materno è una via di escrezione: la donna va avvisata che dopo la nascita non è finito il rischioso passaggio dei farmaci al neonato. La composizione del latte varia nelle diverse fasi della vita del neonato e in alcune fasi, essendo più grasso, tende a legare maggiormente i farmaci lipofili; esempi citati sono l'aspirina e la caffeina.",
+      "distrattori": {
+        "B": "Il passaggio di sostanze al neonato prosegue attraverso l'allattamento.",
+        "C": "Il passaggio nel latte non è limitato a una via di somministrazione.",
+        "D": "La caffeina è proprio l'esempio portato per non scindere il concetto di farmaco da quello di sostanza d'abuso: passa al neonato.",
+        "E": "La composizione del latte varia nelle diverse fasi, modificando il legame delle sostanze liposolubili."
+      },
+      "riferimento": "pp. 34, 39 – Escrezione del farmaco; Altri esempi"
+    },
+    {
+      "id": "03-018",
+      "difficolta": "avanzato",
+      "tipo": "nozionistica",
+      "argomento": "Studio sul THC in gravidanza",
+      "domanda": "Nello studio sull'esposizione prenatale ai cannabinoidi, il THC è stato somministrato alle ratte gravide a partire dal 5° giorno di gestazione. Per quale motivo?",
+      "opzioni": {
+        "A": "Perché l'impianto dell'embrione richiede 5 giorni e coinvolge i recettori cannabinoidi, che una somministrazione precedente avrebbe perturbato",
+        "B": "Perché prima del 5° giorno la placenta non è ancora permeabile al THC",
+        "C": "Perché nei primi giorni la ratta metabolizza il THC troppo rapidamente perché raggiunga l'embrione",
+        "D": "Perché i recettori cannabinoidi compaiono nel cervello embrionale solo dopo il 5° giorno",
+        "E": "Perché il periodo pre-adolescenziale del ratto inizia dopo il 5° giorno di vita"
+      },
+      "corretta": "A",
+      "spiegazione": "La scelta non è casuale: l'impianto dell'embrione richiede proprio 5 giorni e in questo processo sono implicati i recettori cannabinoidi, che non si trovano solamente a livello cerebrale; somministrare THC prima del quinto giorno avrebbe interferito con l'impianto in utero.",
+      "distrattori": {
+        "B": "Dagli studi precedenti è noto che il THC passa la placenta; il motivo indicato è l'interferenza con l'impianto.",
+        "C": "Il testo non attribuisce la scelta a differenze di metabolismo materno.",
+        "D": "Il testo sottolinea che i recettori cannabinoidi non si trovano solamente a livello cerebrale e sono implicati nell'impianto.",
+        "E": "La pre-adolescenza del ratto si colloca tra il 22° e il 28°-30° giorno di vita, ed è la finestra di osservazione, non di trattamento."
+      },
+      "riferimento": "p. 40 – Soggetti e metodi dello studio"
+    },
+    {
+      "id": "03-019",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Studio sul THC in gravidanza",
+      "domanda": "Quale risultato è stato osservato nei ratti pre-adolescenti esposti al THC in utero (gruppo PCE) rispetto ai controlli?",
+      "opzioni": {
+        "A": "Attività basale dei neuroni dopaminergici sovrapponibile ai controlli, ma marcato aumento della frequenza di scarica alla nuova somministrazione di THC",
+        "B": "Attività basale dei neuroni dopaminergici nettamente ridotta rispetto ai controlli",
+        "C": "Attività basale aumentata, che si normalizzava dopo una nuova somministrazione di THC",
+        "D": "Nessuna differenza, né in condizioni basali né dopo nuova somministrazione di THC",
+        "E": "Un comportamento materno alterato, responsabile delle differenze osservate nei figli"
+      },
+      "corretta": "A",
+      "spiegazione": "L'istogramma dell'attività elettrica media dei neuroni dopaminergici non mostra differenze sostanziali tra PCE e controlli; quando però entrambi i gruppi ricevono nuovamente il THC, nei controlli non si osservano variazioni significative mentre nel gruppo esposto si registra un notevole aumento della frequenza di scarica.",
+      "distrattori": {
+        "B": "In condizioni basali non è emersa alcuna differenza sostanziale.",
+        "C": "L'alterazione emerge solo alla ri-somministrazione, non in condizioni basali.",
+        "D": "La differenza esiste, ma si manifesta solo quando i due gruppi ricevono nuovamente il THC.",
+        "E": "Il comportamento materno è stato osservato proprio per escludere falsi positivi e non ha mostrato differenze significative tra trattate e controlli."
+      },
+      "riferimento": "pp. 40-41 – Soggetti e metodi dello studio; risultati"
+    },
+    {
+      "id": "03-020",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "THC e CBD",
+      "domanda": "Quale differenza tra THC e CBD è corretta secondo quanto esposto?",
+      "opzioni": {
+        "A": "Il THC agisce su due soli recettori noti (CB1 e CB2), mentre il CBD è multitarget e non è psicoattivo",
+        "B": "Il CBD è il responsabile della dipendenza da cannabis, mentre il THC non è psicoattivo",
+        "C": "Entrambi agiscono esclusivamente sui recettori CB1 e CB2, con la stessa affinità",
+        "D": "Il CBD è l'unico cannabinoide dotato di potere antiemetico",
+        "E": "Il THC è multitarget, mentre il CBD agisce solo su CB1"
+      },
+      "corretta": "A",
+      "spiegazione": "I recettori per il THC sono solo di due tipi (CB1 e CB2), mentre sul CBD intervengono molti più recettori, per cui si parla di multitarget; nella cannabis ciò che crea dipendenza è il THC, non il CBD, che non è psicoattivo ed è noto essere utile in diverse patologie.",
+      "distrattori": {
+        "B": "È il THC a creare dipendenza ed essere psicoattivo.",
+        "C": "Solo per il THC si parla di due recettori; sul CBD intervengono molti più recettori.",
+        "D": "L'effetto antiemetico della cannabis non è dovuto solamente al THC, e non tutti i migliaia di cannabinoidi presenti sono dotati di potere antiemetico.",
+        "E": "I ruoli sono invertiti: il multitarget è il CBD."
+      },
+      "riferimento": "pp. 39, 42 – CBD e THC; risposte alle domande"
+    },
+    {
+      "id": "03-021",
+      "difficolta": "base",
+      "tipo": "falsa",
+      "argomento": "Studi preclinici",
+      "domanda": "Riguardo ai limiti degli studi preclinici sulla sicurezza dei farmaci in gravidanza, quale affermazione è FALSA?",
+      "opzioni": {
+        "A": "Gli studi sugli effetti a lungo termine delle sostanze assunte in gravidanza possono essere condotti in vitro, rendendo superflua la sperimentazione animale",
+        "B": "La gravidanza umana segue un calendario diverso rispetto a quella del ratto",
+        "C": "Nell'esperimento l'esposizione al THC è continua e prolungata, mentre nelle persone non lo sarebbe necessariamente",
+        "D": "La sicurezza dei farmaci in gravidanza è un ambito ancora relativamente poco esplorato dalla ricerca medica",
+        "E": "Nel modello sperimentale le variabili sono più definite di quanto accada nella realtà"
+      },
+      "corretta": "A",
+      "spiegazione": "Per chiarire gli effetti a lungo termine sul nascituro delle sostanze assunte dalla madre è necessario operare in vivo, avvalendosi della sperimentazione animale, perché in vitro non sarebbe possibile. Le altre affermazioni corrispondono ai limiti intrinseci descritti per questi studi.",
+      "distrattori": {
+        "B": "È vero: il diverso calendario gestazionale è uno dei limiti indicati.",
+        "C": "È vero: nella realtà l'esposizione non sarebbe necessariamente continua e prolungata come nell'esperimento.",
+        "D": "È vero: l'argomento è ancora relativamente poco esplorato, anche per ragioni storiche legate alla considerazione della donna incinta.",
+        "E": "È vero: nella realtà le variabili sono meno definite rispetto al modello sperimentale."
+      },
+      "riferimento": "pp. 40, 42 – Effetti della cannabis in gravidanza; limiti degli studi preclinici"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Clearance e VFG: Cl = 0 → sostanza completamente riassorbita; Cl = VFG → solo filtrata (creatina, 127 ml/min); Cl > VFG → anche secreta (benzilpenicillina, 480 ml/min); Cl < VFG → in parte riassorbita.",
+    "Solo il farmaco libero viene filtrato dal glomerulo; la quota legata alle proteine plasmatiche può essere eliminata unicamente grazie alla secrezione tubulare attiva.",
+    "Sedi diverse: secrezione attiva nel tubulo prossimale, riassorbimento tubulare nel tubulo distale. Lipofili e non ionizzati vengono riassorbiti (meno escreti), gli idrofili passano nelle urine.",
+    "La clearance totale non e' solo renale: Cl_tot = Cl_renale + Cl_epatica + Cl_altro (sudore, lacrime...). Nella formula C = (U x V)/P, V e' la velocita' del flusso urinario, non un volume di distribuzione.",
+    "Vie extrarenali: biliare/enteroepatica per grandi molecole polari non eliminabili dal rene (processo attivo, eliminazione fecale); polmonare per i volatili (isoflurano, etanolo); latte materno, che lega di piu' i farmaci lipofili quando e' piu' grasso (aspirina, caffeina)."
+  ]
+}

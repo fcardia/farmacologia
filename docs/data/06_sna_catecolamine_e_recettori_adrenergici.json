@@ -1,0 +1,727 @@
+{
+  "capitolo": 6,
+  "titolo": "SNA, catecolamine e recettori adrenergici",
+  "pagine": "89-113",
+  "domande": [
+    {
+      "id": "06-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Organizzazione del SNA",
+      "domanda": "Quale neurotrasmettitore rilasciano i neuroni pre-gangliari del sistema nervoso simpatico?",
+      "opzioni": {
+        "A": "Acetilcolina, che agisce sui recettori nicotinici del neurone post-gangliare",
+        "B": "Noradrenalina, che agisce sui recettori α1 del neurone post-gangliare",
+        "C": "Adrenalina, che agisce sui recettori β1 del neurone post-gangliare",
+        "D": "Dopamina, che agisce sui recettori dopaminergici del neurone post-gangliare",
+        "E": "Acetilcolina, che agisce sui recettori muscarinici del neurone post-gangliare"
+      },
+      "corretta": "A",
+      "spiegazione": "I neuroni pre-gangliari simpatici, con corpi nelle corna laterali del midollo toraco-lombare, rilasciano acetilcolina che si lega ai recettori nicotinici del neurone post-gangliare; quest'ultimo rilascia poi noradrenalina.",
+      "distrattori": {
+        "B": "La noradrenalina è il neurotrasmettitore del neurone post-gangliare simpatico, non di quello pre-gangliare.",
+        "C": "L'adrenalina è un ormone liberato dalla midollare del surrene, non un neurotrasmettitore pre-gangliare.",
+        "D": "La dopamina è citata solo come eccezione post-gangliare a livello dei vasi renali.",
+        "E": "Il testo indica che l'acetilcolina pre-gangliare agisce sui recettori nicotinici del neurone post-gangliare."
+      },
+      "riferimento": "pp. 89-90, 94 – Organizzazione del SNA simpatico"
+    },
+    {
+      "id": "06-002",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Organizzazione del SNA",
+      "domanda": "Quale tra le seguenti è un'eccezione alla regola secondo cui il neurone post-gangliare simpatico rilascia noradrenalina?",
+      "opzioni": {
+        "A": "Le fibre simpatiche dirette al cuore, che rilasciano acetilcolina",
+        "B": "Le fibre simpatiche dirette alle ghiandole sudoripare, che rilasciano acetilcolina",
+        "C": "Le fibre simpatiche dirette ai bronchi, che rilasciano adrenalina",
+        "D": "Le fibre simpatiche dirette al muscolo radiale dell'iride, che rilasciano dopamina",
+        "E": "Le fibre simpatiche dirette alle ghiandole salivari, che rilasciano acetilcolina"
+      },
+      "corretta": "B",
+      "spiegazione": "Il simpatico innerva le ghiandole sudoripare con fibre colinergiche che rilasciano acetilcolina. Altre eccezioni sono la midollare del surrene (innervata direttamente da fibre colinergiche) e la dopamina a livello dei vasi renali.",
+      "distrattori": {
+        "A": "Sul cuore il simpatico agisce tramite noradrenalina sui recettori β1, non tramite acetilcolina.",
+        "C": "L'adrenalina non è rilasciata da fibre post-gangliari ma dalla midollare del surrene nel circolo.",
+        "D": "La dopamina è un'eccezione relativa ai vasi renali, non all'iride, dove agiscono i recettori α1.",
+        "E": "Sulle ghiandole salivari il simpatico agisce come gli altri organi (riduce la salivazione); il testo non le indica come eccezione colinergica."
+      },
+      "riferimento": "pp. 90, 94 – Eccezioni del simpatico"
+    },
+    {
+      "id": "06-003",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Effetti di simpatico e parasimpatico",
+      "domanda": "Quale coppia associa correttamente un organo all'effetto del simpatico e a quello del parasimpatico?",
+      "opzioni": {
+        "A": "Muscolo detrusore della vescica: contrazione (simpatico) / rilasciamento (parasimpatico)",
+        "B": "Rene: vasocostrizione e secrezione di renina (simpatico) / vasodilatazione (parasimpatico)",
+        "C": "Muscolo detrusore della vescica: rilasciamento (simpatico) / contrazione (parasimpatico)",
+        "D": "Bronchi: broncocostrizione (simpatico) / broncodilatazione (parasimpatico)",
+        "E": "Ghiandole salivari: aumento della secrezione (simpatico) / riduzione della secrezione (parasimpatico)"
+      },
+      "corretta": "C",
+      "spiegazione": "Il simpatico rilascia il detrusore e contrae trigono e sfinteri, riducendo la minzione; il parasimpatico contrae il detrusore e facilita la minzione.",
+      "distrattori": {
+        "A": "Effetti invertiti: è il parasimpatico a contrarre il detrusore.",
+        "B": "Nella tabella il rene non riceve innervazione parasimpatica.",
+        "D": "Effetti invertiti: il simpatico è broncodilatatore e il parasimpatico broncocostrittore.",
+        "E": "Effetti invertiti: il simpatico riduce la salivazione e il parasimpatico la aumenta."
+      },
+      "riferimento": "pp. 91-92, 94 – Effetti del SNA sugli organi"
+    },
+    {
+      "id": "06-004",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Effetti di simpatico e parasimpatico",
+      "domanda": "In condizioni di riposo, in quale distretto prevale il tono simpatico?",
+      "opzioni": {
+        "A": "Cuore",
+        "B": "Ghiandole salivari",
+        "C": "Tratto intestinale",
+        "D": "Arteriole e venule",
+        "E": "Muscolatura oculare"
+      },
+      "corretta": "D",
+      "spiegazione": "A riposo il tono simpatico prevale su arteriole, venule e ghiandole sudoripare; in cuore, occhio, intestino e ghiandole salivari prevale il tono parasimpatico.",
+      "distrattori": {
+        "A": "Nel cuore, a riposo, prevale il tono parasimpatico.",
+        "B": "Nelle ghiandole salivari prevale il tono parasimpatico.",
+        "C": "Nell'intestino prevale il tono parasimpatico.",
+        "E": "A livello oculare prevale il tono parasimpatico."
+      },
+      "riferimento": "p. 93 – Tono autonomo prevalente"
+    },
+    {
+      "id": "06-005",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Sintesi delle catecolamine",
+      "domanda": "Quale enzima catalizza la tappa limitante della sintesi delle catecolamine?",
+      "opzioni": {
+        "A": "DOPA-decarbossilasi",
+        "B": "Dopamina β-idrossilasi",
+        "C": "Tirosina-idrossilasi",
+        "D": "Feniletanolamina-N-metiltransferasi",
+        "E": "Catecol-O-metiltransferasi"
+      },
+      "corretta": "C",
+      "spiegazione": "La tirosina-idrossilasi converte la tirosina in DOPA aggiungendo un gruppo OH all'anello fenilico: è la tappa limitante della sintesi di tutte le catecolamine.",
+      "distrattori": {
+        "A": "La DOPA-decarbossilasi converte la DOPA in dopamina, ma non è la tappa limitante.",
+        "B": "La dopamina β-idrossilasi converte la dopamina in noradrenalina.",
+        "D": "La PNMT forma l'adrenalina dalla noradrenalina, solo nella midollare del surrene.",
+        "E": "La COMT è un enzima di degradazione, non di sintesi."
+      },
+      "riferimento": "p. 96 – Sintesi delle catecolamine"
+    },
+    {
+      "id": "06-006",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Sintesi delle catecolamine",
+      "domanda": "Perché la noradrenalina, e non l'adrenalina, è il prodotto finale della sintesi nei neuroni noradrenergici post-gangliari?",
+      "opzioni": {
+        "A": "Perché in questi neuroni manca la dopamina β-idrossilasi",
+        "B": "Perché la feniletanolamina-N-metiltransferasi agisce solo nelle cellule della midollare del surrene",
+        "C": "Perché l'adrenalina formata nel neurone viene subito degradata dalle COMT presinaptiche",
+        "D": "Perché nei neuroni la tirosina-idrossilasi produce direttamente noradrenalina",
+        "E": "Perché la DOPA-decarbossilasi è assente nei neuroni simpatici"
+      },
+      "corretta": "B",
+      "spiegazione": "L'ultima tappa, la metilazione del gruppo amminico della noradrenalina da parte della PNMT, avviene solo nelle cellule adrenergiche della midollare del surrene. Nei neuroni noradrenergici la via si ferma alla noradrenalina.",
+      "distrattori": {
+        "A": "La dopamina β-idrossilasi è presente: è proprio l'enzima che produce la noradrenalina nel neurone.",
+        "C": "Secondo il testo le COMT si trovano a livello post-sinaptico, mentre le MAO sono presinaptiche.",
+        "D": "La tirosina-idrossilasi produce la DOPA, non la noradrenalina.",
+        "E": "La DOPA-decarbossilasi è necessaria per produrre la dopamina, precursore della noradrenalina."
+      },
+      "riferimento": "pp. 96-97 – Sintesi delle catecolamine"
+    },
+    {
+      "id": "06-007",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Catabolismo delle catecolamine",
+      "domanda": "Un paziente presenta crisi di ipertensione, tachicardia e alterazioni psicomotorie. Si sospetta un tumore della midollare del surrene. Quale esame di laboratorio è indicato nel testo?",
+      "opzioni": {
+        "A": "Dosaggio urinario dell'acido vanilmandelico (VMA)",
+        "B": "Dosaggio plasmatico della DOPA",
+        "C": "Dosaggio urinario della tirosina",
+        "D": "Dosaggio plasmatico del DOPGAL",
+        "E": "Dosaggio dell'attività della tirosina-idrossilasi nel plasma"
+      },
+      "corretta": "A",
+      "spiegazione": "Il feocromocitoma produce un eccesso di adrenalina. I metaboliti terminali delle catecolamine (MOPEG e soprattutto VMA) si dosano nelle urine e danno un'idea della quantità di adrenalina liberata dalla midollare del surrene.",
+      "distrattori": {
+        "B": "La DOPA è un precursore della sintesi, non un metabolita terminale dosato per il feocromocitoma.",
+        "C": "La tirosina è il precursore iniziale, non un metabolita del catabolismo.",
+        "D": "Il DOPGAL è il primo intermedio del catabolismo, non il metabolita terminale che si dosa.",
+        "E": "Il testo non indica dosaggi enzimatici: si dosano i metaboliti urinari."
+      },
+      "riferimento": "pp. 98-99 – Catabolismo delle catecolamine e feocromocitoma"
+    },
+    {
+      "id": "06-008",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Terminale noradrenergico",
+      "domanda": "Qual è il principale meccanismo che termina l'azione della noradrenalina nello spazio sinaptico?",
+      "opzioni": {
+        "A": "La degradazione da parte delle COMT presinaptiche",
+        "B": "La diluizione per diffusione fuori dallo spazio sinaptico",
+        "C": "La ricaptazione nel terminale presinaptico tramite il trasportatore NET",
+        "D": "La captazione nei siti extraneuronali",
+        "E": "L'idrolisi da parte della DOPA-decarbossilasi sinaptica"
+      },
+      "corretta": "C",
+      "spiegazione": "L'azione della noradrenalina si interrompe soprattutto per ricaptazione tramite il NET, che la riporta nel terminale presinaptico. Lì può essere rimmagazzinata nelle vescicole o degradata.",
+      "distrattori": {
+        "A": "Secondo il testo le COMT sono post-sinaptiche (le MAO sono presinaptiche) e la degradazione segue la ricaptazione.",
+        "B": "La diluizione per diffusione è indicata come meccanismo meno importante.",
+        "D": "La captazione extraneuronale è indicata come meccanismo meno importante.",
+        "E": "La DOPA-decarbossilasi è un enzima di sintesi, non di inattivazione."
+      },
+      "riferimento": "pp. 97-98 – Ciclo del neurotrasmettitore e interruzione dell'azione"
+    },
+    {
+      "id": "06-009",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Terminale noradrenergico",
+      "domanda": "Quale associazione tra bersaglio del terminale noradrenergico e impiego clinico citato nel testo è corretta?",
+      "opzioni": {
+        "A": "Inibitori delle COMT: terapia di terza scelta della depressione",
+        "B": "Inibitori delle MAO: terapia della malattia di Parkinson come prima scelta",
+        "C": "Inibitori del NET: importanti antidepressivi",
+        "D": "Antagonisti α2 presinaptici: terapia della malattia di Parkinson",
+        "E": "Inibitori della tirosina-idrossilasi: terapia della depressione"
+      },
+      "corretta": "C",
+      "spiegazione": "Gli inibitori del NET aumentano la noradrenalina sinaptica e sono importanti antidepressivi. Gli inibitori delle MAO sono antidepressivi di terza scelta, gli inibitori delle COMT si usano nel Parkinson.",
+      "distrattori": {
+        "A": "Gli inibitori delle COMT sono usati nel Parkinson; la terza scelta nella depressione sono gli inibitori delle MAO.",
+        "B": "Il testo indica gli inibitori delle MAO nella depressione (terza scelta), non nel Parkinson.",
+        "D": "Il testo cita un antagonista α2 (atipamezolo) solo in un esperimento animale, non come terapia del Parkinson.",
+        "E": "Il testo non cita inibitori della tirosina-idrossilasi come antidepressivi: per aumentare la noradrenalina si usano gli inibitori del NET."
+      },
+      "riferimento": "pp. 97-98 – Bersagli farmacologici del terminale noradrenergico"
+    },
+    {
+      "id": "06-010",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Recettori α2",
+      "domanda": "Il recettore α2 presinaptico del terminale noradrenergico:",
+      "opzioni": {
+        "A": "è accoppiato a Gq e aumenta il rilascio di noradrenalina",
+        "B": "è accoppiato a Gs e aumenta il cAMP, facilitando l'esocitosi",
+        "C": "è accoppiato a Gi, riduce l'ingresso di Ca2+ e inibisce il rilascio di noradrenalina",
+        "D": "è un canale ionico che, aperto, depolarizza il terminale",
+        "E": "è accoppiato a Gi e aumenta il rilascio di noradrenalina riducendo il potassio"
+      },
+      "corretta": "C",
+      "spiegazione": "L'α2 è accoppiato alla proteina Gi: riduce il cAMP, diminuisce la conduttanza al Ca2+ e aumenta quella al K+ (iperpolarizzazione). Ne deriva la riduzione del rilascio del neurotrasmettitore (feedback negativo).",
+      "distrattori": {
+        "A": "Gq è la proteina G dei recettori α1, e l'α2 inibisce il rilascio.",
+        "B": "Gs e l'aumento di cAMP caratterizzano i recettori β.",
+        "D": "I recettori per le catecolamine sono tutti metabotropici, non canali ionici.",
+        "E": "L'α2 aumenta la conduttanza al K+ e riduce il rilascio, non il contrario."
+      },
+      "riferimento": "pp. 97, 103 – Recettori α2"
+    },
+    {
+      "id": "06-011",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Recettori α2",
+      "domanda": "In un esperimento sul ratto, la somministrazione endovenosa di atipamezolo, antagonista selettivo α2, aumenta la frequenza di scarica dei neuroni del locus coeruleus. Qual è la spiegazione coerente con il testo?",
+      "opzioni": {
+        "A": "L'atipamezolo stimola direttamente i recettori β1 neuronali",
+        "B": "L'atipamezolo inibisce il NET e aumenta la noradrenalina sinaptica",
+        "C": "L'atipamezolo blocca il feedback inibitorio esercitato dalla noradrenalina sugli α2",
+        "D": "L'atipamezolo inibisce le MAO e impedisce la degradazione della noradrenalina",
+        "E": "L'atipamezolo attiva i recettori α2 e quindi aumenta il rilascio di noradrenalina"
+      },
+      "corretta": "C",
+      "spiegazione": "La noradrenalina, agendo da agonista sugli α2, tende a spegnere l'attività elettrica del neurone e il rilascio. Un antagonista α2 rimuove questo freno, quindi la frequenza di scarica aumenta.",
+      "distrattori": {
+        "A": "L'atipamezolo è descritto come antagonista α2, non come agonista β1.",
+        "B": "L'inibizione del NET è il meccanismo della cocaina e degli antidepressivi, non di un antagonista α2.",
+        "D": "L'inibizione delle MAO è il meccanismo di altri farmaci indiretti, non dell'atipamezolo.",
+        "E": "L'attivazione degli α2 inibisce l'attività del neurone; l'atipamezolo li blocca."
+      },
+      "riferimento": "p. 101 – Esperimento con atipamezolo"
+    },
+    {
+      "id": "06-012",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Recettori α1",
+      "domanda": "Il recettore α1-adrenergico è accoppiato a:",
+      "opzioni": {
+        "A": "proteina Gs, con aumento del cAMP",
+        "B": "proteina Gi, con riduzione del cAMP",
+        "C": "proteina Gq, con attivazione della fosfolipasi C e produzione di IP3 e DAG",
+        "D": "un canale ionico permeabile al Na+",
+        "E": "proteina Gq, con attivazione dell'adenilato ciclasi"
+      },
+      "corretta": "C",
+      "spiegazione": "L'α1 attiva Gq e la fosfolipasi C, con formazione di IP3 e DAG. L'IP3 libera Ca2+ dal reticolo; il Ca2+ attiva la MLCK, che fosforila la catena leggera della miosina e provoca la contrazione della muscolatura liscia.",
+      "distrattori": {
+        "A": "Gs e l'aumento di cAMP caratterizzano i recettori β.",
+        "B": "Gi e la riduzione di cAMP caratterizzano i recettori α2.",
+        "D": "Tutti i recettori per le catecolamine sono metabotropici.",
+        "E": "Gq attiva la fosfolipasi C, non l'adenilato ciclasi."
+      },
+      "riferimento": "pp. 100, 103 – Recettori α1"
+    },
+    {
+      "id": "06-013",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Recettori α1",
+      "domanda": "Quale affermazione sugli effetti mediati dai recettori α1 è FALSA?",
+      "opzioni": {
+        "A": "Nella muscolatura liscia vascolare provocano vasocostrizione e aumento della pressione arteriosa",
+        "B": "Nel muscolo radiale dell'iride provocano contrazione e midriasi",
+        "C": "Negli sfinteri gastrointestinali provocano contrazione",
+        "D": "Nel fegato stimolano gluconeogenesi e glicogenolisi",
+        "E": "Nella muscolatura bronchiale provocano broncodilatazione"
+      },
+      "corretta": "E",
+      "spiegazione": "La broncodilatazione è mediata dai recettori β2 della muscolatura bronchiale, non dagli α1. Tutte le altre affermazioni corrispondono a effetti α1 descritti nel testo.",
+      "distrattori": {
+        "A": "Vera: è la localizzazione α1 più importante dal punto di vista clinico.",
+        "B": "Vera: la contrazione del muscolo radiale dell'iride provoca midriasi.",
+        "C": "Vera: gli sfinteri si contraggono per effetto α1.",
+        "D": "Vera: nel fegato gli α1 stimolano gluconeogenesi e glicogenolisi."
+      },
+      "riferimento": "pp. 100, 102, 105 – Recettori α1 e β2"
+    },
+    {
+      "id": "06-014",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Recettori β",
+      "domanda": "Perché è difficile ottenere farmaci con selettività assoluta per β1 rispetto a β2, mentre esistono farmaci selettivi α1 o α2?",
+      "opzioni": {
+        "A": "Perché β1 e β2 sono accoppiati a proteine G diverse",
+        "B": "Perché β1 e β2 hanno circa il 60% di omologia e un sito di legame molto simile",
+        "C": "Perché i β2 sono localizzati solo nel cervello",
+        "D": "Perché β1 e β2 sono recettori ionotropici",
+        "E": "Perché la noradrenalina ha la stessa affinità per β1 e β2"
+      },
+      "corretta": "B",
+      "spiegazione": "β1 e β2 hanno circa il 60% di omologia e siti di legame molto simili: agonisti e antagonisti agiscono su entrambi con selettività diversa ma mai assoluta. α1 e α2 invece sono diversi tra loro.",
+      "distrattori": {
+        "A": "Tutti e tre i recettori β sono accoppiati alla stessa proteina Gs.",
+        "C": "I β2 hanno localizzazione diffusa (vasi, bronchi, fegato, anche cervello), non solo cerebrale.",
+        "D": "I recettori per le catecolamine sono tutti metabotropici.",
+        "E": "La noradrenalina ha affinità molto bassa per i β2 rispetto ai β1."
+      },
+      "riferimento": "pp. 101-102 – Recettori β1 e β2"
+    },
+    {
+      "id": "06-015",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Recettori β",
+      "domanda": "Dove sono localizzati quasi esclusivamente i recettori β3 e quale effetto mediano?",
+      "opzioni": {
+        "A": "Sugli adipociti, dove provocano lipolisi",
+        "B": "Sulle cellule iuxtaglomerulari, dove stimolano la secrezione di renina",
+        "C": "Sul nodo senoatriale, dove aumentano la frequenza cardiaca",
+        "D": "Sulla muscolatura bronchiale, dove provocano broncodilatazione",
+        "E": "Sul fegato, dove stimolano la glicogenolisi"
+      },
+      "corretta": "A",
+      "spiegazione": "I β3 sono quasi esclusivamente sugli adipociti e provocano lipolisi (liberazione di acidi grassi dai trigliceridi). Non esistono farmaci selettivi per questi recettori.",
+      "distrattori": {
+        "B": "La secrezione di renina è mediata dai β1 dell'apparato iuxtaglomerulare.",
+        "C": "L'effetto cronotropo positivo è mediato dai β1 cardiaci.",
+        "D": "La broncodilatazione è mediata dai β2.",
+        "E": "La glicogenolisi epatica è attribuita a β2 e α1, non ai β3."
+      },
+      "riferimento": "pp. 101-102 – Recettori β3"
+    },
+    {
+      "id": "06-016",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Recettori β",
+      "domanda": "Nelle cellule pacemaker cardiache, come si traduce l'aumento di cAMP indotto dalla stimolazione β1 in aumento della frequenza cardiaca?",
+      "opzioni": {
+        "A": "Attivando canali al sodio cAMP-dipendenti, con depolarizzazione della cellula",
+        "B": "Attivando la fosfolipasi C e liberando Ca2+ dal reticolo",
+        "C": "Aumentando l'efflusso di K+ e iperpolarizzando la cellula",
+        "D": "Riducendo la conduttanza al calcio voltaggio-dipendente",
+        "E": "Fosforilando direttamente la catena leggera della miosina"
+      },
+      "corretta": "A",
+      "spiegazione": "Nelle cellule pacemaker il cAMP attiva canali al sodio cAMP-dipendenti: l'ingresso di Na+ depolarizza la cellula e aumenta la frequenza cardiaca. Lo stesso recettore in cellule diverse usa effettori diversi.",
+      "distrattori": {
+        "B": "La fosfolipasi C è l'effettore dei recettori α1 accoppiati a Gq.",
+        "C": "L'aumento dell'efflusso di K+ è descritto nei cardiomiociti contrattili e porta a iperpolarizzazione, non all'aumento di frequenza.",
+        "D": "La PKA fosforila e apre i canali al calcio, aumentandone la conduttanza.",
+        "E": "La MLC è fosforilata dalla MLCK, attivata dal complesso calcio-calmodulina, non direttamente dal cAMP."
+      },
+      "riferimento": "p. 104 – Recettori β1 cardiaci e cellule pacemaker"
+    },
+    {
+      "id": "06-017",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Recettori adrenergici vascolari",
+      "domanda": "Durante una condizione di stress acuto, il flusso ematico aumenta nella muscolatura scheletrica e diminuisce a livello cutaneo. Quale meccanismo recettoriale spiega questa diversa risposta alla stessa catecolamina?",
+      "opzioni": {
+        "A": "Nella cute prevalgono i recettori β2 vasodilatanti, nel muscolo gli α1 vasocostrittori",
+        "B": "Nella cute prevalgono i recettori α1 vasocostrittori, nel muscolo scheletrico i β2 vasodilatanti",
+        "C": "Nel muscolo scheletrico i vasi sono privi di recettori adrenergici e si dilatano passivamente",
+        "D": "Nella cute i recettori α2 presinaptici aumentano il rilascio locale di noradrenalina",
+        "E": "Nel muscolo scheletrico prevalgono i recettori β3, che provocano vasodilatazione"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli effetti vascolari dipendono dal tipo di recettore espresso: gli α1 del distretto cutaneo (e renale) danno vasocostrizione, i β2 dei vasi del muscolo scheletrico danno vasodilatazione, deviando il sangue verso gli organi utili nella reazione di attacco/fuga.",
+      "distrattori": {
+        "A": "La distribuzione è invertita rispetto a quella descritta nel testo.",
+        "C": "I vasi del muscolo scheletrico esprimono recettori β2 e la vasodilatazione è un effetto recettoriale attivo.",
+        "D": "Gli α2 presinaptici inibiscono, non aumentano, il rilascio di noradrenalina.",
+        "E": "I β3 sono quasi esclusivamente adipocitari e mediano lipolisi."
+      },
+      "riferimento": "pp. 102, 105 – Effetti vascolari delle catecolamine"
+    },
+    {
+      "id": "06-018",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Tachifilassi e tolleranza",
+      "domanda": "Qual è la differenza principale tra tachifilassi e tolleranza secondo il testo?",
+      "opzioni": {
+        "A": "La tachifilassi è un fenomeno acuto da somministrazioni ravvicinate, la tolleranza si sviluppa con la somministrazione cronica",
+        "B": "La tachifilassi riguarda solo gli oppioidi, la tolleranza solo i farmaci adrenergici",
+        "C": "La tachifilassi è irreversibile, la tolleranza è reversibile",
+        "D": "La tachifilassi dipende dall'induzione enzimatica, la tolleranza dal disaccoppiamento dalle proteine G",
+        "E": "La tachifilassi richiede la perdita dei recettori, la tolleranza solo la loro fosforilazione"
+      },
+      "corretta": "A",
+      "spiegazione": "La differenza è principalmente temporale: nella tachifilassi una seconda dose ravvicinata produce un effetto ridotto (fenomeno rapido e acuto), mentre la tolleranza si sviluppa lentamente con la somministrazione cronica ripetuta.",
+      "distrattori": {
+        "B": "Entrambi i fenomeni sono generali; la tolleranza è descritta sia per gli oppioidi sia per i farmaci adrenergici.",
+        "C": "La tolleranza è esplicitamente descritta come temporanea e non persistente.",
+        "D": "Il disaccoppiamento dalle proteine G è il meccanismo della desensitizzazione alla base della tachifilassi; l'induzione enzimatica riguarda la tolleranza funzionale.",
+        "E": "L'internalizzazione dei recettori (down-regulation) è associata all'esposizione prolungata all'agonista, non alla tachifilassi."
+      },
+      "riferimento": "pp. 105-107 – Tachifilassi e tolleranza"
+    },
+    {
+      "id": "06-019",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Tachifilassi e tolleranza",
+      "domanda": "Nella desensitizzazione dei recettori adrenergici, quale sequenza di eventi è descritta nel testo?",
+      "opzioni": {
+        "A": "Internalizzazione del recettore seguita da disaccoppiamento dalle proteine G",
+        "B": "Riduzione della sintesi del recettore seguita da aumento dell'affinità per il ligando",
+        "C": "Fosforilazione del recettore, minore affinità per il ligando e maggiore affinità per la β-arrestina, con possibile down-regulation",
+        "D": "Degradazione enzimatica del ligando con riduzione dell'occupazione recettoriale",
+        "E": "Aumento della produzione di proteina Gs con rapida esauribilità del cAMP"
+      },
+      "corretta": "C",
+      "spiegazione": "La desensitizzazione dipende dalla fosforilazione del recettore: fosforilato, diventa meno affine al ligando e più affine alla β-arrestina. È un rapido disaccoppiamento dalle proteine G che può avviare la down-regulation, cioè l'internalizzazione del recettore, processo più lento.",
+      "distrattori": {
+        "A": "L'ordine è invertito: prima il disaccoppiamento rapido, poi l'eventuale internalizzazione.",
+        "B": "La fosforilazione riduce l'affinità per il ligando; la down-regulation riduce il numero dei recettori espressi.",
+        "D": "La desensitizzazione è un fenomeno recettoriale, non dipende dalla degradazione del ligando.",
+        "E": "Il meccanismo descritto è il disaccoppiamento dalle proteine G, non un loro aumento."
+      },
+      "riferimento": "pp. 105-107 – Desensitizzazione e down-regulation"
+    },
+    {
+      "id": "06-020",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Noradrenalina centrale",
+      "domanda": "Dove sono localizzati i corpi cellulari dei neuroni noradrenergici del SNC e quale funzione mediano?",
+      "opzioni": {
+        "A": "Nel locus coeruleus; mediano veglia e attenzione",
+        "B": "Nella sostanza nera; mediano il controllo motorio",
+        "C": "Nell'ipofisi; mediano il rilascio di ormoni dello stress",
+        "D": "Nel midollo spinale sacrale; mediano i riflessi autonomici",
+        "E": "Nell'amigdala; mediano esclusivamente la memoria emotiva"
+      },
+      "corretta": "A",
+      "spiegazione": "I neuroni noradrenergici centrali si trovano nel locus coeruleus e la loro innervazione è diffusa a corteccia, aree subcorticali, cervelletto e midollo spinale. La noradrenalina centrale favorisce veglia e attenzione.",
+      "distrattori": {
+        "B": "Il testo non attribuisce i neuroni noradrenergici alla sostanza nera.",
+        "C": "L'ipofisi non è indicata come sede dei corpi dei neuroni noradrenergici.",
+        "D": "Nel midollo spinale arrivano le proiezioni, ma i corpi cellulari sono nel locus coeruleus.",
+        "E": "L'amigdala è citata per l'elaborazione dello stress, non come sede dei corpi noradrenergici."
+      },
+      "riferimento": "p. 108 – Noradrenalina centrale e locus coeruleus"
+    },
+    {
+      "id": "06-021",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Agonisti adrenergici diretti, indiretti e misti",
+      "domanda": "Qual è la caratteristica che distingue un agonista adrenergico indiretto da uno diretto?",
+      "opzioni": {
+        "A": "L'agonista indiretto si lega al recettore ma stabilizza la forma inattiva",
+        "B": "L'agonista indiretto non ha affinità per il recettore e agisce aumentando i livelli del neurotrasmettitore endogeno",
+        "C": "L'agonista indiretto agisce solo sui recettori β, quello diretto solo sugli α",
+        "D": "L'agonista indiretto non attraversa la barriera ematoencefalica, quello diretto sì",
+        "E": "L'agonista indiretto è sempre selettivo, quello diretto sempre non selettivo"
+      },
+      "corretta": "B",
+      "spiegazione": "L'agonista indiretto non si lega al recettore e non ha affinità per esso: potenzia l'effetto della catecolamina endogena modificandone la disponibilità. L'agonista diretto si lega al recettore stabilizzandone la forma attiva.",
+      "distrattori": {
+        "A": "Stabilizzare la forma attiva del recettore è ciò che fa l'agonista diretto; l'indiretto non si lega al recettore.",
+        "C": "La distinzione non riguarda il tipo di recettore, che può essere α o β in entrambi i casi.",
+        "D": "La distinzione non si basa sul passaggio della barriera ematoencefalica.",
+        "E": "La selettività è una caratteristica indipendente: tra i diretti ci sono farmaci selettivi e non selettivi."
+      },
+      "riferimento": "p. 108 – Classificazione degli agonisti adrenergici"
+    },
+    {
+      "id": "06-022",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Agonisti adrenergici diretti, indiretti e misti",
+      "domanda": "Quale farmaco o sostanza è citato come esempio di agonista adrenergico ad azione MISTA?",
+      "opzioni": {
+        "A": "Efedrina",
+        "B": "Cocaina",
+        "C": "Tiramina",
+        "D": "Isoproterenolo",
+        "E": "Adrenalina"
+      },
+      "corretta": "A",
+      "spiegazione": "L'efedrina è uno psicostimolante che ha azione diretta sui recettori ma è anche in grado di potenziare il rilascio di noradrenalina: ha quindi azione mista.",
+      "distrattori": {
+        "B": "La cocaina è un agonista indiretto che inibisce la ricaptazione.",
+        "C": "La tiramina è un agonista indiretto del gruppo dei releasing agents.",
+        "D": "L'isoproterenolo è un agonista diretto non selettivo per i recettori β.",
+        "E": "L'adrenalina è una catecolamina endogena ad azione diretta non selettiva."
+      },
+      "riferimento": "pp. 108-109 – Farmaci ad azione mista"
+    },
+    {
+      "id": "06-023",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Agonisti indiretti: amfetamine, tiramina, cocaina",
+      "domanda": "Amfetamina e cocaina sono entrambi agonisti adrenergici indiretti, ma differiscono per il meccanismo: quale classificazione è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Amfetamina: releasing agent; cocaina: inibitore della ricaptazione",
+        "B": "Amfetamina: inibitore della ricaptazione; cocaina: releasing agent",
+        "C": "Amfetamina: inibitore delle MAO; cocaina: releasing agent",
+        "D": "Amfetamina: releasing agent; cocaina: inibitore delle COMT",
+        "E": "Amfetamina: agonista diretto β2; cocaina: inibitore della ricaptazione"
+      },
+      "corretta": "A",
+      "spiegazione": "Le amfetamine e i loro derivati, insieme alla tiramina, sono classificati come releasing agents (potenziano il rilascio del neurotrasmettitore); la cocaina è un inibitore della ricaptazione, con azione sia centrale che periferica.",
+      "distrattori": {
+        "B": "I ruoli sono invertiti rispetto alla classificazione del testo.",
+        "C": "Gli inibitori delle MAO/COMT costituiscono un terzo gruppo distinto di agonisti indiretti.",
+        "D": "La cocaina agisce sui trasportatori (NET, DAT), non sulle COMT.",
+        "E": "L'amfetamina è un agonista indiretto, non un agonista diretto β2."
+      },
+      "riferimento": "pp. 98, 108-109 – Agonisti indiretti"
+    },
+    {
+      "id": "06-024",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Relazione struttura-attività",
+      "domanda": "Secondo la relazione struttura-attività delle catecolamine, che effetto ha l'aumento del volume dei sostituenti sull'azoto del gruppo amminico?",
+      "opzioni": {
+        "A": "Aumenta l'affinità per i recettori β, fino a perdere quella per gli α nell'isoproterenolo",
+        "B": "Aumenta l'affinità per i recettori α, fino a perdere quella per i β",
+        "C": "Riduce l'affinità sia per i recettori α sia per quelli β",
+        "D": "Non modifica l'affinità, ma aumenta soltanto la durata d'azione",
+        "E": "Rende la molecola incapace di legarsi ai recettori adrenergici"
+      },
+      "corretta": "A",
+      "spiegazione": "Il gruppo amminico è responsabile dell'affinità verso i recettori β: la noradrenalina non ha sostituenti, l'adrenalina ha un metile ed è più affine ai β, l'isoproterenolo ha un sostituente più voluminoso e possiede affinità solo per i β.",
+      "distrattori": {
+        "B": "L'effetto descritto nel testo riguarda l'aumento dell'affinità β, non α.",
+        "C": "L'affinità β aumenta progressivamente con il volume del sostituente.",
+        "D": "Il testo collega la modificazione strutturale all'affinità recettoriale, non alla durata d'azione.",
+        "E": "L'isoproterenolo, pur con sostituenti voluminosi, resta un potente agonista β."
+      },
+      "riferimento": "p. 109 – Relazione struttura-attività"
+    },
+    {
+      "id": "06-025",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Adrenalina",
+      "domanda": "Su quali recettori agisce l'adrenalina?",
+      "opzioni": {
+        "A": "Solo sui recettori β1 e β2",
+        "B": "Solo sui recettori α1 e α2",
+        "C": "Su tutti i recettori adrenergici (α1, α2, β1, β2), come stimolante non selettivo",
+        "D": "Solo sui recettori β3 degli adipociti",
+        "E": "Su nessun recettore adrenergico: agisce solo inibendo il NET"
+      },
+      "corretta": "C",
+      "spiegazione": "L'adrenalina è un potente stimolante non selettivo di tutti i recettori adrenergici (α1, α2, β1, β2): i suoi effetti sono complessi perché risultano dalla somma delle attivazioni recettoriali.",
+      "distrattori": {
+        "A": "L'adrenalina attiva anche i recettori α, responsabili della vasocostrizione.",
+        "B": "L'adrenalina attiva anche i recettori β, responsabili della cardiostimolazione e della broncodilatazione.",
+        "D": "L'adrenalina non è selettiva per i β3.",
+        "E": "L'adrenalina è un agonista ad azione diretta sui recettori."
+      },
+      "riferimento": "pp. 109-110 – Adrenalina"
+    },
+    {
+      "id": "06-026",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Adrenalina",
+      "domanda": "Quale affermazione sulla farmacocinetica dell'adrenalina è corretta?",
+      "opzioni": {
+        "A": "Per via orale è efficace, perché l'assorbimento gastrico è completo",
+        "B": "Per via sottocutanea l'assorbimento è rallentato dalla vasocostrizione locale, mentre per via intramuscolare è più rapido per la vasodilatazione del muscolo scheletrico",
+        "C": "Ha un'emivita lunga, di circa 12 ore, grazie alla resistenza alle MAO",
+        "D": "Raggiunge facilmente il SNC, dove produce direttamente ansia e tremore",
+        "E": "Per via intramuscolare l'assorbimento è rallentato dalla vasocostrizione del muscolo scheletrico"
+      },
+      "corretta": "B",
+      "spiegazione": "Per via sottocutanea l'adrenalina provoca vasocostrizione locale che riduce la velocità di propagazione dal sito di iniezione; per via intramuscolare l'assorbimento è più rapido perché nel muscolo scheletrico produce vasodilatazione.",
+      "distrattori": {
+        "A": "Per via orale è inefficace: viene ossidata dai succhi gastrici e coniugata nel fegato.",
+        "C": "Il metabolismo a opera delle MAO prevalentemente epatiche è rapido: la durata d'azione e l'emivita sono di circa 15-20 minuti.",
+        "D": "Non attraversa la barriera ematoencefalica; irrequietezza e tremore sono secondari agli effetti cardiovascolari periferici.",
+        "E": "Nel muscolo scheletrico l'adrenalina provoca vasodilatazione (β2), quindi l'assorbimento è più rapido."
+      },
+      "riferimento": "pp. 110, 112 – Farmacocinetica dell'adrenalina"
+    },
+    {
+      "id": "06-027",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Adrenalina",
+      "domanda": "Perché a dosi basse l'adrenalina può ridurre paradossalmente la pressione arteriosa, mentre a dosi elevate per via endovenosa la aumenta?",
+      "opzioni": {
+        "A": "Perché a basse dosi prevale l'effetto sui recettori β2 vasodilatatori, mentre ad alte dosi prevale la vasocostrizione α1",
+        "B": "Perché a basse dosi stimola i recettori α2 presinaptici e blocca ogni rilascio di noradrenalina",
+        "C": "Perché a basse dosi viene metabolizzata dalle COMT prima di raggiungere i vasi",
+        "D": "Perché a basse dosi agisce solo sui recettori β1, riducendo la gittata cardiaca",
+        "E": "Perché a dosi elevate si lega ai recettori β3 adipocitari, che aumentano le resistenze periferiche"
+      },
+      "corretta": "A",
+      "spiegazione": "L'effetto pressorio risulta dalla somma algebrica degli effetti su α1 (vasocostrizione) e β2 (vasodilatazione). A dosi ridotte prevale l'elevata sensibilità dei β2, con riduzione della pressione; alle dosi comunemente usate l'effetto è un aumento pressorio.",
+      "distrattori": {
+        "B": "Il testo spiega l'effetto paradosso con i β2 vascolari, non con il feedback α2 presinaptico.",
+        "C": "La spiegazione data è recettoriale, non metabolica.",
+        "D": "La stimolazione β1 aumenta frequenza, contrattilità e gittata cardiaca.",
+        "E": "I β3 sono adipocitari e mediano lipolisi, non effetti vascolari."
+      },
+      "riferimento": "pp. 110-111 – Effetti dell'adrenalina sulla pressione arteriosa"
+    },
+    {
+      "id": "06-028",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Adrenalina",
+      "domanda": "Un paziente va incontro a shock anafilattico con broncospasmo dopo un'iniezione di anestetico locale in uno studio odontoiatrico. Perché l'adrenalina è il farmaco salvavita in questa situazione?",
+      "opzioni": {
+        "A": "Perché blocca i recettori α1 riducendo l'edema delle mucose",
+        "B": "Perché somma la vasocostrizione α1, la cardiostimolazione β1 e la broncodilatazione β2",
+        "C": "Perché inibisce le MAO e aumenta la noradrenalina endogena",
+        "D": "Perché agisce sul SNC stimolando il centro del respiro",
+        "E": "Perché provoca il rilasciamento del muscolo detrusore della vescica"
+      },
+      "corretta": "B",
+      "spiegazione": "Nello shock anafilattico l'adrenalina agisce su tutti i recettori: vasocostrizione α1 con aumento pressorio, stimolazione cardiaca β1 e broncodilatazione β2, fondamentale quando è presente broncospasmo.",
+      "distrattori": {
+        "A": "L'adrenalina stimola, non blocca, i recettori α1.",
+        "C": "L'adrenalina è un agonista diretto, non un inibitore delle MAO.",
+        "D": "L'adrenalina non attraversa la barriera ematoencefalica e non agisce sul SNC.",
+        "E": "Il rilasciamento del detrusore è un effetto collaterale sulla muscolatura liscia, irrilevante nell'emergenza anafilattica."
+      },
+      "riferimento": "pp. 109-111, 113 – Usi terapeutici dell'adrenalina"
+    },
+    {
+      "id": "06-029",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Adrenalina",
+      "domanda": "In un paziente cardiopatico con insufficienza coronarica, perché la somministrazione di adrenalina può risultare dannosa?",
+      "opzioni": {
+        "A": "Perché riduce la frequenza cardiaca fino alla bradicardia estrema",
+        "B": "Perché riduce il flusso coronarico bloccando i recettori β2 delle coronarie",
+        "C": "Perché aumenta lavoro cardiaco e consumo di ossigeno, riducendo l'efficienza cardiaca e potendo provocare fenomeni ischemici",
+        "D": "Perché provoca vasodilatazione generalizzata con collasso pressorio",
+        "E": "Perché impedisce la secrezione di renina e provoca ipotensione"
+      },
+      "corretta": "C",
+      "spiegazione": "Stimolando i β1 cardiaci l'adrenalina aumenta frequenza, contrattilità e gittata, ma anche lavoro cardiaco e consumo di ossigeno: il rapporto tra lavoro e consumo peggiora e in caso di insufficienza coronarica possono comparire fenomeni ischemici.",
+      "distrattori": {
+        "A": "L'adrenalina ha effetto cronotropo positivo: aumenta la frequenza cardiaca.",
+        "B": "Il testo indica che l'adrenalina aumenta il flusso coronarico; il problema è l'aumento del consumo di ossigeno.",
+        "D": "Alle dosi usuali l'effetto complessivo è un aumento della pressione arteriosa.",
+        "E": "I β1 dell'apparato iuxtaglomerulare favoriscono la secrezione di renina."
+      },
+      "riferimento": "pp. 110-111 – Effetti cardiaci dell'adrenalina"
+    },
+    {
+      "id": "06-030",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Adrenalina",
+      "domanda": "Perché in anestesiologia l'adrenalina viene associata agli anestetici locali?",
+      "opzioni": {
+        "A": "Perché potenzia il blocco dei canali al sodio da parte dell'anestetico",
+        "B": "Perché provoca vasocostrizione nel sito di iniezione, riducendo l'assorbimento dell'anestetico e prolungandone l'effetto locale",
+        "C": "Perché ne accelera l'assorbimento sistemico e l'inizio d'azione",
+        "D": "Perché previene la tachicardia indotta dall'anestetico locale",
+        "E": "Perché inibisce il metabolismo epatico dell'anestetico"
+      },
+      "corretta": "B",
+      "spiegazione": "L'adrenalina iniettata insieme all'anestetico locale produce vasocostrizione nel sito di iniezione: l'assorbimento del farmaco anestetico si riduce e l'effetto locale diventa più duraturo.",
+      "distrattori": {
+        "A": "Il testo attribuisce il vantaggio alla vasocostrizione locale, non a un effetto diretto sui canali.",
+        "C": "L'obiettivo è ridurre, non accelerare, l'assorbimento sistemico.",
+        "D": "L'adrenalina stessa può causare tachicardia e palpitazioni.",
+        "E": "L'effetto descritto è locale e vascolare, non metabolico."
+      },
+      "riferimento": "pp. 112-113 – Usi terapeutici dell'adrenalina"
+    },
+    {
+      "id": "06-031",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Adrenalina",
+      "domanda": "Quale tra le seguenti NON è una reazione avversa dell'adrenalina descritta nel testo?",
+      "opzioni": {
+        "A": "Emorragia cerebrale per eccessivo aumento pressorio",
+        "B": "Tachiaritmie nei pazienti cardiopatici",
+        "C": "Edema polmonare acuto da scompenso",
+        "D": "Depressione respiratoria da ridotta sensibilità alla pCO2",
+        "E": "Paura, ansia, tensione e palpitazioni"
+      },
+      "corretta": "D",
+      "spiegazione": "La depressione respiratoria da ridotta sensibilità alla pCO2 è l'effetto tossico degli oppioidi descritto nel paragrafo sulla tolleranza, non dell'adrenalina. Le altre sono reazioni avverse dell'adrenalina.",
+      "distrattori": {
+        "A": "È descritta: l'aumento eccessivo della pressione può provocare rottura di vasi ed emorragia cerebrale.",
+        "B": "È descritta: l'aumento della frequenza può innescare turbe del ritmo nei cardiopatici.",
+        "C": "È descritto: la riduzione dell'efficienza del lavoro cardiaco può causare scompenso ed edema polmonare acuto.",
+        "E": "Sono descritte come turbe reattive tipiche del farmaco."
+      },
+      "riferimento": "pp. 107, 113 – Reazioni avverse dell'adrenalina"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Pre-gangliare simpatico = acetilcolina su recettori nicotinici; post-gangliare simpatico = noradrenalina, con le eccezioni colinergiche (ghiandole sudoripare, midollare del surrene) e la dopamina sui vasi renali.",
+    "MAO presinaptiche e COMT post-sinaptiche: gli inibitori delle MAO sono antidepressivi di terza scelta, gli inibitori delle COMT si usano nel Parkinson; gli inibitori del NET sono antidepressivi.",
+    "Accoppiamento recettoriale: α1 = Gq (PLC, IP3/DAG, Ca2+, contrazione); α2 = Gi (meno cAMP, meno Ca2+, più K+, inibizione del rilascio); tutti i β = Gs (cAMP).",
+    "Stesso vaso, effetti opposti: α1 = vasocostrizione (cute, rene), β2 = vasodilatazione (muscolo scheletrico, coronarie); l'adrenalina a basse dosi può abbassare la pressione per prevalenza β2.",
+    "Tachifilassi = fenomeno rapido/acuto con desensitizzazione (disaccoppiamento dalle proteine G, omologa o eterologa); tolleranza = fenomeno cronico, temporaneo e reversibile; down-regulation = internalizzazione dei recettori, più lenta."
+  ]
+}

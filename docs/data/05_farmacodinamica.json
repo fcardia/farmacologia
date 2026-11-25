@@ -1,0 +1,612 @@
+{
+  "capitolo": 5,
+  "titolo": "Farmacodinamica",
+  "pagine": "65-85",
+  "domande": [
+    {
+      "id": "05-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "GPCR",
+      "domanda": "Quale caratteristica descrive correttamente i recettori metabotropici accoppiati a proteine G (GPCR)?",
+      "opzioni": {
+        "A": "Presentano 4 domini transmembrana e formano un poro selettivo per gli ioni",
+        "B": "Presentano 7 domini transmembrana e possono omo- o eterodimerizzare",
+        "C": "Possiedono un'attività chinasica intrinseca su un sito tirosinico",
+        "D": "Sono complessi intracellulari che legano direttamente sequenze di DNA",
+        "E": "Sono attivati soprattutto da gas liberamente diffusibili come l'ossido nitrico"
+      },
+      "corretta": "B",
+      "spiegazione": "I GPCR hanno 7 domini transmembrana, sono accoppiati a proteine G trimeriche e possono omodimerizzare o eterodimerizzare (la loro funzionalità dipende da questo). Si stima che il 35-50% dei farmaci agisca su questi recettori.",
+      "distrattori": {
+        "A": "Quattro domini transmembrana e un poro sono tipici dei recettori ionotropici di classe 1 (nicotinico, GABA-A, glicina, serotonina).",
+        "C": "L'attività chinasica intrinseca su sito tirosinico è propria dei recettori tirosin-chinasici.",
+        "D": "Il legame diretto al DNA è proprio dei recettori intranucleari.",
+        "E": "L'ossido nitrico attiva i recettori con attività guanilato ciclasica, non i GPCR."
+      },
+      "riferimento": "p. 66 – Recettori metabotropici - GPCRs"
+    },
+    {
+      "id": "05-002",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Proteine G",
+      "domanda": "Dopo l'attivazione di un GPCR da parte del ligando, che cosa pone fine all'azione della subunità α della proteina G sugli effettori?",
+      "opzioni": {
+        "A": "La sostituzione del GDP con il GTP sulla subunità α",
+        "B": "La riassociazione immediata della subunità α al dimero βγ ancora legato al GTP",
+        "C": "L'idrolisi del GTP a GDP da parte dell'attività GTPasica della stessa subunità α",
+        "D": "La fosforilazione della subunità α da parte della proteina chinasi A",
+        "E": "Il distacco del ligando dal sito di legame extracellulare del recettore"
+      },
+      "corretta": "C",
+      "spiegazione": "La subunità α resta attiva finché non idrolizza il GTP grazie alla propria attività GTPasica, accelerata dall'interazione con il bersaglio e dalle proteine RGS (regulators of G protein signaling). La subunità α legata al GDP è inattiva.",
+      "distrattori": {
+        "A": "Lo scambio GDP→GTP è l'evento che attiva la subunità α e ne causa il distacco dal dimero βγ, non quello che la spegne.",
+        "B": "È il legame con il GTP a far separare α dal dimero βγ; la subunità α torna inattiva solo dopo l'idrolisi del GTP.",
+        "D": "Il testo non descrive una fosforilazione della subunità α da parte della PKA come meccanismo di spegnimento.",
+        "E": "Il testo indica che la subunità α resta attiva fino all'idrolisi del GTP, indipendentemente dal ligando sul recettore."
+      },
+      "riferimento": "p. 67 – Proteine G"
+    },
+    {
+      "id": "05-003",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Proteine G",
+      "domanda": "Secondo il testo, attraverso quale meccanismo il dimero βγ della proteina G può esercitare un feedback negativo sulla via di segnalazione a monte?",
+      "opzioni": {
+        "A": "Idrolizzando il GTP legato alla subunità α",
+        "B": "Regolando le chinasi che fosforilano il recettore in un sito che lo rende inattivo",
+        "C": "Attivando la fosfodiesterasi che converte il cAMP in adenosina",
+        "D": "Bloccando la sintesi di nuovo recettore (down-regulation)",
+        "E": "Legando il sito ortosterico del recettore e spiazzando l'agonista"
+      },
+      "corretta": "B",
+      "spiegazione": "Tra gli effetti del dimero βγ c'è la regolazione delle chinasi attivate dalle proteine G che fosforilano i recettori in un sito che li rende inattivi: in questo modo βγ esercita un feedback negativo e controlla la via di segnalazione a monte.",
+      "distrattori": {
+        "A": "L'attività GTPasica appartiene alla stessa subunità α (accelerata dalle RGS), non al dimero βγ.",
+        "C": "La fosfodiesterasi è un meccanismo di rimozione del cAMP, ma il testo non la attribuisce al dimero βγ come feedback sul recettore.",
+        "D": "La down-regulation riduce la disponibilità di recettori, ma non è descritta come effetto del dimero βγ.",
+        "E": "Il dimero βγ agisce sul versante intracellulare; il sito ortosterico è il sito di legame dell'agonista."
+      },
+      "riferimento": "p. 67 – Proteine G"
+    },
+    {
+      "id": "05-004",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Biased agonism",
+      "domanda": "Un paziente con dolore cronico richiede un analgesico oppioide. Secondo gli studi preclinici citati nel testo, quale vantaggio si attende da un agonista del recettore μ degli oppioidi \"distorto\" verso la proteina G (biased agonist)?",
+      "opzioni": {
+        "A": "Efficacia analgesica superiore alla morfina a qualsiasi dose",
+        "B": "Efficacia analgesica equivalente con minor rischio di dipendenza e di depressione respiratoria",
+        "C": "Azione analgesica indipendente dal legame al recettore μ",
+        "D": "Efficacia analgesica ridotta ma totale assenza di effetti avversi",
+        "E": "Effetto analgesico ottenuto bloccando il recettore μ come antagonista competitivo"
+      },
+      "corretta": "B",
+      "spiegazione": "Il biased agonism è la selettività di un ligando per alcune vie di trasduzione rispetto a un ligando di riferimento sullo stesso recettore. Agonisti μ distorti verso la proteina G mostrano negli studi preclinici efficacia equivalente sul dolore con rischio ridotto di dipendenza e depressione respiratoria.",
+      "distrattori": {
+        "A": "Il testo parla di efficacia equivalente, non superiore: il vantaggio è sugli effetti avversi.",
+        "C": "Un biased agonist agisce comunque sullo stesso recettore, orientandone la trasduzione verso una via preferenziale.",
+        "D": "L'efficacia è descritta come equivalente e gli effetti avversi come ridotti, non assenti.",
+        "E": "Un biased agonist è un agonista: attiva il recettore, non lo blocca."
+      },
+      "riferimento": "p. 68 – Biased agonists"
+    },
+    {
+      "id": "05-005",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Biased agonism",
+      "domanda": "Quale dei seguenti esempi di agonismo distorto (biased agonism) è riportato correttamente nel testo?",
+      "opzioni": {
+        "A": "Al recettore delle chemochine CXCR3, un agonista distorto verso la β-arrestina induce una chemiotassi delle cellule T maggiore di un agonista distorto verso la proteina G",
+        "B": "Al recettore AT1, l'angiotensina II attiva esclusivamente la β-arrestina e mai la proteina G trimerica",
+        "C": "Al recettore μ degli oppioidi, gli agonisti distorti verso la β-arrestina riducono la depressione respiratoria",
+        "D": "Il biased agonism è caratterizzato soprattutto a livello dei recettori tirosin-chinasici",
+        "E": "Al recettore CXCR3, un agonista distorto verso la proteina G induce la maggiore chemiotassi delle cellule T"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli studi sul sistema delle chemochine indicano che l'agonismo distorto è fisiologicamente rilevante: al CXCR3 un agonista distorto verso la β-arrestina ha indotto una maggiore chemiotassi delle cellule T rispetto a un agonista distorto verso la proteina G.",
+      "distrattori": {
+        "B": "L'angiotensina II al recettore AT1 attiva sia la proteina G trimerica sia la β-arrestina; un farmaco sperimentale spinge preferenzialmente verso la β-arrestina.",
+        "C": "Per il recettore μ il vantaggio è attribuito agli agonisti distorti verso la proteina G, non verso la β-arrestina.",
+        "D": "La selettività funzionale è ampiamente caratterizzata a livello dei GPCR.",
+        "E": "È l'inverso: la chemiotassi maggiore si ha con l'agonista distorto verso la β-arrestina."
+      },
+      "riferimento": "pp. 68-69 – Biased agonists; β-arrestina"
+    },
+    {
+      "id": "05-006",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Secondi messaggeri",
+      "domanda": "L'attivazione di un recettore accoppiato a proteina Gq, come il recettore metabotropico del glutammato descritto nel testo, porta alla produzione di quali secondi messaggeri?",
+      "opzioni": {
+        "A": "cAMP, per attivazione dell'adenilatociclasi",
+        "B": "cGMP, per attivazione della guanilato ciclasi",
+        "C": "Inositolo trifosfato (IP3) e diacilglicerolo (DAG), per attivazione della fosfolipasi C",
+        "D": "Adenosina, per attivazione della fosfodiesterasi",
+        "E": "Ossido nitrico, per attivazione della NO sintasi"
+      },
+      "corretta": "C",
+      "spiegazione": "La proteina Gq attiva la fosfolipasi C, che produce due secondi messaggeri: IP3, che mobilizza il calcio dai depositi intracellulari del reticolo endoplasmatico, e DAG. Entrambi portano alla fosforilazione di proteine.",
+      "distrattori": {
+        "A": "L'aumento di cAMP per attivazione dell'adenilatociclasi è tipico delle proteine Gs.",
+        "B": "Il cGMP è legato ai recettori con attività guanilato ciclasica e alle opsine, non alla via Gq.",
+        "D": "La fosfodiesterasi è un meccanismo di rimozione del cAMP, non un effettore della Gq.",
+        "E": "L'ossido nitrico è prodotto dalla NOS e attiva i recettori guanilato ciclasici, non è un prodotto della via Gq."
+      },
+      "riferimento": "pp. 69-71 – Modulazione degli effettori; Secondi messaggeri; Amplificazione del segnale"
+    },
+    {
+      "id": "05-007",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Effettori delle proteine G",
+      "domanda": "Il recettore dopaminergico D2 è accoppiato a una proteina G di tipo inibitorio. Qual è la conseguenza della sua attivazione da parte della dopamina?",
+      "opzioni": {
+        "A": "Attivazione dell'adenilatociclasi con aumento dell'AMP ciclico",
+        "B": "Attivazione della fosfolipasi C con produzione di IP3",
+        "C": "Blocco dell'adenilatociclasi con riduzione dell'AMP ciclico",
+        "D": "Apertura diretta di un canale per il cloro con iperpolarizzazione",
+        "E": "Dimerizzazione del recettore con autofosforilazione su tirosina"
+      },
+      "corretta": "C",
+      "spiegazione": "I recettori D2 (pre- e postsinaptici) sono accoppiati a proteine Gi: la loro attivazione blocca l'adenilatociclasi e riduce l'AMP ciclico. I recettori D1 invece sono accoppiati a proteine Gs.",
+      "distrattori": {
+        "A": "Attivazione dell'adenilatociclasi e aumento del cAMP sono l'effetto delle proteine Gs, come quelle accoppiate ai recettori D1.",
+        "B": "L'attivazione della fosfolipasi C è propria delle proteine Gq.",
+        "D": "L'apertura diretta di un canale per il cloro è propria di recettori ionotropici come il GABA-A, non di un GPCR.",
+        "E": "Dimerizzazione e attività chinasica su tirosina caratterizzano i recettori tirosin-chinasici."
+      },
+      "riferimento": "pp. 69, 71 – Modulazione degli effettori; Amplificazione del segnale (dopamina)"
+    },
+    {
+      "id": "05-008",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Bersagli dei farmaci",
+      "domanda": "Quale dei seguenti farmaci esplica la propria azione senza legarsi a un recettore, grazie alle sole proprietà chimico-fisiche?",
+      "opzioni": {
+        "A": "Atropina",
+        "B": "Mannitolo",
+        "C": "Fentanil",
+        "D": "Tamoxifene",
+        "E": "Aloperidolo"
+      },
+      "corretta": "B",
+      "spiegazione": "Il mannitolo agisce da diuretico/lassativo semplicemente promuovendo l'osmosi; analogamente il bicarbonato di sodio funge da antiacido reagendo con l'HCl gastrico. Non necessitano del legame con un recettore.",
+      "distrattori": {
+        "A": "L'atropina è un antagonista competitivo del recettore muscarinico.",
+        "C": "Il fentanil è un agonista del recettore degli oppioidi, più potente della morfina.",
+        "D": "Il tamoxifene è un antagonista di recettori intranucleari.",
+        "E": "L'aloperidolo è citato come farmaco abbastanza selettivo per il recettore dopaminergico D2."
+      },
+      "riferimento": "p. 66 – Farmaci che non necessitano di un recettore"
+    },
+    {
+      "id": "05-009",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Trasduzione del segnale",
+      "domanda": "Riguardo alla trasduzione del segnale dei recettori metabotropici, quale affermazione è FALSA?",
+      "opzioni": {
+        "A": "In assenza di ligando il recettore ha un'attività basale minima, che il ligando stabilizza aumentando la probabilità della conformazione attiva",
+        "B": "Un solo recettore attiva più proteine G e ogni adenilatociclasi produce molte molecole di cAMP, con amplificazione del segnale",
+        "C": "La fosfodiesterasi è un meccanismo di rimozione che spegne il segnale del cAMP, ed è alla base dell'adattamento dell'olfatto",
+        "D": "L'opsina dei coni e dei bastoncelli utilizza il cAMP come secondo messaggero, mentre i recettori olfattivi utilizzano il cGMP",
+        "E": "Modulare i passaggi a valle della cascata può essere più efficace che agire direttamente sul recettore a monte"
+      },
+      "corretta": "D",
+      "spiegazione": "È falsa perché il testo dice l'opposto: l'opsina dei fotorecettori della retina utilizza il cGMP, mentre il cAMP è il secondo messaggero dell'olfatto.",
+      "distrattori": {
+        "A": "Vera: il recettore non è fermo ma ha un'attività basale (rumore di fondo) a bassa energia, stabilizzata dal ligando.",
+        "B": "Vera: il testo descrive l'amplificazione a più livelli (proteine G, adenilatociclasi, cAMP, protein chinasi).",
+        "C": "Vera: la fosfodiesterasi rimuove il cAMP e l'adattamento all'odore avviene a livello molecolare.",
+        "E": "Vera: i passaggi delle cascate sono potenziali bersagli e la loro modulazione può risultare addirittura più efficace."
+      },
+      "riferimento": "pp. 67, 70-71 – Conformazione dinamica; Secondi messaggeri; Meccanismi di rimozione; Amplificazione"
+    },
+    {
+      "id": "05-010",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Modulazione della risposta recettoriale",
+      "domanda": "Qual è la differenza tra desensitizzazione e down-regulation recettoriale secondo il testo?",
+      "opzioni": {
+        "A": "La desensitizzazione è la produzione di nuovi recettori, la down-regulation la loro degradazione",
+        "B": "La desensitizzazione riduce la capacità di trasmissione del recettore pur legato all'agonista, la down-regulation riduce il numero di recettori disponibili",
+        "C": "La desensitizzazione riduce il numero di siti di legame, la down-regulation riduce solo l'affinità per l'agonista",
+        "D": "La desensitizzazione è irreversibile, la down-regulation si risolve in pochi secondi",
+        "E": "La desensitizzazione riguarda solo i recettori canale, la down-regulation solo i recettori intranucleari"
+      },
+      "corretta": "B",
+      "spiegazione": "Up- e down-regulation modificano la quantità di recettore e quindi di siti di legame. La desensitizzazione non riguarda la quantità di siti, ma una riduzione della capacità di trasmissione anche con l'agonista legato, per disaccoppiamento tra recettore, proteina G, effettori e secondi messaggeri (es. recettori adrenergici).",
+      "distrattori": {
+        "A": "La produzione di nuovi recettori è l'up-regulation; la desensitizzazione non riguarda il numero di recettori.",
+        "C": "È invertito: è la down-regulation a ridurre i siti di legame; la desensitizzazione agisce a valle del legame.",
+        "D": "Il testo non le descrive in questi termini; specifica solo che l'up-regulation richiede più tempo.",
+        "E": "Il testo cita come esempio di desensitizzazione i recettori adrenergici, che sono metabotropici."
+      },
+      "riferimento": "pp. 71-72 – Modulazione della risposta recettoriale"
+    },
+    {
+      "id": "05-011",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Legame farmaco-recettore",
+      "domanda": "Riguardo alle proprietà del legame farmaco-recettore, quale affermazione è FALSA?",
+      "opzioni": {
+        "A": "È generalmente mediato da legami chimici deboli, come ponti idrogeno e forze di Van der Waals",
+        "B": "È saturabile, perché il numero di recettori e di siti di legame è limitato",
+        "C": "È stereospecifico, perché dipende dalla conformazione della molecola presso il sito di legame",
+        "D": "È di norma covalente, perché un legame stabile è necessario a riportare il sistema all'equilibrio",
+        "E": "È reversibile, caratteristica tipica dei legami deboli"
+      },
+      "corretta": "D",
+      "spiegazione": "È falsa: il legame è di norma debole e reversibile proprio per permettere il ritorno all'equilibrio; un legame covalente richiederebbe energia sia per legarsi sia per dissociarsi. Legami più stabili sono un'eccezione, ad esempio per l'inibizione enzimatica.",
+      "distrattori": {
+        "A": "Vera: ponti idrogeno e forze di Van der Waals sono gli esempi riportati.",
+        "B": "Vera: fino alla saturazione l'effetto è proporzionale ai recettori occupati, poi la curva si appiattisce.",
+        "C": "Vera: il legame dipende dalla conformazione della molecola al sito di binding.",
+        "E": "Vera: la reversibilità risponde alla necessità di riportare il sistema in equilibrio (da non confondere con la neutralizzazione)."
+      },
+      "riferimento": "p. 72 – Le proprietà del legame farmaco-recettore"
+    },
+    {
+      "id": "05-012",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Curva dose-risposta",
+      "domanda": "Perché per caratterizzare un farmaco si preferisce l'EC50 all'effetto massimo?",
+      "opzioni": {
+        "A": "Perché l'EC50 coincide con la minima concentrazione efficace",
+        "B": "Perché l'effetto massimo si raggiunge a più concentrazioni diverse sul plateau, mentre all'EC50 corrisponde un'unica dose",
+        "C": "Perché l'EC50 misura direttamente l'efficacia massima del farmaco",
+        "D": "Perché l'EC50 è il rapporto tra dose letale e dose efficace",
+        "E": "Perché l'EC50 è indipendente dalla curva dose-risposta"
+      },
+      "corretta": "B",
+      "spiegazione": "L'effetto massimo si osserva a diverse concentrazioni, tutte sul plateau, per cui non indica quanta dose somministrare. L'EC50, dose che dà il 50% dell'effetto massimo, ha una relazione 1:1 con la dose ed è un dato più gestibile.",
+      "distrattori": {
+        "A": "La minima concentrazione efficace è la soglia sotto la quale non c'è effetto, non il 50% dell'effetto massimo.",
+        "C": "L'efficacia si legge sull'asse delle ordinate (risposta massima); l'EC50 è un parametro di dose legato alla potenza.",
+        "D": "Il rapporto DL50/DE50 è l'indice terapeutico.",
+        "E": "L'EC50 si ricava proprio dalla curva dose-risposta, proiettando il 50% dell'effetto sull'asse delle ascisse."
+      },
+      "riferimento": "pp. 73-75 – Curva dose-risposta; EC50"
+    },
+    {
+      "id": "05-013",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Efficacia e potenza",
+      "domanda": "Morfina e fentanil raggiungono la stessa efficacia analgesica massima, ma serve molto meno fentanil per ottenere la stessa risposta. Come si interpreta questo dato?",
+      "opzioni": {
+        "A": "Il fentanil è più efficace e ugualmente potente rispetto alla morfina",
+        "B": "Il fentanil ha la stessa efficacia ma maggiore potenza, cioè un'EC50 più bassa",
+        "C": "Il fentanil ha la stessa efficacia ma minore potenza, cioè un'EC50 più alta",
+        "D": "Il fentanil è un agonista parziale e la morfina un agonista completo",
+        "E": "Il fentanil ha un indice terapeutico più basso perché è più potente"
+      },
+      "corretta": "B",
+      "spiegazione": "L'efficacia è legata alla risposta (ordinate), la potenza alla dose (ascisse): meno farmaco serve per un dato effetto, maggiore è la potenza. Stessa efficacia massima ma meno farmaco necessario significa EC50 più bassa, quindi maggiore potenza.",
+      "distrattori": {
+        "A": "L'efficacia massima è la stessa; a differire è la potenza.",
+        "C": "Un'EC50 più alta indica un farmaco meno potente, che richiede più dose: è il caso della morfina, non del fentanil.",
+        "D": "Un agonista parziale ha un'efficacia massima più bassa, mentre qui l'efficacia massima è uguale.",
+        "E": "Il testo non collega la maggiore potenza a un indice terapeutico più basso; l'indice dipende dal rapporto DL50/DE50."
+      },
+      "riferimento": "pp. 75-76 – Efficacia e potenza"
+    },
+    {
+      "id": "05-014",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Indice terapeutico",
+      "domanda": "Come si calcola l'indice terapeutico e come va interpretato?",
+      "opzioni": {
+        "A": "DE50/DL50; un valore elevato indica un farmaco poco sicuro",
+        "B": "DL50/DE50; un valore elevato indica un farmaco sicuro",
+        "C": "DL1/DE99; un valore elevato indica un farmaco poco sicuro",
+        "D": "Massima concentrazione tossica meno minima concentrazione efficace",
+        "E": "DL50/DE50; un valore basso indica un farmaco sicuro"
+      },
+      "corretta": "B",
+      "spiegazione": "L'indice terapeutico è il rapporto tra DL50 (dose che produce il 50% della risposta tossica/letale) e DE50 (dose che produce il 50% dell'effetto terapeutico). Un indice elevato indica un farmaco sicuro, uno basso un farmaco poco sicuro.",
+      "distrattori": {
+        "A": "Il rapporto è invertito e l'interpretazione è sbagliata.",
+        "C": "DL1/DE99 è il margine di sicurezza; anche in questo caso un valore elevato indica maggiore sicurezza.",
+        "D": "L'intervallo tra massima concentrazione tossica e minima concentrazione efficace definisce la finestra terapeutica.",
+        "E": "La formula è corretta ma l'interpretazione no: un indice basso indica un farmaco poco sicuro."
+      },
+      "riferimento": "p. 76 – Indice terapeutico"
+    },
+    {
+      "id": "05-015",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Indice terapeutico",
+      "domanda": "Quale associazione tra parametro e definizione è corretta?",
+      "opzioni": {
+        "A": "Margine di sicurezza = DL1/DE99; finestra terapeutica = intervallo tra massima concentrazione tossica e minima concentrazione efficace",
+        "B": "Margine di sicurezza = DL50/DE50; finestra terapeutica = DL1/DE99",
+        "C": "Margine di sicurezza = DL99/DE1; finestra terapeutica = intervallo tra EC50 ed effetto massimo",
+        "D": "Margine di sicurezza = intervallo tra minima concentrazione efficace e EC50; finestra terapeutica = DL50/DE50",
+        "E": "Margine di sicurezza = DE99/DL1; finestra terapeutica = intervallo tra minima concentrazione efficace e plateau"
+      },
+      "corretta": "A",
+      "spiegazione": "Il margine di sicurezza è il rapporto tra DL1 (dose letale che produce l'1% dell'effetto negativo) e DE99 (dose efficace che produce il 99% dell'effetto positivo). La finestra terapeutica è il range tra massima concentrazione tossica e minima concentrazione efficace, importante in farmacocinetica.",
+      "distrattori": {
+        "B": "DL50/DE50 è l'indice terapeutico, e DL1/DE99 è il margine di sicurezza, non la finestra terapeutica.",
+        "C": "Le percentuali sono invertite, e la finestra terapeutica non riguarda EC50 ed effetto massimo.",
+        "D": "Le definizioni sono confuse: DL50/DE50 è l'indice terapeutico.",
+        "E": "Il rapporto è invertito (si divide la DL1 per la DE99) e la finestra terapeutica ha come limite superiore la massima concentrazione tossica."
+      },
+      "riferimento": "pp. 76-77 – Indice terapeutico; Finestra terapeutica; Margine di sicurezza"
+    },
+    {
+      "id": "05-016",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Indice terapeutico",
+      "domanda": "In laboratorio si confrontano due anestetici: con il primo, una dose appena superiore a quella sedativa provoca effetti tossici limitati; con il secondo, la stessa piccola differenza di dose può portare dalla sedazione profonda alla morte della cavia. Quale farmaco citato nel testo condivide il profilo del secondo anestetico?",
+      "opzioni": {
+        "A": "Il fenobarbital, per il suo margine di sicurezza molto piccolo",
+        "B": "Il cenegermin, per il suo margine di sicurezza molto piccolo",
+        "C": "Il fenobarbital, per il suo margine di sicurezza molto ampio",
+        "D": "Le benzodiazepine, perché attivano direttamente il canale del cloro anche senza GABA",
+        "E": "L'atropina, perché si lega in modo irreversibile al recettore muscarinico"
+      },
+      "corretta": "A",
+      "spiegazione": "Il secondo anestetico ha un margine di sicurezza molto inferiore. Il testo cita il fenobarbital, un barbiturico, come farmaco con un margine di sicurezza talmente piccolo da risultare estremamente pericoloso.",
+      "distrattori": {
+        "B": "Il cenegermin è un NGF ricombinante in collirio per la cheratite neurotrofica; il testo non lo cita per il margine di sicurezza.",
+        "C": "Il fenobarbital è citato proprio per il margine di sicurezza molto piccolo, non ampio.",
+        "D": "Le benzodiazepine agiscono su un sito allosterico solo in presenza del GABA, e per questo sono considerate più sicure dei barbiturici.",
+        "E": "L'atropina è un antagonista competitivo, quindi reversibile, del recettore muscarinico."
+      },
+      "riferimento": "pp. 77, 81-82 – Margine di sicurezza; Recettori GABA"
+    },
+    {
+      "id": "05-017",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Agonisti",
+      "domanda": "Un ligando lega con affinità maggiore la conformazione inattiva del recettore e produce un effetto di segno opposto a quello dell'agonista (attività intrinseca virtualmente −1). Di che tipo di ligando si tratta?",
+      "opzioni": {
+        "A": "Agonista parziale",
+        "B": "Agonista inverso",
+        "C": "Antagonista competitivo",
+        "D": "Antagonista allosterico non competitivo",
+        "E": "Agonista completo"
+      },
+      "corretta": "B",
+      "spiegazione": "L'agonista inverso ha affinità maggiore per la conformazione inattiva (a bassa energia) del recettore e produce un effetto di segno opposto, con una curva che tende verso il basso e attività virtualmente pari a −1.",
+      "distrattori": {
+        "A": "L'agonista parziale ha affinità per la conformazione attiva ma efficacia minore dell'agonista completo (attività tra 0 e 1), ad esempio il THC.",
+        "C": "L'antagonista ha attività intrinseca pari a zero: lega il recettore senza trasdurre un segnale.",
+        "D": "L'antagonista allosterico lega un sito diverso e riduce l'effetto massimo dell'agonista, ma ha attività intrinseca nulla.",
+        "E": "L'agonista completo stabilizza la conformazione attiva e ha attività pari a 1 (100%)."
+      },
+      "riferimento": "pp. 77-78 – Gli agonisti"
+    },
+    {
+      "id": "05-018",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Antagonisti",
+      "domanda": "Si costruisce la curva dose-risposta dell'acetilcolina sul recettore muscarinico in presenza di atropina. Che cosa si osserva?",
+      "opzioni": {
+        "A": "Riduzione dell'effetto massimo senza variazione della potenza",
+        "B": "Spostamento della curva verso destra con riduzione della potenza, effetto sormontabile aumentando l'agonista",
+        "C": "Spostamento della curva verso sinistra con aumento della potenza dell'acetilcolina",
+        "D": "Curva rivolta verso il basso, con effetto di segno opposto",
+        "E": "Riduzione irreversibile dell'efficacia, non sormontabile aumentando l'agonista"
+      },
+      "corretta": "B",
+      "spiegazione": "L'atropina è un antagonista competitivo del recettore muscarinico: lega reversibilmente lo stesso sito dell'agonista, per cui serve più acetilcolina per lo stesso effetto. La curva si sposta a destra, l'EC50 aumenta (potenza ridotta) e l'effetto è sormontabile.",
+      "distrattori": {
+        "A": "La riduzione dell'effetto massimo a potenza invariata è tipica dell'antagonista non competitivo allosterico.",
+        "C": "Uno spostamento verso sinistra indicherebbe maggiore potenza, il contrario di quanto fa un antagonista.",
+        "D": "Una curva verso il basso con effetto di segno opposto è tipica dell'agonista inverso.",
+        "E": "La riduzione non sormontabile dell'efficacia è propria degli antagonisti non competitivi, come la dibenamina sull'adrenalina."
+      },
+      "riferimento": "p. 78 – Antagonista competitivo"
+    },
+    {
+      "id": "05-019",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Antagonisti",
+      "domanda": "Quale affermazione sugli antagonisti non competitivi è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Si legano sempre in modo reversibile al sito ortosterico e riducono la potenza dell'agonista",
+        "B": "Possono legarsi irreversibilmente al sito ortosterico oppure a un sito allosterico, e riducono l'effetto massimo in modo non sormontabile",
+        "C": "Spostano la curva dose-risposta dell'agonista verso destra senza modificare l'effetto massimo",
+        "D": "Hanno affinità maggiore per la conformazione inattiva e producono un effetto di segno opposto",
+        "E": "Il loro effetto si annulla aumentando a sufficienza la concentrazione dell'agonista"
+      },
+      "corretta": "B",
+      "spiegazione": "Gli antagonisti non competitivi agiscono con due possibili meccanismi: interazione irreversibile con il sito ortosterico (quello dell'agonista) oppure legame a un sito diverso (antagonista allosterico). Riducono l'effetto massimo senza modificare la potenza e l'effetto non è sormontabile (es. dibenamina sull'adrenalina).",
+      "distrattori": {
+        "A": "Il legame reversibile al sito ortosterico con riduzione della potenza descrive l'antagonista competitivo.",
+        "C": "Lo spostamento a destra con effetto massimo invariato è tipico dell'antagonista competitivo.",
+        "D": "Questo descrive l'agonista inverso, non un antagonista (che ha attività intrinseca zero).",
+        "E": "Un effetto annullabile aumentando l'agonista è sormontabile, caratteristica dell'antagonismo competitivo."
+      },
+      "riferimento": "p. 78 – Antagonisti non competitivi"
+    },
+    {
+      "id": "05-020",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Recettore nicotinico",
+      "domanda": "In un paziente con miastenia, la trasmissione alla placca neuromuscolare tramite recettore nicotinico è compromessa. Secondo il testo, quale strategia terapeutica si utilizza e con quale razionale?",
+      "opzioni": {
+        "A": "Un agonista diretto del recettore nicotinico, che corregge la mutazione del sito di legame",
+        "B": "Un inibitore dell'acetilcolinesterasi, che rende più a lungo disponibile l'agonista endogeno",
+        "C": "Un antagonista competitivo come l'atropina, che riduce la desensitizzazione del recettore",
+        "D": "Un barbiturico, che apre direttamente il canale ionico della placca",
+        "E": "Un agonista dei recettori intranucleari, che aumenta l'espressione del recettore nicotinico"
+      },
+      "corretta": "B",
+      "spiegazione": "La terapia non agisce direttamente sul recettore: si usano inibitori dell'acetilcolinesterasi, l'enzima degradante posto sul versante esterno della membrana, così l'acetilcolina endogena resta disponibile più a lungo. Si agisce sul metabolismo dell'agonista invece che sul sito della mutazione.",
+      "distrattori": {
+        "A": "Il testo sottolinea che la terapia non agisce direttamente sul recettore mutato.",
+        "C": "L'atropina è un antagonista competitivo del recettore muscarinico, non è la terapia indicata per la placca neuromuscolare.",
+        "D": "I barbiturici attivano direttamente il recettore GABA-A, che fa passare cloro, non il recettore nicotinico.",
+        "E": "Il testo non indica i recettori intranucleari come strategia per la miastenia."
+      },
+      "riferimento": "p. 81 – Recettore nicotinico della placca neuromuscolare"
+    },
+    {
+      "id": "05-021",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Recettore GABA-A",
+      "domanda": "Perché i barbiturici sono considerati molto più pericolosi delle benzodiazepine, pur agendo entrambi sul recettore GABA-A?",
+      "opzioni": {
+        "A": "Perché i barbiturici sono antagonisti competitivi del GABA, mentre le benzodiazepine sono agonisti completi",
+        "B": "Perché i barbiturici attivano direttamente il canale mimando il GABA, mentre le benzodiazepine agiscono su un sito allosterico solo in presenza dell'agonista",
+        "C": "Perché i barbiturici aprono un canale per il sodio che depolarizza, mentre le benzodiazepine aprono un canale per il cloro",
+        "D": "Perché le benzodiazepine attivano direttamente il canale ma con efficacia parziale, mentre i barbiturici agiscono solo in presenza del GABA",
+        "E": "Perché i barbiturici si legano in modo covalente al sito del GABA, mentre le benzodiazepine si legano al sito ortosterico"
+      },
+      "corretta": "B",
+      "spiegazione": "Il barbiturico attiva in maniera diretta il recettore canale facendo passare molto cloro (mima il GABA): iperpolarizza e tende a spegnere le aree cerebrali, fino alla morte. La benzodiazepina agisce sul sito allosterico e attiva il recettore solo in presenza dell'agonista, stabilizzando senza sostituire l'effetto fisiologico.",
+      "distrattori": {
+        "A": "Nessuno dei due è un antagonista: entrambi potenziano la trasmissione GABAergica.",
+        "C": "Il recettore GABA-A fa passare il cloro, iperpolarizzando la membrana, in entrambi i casi.",
+        "D": "È invertito: sono i barbiturici ad attivare direttamente il canale, le benzodiazepine richiedono la presenza del GABA.",
+        "E": "Il testo non parla di legame covalente; benzodiazepine e barbiturici hanno siti di legame propri, distinti da quello del GABA."
+      },
+      "riferimento": "pp. 81-82 – Recettori GABA e Gly"
+    },
+    {
+      "id": "05-022",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Recettori ionotropici",
+      "domanda": "Quale affermazione sui recettori ionotropici attivati da ligando è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Il recettore nicotinico consente l'ingresso di sodio e la fuoriuscita di potassio e appartiene alla classe 1, a quattro domini transmembrana",
+        "B": "Il recettore muscarinico è il recettore canale dell'acetilcolina, mentre il nicotinico è metabotropico",
+        "C": "I recettori ionotropici del glutammato appartengono alla classe 1, insieme a GABA-A e glicina",
+        "D": "Il recettore GABA-A fa passare il sodio e depolarizza la membrana",
+        "E": "Il recettore per l'ATP appartiene alla classe 1, insieme al recettore nicotinico"
+      },
+      "corretta": "A",
+      "spiegazione": "Alla classe 1 appartengono recettore nicotinico, recettore canale della serotonina, GABA-A e glicina, tutti con quattro domini transmembrana. Il recettore nicotinico consente l'ingresso di sodio e la fuoriuscita di potassio secondo gradiente.",
+      "distrattori": {
+        "B": "È invertito: i muscarinici sono metabotropici, i nicotinici sono recettori canale.",
+        "C": "Il recettore ionotropico del glutammato appartiene alla seconda classe.",
+        "D": "Il GABA-A fa passare il cloro, che iperpolarizza la membrana.",
+        "E": "Il recettore per l'ATP è indicato nella quarta classe."
+      },
+      "riferimento": "p. 80 – Struttura dei recettori ionotropici; Recettore nicotinico"
+    },
+    {
+      "id": "05-023",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Recettori del glutammato",
+      "domanda": "Quale differenza tra i recettori canale del glutammato è riportata nel testo?",
+      "opzioni": {
+        "A": "L'AMPA fa passare più sodio che calcio, mentre l'NMDA fa passare sodio e calcio in ugual misura",
+        "B": "L'NMDA fa passare più sodio che calcio, mentre l'AMPA fa passare sodio e calcio in ugual misura",
+        "C": "L'AMPA è un recettore metabotropico, mentre NMDA e kainato sono recettori canale",
+        "D": "L'NMDA fa passare il cloro e iperpolarizza, mentre l'AMPA depolarizza",
+        "E": "I recettori mGluR sono recettori canale, mentre AMPA e NMDA sono metabotropici"
+      },
+      "corretta": "A",
+      "spiegazione": "I recettori canale del glutammato, neurotrasmettitore eccitatorio per eccellenza, sono NMDA, kainato e AMPA. Una differenza è che l'AMPA fa passare più sodio che calcio, mentre l'NMDA li fa passare in ugual misura.",
+      "distrattori": {
+        "B": "È invertito rispetto a quanto riportato nel testo.",
+        "C": "AMPA, NMDA e kainato sono tutti recettori canale; i metabotropici del glutammato sono gli mGluR.",
+        "D": "Il passaggio di cloro con iperpolarizzazione è tipico di GABA-A e glicina; il glutammato è eccitatorio.",
+        "E": "È invertito: gli mGluR sono metabotropici, AMPA e NMDA sono recettori canale."
+      },
+      "riferimento": "p. 82 – Recettori glutammato"
+    },
+    {
+      "id": "05-024",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Recettori tirosin-chinasici",
+      "domanda": "Il cenegermin, primo farmaco biotecnologico sviluppato completamente in Italia, è un NGF ricombinante che agisce su un recettore tirosin-chinasico. Per quale indicazione è usato?",
+      "opzioni": {
+        "A": "Acondroplasia nei bambini",
+        "B": "Cheratite neurotrofica, come collirio",
+        "C": "Miastenia, come inibitore dell'acetilcolinesterasi",
+        "D": "Epilessia notturna da mutazione del recettore nicotinico α4",
+        "E": "Sedazione, come modulatore allosterico del GABA-A"
+      },
+      "corretta": "B",
+      "spiegazione": "Il cenegermin è un collirio contro la cheratite neurotrofica, malattia degenerativa della cornea che può portare a cecità: la cornea, poco vascolarizzata, è nutrita dalle terminazioni nervose, la cui degenerazione la danneggia.",
+      "distrattori": {
+        "A": "Per l'acondroplasia il testo cita il vosoritide, approvato nel 2022, che agisce sul fattore di crescita dei fibroblasti (FGFr).",
+        "C": "Gli inibitori dell'acetilcolinesterasi sono usati nella miastenia; il cenegermin non appartiene a questa classe.",
+        "D": "L'epilessia notturna da mutazione della subunità α4 del nicotinico è citata come modello murino, non come indicazione del cenegermin.",
+        "E": "I modulatori allosterici del GABA-A sono le benzodiazepine."
+      },
+      "riferimento": "pp. 83-84 – Recettore tirosin-chinasico per l'NGF"
+    },
+    {
+      "id": "05-025",
+      "difficolta": "avanzato",
+      "tipo": "nozionistica",
+      "argomento": "Recettori guanilato ciclasici",
+      "domanda": "Quale caratteristica distingue i recettori con attività guanilato ciclasica (GC) descritti nel testo?",
+      "opzioni": {
+        "A": "Sono attivati soprattutto dall'ossido nitrico, unico ligando gassoso, che attraversa liberamente le membrane",
+        "B": "Hanno 7 domini transmembrana e attivano la fosfolipasi C tramite la proteina Gq",
+        "C": "Sono il tipo più comune di recettore per ormoni proteici e fattori di crescita",
+        "D": "Legano sequenze specifiche di DNA dopo l'attivazione da parte di ligandi liposolubili",
+        "E": "Formano un poro che fa passare cloro, come il recettore per la glicina"
+      },
+      "corretta": "A",
+      "spiegazione": "I recettori GC dimerizzano e utilizzano l'energia del GTP. Si distinguono per l'attivazione da parte dell'ossido nitrico, prodotto dalla NOS: è l'unico ligando gassoso visto e passa tra due cellule attraverso le membrane senza mediatori.",
+      "distrattori": {
+        "B": "Questo descrive i GPCR accoppiati a Gq.",
+        "C": "I recettori tirosin-chinasici sono il tipo più comune di recettori per ormoni proteici e fattori di crescita.",
+        "D": "Il legame al DNA è proprio dei recettori intranucleari.",
+        "E": "Il passaggio di cloro è proprio dei recettori ionotropici GABA-A e glicina."
+      },
+      "riferimento": "pp. 83-84 – Recettori tirosin-chinasici; Recettori GC"
+    },
+    {
+      "id": "05-026",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Recettori intranucleari",
+      "domanda": "Quale associazione tra farmaco e azione sui recettori intranucleari è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Glucocorticoidi = antagonisti; tamoxifene = agonista",
+        "B": "Glucocorticoidi, estrogeni e progestinici = agonisti; tamoxifene, anti-progestinici e anti-androgeni = antagonisti",
+        "C": "Estrogeni = antagonisti; anti-androgeni = agonisti",
+        "D": "Tamoxifene = agonista che favorisce l'apertura della cromatina; progestinici = antagonisti",
+        "E": "Vitamina D e acido retinoico = farmaci antagonisti; glucocorticoidi = ligandi endogeni"
+      },
+      "corretta": "B",
+      "spiegazione": "Tra i farmaci agonisti dei recettori intranucleari ci sono glucocorticoidi, estrogeni e progestinici; tra gli antagonisti tamoxifene, anti-progestinici e anti-androgeni. L'agonista favorisce l'apertura della cromatina, l'antagonista impedisce il legame dei cofattori e la dimerizzazione, bloccando la trascrizione.",
+      "distrattori": {
+        "A": "È invertito: i glucocorticoidi sono agonisti, il tamoxifene è antagonista.",
+        "C": "Gli estrogeni sono agonisti e gli anti-androgeni antagonisti.",
+        "D": "Il tamoxifene è un antagonista, che blocca la trascrizione; i progestinici sono agonisti.",
+        "E": "Vitamina D e acido retinoico sono ligandi endogeni; i glucocorticoidi sono indicati tra i farmaci agonisti."
+      },
+      "riferimento": "pp. 84-85 – Recettori intranucleari"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Potenza ≠ efficacia: la potenza riguarda la dose (EC50, ascisse), l'efficacia la risposta massima (ordinate). Morfina e fentanil hanno la stessa efficacia, ma il fentanil è più potente.",
+    "Antagonista competitivo (es. atropina sul muscarinico): curva spostata a destra, potenza ridotta, sormontabile. Antagonista non competitivo (irreversibile ortosterico o allosterico, es. dibenamina): effetto massimo ridotto, non sormontabile.",
+    "Agonista parziale = affinità per la conformazione attiva ma efficacia tra 0 e 1 (THC); agonista inverso = affinità per la conformazione inattiva, effetto di segno opposto (−1); antagonista = attività intrinseca zero.",
+    "Indice terapeutico = DL50/DE50; margine di sicurezza = DL1/DE99; finestra terapeutica = intervallo tra massima concentrazione tossica e minima concentrazione efficace. Fenobarbital: margine di sicurezza piccolissimo.",
+    "Barbiturici attivano direttamente il GABA-A (mimano il GABA, pericolosi); benzodiazepine agiscono su un sito allosterico solo in presenza del GABA (più sicure). Gs ↑cAMP, Gi ↓cAMP (D2), Gq → PLC → IP3 + DAG."
+  ]
+}

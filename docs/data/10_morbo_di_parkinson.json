@@ -1,0 +1,635 @@
+{
+  "capitolo": 10,
+  "titolo": "Morbo di Parkinson",
+  "pagine": "161-175",
+  "domande": [
+    {
+      "id": "10-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Patogenesi",
+      "domanda": "Nel morbo di Parkinson la via dopaminergica più colpita è quella nigrostriatale, che:",
+      "opzioni": {
+        "A": "parte dalla sostanza nera pars compacta del mesencefalo e proietta allo striato dorsale",
+        "B": "parte dalla sostanza nera pars reticulata e proietta al talamo",
+        "C": "parte dal nucleo subtalamico e proietta al globo pallido interno",
+        "D": "parte dallo striato dorsale e proietta alla sostanza nera pars compacta",
+        "E": "parte dal globo pallido esterno e proietta alla corteccia motoria"
+      },
+      "corretta": "A",
+      "spiegazione": "La via nigrostriatale, deputata al controllo motorio, va dai neuroni dopaminergici della sostanza nera pars compacta allo striato dorsale ed è la più colpita nel Parkinson.",
+      "distrattori": {
+        "B": "La pars reticulata non è l'origine della via dopaminergica: contiene interneuroni colinergici e neuroni GABAergici che proiettano al talamo.",
+        "C": "Il nucleo subtalamico rilascia glutammato verso globo pallido interno e pars reticulata nella via indiretta: non è una via dopaminergica.",
+        "D": "La direzione è invertita: lo striato è il bersaglio della proiezione, non l'origine.",
+        "E": "Il globo pallido esterno è una stazione GABAergica della via indiretta che inibisce il nucleo subtalamico."
+      },
+      "riferimento": "p. 161 – Via nigrostriatale; p. 165 – Via diretta e indiretta"
+    },
+    {
+      "id": "10-002",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Patogenesi",
+      "domanda": "Secondo il testo, i sintomi di parkinsonismo compaiono quando i livelli di dopamina si riducono di circa:",
+      "opzioni": {
+        "A": "il 70-80%",
+        "B": "il 10-15%",
+        "C": "il 20-30%",
+        "D": "il 40-50%",
+        "E": "il 95-100%"
+      },
+      "corretta": "A",
+      "spiegazione": "La perdita dei neuroni dopaminergici è fisiologica con l'età, ma i sintomi si manifestano solo quando i livelli calano del 70-80%, cioè quando sono degenerati 4/5 dei neuroni e ne resta funzionante circa 1/5.",
+      "distrattori": {
+        "B": "Il 10-15% è la quota di pazienti con un familiare di primo grado affetto, non la soglia di deplezione dopaminergica.",
+        "C": "Una riduzione così modesta rientra nel calo fisiologico legato all'invecchiamento e resta asintomatica.",
+        "D": "Il testo indica una soglia nettamente più alta: devono degenerare 4/5 dei neuroni dopaminergici.",
+        "E": "Non è richiesta la perdita totale: circa 1/5 dei neuroni è ancora funzionante all'esordio dei sintomi."
+      },
+      "riferimento": "p. 163 – Studio sul Fetal Programming"
+    },
+    {
+      "id": "10-003",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "MPTP",
+      "domanda": "L'MPTP riproduce una sindrome parkinsoniana perché, dopo aver attraversato la barriera ematoencefalica:",
+      "opzioni": {
+        "A": "viene ossidato a MPP+ dalle MAO-B gliali e l'MPP+ entra nei neuroni dopaminergici tramite il DAT, inibendo la respirazione mitocondriale",
+        "B": "viene decarbossilato a dopamina nelle cellule gliali e satura i recettori D2 striatali",
+        "C": "blocca direttamente i recettori dopaminergici D1 e D2 dello striato in modo irreversibile",
+        "D": "viene metabolizzato dalle COMT a un derivato metilato che distrugge gli interneuroni colinergici",
+        "E": "inibisce la tirosina idrossilasi nei neuroni della pars reticulata della sostanza nera"
+      },
+      "corretta": "A",
+      "spiegazione": "L'MPTP passa la BEE, nelle cellule gliali è ossidato dalle MAO-B a MPP+, che entra nei neuroni della sostanza nera pars compacta sfruttando il trasportatore della dopamina (DAT); lì inibisce la respirazione mitocondriale e induce stress ossidativo, causando morte neuronale.",
+      "distrattori": {
+        "B": "La decarbossilazione a dopamina riguarda la L-DOPA, non l'MPTP, che agisce come tossina mitocondriale.",
+        "C": "La selettività dell'MPTP dipende dall'affinità del suo metabolita per il DAT, non da un blocco recettoriale.",
+        "D": "Le COMT non sono coinvolte: l'attivazione metabolica dell'MPTP è operata dalle MAO-B.",
+        "E": "Il bersaglio è la respirazione mitocondriale dei neuroni dopaminergici della pars compacta, non la tirosina idrossilasi della pars reticulata."
+      },
+      "riferimento": "p. 162 – MPTP e ipotesi dopaminergica del Parkinson"
+    },
+    {
+      "id": "10-004",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Circuito dei gangli della base",
+      "domanda": "Nella via diretta dei gangli della base, la dopamina della sostanza nera pars compacta stimola gli MSN striatali che esprimono D1; la conseguenza è che:",
+      "opzioni": {
+        "A": "il GABA striatale spegne il globo pallido interno, viene meno l'inibizione GABAergica sul talamo e la via talamo-corticale è attivata",
+        "B": "il GABA striatale eccita il globo pallido interno, che aumenta l'inibizione sul talamo bloccando il movimento",
+        "C": "il nucleo subtalamico viene disinibito e rilascia glutammato sul globo pallido interno",
+        "D": "il talamo rilascia GABA sulla corteccia riducendo il movimento volontario",
+        "E": "gli interneuroni colinergici della pars reticulata vengono attivati e inibiscono lo striato"
+      },
+      "corretta": "A",
+      "spiegazione": "Nella via diretta i D1 striatali stimolati producono GABA che spegne il globo pallido interno (e la pars reticulata): venendo meno l'inibizione GABAergica sul talamo, la via talamo-corticale non è inibita e il movimento volontario è permesso, con rilascio di glutammato in corteccia.",
+      "distrattori": {
+        "B": "Il GABA è inibitorio: spegne il globo pallido interno, non lo eccita; l'esito finale della via diretta è facilitatorio sul movimento.",
+        "C": "La disinibizione del nucleo subtalamico appartiene alla via indiretta, mediata dai recettori D2.",
+        "D": "Il talamo proietta alla corteccia rilasciando glutammato, non GABA.",
+        "E": "Gli interneuroni colinergici non fanno parte dello schema della via diretta descritto nel testo."
+      },
+      "riferimento": "p. 165 – Via diretta"
+    },
+    {
+      "id": "10-005",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Circuito dei gangli della base",
+      "domanda": "Quale sequenza descrive correttamente la via indiretta dei gangli della base?",
+      "opzioni": {
+        "A": "MSN D2 striatali → GABA che inibisce il globo pallido esterno → nucleo subtalamico disinibito → glutammato su globo pallido interno e pars reticulata → inibizione GABAergica del talamo",
+        "B": "MSN D1 striatali → GABA che inibisce il globo pallido esterno → talamo disinibito → attivazione talamo-corticale",
+        "C": "MSN D2 striatali → glutammato che eccita il globo pallido interno → talamo disinibito → movimento facilitato",
+        "D": "Nucleo subtalamico → GABA sul globo pallido esterno → striato disinibito → aumento del rilascio di dopamina",
+        "E": "MSN D2 striatali → GABA sul talamo → riduzione diretta del rilascio corticale di glutammato"
+      },
+      "corretta": "A",
+      "spiegazione": "Nella via indiretta la dopamina agisce sui D2 degli MSN striatali, il cui GABA inibisce il globo pallido esterno; questo non può più inibire il nucleo subtalamico, che rilascia glutammato eccitando globo pallido interno e pars reticulata, i quali inibiscono il talamo interrompendo la via talamo-corticale.",
+      "distrattori": {
+        "B": "Gli MSN della via indiretta esprimono D2, non D1, e l'esito della via è l'inibizione, non l'attivazione talamo-corticale.",
+        "C": "Gli MSN sono GABAergici: producono GABA, non glutammato; il glutammato è rilasciato dal nucleo subtalamico.",
+        "D": "Il nucleo subtalamico è glutammatergico e riceve, non invia, l'inibizione dal globo pallido esterno.",
+        "E": "Lo striato non proietta direttamente al talamo: la catena passa per pallido esterno, nucleo subtalamico, pallido interno e pars reticulata."
+      },
+      "riferimento": "p. 165 – Via indiretta"
+    },
+    {
+      "id": "10-006",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Sintomi",
+      "domanda": "Quale dei seguenti è elencato tra i sintomi motori tipici della fase precoce (early PD)?",
+      "opzioni": {
+        "A": "Tremore a riposo",
+        "B": "Costipazione",
+        "C": "Disturbi del sonno REM",
+        "D": "Demenza",
+        "E": "Depressione"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra i sintomi parkinsoniani motori tipici dell'early PD il testo elenca tremore a riposo, distonia muscolare, bradicinesia, rigidità e difficoltà a muovere gli arti, perdita dei riflessi posturali, vertigini e cadute, crampi.",
+      "distrattori": {
+        "B": "La costipazione è citata tra i sintomi prodromici, che precedono la diagnosi.",
+        "C": "I problemi del sonno REM sono sintomi prodromici, non motori.",
+        "D": "La demenza è un sintomo non motorio della fase tardiva (late PD).",
+        "E": "La depressione compare tra i sintomi prodromici e tra i non motori del late PD."
+      },
+      "riferimento": "p. 166 – Sintomi parkinsoniani motori"
+    },
+    {
+      "id": "10-007",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Sintomi",
+      "domanda": "Un uomo di 58 anni, senza diagnosi neurologica, riferisce da tempo stipsi ostinata, disturbi del sonno REM, sonnolenza diurna e umore depresso; non presenta ancora disturbi del movimento. Come vanno inquadrati questi sintomi secondo il testo?",
+      "opzioni": {
+        "A": "Come possibili sintomi prodromici di morbo di Parkinson, che precedono il momento della diagnosi",
+        "B": "Come sintomi non motori tipici della fase tardiva (late PD)",
+        "C": "Come effetti collaterali attesi di una terapia con levodopa",
+        "D": "Come manifestazioni che escludono il morbo di Parkinson, essendo assente il tremore",
+        "E": "Come segni di fluttuazione ON-OFF da trattamento cronico"
+      },
+      "corretta": "A",
+      "spiegazione": "Costipazione, problemi del sonno REM, ipossia, depressione e sonnolenza sono i sintomi della fase prodromica: riconoscerli in pazienti non ancora diagnosticati permette di sospettare precocemente il Parkinson.",
+      "distrattori": {
+        "B": "I sintomi non motori del late PD indicati sono depressione e demenza in un paziente già diagnosticato e in fase avanzata.",
+        "C": "Gli effetti collaterali della levodopa sono gastro-enterici, cardiovascolari e psichici (confusione, allucinazioni, insonnia), e qui non c'è alcuna terapia in corso.",
+        "D": "La fase prodromica è per definizione priva di sintomi motori conclamati: la loro assenza non esclude la malattia.",
+        "E": "Le fluttuazioni ON-OFF compaiono dopo anni di terapia con levodopa, non in un paziente mai trattato."
+      },
+      "riferimento": "p. 166 – Sintomi prodromici e fase prodromica"
+    },
+    {
+      "id": "10-008",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Fattori di rischio e genetica",
+      "domanda": "Riguardo alla componente genetica del morbo di Parkinson, il testo indica che:",
+      "opzioni": {
+        "A": "nelle forme familiari la causa genetica più comune è la mutazione del gene LRRK2",
+        "B": "la malattia è una patologia monogenica a trasmissione autosomica dominante",
+        "C": "il gene più frequentemente mutato nelle forme familiari è ATP13A2",
+        "D": "la familiarità riguarda circa il 50% dei pazienti",
+        "E": "nei familiari di primo grado over 65 il rischio sale dall'1% al 30%"
+      },
+      "corretta": "A",
+      "spiegazione": "Nelle forme familiari di Parkinson la causa genetica più comune è rappresentata da mutazioni del gene LRRK2 (leucine-rich-repeat kinase-2, PARK8).",
+      "distrattori": {
+        "B": "Il Parkinson è definito malattia neurodegenerativa progressiva sporadica, a eziologia ignota, frutto di un rapporto gene-ambiente.",
+        "C": "ATP13A2 (PARK9) compare nell'elenco dei geni, ma non è indicato come il più comune nelle forme familiari.",
+        "D": "Il 10-15% dei pazienti riferisce almeno un familiare di primo grado affetto.",
+        "E": "Nei familiari di primo grado over 65 il rischio sale dall'1% al 3%, un incremento comunque ridotto."
+      },
+      "riferimento": "p. 168 – Genetics/Environment e familiarità"
+    },
+    {
+      "id": "10-009",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Levodopa",
+      "domanda": "Un paziente in terapia con sola levodopa inizia ad assumere un integratore contenente vitamina B6 (piridossina) e peggiora clinicamente. La spiegazione fornita dal testo è che:",
+      "opzioni": {
+        "A": "la piridossina è cofattore della decarbossilasi e la sua maggiore disponibilità favorisce la decarbossilazione periferica della L-DOPA",
+        "B": "la piridossina compete con la L-DOPA per i trasportatori degli amminoacidi a livello della BEE",
+        "C": "la piridossina induce le COMT periferiche aumentando la formazione di 3-O-metildopa",
+        "D": "la piridossina inibisce le MAO-B centrali riducendo la disponibilità di dopamina",
+        "E": "la piridossina riduce l'assorbimento intestinale della L-DOPA legandola nel lume"
+      },
+      "corretta": "A",
+      "spiegazione": "La L-DOPA interagisce con la vitamina B6, che ne riduce l'efficacia: la decarbossilasi è dipendente da questa vitamina, quindi l'aumentata disponibilità del cofattore favorisce la decarbossilazione periferica della L-DOPA, lasciandone meno per il SNC.",
+      "distrattori": {
+        "B": "La L-DOPA usa trasportatori specifici per gli amminoacidi, ma il testo attribuisce l'interazione con la B6 al ruolo di cofattore della decarbossilasi.",
+        "C": "La formazione di 3-O-metildopa è legata all'azione delle COMT e all'uso dei loro inibitori, non alla piridossina.",
+        "D": "La piridossina non è descritta come inibitore delle MAO-B; le MAO-B sono bersaglio di selegilina e rasagilina.",
+        "E": "Il problema non è l'assorbimento intestinale, bensì l'aumentata conversione periferica a dopamina."
+      },
+      "riferimento": "p. 169 – Levodopa e interazione con la vitamina B6"
+    },
+    {
+      "id": "10-010",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Inibitori della DOPA-decarbossilasi",
+      "domanda": "Carbidopa e benserazide sono associati alla levodopa perché:",
+      "opzioni": {
+        "A": "inibiscono le DOPA-decarbossilasi periferiche, aumentando la disponibilità centrale di levodopa e riducendo nausea, vomito e aritmie",
+        "B": "attraversano la BEE e aumentano la conversione centrale di levodopa in dopamina",
+        "C": "bloccano le MAO-B centrali riducendo la deaminazione ossidativa della dopamina",
+        "D": "stimolano direttamente i recettori D1 e D2 striatali potenziando l'effetto della levodopa",
+        "E": "impediscono la formazione periferica di 3-O-metildopa inibendo le COMT"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli inibitori delle DOPA-decarbossilasi (carbidopa, benserazide) evitano l'antagonismo funzionale e gli effetti periferici legati all'interazione con la piridossina, aumentano la disponibilità centrale della levodopa co-somministrata e riducono gli effetti collaterali quali nausea, vomito e aritmie.",
+      "distrattori": {
+        "B": "Il loro bersaglio è la decarbossilazione periferica: la conversione centrale resta affidata ai neuroni dopaminergici residui.",
+        "C": "Il blocco delle MAO-B centrali è l'azione di selegilina e rasagilina.",
+        "D": "La stimolazione diretta dei recettori D1/D2 è propria degli agonisti dopaminergici diretti come bromocriptina o pergolide.",
+        "E": "L'inibizione delle COMT, con minore formazione di 3-O-metildopa, è ottenuta da tolcapone ed entacapone."
+      },
+      "riferimento": "p. 171 – Inibitori delle DOPA decarbossilasi"
+    },
+    {
+      "id": "10-011",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Levodopa",
+      "domanda": "Tra gli effetti collaterali della levodopa, soprattutto a inizio terapia, il testo elenca a livello cardiovascolare:",
+      "opzioni": {
+        "A": "ipotensione ortostatica, aritmie e tachicardia",
+        "B": "ipertensione grave e bradicardia",
+        "C": "edema polmonare e scompenso cardiaco",
+        "D": "fibrosi valvolare e versamento pericardico",
+        "E": "vasospasmo coronarico con angina da sforzo"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli effetti collaterali della levodopa sono distinti in gastro-enterici (nausea e vomito), cardiovascolari (ipotensione ortostatica, aritmie, tachicardia) e psichici (stato confusionale, allucinazioni, insonnia).",
+      "distrattori": {
+        "B": "Il testo indica ipotensione ortostatica e tachicardia, non ipertensione con bradicardia.",
+        "C": "Lo scompenso cardiaco non è tra gli effetti attribuiti alla levodopa.",
+        "D": "Il testo non riporta questi effetti; per gli agonisti ergot-derivati sono citate infiammazioni sierose nel caso della pergolide.",
+        "E": "L'angina (rara) è segnalata per la lisuride nella tabella degli agonisti diretti, non come effetto cardiovascolare della levodopa."
+      },
+      "riferimento": "p. 169 – Levodopa, effetti collaterali"
+    },
+    {
+      "id": "10-012",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Fluttuazioni motorie",
+      "domanda": "Un paziente in terapia da alcuni anni riferisce che l'effetto di ogni dose di levodopa si esaurisce prima del previsto, con ricomparsa dei sintomi a fine dose. Come si definisce questa fluttuazione e qual è la soluzione indicata?",
+      "opzioni": {
+        "A": "Wearing OFF; si può aumentare dose e frequenza, con il rischio di indurre discinesie",
+        "B": "Delayed ON; si deve sospendere la levodopa e passare agli anticolinergici",
+        "C": "Sindrome ON-OFF; si deve impiantare subito uno stimolatore per DBS",
+        "D": "Delayed ON; si deve ridurre la dose per favorire la risensibilizzazione recettoriale",
+        "E": "Wearing OFF; si deve sospendere l'inibitore delle decarbossilasi per aumentare la quota periferica di dopamina"
+      },
+      "corretta": "A",
+      "spiegazione": "Il wearing OFF è il deterioramento da fine dose, cioè la perdita dell'efficacia terapeutica prima del previsto; una possibile soluzione è l'aumento di dose e di frequenza, con il rischio però di sviluppare discinesie.",
+      "distrattori": {
+        "B": "Il delayed ON è il ritardo nella comparsa dell'efficacia all'inizio dell'assunzione, non l'esaurimento di fine dose.",
+        "C": "La sindrome ON-OFF è caratterizzata da improvvisi cambiamenti della sintomatologia; la DBS è riservata a pazienti in fase tardiva non responsivi ad alcuna terapia farmacologica.",
+        "D": "Né la definizione né la soluzione corrispondono: ridurre la dose non è la strategia indicata per il fine dose.",
+        "E": "Sospendere l'inibitore delle decarbossilasi ridurrebbe la disponibilità centrale di levodopa e aumenterebbe gli effetti periferici."
+      },
+      "riferimento": "p. 169 – Fluttuazioni nella terapia anti-Parkinson"
+    },
+    {
+      "id": "10-013",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Inibitori delle COMT",
+      "domanda": "L'impiego di tolcapone ed entacapone in associazione alla levodopa può contribuire alla comparsa della fase ON-OFF perché:",
+      "opzioni": {
+        "A": "favoriscono la produzione di 3-O-metildopa, che ha emivita molto lunga e tende ad accumularsi",
+        "B": "aumentano la deaminazione ossidativa della dopamina a livello striatale",
+        "C": "riducono progressivamente il numero di recettori D2 postsinaptici",
+        "D": "accelerano l'eliminazione renale della levodopa, abbreviandone l'emivita",
+        "E": "bloccano il trasportatore degli amminoacidi usato dalla levodopa per attraversare la BEE"
+      },
+      "corretta": "A",
+      "spiegazione": "L'azione di tolcapone ed entacapone può favorire la produzione di 3-O-metildopa (3-O-MD), molecola con emivita molto lunga che, accumulandosi, può portare allo sviluppo successivo della fase ON-OFF.",
+      "distrattori": {
+        "B": "La deaminazione ossidativa della dopamina è operata dalle MAO-B ed è ridotta, non aumentata, da selegilina e rasagilina.",
+        "C": "Il testo non attribuisce agli inibitori delle COMT una down-regolazione dei recettori D2.",
+        "D": "Gli inibitori delle COMT sono associati alla levodopa per sostenerne l'azione, non per accelerarne l'eliminazione.",
+        "E": "Il trasporto della levodopa attraverso la BEE avviene tramite trasportatori per gli amminoacidi e non è bersaglio di questi farmaci."
+      },
+      "riferimento": "p. 170 – Inibitori delle COMT"
+    },
+    {
+      "id": "10-014",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Inibitori delle COMT",
+      "domanda": "Nel confronto tra i due inibitori delle COMT citati, il testo precisa che:",
+      "opzioni": {
+        "A": "il tolcapone è stato eliminato dall'uso per i problemi che dava a livello centrale, mentre l'entacapone è ancora utilizzato",
+        "B": "l'entacapone è stato ritirato per epatotossicità, mentre il tolcapone resta in uso",
+        "C": "entrambi sono stati ritirati e sostituiti dagli inibitori delle MAO-B",
+        "D": "il tolcapone è utilizzabile solo in monoterapia, l'entacapone solo con gli agonisti diretti",
+        "E": "l'entacapone agisce solo a livello centrale, il tolcapone solo a livello periferico"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra gli inibitori delle COMT il tolcapone è oggi stato eliminato per i problemi che dava a livello centrale, a differenza dell'entacapone che è ancora utilizzato.",
+      "distrattori": {
+        "B": "La situazione è invertita: è il tolcapone a essere stato abbandonato.",
+        "C": "Gli inibitori delle MAO-B sono una classe distinta di agonisti indiretti, non il sostituto dichiarato delle COMT.",
+        "D": "Gli inibitori delle COMT sono sostanze che sostengono l'azione della L-DOPA e vengono associati ad essa.",
+        "E": "Entrambi sono descritti come attivi sulle COMT a livello periferico; al tolcapone sono attribuiti problemi a livello centrale."
+      },
+      "riferimento": "p. 170 – Inibitori delle COMT"
+    },
+    {
+      "id": "10-015",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Inibitori delle MAO-B",
+      "domanda": "In un paziente parkinsoniano che assume rasagilina, quale associazione farmacologica il testo raccomanda di evitare?",
+      "opzioni": {
+        "A": "Gli inibitori selettivi della ricaptazione della serotonina e della noradrenalina",
+        "B": "Gli inibitori delle DOPA-decarbossilasi periferiche",
+        "C": "Gli antagonisti dei recettori muscarinici",
+        "D": "L'amantadina",
+        "E": "Gli agonisti dopaminergici diretti ergot-derivati"
+      },
+      "corretta": "A",
+      "spiegazione": "Per selegilina e rasagilina, che riducono a livello centrale la deaminazione ossidativa della dopamina aumentandone la disponibilità, il testo raccomanda di evitare la somministrazione con gli inibitori selettivi della ricaptazione della serotonina e della noradrenalina, perché gli effetti possono interferire fra loro.",
+      "distrattori": {
+        "B": "Carbidopa e benserazide sono parte della terapia iniziale standard in associazione alla levodopa.",
+        "C": "Gli anticolinergici sono indicati nel testo come opzione terapeutica del Parkinson, senza divieto di associazione con le MAO-B.",
+        "D": "L'amantadina è presentata come utile nelle forme lievi, senza controindicazioni verso gli inibitori delle MAO-B.",
+        "E": "Bromocriptina e pergolide vengono anzi associate alla terapia quando l'effetto della levodopa diminuisce."
+      },
+      "riferimento": "p. 170 – Inibitori delle MAO-B"
+    },
+    {
+      "id": "10-016",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Agonisti dopaminergici diretti",
+      "domanda": "Per quale motivo gli agonisti dopaminergici diretti impiegati nel Parkinson agiscono sia sui recettori D1 sia sui D2?",
+      "opzioni": {
+        "A": "Perché attivando entrambi i recettori si stimolano sia la via diretta sia la via indiretta, recuperando l'equilibrio fisiologico fra le due",
+        "B": "Perché il recettore D1 media l'effetto terapeutico e il D2 ne limita gli effetti collaterali periferici",
+        "C": "Perché i recettori D1 sono presenti solo in periferia e i D2 solo nel SNC",
+        "D": "Perché l'attivazione del solo D1 provocherebbe immediatamente discinesie gravi",
+        "E": "Perché il legame contemporaneo ai due recettori ne prolunga l'emivita plasmatica"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli agonisti diretti hanno attività sia D1 sia D2 e quindi attivano sia la via diretta sia la via indiretta, permettendo di ritrovare l'equilibrio presente fisiologicamente: cosa che non accadrebbe con sostanze selettive per uno solo dei due recettori.",
+      "distrattori": {
+        "B": "Il testo non assegna al D2 un ruolo protettivo verso gli effetti periferici: entrambi i sottotipi servono a riequilibrare le due vie.",
+        "C": "D1 e D2 sono entrambi espressi dagli MSN dello striato, cioè nel SNC.",
+        "D": "Le discinesie sono riportate come effetto del trattamento cronico con levodopa, non come conseguenza della selettività D1.",
+        "E": "L'emivita dipende dalle caratteristiche farmacocinetiche del singolo farmaco, non dal numero di recettori occupati."
+      },
+      "riferimento": "p. 172 – Agonisti dopaminergici diretti"
+    },
+    {
+      "id": "10-017",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Agonisti dopaminergici diretti",
+      "domanda": "Un paziente in fase ON/OFF non risponde più alle altre terapie antiparkinsoniane. Quale farmaco è indicato dal testo proprio per questa situazione?",
+      "opzioni": {
+        "A": "Apomorfina",
+        "B": "Amantadina",
+        "C": "Benserazide",
+        "D": "Entacapone",
+        "E": "Selegilina"
+      },
+      "corretta": "A",
+      "spiegazione": "L'apomorfina, alcaloide derivato dalla morfina con attività D1/D2, è indicata come terapia nei pazienti in fase ON/OFF resistenti alle altre terapie.",
+      "distrattori": {
+        "B": "L'amantadina ha trovato efficacia nelle forme lievi di Parkinson, con durata clinica di 6-8 mesi.",
+        "C": "La benserazide è un inibitore delle DOPA-decarbossilasi da associare alla levodopa, non un farmaco di salvataggio nella fase ON/OFF.",
+        "D": "L'entacapone è un inibitore delle COMT usato nella fase di wearing OFF come supporto alla L-DOPA.",
+        "E": "La selegilina è un inibitore delle MAO-B che aumenta la disponibilità centrale di dopamina, non indicato per i casi resistenti in ON/OFF."
+      },
+      "riferimento": "p. 173 – Indicazioni cliniche; p. 172 – Agonisti dopaminergici diretti"
+    },
+    {
+      "id": "10-018",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Agonisti dopaminergici diretti",
+      "domanda": "Quale affermazione corrisponde alle indicazioni cliniche riportate per gli agonisti dopaminergici diretti?",
+      "opzioni": {
+        "A": "La bromocriptina in monoterapia nelle fasi iniziali dà risultati paragonabili alla levodopa nei primi 6 mesi",
+        "B": "La pergolide è il farmaco di scelta nell'anziano per l'assenza di effetti cognitivi",
+        "C": "Il pramipexolo è utilizzabile solo in associazione alla levodopa dopo l'esordio del fenomeno ON/OFF",
+        "D": "L'apomorfina è indicata in monoterapia nelle fasi iniziali di malattia",
+        "E": "La bromocriptina va sospesa quando l'effetto terapeutico della levodopa si riduce"
+      },
+      "corretta": "A",
+      "spiegazione": "La bromocriptina si somministra in monoterapia nelle fasi iniziali, con risultati paragonabili alla levodopa nei primi 6 mesi, e va poi associata alla levodopa quando l'effetto di questa diminuisce o dopo l'esordio del fenomeno ON/OFF.",
+      "distrattori": {
+        "B": "Per la pergolide il testo raccomanda attenzione proprio ad allucinazioni e disturbi cognitivi negli anziani.",
+        "C": "Il pramipexolo è descritto come efficace in monoterapia, con buon controllo delle fluttuazioni motorie e dell'affettività.",
+        "D": "L'apomorfina è riservata ai pazienti in fase ON/OFF resistenti alle altre terapie.",
+        "E": "Al contrario, la bromocriptina va associata alla levodopa proprio quando l'effetto di quest'ultima diminuisce."
+      },
+      "riferimento": "p. 173 – Indicazioni cliniche"
+    },
+    {
+      "id": "10-019",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Agonisti dopaminergici diretti",
+      "domanda": "Secondo la tabella delle caratteristiche degli agonisti dopaminergici diretti, quale farmaco presenta l'emivita più lunga?",
+      "opzioni": {
+        "A": "Cabergolina (circa 65 ore)",
+        "B": "Pramipexolo (8-12 ore)",
+        "C": "Pergolide (7-16 ore)",
+        "D": "Bromocriptina (circa 3 ore)",
+        "E": "Apomorfina (circa 30 minuti)"
+      },
+      "corretta": "A",
+      "spiegazione": "Nella tabella la cabergolina ha un'emivita di circa 65 ore, nettamente superiore agli altri agonisti elencati; all'estremo opposto l'apomorfina ha un'emivita di circa 30 minuti.",
+      "distrattori": {
+        "B": "Il pramipexolo ha emivita di 8-12 ore, con steady state a 72 ore.",
+        "C": "La pergolide ha emivita di 7-16 ore ed escrezione renale.",
+        "D": "La bromocriptina ha emivita di circa 3 ore e metabolismo-escrezione epatico-biliare.",
+        "E": "L'apomorfina ha l'emivita più breve della tabella, circa 30 minuti."
+      },
+      "riferimento": "p. 172 – Tabella caratteristiche agonisti dopaminergici diretti"
+    },
+    {
+      "id": "10-020",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Anticolinergici",
+      "domanda": "Il razionale dell'uso degli anticolinergici nel morbo di Parkinson è che:",
+      "opzioni": {
+        "A": "la perdita del neurone dopaminergico lascia a livello striatale un'attività colinergica sregolata, su cui si può agire per recuperare parte dell'attività dopaminergica",
+        "B": "l'acetilcolina è il neurotrasmettitore principale della via nigrostriatale, sostituito dalla dopamina solo nelle fasi tardive",
+        "C": "il blocco dei recettori colinergici aumenta la sintesi di dopamina negli interneuroni della pars reticulata",
+        "D": "gli interneuroni colinergici degenerano per primi e vanno sostituiti farmacologicamente",
+        "E": "l'acetilcolina favorisce la decarbossilazione periferica della levodopa, riducendone la quota centrale"
+      },
+      "corretta": "A",
+      "spiegazione": "L'acetilcolina modula gli interneuroni colinergici presenti nella sostanza nera e nelle zone di proiezione come lo striato: quando il neurone dopaminergico si perde, l'attività colinergica striatale diventa sregolata e agendo su questi interneuroni si può recuperare parte dell'attività dopaminergica.",
+      "distrattori": {
+        "B": "La via nigrostriatale è dopaminergica; l'acetilcolina vi svolge un ruolo modulatorio tramite interneuroni.",
+        "C": "Il testo non descrive un aumento della sintesi di dopamina indotto dal blocco colinergico, ma un riequilibrio dell'attività colinergica sregolata.",
+        "D": "A degenerare sono i neuroni dopaminergici della pars compacta, non gli interneuroni colinergici.",
+        "E": "La decarbossilazione periferica della levodopa è favorita dalla piridossina, non dall'acetilcolina."
+      },
+      "riferimento": "p. 174 – Anticolinergici"
+    },
+    {
+      "id": "10-021",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Anticolinergici",
+      "domanda": "Su quali manifestazioni gli anticolinergici hanno un buon effetto nel paziente parkinsoniano?",
+      "opzioni": {
+        "A": "Scialorrea e tremore",
+        "B": "Acinesia e rigidità",
+        "C": "Demenza e depressione",
+        "D": "Ipotensione ortostatica e aritmie",
+        "E": "Discinesie da trattamento cronico con levodopa"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli anticolinergici hanno un buon effetto sulla scialorrea e sul tremore del paziente, mentre non hanno effetto su acinesia e rigidità.",
+      "distrattori": {
+        "B": "Su acinesia e rigidità il testo dichiara esplicitamente che gli anticolinergici non hanno effetto.",
+        "C": "Demenza e depressione sono sintomi non motori del late PD, non bersaglio dichiarato degli anticolinergici.",
+        "D": "Ipotensione ortostatica e aritmie sono effetti collaterali cardiovascolari della levodopa; gli anticolinergici possono anzi dare tachicardia e aritmie.",
+        "E": "Le discinesie sono un effetto del trattamento cronico con levodopa, non un'indicazione degli anticolinergici."
+      },
+      "riferimento": "p. 174 – Anticolinergici"
+    },
+    {
+      "id": "10-022",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Anticolinergici",
+      "domanda": "Un paziente trattato con un anticolinergico per il tremore sviluppa secchezza delle fauci, stipsi, ritenzione urinaria, rallentato svuotamento gastrico e tachicardia. Qual è la spiegazione data nel testo?",
+      "opzioni": {
+        "A": "Si tratta di un cross con il sistema nervoso autonomo, perché i farmaci agiscono su diversi recettori, tra cui i muscarinici",
+        "B": "È l'effetto dell'accumulo di 3-O-metildopa nel plasma",
+        "C": "È la conseguenza della stimolazione dei recettori D2 periferici",
+        "D": "È un segno di sindrome ON-OFF da trattamento cronico",
+        "E": "È dovuto all'inibizione delle MAO-B periferiche"
+      },
+      "corretta": "A",
+      "spiegazione": "Rallentato svuotamento gastrico, ritenzione urinaria, secchezza delle fauci, tachicardie, aritmie e stipsi sono attribuiti a un cross con il sistema nervoso autonomo, dovuto all'azione dei farmaci su recettori diversi, tra cui i muscarinici.",
+      "distrattori": {
+        "B": "L'accumulo di 3-O-metildopa è legato agli inibitori delle COMT ed è messo in relazione con la fase ON-OFF.",
+        "C": "Il quadro descritto è di tipo antimuscarinico, non di stimolazione dopaminergica periferica.",
+        "D": "La sindrome ON-OFF consiste in improvvisi cambiamenti della sintomatologia motoria, non in questi sintomi neurovegetativi.",
+        "E": "Gli inibitori delle MAO-B sono descritti come attivi a livello centrale sulla deaminazione ossidativa della dopamina."
+      },
+      "riferimento": "p. 174 – Anticolinergici, effetti collaterali"
+    },
+    {
+      "id": "10-023",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Amantadina",
+      "domanda": "Quale doppio meccanismo d'azione viene attribuito all'amantadina nel morbo di Parkinson?",
+      "opzioni": {
+        "A": "Aumenta sintesi e liberazione di dopamina (agonista indiretto) ed è antagonista dei recettori dell'acido glutammico, riducendone la citotossicità",
+        "B": "Inibisce le COMT periferiche e blocca i recettori muscarinici striatali",
+        "C": "Stimola direttamente i recettori D1 e D2 e inibisce le MAO-B",
+        "D": "Inibisce la DOPA-decarbossilasi periferica e aumenta il trasporto della levodopa attraverso la BEE",
+        "E": "Blocca il trasportatore della dopamina (DAT) e inibisce la tirosina idrossilasi"
+      },
+      "corretta": "A",
+      "spiegazione": "L'amantadina può essere considerata un agonista indiretto perché aumenta la sintesi e la liberazione della dopamina; è inoltre antagonista dei recettori dell'acido glutammico, diminuendone la citotossicità.",
+      "distrattori": {
+        "B": "L'inibizione delle COMT è di tolcapone ed entacapone; il blocco muscarinico caratterizza gli anticolinergici.",
+        "C": "L'azione diretta su D1 e D2 è degli agonisti diretti; l'inibizione delle MAO-B è di selegilina e rasagilina.",
+        "D": "L'inibizione della DOPA-decarbossilasi periferica è di carbidopa e benserazide.",
+        "E": "Il DAT è il trasportatore sfruttato dall'MPP+; l'amantadina non è descritta come suo bloccante."
+      },
+      "riferimento": "p. 174 – Amantadina"
+    },
+    {
+      "id": "10-024",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Amantadina",
+      "domanda": "Quale affermazione descrive correttamente l'amantadina come riportato nel testo?",
+      "opzioni": {
+        "A": "È un antivirale che ha trovato efficacia nelle forme lievi di Parkinson, agisce in pochi giorni e ha un'efficacia clinica di 6-8 mesi",
+        "B": "È un antibiotico impiegato nelle forme avanzate, con efficacia che compare dopo alcuni mesi",
+        "C": "È un alcaloide derivato dalla morfina riservato ai pazienti in fase ON/OFF",
+        "D": "È un derivato sintetico dell'ergot con attività D1/D2 e durata d'azione illimitata",
+        "E": "È un profarmaco della dopamina che necessita di un inibitore delle decarbossilasi"
+      },
+      "corretta": "A",
+      "spiegazione": "L'amantadina è un farmaco antivirale che ha trovato efficacia nel trattamento delle forme lievi di Parkinson; agisce in pochi giorni e ha un'efficacia clinica della durata di 6-8 mesi, con effetti collaterali lievi (allucinazioni, incubi notturni, confusione).",
+      "distrattori": {
+        "B": "L'amantadina è un antivirale, non un antibiotico, ed è indicata nelle forme lievi con effetto rapido.",
+        "C": "L'alcaloide derivato dalla morfina usato nella fase ON/OFF resistente è l'apomorfina.",
+        "D": "Il derivato sintetico dell'ergot con attività D1/D2 è la bromocriptina.",
+        "E": "Il profarmaco che richiede l'associazione con un inibitore delle decarbossilasi è la levodopa."
+      },
+      "riferimento": "p. 174 – Amantadina"
+    },
+    {
+      "id": "10-025",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Terapia non farmacologica (DBS)",
+      "domanda": "Quale affermazione sulla Deep Brain Stimulation (DBS) corrisponde a quanto riportato nel testo?",
+      "opzioni": {
+        "A": "È una tecnica estremamente invasiva, con elettrodi posizionati previa individuazione stereotassica della zona, riservata a pazienti in fase tardiva non responsivi ad alcuna terapia farmacologica",
+        "B": "È una stimolazione magnetica non invasiva proposta come terapia di prima linea alla diagnosi",
+        "C": "Consiste nell'impianto di una pompa per l'infusione continua di levodopa nello striato",
+        "D": "Si impiega nelle forme giovanili per prevenire la degenerazione dei neuroni dopaminergici",
+        "E": "È indicata per il controllo dei sintomi non motori come depressione e demenza"
+      },
+      "corretta": "A",
+      "spiegazione": "La terapia non farmacologica consiste in una stimolazione transcranica di tipo chirurgico: il paziente viene inserito in una stereotassica per individuare la zona interessata e poi si effettua la DBS con elettrodi posizionati in modo preciso; è estremamente invasiva e si usa in pazienti in fase tardiva che non rispondono a nessuna terapia farmacologica.",
+      "distrattori": {
+        "B": "Il testo la descrive come stimolazione di tipo chirurgico ed estremamente invasiva, non di prima linea.",
+        "C": "La DBS prevede l'inserzione di oggetti vibranti con stimolazione elettrica, non l'infusione di farmaco.",
+        "D": "Non è presentata come terapia preventiva della neurodegenerazione né specifica per le forme giovanili.",
+        "E": "L'indicazione riportata è la fase tardiva senza risposta alle terapie farmacologiche, non il controllo dei sintomi non motori."
+      },
+      "riferimento": "p. 175 – Terapia non farmacologica"
+    },
+    {
+      "id": "10-026",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "domanda": "Riguardo all'associazione levodopa + inibitori delle decarbossilasi, quale affermazione è FALSA?",
+      "argomento": "Levodopa",
+      "opzioni": {
+        "A": "Arresta la progressione della malattia agendo sulla degenerazione dei neuroni dopaminergici",
+        "B": "Rappresenta oggi la terapia iniziale del morbo di Parkinson",
+        "C": "La terapia risulta più potente grazie all'associazione e inizialmente tutti i pazienti rispondono",
+        "D": "Potrebbe accelerare la progressione della malattia perché iperattiva un sistema che aveva trovato un equilibrio",
+        "E": "Provoca effetti collaterali nella maggior parte dei pazienti"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra gli svantaggi dell'associazione il testo indica esplicitamente che essa non arresta la progressione della malattia: si tratta di una terapia sintomatica.",
+      "distrattori": {
+        "B": "È vero: L-DOPA più inibitori delle decarbossilasi è indicata come la terapia iniziale del Parkinson.",
+        "C": "È vero: tra i vantaggi sono elencati la maggiore potenza della terapia e la risposta iniziale di tutti i pazienti.",
+        "D": "È vero: tra gli svantaggi si cita la possibile accelerazione della progressione per iperattivazione di un sistema in equilibrio.",
+        "E": "È vero: gli effetti collaterali compaiono nella maggior parte dei pazienti."
+      },
+      "riferimento": "p. 171 – Associazione Levodopa + Inibitori delle Decarbossilasi"
+    },
+    {
+      "id": "10-027",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Levodopa",
+      "domanda": "Prima di iniziare una terapia con levodopa, quali condizioni pre-esistenti del paziente il testo invita a considerare perché ne influenzano l'efficacia terapeutica?",
+      "opzioni": {
+        "A": "Se i neuroni dopaminergici non degenerati sono in iperattività funzionale e se i recettori dopaminergici postsinaptici sono in supersensibilità da denervazione",
+        "B": "Se il paziente presenta polimorfismi del gene LRRK2 e dell'alfa-sinucleina",
+        "C": "Se il paziente ha un'attività residua delle MAO-B gliali e un'espressione aumentata del DAT",
+        "D": "Se sono presenti sintomi prodromici come costipazione e disturbi del sonno REM",
+        "E": "Se il paziente ha già sviluppato discinesie e fase ON-OFF"
+      },
+      "corretta": "A",
+      "spiegazione": "L'efficacia della levodopa dipende anche dalle condizioni pre-esistenti individuali: prima di iniziare bisogna considerare se i neuroni dopaminergici non degenerati si trovano in iperattività funzionale e se i recettori dopaminergici postsinaptici sono in uno stato di supersensibilità da denervazione.",
+      "distrattori": {
+        "B": "LRRK2 e alfa-sinucleina sono citati come fattori genetici di malattia, non come criteri di risposta alla levodopa.",
+        "C": "MAO-B gliali e DAT sono descritti nel meccanismo di tossicità dell'MPTP, non come parametri pre-terapia.",
+        "D": "I sintomi prodromici servono al sospetto diagnostico precoce, non alla previsione della risposta alla levodopa.",
+        "E": "Discinesie e fase ON-OFF sono conseguenze del trattamento cronico, quindi successive all'inizio della terapia."
+      },
+      "riferimento": "p. 171 – Associazione Levodopa + Inibitori delle Decarbossilasi"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Carbidopa e benserazide inibiscono le DOPA-decarbossilasi periferiche (aumentano la L-DOPA che arriva al SNC); tolcapone ed entacapone inibiscono le COMT: sono classi diverse, non vanno confuse.",
+    "La vitamina B6 (piridossina) peggiora l'efficacia della L-DOPA somministrata da sola perché è cofattore della decarbossilasi e aumenta la conversione periferica.",
+    "Delayed ON (ritardo di efficacia a inizio assunzione), wearing OFF (deterioramento di fine dose, 5-7 anni) e sindrome ON-OFF (oltre i 10 anni, oscillazioni improvvise) sono fluttuazioni distinte.",
+    "Via diretta = D1, GABA striatale spegne il globo pallido interno, talamo disinibito, movimento favorito; via indiretta = D2, passa per globo pallido esterno e nucleo subtalamico (glutammato) e inibisce il talamo.",
+    "L'MPTP non è tossico di per sé: è ossidato a MPP+ dalle MAO-B gliali e l'MPP+ entra nei neuroni dopaminergici tramite il DAT, inibendo la respirazione mitocondriale."
+  ]
+}

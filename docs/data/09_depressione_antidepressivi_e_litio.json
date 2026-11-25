@@ -1,0 +1,704 @@
+{
+  "capitolo": 9,
+  "titolo": "Depressione, antidepressivi e litio",
+  "pagine": "149-155, 176-192",
+  "domande": [
+    {
+      "id": "09-001",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Ipotesi neurotrofica",
+      "domanda": "Gli antidepressivi aumentano subito la concentrazione sinaptica di serotonina e noradrenalina, ma l'effetto terapeutico compare solo dopo 3-4 settimane. Secondo il testo, quale meccanismo spiega meglio questa latenza?",
+      "opzioni": {
+        "A": "Lo sviluppo di tolleranza agli effetti anticolinergici, che mascherano l'effetto antidepressivo nelle prime settimane",
+        "B": "Il tempo necessario perché aumenti il BDNF, con sinaptogenesi, neurogenesi e aumento della plasticità sinaptica",
+        "C": "Il tempo necessario perché il farmaco raggiunga lo stato stazionario, dato che tutti gli antidepressivi hanno emivita superiore a una settimana",
+        "D": "Il lento passaggio del farmaco attraverso la barriera ematoencefalica, che ne dimezza la concentrazione nel liquor",
+        "E": "La progressiva inibizione del trasportatore vescicolare delle monoamine, che svuota lentamente le vescicole"
+      },
+      "corretta": "B",
+      "spiegazione": "Secondo l'ipotesi neurotrofica, lo stress riduce il BDNF e la plasticità sinaptica (es. nell'ippocampo). Gli antidepressivi aumentano rapidamente le monoamine, ma serve tempo perché aumentino BDNF e sinaptogenesi: è questo rimodellamento sinaptico l'effettivo responsabile del miglioramento dei sintomi.",
+      "distrattori": {
+        "A": "La tolleranza agli effetti avversi dei TCA è reale, ma non spiega la latenza dell'effetto terapeutico, che riguarda anche gli SSRI, privi di rilevanti effetti anticolinergici.",
+        "C": "Il testo non spiega la latenza con il raggiungimento dello stato stazionario; l'emivita dei TCA, per esempio, è di 15-80 ore.",
+        "D": "Il lento passaggio della BEE con concentrazione nel liquor pari a metà di quella plasmatica è descritto per il litio, non per gli antidepressivi.",
+        "E": "Il blocco del trasportatore vescicolare è il meccanismo della reserpina, che provoca depressione, non un effetto antidepressivo."
+      },
+      "riferimento": "p. 155 – Dall'ipotesi monoaminergica all'ipotesi neurotrofica; p. 177 – Classi e meccanismo d'azione"
+    },
+    {
+      "id": "09-002",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Ipotesi monoaminergica",
+      "domanda": "Quale osservazione clinica ha contribuito a formulare l'ipotesi monoaminergica della depressione?",
+      "opzioni": {
+        "A": "Il viraggio verso la mania di pazienti bipolari trattati con antidepressivi triciclici",
+        "B": "L'effetto euforizzante in acuto della ketamina, anestetico dissociativo usato anche come sostanza d'abuso",
+        "C": "Il miglioramento dell'umore in pazienti sottoposti a deprivazione di sonno REM",
+        "D": "La depressione grave indotta dalla reserpina, che blocca il trasportatore vescicolare delle monoamine",
+        "E": "La comparsa di crisi ipertensive in pazienti trattati con inibitori delle MAO dopo l'assunzione di formaggi stagionati"
+      },
+      "corretta": "D",
+      "spiegazione": "La reserpina, usata come antipertensivo, blocca il trasportatore vescicolare delle monoamine riducendo serotonina e noradrenalina disponibili: nei pazienti trattati compariva spesso una depressione anche grave. Questa evidenza, insieme al meccanismo degli antidepressivi (aumento di 5-HT e NA), ha sostenuto l'ipotesi monoaminergica.",
+      "distrattori": {
+        "A": "Il viraggio maniacale è un effetto dei TCA nel bipolare non diagnosticato, non la base dell'ipotesi.",
+        "B": "L'esketamina agisce sul sistema glutammatergico, non sulle monoamine: è proprio un'eccezione all'ipotesi monoaminergica.",
+        "C": "La deprivazione di sonno REM ha un interesse sperimentale; non è l'evidenza su cui si fonda l'ipotesi monoaminergica.",
+        "E": "La crisi ipertensiva da tiramina è un effetto avverso degli I-MAO, non l'osservazione da cui nasce l'ipotesi."
+      },
+      "riferimento": "p. 153 – Ipotesi monoaminergica della depressione"
+    },
+    {
+      "id": "09-003",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Disturbo bipolare",
+      "domanda": "Una donna di 26 anni con diagnosi di depressione inizia un antidepressivo. Dopo due mesi è piena di energia, fa acquisti costosi e si ritiene la persona più dotata del suo ambiente di lavoro. Qual è l'interpretazione corretta e la scelta terapeutica coerente?",
+      "opzioni": {
+        "A": "Sindrome serotoninergica: va sospeso l'antidepressivo e aggiunto triptofano",
+        "B": "Effetto euforizzante acuto tipico degli I-MAO: va aggiunto un antidepressivo triciclico",
+        "C": "Risposta completa all'antidepressivo: va proseguita la terapia alla stessa dose senza modifiche",
+        "D": "Viraggio maniacale da disturbo bipolare: indicati gli stabilizzanti dell'umore, come il litio",
+        "E": "Depressione resistente ai trattamenti: è indicata l'esketamina spray nasale"
+      },
+      "corretta": "D",
+      "spiegazione": "Il passaggio a una fase speculare alla depressione (mania) è elemento diagnostico di disturbo bipolare: anche un solo episodio maniacale cambia la diagnosi. Il disturbo bipolare si tratta con stabilizzanti dell'umore, capostipite i sali di litio, seguiti da alcuni antiepilettici.",
+      "distrattori": {
+        "A": "La sindrome serotoninergica ha febbre, tremori, mioclono, iperreflessia; inoltre il triptofano può favorirla, non curarla.",
+        "B": "L'associazione I-MAO + TCA è pericolosa (iperpiressia, convulsioni, coma) e la paziente non assume I-MAO.",
+        "C": "Grandiosità e spese eccessive non sono una normale risposta terapeutica, ma un episodio maniacale.",
+        "E": "L'esketamina è per pazienti che non rispondono agli antidepressivi, non per un viraggio maniacale."
+      },
+      "riferimento": "pp. 149-150 – Caso clinico e diagnosi"
+    },
+    {
+      "id": "09-004",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "I-MAO",
+      "domanda": "Perché un paziente in terapia con un inibitore delle MAO può sviluppare una grave crisi ipertensiva dopo aver mangiato formaggio stagionato e salumi?",
+      "opzioni": {
+        "A": "Perché il blocco delle MAO epatiche lascia entrare in circolo la tiramina, amina simpaticomimetica",
+        "B": "Perché gli I-MAO bloccano i recettori α1-adrenergici, rendendo i vasi ipersensibili alle catecolamine alimentari",
+        "C": "Perché il blocco delle MAO intestinali impedisce l'assorbimento del sodio, con ritenzione idrica e ipertensione",
+        "D": "Perché la tiramina inibisce il trasportatore della noradrenalina, sommandosi all'effetto del farmaco sul NET",
+        "E": "Perché la tiramina è un precursore della serotonina e scatena una sindrome serotoninergica"
+      },
+      "corretta": "A",
+      "spiegazione": "La tiramina alimentare (vino, formaggi stagionati, salumi) viene assorbita ma completamente degradata dalle MAO epatiche, per cui la sua biodisponibilità orale è nulla. Con le MAO bloccate entra in circolo e, come amina simpaticomimetica, stimola il simpatico: crisi ipertensive con cefalea pulsante, fino all'emorragia intracranica ('wine and cheese reaction').",
+      "distrattori": {
+        "B": "Il blocco α1 (che dà ipotensione ortostatica) è un effetto dei TCA, non degli I-MAO.",
+        "C": "Il testo non descrive alcun effetto sul sodio; la reazione dipende dalla tiramina in circolo.",
+        "D": "Il testo non attribuisce alla tiramina un'azione sul NET: il problema è il suo mancato catabolismo epatico.",
+        "E": "Il precursore della serotonina citato nel testo è il triptofano, implicato nella sindrome serotoninergica con gli SSRI."
+      },
+      "riferimento": "p. 179 – I-MAO, Wine and cheese reaction"
+    },
+    {
+      "id": "09-005",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "I-MAO",
+      "domanda": "Quale abbinamento tra farmaco e tipo di inibizione delle monoaminossidasi è corretto?",
+      "opzioni": {
+        "A": "Isocarbossazide: inibitore specifico delle MAO-B",
+        "B": "Fenelzina: inibitore reversibile e selettivo delle MAO-B",
+        "C": "Moclobemide: inibitore reversibile e selettivo delle MAO-A (RIMA)",
+        "D": "Selegilina: inibitore non reversibile e non selettivo di MAO-A e MAO-B",
+        "E": "Tranilcipromina: inibitore reversibile e selettivo delle MAO-A"
+      },
+      "corretta": "C",
+      "spiegazione": "La moclobemide è il RIMA citato: inibitore reversibile e selettivo delle MAO-A. Fenelzina, tranilcipromina e isocarbossazide sono inibitori non reversibili e non selettivi; la selegilina è un inibitore specifico delle MAO-B.",
+      "distrattori": {
+        "A": "L'isocarbossazide è non reversibile e non selettiva; l'inibitore delle MAO-B è la selegilina.",
+        "B": "La fenelzina è un inibitore non reversibile e non selettivo delle MAO.",
+        "D": "La selegilina è un inibitore specifico delle MAO-B, non un inibitore non selettivo.",
+        "E": "La tranilcipromina è un inibitore non reversibile e non selettivo; il RIMA è la moclobemide."
+      },
+      "riferimento": "p. 178 – Inibitori delle monoaminossidasi"
+    },
+    {
+      "id": "09-006",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "I-MAO",
+      "domanda": "Quale conseguenza è descritta nel testo per l'associazione di un inibitore delle MAO con un antidepressivo triciclico?",
+      "opzioni": {
+        "A": "Grave epatotossicità, tipica soprattutto dell'associazione con la clomipramina",
+        "B": "Crisi ipertensiva da tiramina anche in assenza di alimenti che la contengono",
+        "C": "Perdita di efficacia di entrambi i farmaci per competizione sul trasportatore della serotonina",
+        "D": "Poliuria e polidipsia per inibizione dell'ormone antidiuretico",
+        "E": "Tossicità a livello del SNC con iperpiressia, convulsioni e coma"
+      },
+      "corretta": "E",
+      "spiegazione": "L'associazione I-MAO + TCA è molto pericolosa: può dare tossicità a livello del SNC con aumento incontrollato della temperatura (iperpiressia), convulsioni e coma.",
+      "distrattori": {
+        "A": "L'epatotossicità è descritta per alcuni I-MAO in sé (fenelzina, iproniazide), non come effetto dell'associazione con un TCA.",
+        "B": "La crisi ipertensiva degli I-MAO richiede l'assunzione di tiramina con la dieta.",
+        "C": "Il testo descrive una tossicità da eccesso di effetto, non una perdita di efficacia.",
+        "D": "Poliuria e polidipsia da inibizione dell'ADH sono effetti renali del litio."
+      },
+      "riferimento": "p. 179 – I-MAO, interazioni"
+    },
+    {
+      "id": "09-007",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Triciclici (TCA)",
+      "domanda": "Quale differenza tra antidepressivi triciclici è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Clomipramina e desipramina sono amine terziarie che bloccano NET e SERT in egual misura",
+        "B": "Desipramina e nortriptilina sono amine terziarie selettive per il SERT",
+        "C": "Imipramina e amitriptilina sono amine secondarie selettive per il SERT",
+        "D": "Desipramina e nortriptilina sono amine secondarie, più selettive per il NET",
+        "E": "Nortriptilina e amitriptilina sono amine terziarie con elevata affinità per il trasportatore della dopamina"
+      },
+      "corretta": "D",
+      "spiegazione": "I TCA non selettivi (imipramina, amitriptilina, clomipramina) sono amine terziarie che bloccano NET e SERT quasi in egual misura. Desipramina e nortriptilina sono amine secondarie e metaboliti delle amine terziarie, con maggiore selettività per il NET: aumentano selettivamente la noradrenalina.",
+      "distrattori": {
+        "A": "La desipramina è un'amina secondaria selettiva per il NET, non un'amina terziaria non selettiva.",
+        "B": "Desipramina e nortriptilina sono amine secondarie selettive per il NET, non per il SERT.",
+        "C": "Imipramina e amitriptilina sono amine terziarie non selettive su NET e SERT.",
+        "E": "I TCA hanno scarsissima affinità per il DAT; inoltre la nortriptilina è un'amina secondaria."
+      },
+      "riferimento": "p. 180 – TCA, meccanismo d'azione"
+    },
+    {
+      "id": "09-008",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Triciclici (TCA)",
+      "domanda": "Un uomo di 74 anni con ipertrofia prostatica deve iniziare un trattamento antidepressivo. Perché l'amitriptilina è una scelta problematica?",
+      "opzioni": {
+        "A": "Per l'antagonismo sui recettori H1, che causa ritenzione urinaria per sedazione",
+        "B": "Per l'inibizione dell'ADH, che aumenta il volume urinario in un paziente con ostruzione",
+        "C": "Per l'antagonismo sui recettori muscarinici, che può causare ritenzione urinaria",
+        "D": "Per la stimolazione dei recettori 5-HT3, che riduce la contrattilità vescicale",
+        "E": "Per il blocco dei recettori α1-adrenergici, che provoca ritenzione urinaria per contrazione dello sfintere"
+      },
+      "corretta": "C",
+      "spiegazione": "L'antagonismo muscarinico dei TCA dà xerostomia, stipsi, visione offuscata, tachicardia, disturbi cognitivi e ritenzione urinaria, quest'ultima importante soprattutto negli anziani con ipertrofia prostatica, che già faticano a urinare.",
+      "distrattori": {
+        "A": "Il blocco H1 è responsabile di sedazione, sonnolenza e aumento di peso, non della ritenzione urinaria.",
+        "B": "L'inibizione dell'ADH con poliuria è un effetto del litio, non dei TCA.",
+        "D": "La stimolazione 5-HT3 (tipica degli SSRI) è associata a nausea, cefalea e disturbi gastrointestinali.",
+        "E": "Il blocco α1 dei TCA causa ipotensione ortostatica, vertigini e disfunzioni eiaculatorie, non ritenzione urinaria."
+      },
+      "riferimento": "p. 181 – TCA, effetti avversi"
+    },
+    {
+      "id": "09-009",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Triciclici (TCA)",
+      "domanda": "Un paziente in terapia con un triciclico riferisce capogiri quando si alza in piedi e un marcato aumento di peso con sonnolenza. A quali azioni recettoriali vanno attribuiti, rispettivamente, questi effetti?",
+      "opzioni": {
+        "A": "Blocco α1-adrenergico per l'ipotensione ortostatica; blocco H1 istaminergico per aumento di peso e sonnolenza",
+        "B": "Blocco H1 istaminergico per l'ipotensione ortostatica; blocco muscarinico per aumento di peso e sonnolenza",
+        "C": "Stimolazione 5-HT2 per l'ipotensione ortostatica; stimolazione 5-HT3 per aumento di peso e sonnolenza",
+        "D": "Inibizione del NET per l'ipotensione ortostatica; inibizione del SERT per aumento di peso e sonnolenza",
+        "E": "Blocco muscarinico per l'ipotensione ortostatica; blocco α1-adrenergico per aumento di peso e sonnolenza"
+      },
+      "corretta": "A",
+      "spiegazione": "Il blocco dei recettori α1-adrenergici causa ipotensione ortostatica, vertigini e disfunzioni sessuali; il blocco dei recettori H1, che controllano comportamento alimentare e veglia-sonno, causa aumento di peso, sonnolenza e sedazione. Questi effetti tendono a ridursi nel tempo per tolleranza.",
+      "distrattori": {
+        "B": "Gli abbinamenti sono invertiti: H1 è legato a peso e sedazione, mentre il blocco muscarinico ha effetti atropino-simili.",
+        "C": "Gli effetti da stimolazione 5-HT2 e 5-HT3 sono descritti per gli SSRI (disfunzioni sessuali, nausea), non per questi sintomi dei TCA.",
+        "D": "L'inibizione di NET e SERT è responsabile dell'effetto terapeutico, non di questi effetti avversi.",
+        "E": "Il blocco muscarinico dà xerostomia, stipsi, ritenzione urinaria, visione offuscata e tachicardia, non ipotensione ortostatica."
+      },
+      "riferimento": "p. 181 – TCA, effetti avversi"
+    },
+    {
+      "id": "09-010",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Triciclici (TCA)",
+      "domanda": "Un paziente epilettico con episodio depressivo maggiore deve iniziare una terapia antidepressiva. Quale classe è sconsigliata secondo il testo, e perché?",
+      "opzioni": {
+        "A": "Il trazodone, perché il suo effetto sedativo peggiora le crisi",
+        "B": "La reboxetina, perché è un inibitore selettivo del reuptake della dopamina",
+        "C": "Gli SNRI, perché bloccando il NET causano iperpiressia e convulsioni",
+        "D": "Gli SSRI, perché la stimolazione dei recettori 5-HT3 abbassa la soglia convulsiva",
+        "E": "Gli antidepressivi triciclici, perché riducono la soglia delle convulsioni"
+      },
+      "corretta": "E",
+      "spiegazione": "Tra gli effetti 'complessi' dei TCA, non legati all'azione recettoriale, il testo elenca alterazioni del ritmo cardiaco, tremore e riduzione della soglia delle convulsioni: per questo la loro somministrazione è sconsigliata nei pazienti con epilessia.",
+      "distrattori": {
+        "A": "Il trazodone è descritto come sedativo e ben tollerato negli anziani; il testo non lo controindica nell'epilessia.",
+        "B": "La reboxetina è selettiva per il trasportatore della noradrenalina, non della dopamina.",
+        "C": "Iperpiressia e convulsioni sono descritte per l'associazione I-MAO + TCA, non per gli SNRI.",
+        "D": "La stimolazione 5-HT3 da SSRI è associata a cefalea, nausea e disturbi gastrointestinali, non alla soglia convulsiva."
+      },
+      "riferimento": "p. 181 – TCA, altri effetti avversi"
+    },
+    {
+      "id": "09-011",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Triciclici (TCA)",
+      "domanda": "Quale affermazione sul metabolismo degli antidepressivi triciclici è corretta?",
+      "opzioni": {
+        "A": "L'imipramina è eliminata immodificata dal rene senza metabolismo epatico",
+        "B": "La clomipramina è metabolizzata dai CYP2D6 e 2C9, come la fluoxetina",
+        "C": "L'amitriptilina è metabolizzata esclusivamente dal CYP1A2",
+        "D": "La desipramina è ossidata dal CYP2D6 ed è metabolizzata principalmente anche dal CYP2C19",
+        "E": "I metaboliti dei TCA hanno un'emivita più breve del farmaco di partenza e sono eliminati con la bile"
+      },
+      "corretta": "D",
+      "spiegazione": "Imipramina e desipramina sono ossidate dal CYP2D6 e la desipramina è metabolizzata principalmente anche dal CYP2C19. L'amitriptilina è metabolizzata dai CYP3A4, 2C9 e 2D6, la clomipramina dai CYP1A2, 3A4 e 2C19. Il metabolismo è epatico e produce metaboliti con emivita più lunga del farmaco, escreti per via renale.",
+      "distrattori": {
+        "A": "L'imipramina è ossidata a livello epatico dal CYP2D6.",
+        "B": "La clomipramina è metabolizzata dai CYP1A2, 3A4 e 2C19; CYP2D6 e 2C9 sono citati per la fluoxetina.",
+        "C": "L'amitriptilina è metabolizzata dai CYP3A4, 2C9 e 2D6.",
+        "E": "I metaboliti dei TCA hanno emivita più lunga del farmaco e sono escreti a livello renale."
+      },
+      "riferimento": "p. 181 – TCA, farmacocinetica"
+    },
+    {
+      "id": "09-012",
+      "difficolta": "avanzato",
+      "tipo": "nozionistica",
+      "argomento": "Triciclici (TCA)",
+      "domanda": "In base alle costanti di inibizione (Ki) dei TCA riportate nel testo (valore più basso = maggiore potenza), quale affermazione è corretta?",
+      "opzioni": {
+        "A": "L'imipramina ha la maggiore affinità per il trasportatore della dopamina tra i TCA",
+        "B": "La desipramina è il TCA con la maggiore affinità per i recettori muscarinici",
+        "C": "La nortriptilina è il TCA con la maggiore affinità per i recettori H1 istaminergici",
+        "D": "La desipramina è il TCA più potente sul NET, mentre la clomipramina è il più potente sul SERT",
+        "E": "La clomipramina è il TCA più potente sul NET, mentre la desipramina è il più potente sul SERT"
+      },
+      "corretta": "D",
+      "spiegazione": "Nella tabella la desipramina ha la Ki più bassa sul NET (0,83) e la clomipramina la Ki più bassa sul SERT (0,28). L'amitriptilina mostra la maggiore affinità per i recettori muscarinici (17,9), H1 (1,10) e α1 (27). Tutti i TCA hanno scarsissima affinità per il DAT.",
+      "distrattori": {
+        "A": "Tutti i TCA hanno scarsissima affinità per il DAT; il testo non indica l'imipramina come eccezione.",
+        "B": "La desipramina ha bassa affinità muscarinica (Ki 196); la più alta è dell'amitriptilina.",
+        "C": "La maggiore affinità per H1 è dell'amitriptilina (Ki 1,10), non della nortriptilina.",
+        "E": "Gli abbinamenti sono invertiti: la clomipramina è la più potente sul SERT, la desipramina sul NET."
+      },
+      "riferimento": "p. 180 – TCA, tabella delle affinità"
+    },
+    {
+      "id": "09-013",
+      "difficolta": "base",
+      "tipo": "confronto",
+      "argomento": "SSRI",
+      "domanda": "Rispetto agli antidepressivi triciclici, quale vantaggio degli SSRI è sottolineato dal testo?",
+      "opzioni": {
+        "A": "Una latenza d'azione molto più breve, con effetto terapeutico entro pochi giorni",
+        "B": "Un'efficacia nettamente superiore, con risposta in quasi tutti i pazienti",
+        "C": "L'assenza di disturbi della sfera sessuale",
+        "D": "La possibilità di essere associati senza rischi agli inibitori delle MAO",
+        "E": "Una tossicità molto più bassa, con scarso rischio in caso di overdose"
+      },
+      "corretta": "E",
+      "spiegazione": "Gli SSRI sono più selettivi, hanno meno effetti collaterali e una tossicità enormemente più bassa: a differenza dei TCA, di cui anche poche compresse possono essere letali, non rappresentano un reale rischio di overdose a scopo suicidario.",
+      "distrattori": {
+        "A": "La latenza di 3-4 settimane non è cambiata con i farmaci più recenti.",
+        "B": "L'efficacia degli antidepressivi è rimasta analoga nel tempo; ciò che è migliorata è la tollerabilità.",
+        "C": "I disturbi sessuali (via 5-HT2) sono un effetto avverso tipico sia degli SSRI sia dei TCA.",
+        "D": "L'associazione SSRI + I-MAO causa la sindrome serotoninergica."
+      },
+      "riferimento": "pp. 177, 182 – SSRI"
+    },
+    {
+      "id": "09-014",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "SSRI",
+      "domanda": "Secondo il testo, a quale sottotipo recettoriale serotoninergico sono attribuiti, negli SSRI, l'effetto terapeutico e le disfunzioni sessuali (calo della libido, anorgasmia, incapacità di eiaculare)?",
+      "opzioni": {
+        "A": "Effetto terapeutico ai recettori 5-HT1; disfunzioni sessuali al blocco dei recettori α1-adrenergici",
+        "B": "Effetto terapeutico ai recettori 5-HT1; disfunzioni sessuali alla stimolazione dei recettori 5-HT3",
+        "C": "Effetto terapeutico ai recettori 5-HT1; disfunzioni sessuali alla stimolazione dei recettori 5-HT2",
+        "D": "Effetto terapeutico ai recettori 5-HT3; disfunzioni sessuali alla stimolazione dei recettori 5-HT2",
+        "E": "Effetto terapeutico ai recettori 5-HT2; disfunzioni sessuali alla stimolazione dei recettori 5-HT1"
+      },
+      "corretta": "C",
+      "spiegazione": "L'effetto terapeutico deriva dall'aumentata stimolazione dei recettori 5-HT1. L'eccesso di serotonina stimola anche i 5-HT2 (ansia, agitazione, insonnia, inappetenza, tremori e soprattutto disfunzioni sessuali) e i 5-HT3 (cefalea, nausea, disturbi gastrointestinali).",
+      "distrattori": {
+        "A": "Il blocco α1 è responsabile dei problemi eiaculatori da TCA; negli SSRI l'affinità per altri recettori ha scarsa rilevanza clinica.",
+        "B": "La stimolazione 5-HT3 causa disturbi gastrointestinali, non le disfunzioni sessuali.",
+        "D": "I 5-HT3 sono legati a nausea, cefalea e disturbi gastrointestinali, non all'effetto terapeutico.",
+        "E": "Gli abbinamenti sono invertiti: 5-HT1 per l'effetto terapeutico, 5-HT2 per gli effetti sessuali."
+      },
+      "riferimento": "p. 183 – SSRI, effetto terapeutico ed effetti avversi"
+    },
+    {
+      "id": "09-015",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "SSRI",
+      "domanda": "Un paziente con ulcera peptica nota deve iniziare un trattamento per la depressione. Quale considerazione sugli SSRI è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Non sono indicati, perché l'effetto ulcerogeno deriva dalla stimolazione dei recettori 5-HT1",
+        "B": "Sono indicati senza restrizioni, perché la loro selettività per il SERT esclude effetti gastrointestinali",
+        "C": "Non sono indicati, perché bloccano le MAO della mucosa gastrica",
+        "D": "Non sono particolarmente indicati, perché la stimolazione dei recettori 5-HT3 stimola la secrezione acida gastrica",
+        "E": "Sono i più indicati, perché l'antagonismo muscarinico riduce la secrezione acida"
+      },
+      "corretta": "D",
+      "spiegazione": "La stimolazione dei recettori 5-HT3 da parte della serotonina in eccesso causa cefalea, nausea e disturbi gastrointestinali e stimola la secrezione gastrica: gli SSRI possono far comparire o peggiorare una gastrite o un'ulcera peptica.",
+      "distrattori": {
+        "A": "I 5-HT1 mediano l'effetto terapeutico; gli effetti gastrici sono legati ai 5-HT3.",
+        "B": "La selettività per il SERT non evita gli effetti da eccesso di serotonina sui 5-HT2 e 5-HT3.",
+        "C": "Gli SSRI non inibiscono le MAO: agiscono sul SERT.",
+        "E": "L'antagonismo muscarinico è dei TCA; gli SSRI non hanno affinità muscarinica clinicamente rilevante."
+      },
+      "riferimento": "p. 183 – SSRI, effetti avversi"
+    },
+    {
+      "id": "09-016",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Sindrome serotoninergica",
+      "domanda": "Una paziente in terapia con sertralina inizia di sua iniziativa un integratore. Pochi giorni dopo presenta improvvisamente febbre alta, agitazione, palpitazioni, mioclono, iperreflessia e sudorazione profusa. Quale integratore è il più probabile responsabile, secondo il testo?",
+      "opzioni": {
+        "A": "Iperico, perché inibisce il CYP2D6 aumentando i livelli di sertralina",
+        "B": "Triptofano, precursore della serotonina",
+        "C": "Litio, perché riduce l'eliminazione renale della sertralina",
+        "D": "Tiramina, perché agisce come amina simpaticomimetica",
+        "E": "Brexanolone, neurosteroide derivato del progesterone"
+      },
+      "corretta": "B",
+      "spiegazione": "Il quadro è una sindrome serotoninergica, da eccesso di attività serotoninergica. Oltre che dall'associazione SSRI + I-MAO, può essere favorita dall'assunzione di triptofano come integratore: essendo il precursore della serotonina, potenzia eccessivamente la stimolazione serotoninergica.",
+      "distrattori": {
+        "A": "Il testo descrive l'iperico come induttore di enzimi metabolici, non come inibitore del CYP2D6.",
+        "C": "Il testo non descrive un effetto del litio sull'eliminazione degli SSRI; l'associazione litio-antidepressivi è considerata in genere sicura ed efficace.",
+        "D": "La tiramina è un'amina alimentare che causa crisi ipertensive in chi assume I-MAO, non è un integratore che scatena la sindrome serotoninergica con gli SSRI.",
+        "E": "Il brexanolone è un farmaco per infusione approvato per la depressione post-partum, non un integratore."
+      },
+      "riferimento": "p. 184 – SSRI, sindrome serotoninergica"
+    },
+    {
+      "id": "09-017",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "SSRI",
+      "domanda": "Perché un trattamento cronico con SSRI non va interrotto bruscamente?",
+      "opzioni": {
+        "A": "Per il rischio di crisi ipertensiva da accumulo di tiramina proveniente dalla dieta",
+        "B": "Perché la sospensione brusca causa ipotiroidismo di rimbalzo da ridotta captazione dello iodio",
+        "C": "Perché gli SSRI causano una vera dipendenza psicologica, analoga a quella delle sostanze d'abuso",
+        "D": "Per il rischio di sindrome d'astinenza da adattamento fisico, con sintomi gastrointestinali e neurologici",
+        "E": "Per il rischio di sindrome serotoninergica da rilascio improvviso di serotonina dalle vescicole"
+      },
+      "corretta": "D",
+      "spiegazione": "L'interruzione brusca può dare una sindrome d'astinenza, non dovuta a dipendenza ma all'adattamento fisico al farmaco; i sintomi (gastrointestinali, neurologici e psichiatrici) si risolvono in genere in 2 settimane. Per questo gli antidepressivi si sospendono con gradualità.",
+      "distrattori": {
+        "A": "La crisi da tiramina riguarda gli I-MAO e l'assunzione di cibi che la contengono.",
+        "B": "L'ipotiroidismo è un effetto a lungo termine del litio.",
+        "C": "Il testo specifica che la sindrome d'astinenza non è causata da una dipendenza da antidepressivi.",
+        "E": "La sindrome serotoninergica deriva da un eccesso di serotonina per associazione con altri farmaci (I-MAO, triptofano), non dalla sospensione."
+      },
+      "riferimento": "p. 184 – SSRI, sindrome d'astinenza"
+    },
+    {
+      "id": "09-018",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Rischio suicidario",
+      "domanda": "Secondo il testo, perché il rischio di atti suicidari può aumentare nelle prime 3-4 settimane di terapia antidepressiva, soprattutto in bambini e adolescenti?",
+      "opzioni": {
+        "A": "Perché gli SSRI sono letali in sovradosaggio anche a poche compresse",
+        "B": "Perché la stimolazione dei recettori 5-HT1 causa direttamente ideazione suicidaria",
+        "C": "Perché nelle prime settimane si sviluppa regolarmente una sindrome serotoninergica",
+        "D": "Perché gli SSRI riducono i livelli di BDNF e la plasticità sinaptica nelle prime settimane",
+        "E": "Perché l'iniziale recupero di energia precede la reale riduzione dei sintomi depressivi"
+      },
+      "corretta": "E",
+      "spiegazione": "Il paziente gravemente depresso spesso non ha l'energia per portare a termine un atto suicidario. Nelle prime settimane l'antidepressivo può dare un iniziale miglioramento dell'energia prima del pieno effetto terapeutico, esacerbando il rischio: per questo l'uso in età evolutiva dovrebbe essere ristretto e il paziente va accompagnato con psicoterapia e supporto familiare.",
+      "distrattori": {
+        "A": "La letalità in sovradosaggio è dei TCA; gli SSRI hanno tossicità molto bassa.",
+        "B": "I 5-HT1 mediano l'effetto terapeutico degli SSRI.",
+        "C": "La sindrome serotoninergica deriva da associazioni farmacologiche, non è la spiegazione del rischio suicidario iniziale.",
+        "D": "Gli antidepressivi portano col tempo a un aumento, non a una riduzione, del BDNF."
+      },
+      "riferimento": "p. 183 – Ideazione suicidaria"
+    },
+    {
+      "id": "09-019",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "SSRI",
+      "domanda": "In base ai dati di affinità degli SSRI riportati nel testo, quale affermazione è corretta?",
+      "opzioni": {
+        "A": "La fluvoxamina ha la Ki più bassa sul SERT, mentre la paroxetina ha la maggiore selettività per il SERT",
+        "B": "La sertralina ha la Ki più bassa sul NET tra gli SSRI ed è quindi il più noradrenergico",
+        "C": "Il citalopram ha la Ki più bassa sul SERT, mentre la sertralina ha la maggiore selettività",
+        "D": "La fluoxetina ha la Ki più bassa sul SERT ed è anche il più selettivo",
+        "E": "La paroxetina ha la Ki più bassa sul SERT, mentre l'escitalopram ha la maggiore selettività per il SERT"
+      },
+      "corretta": "E",
+      "spiegazione": "Nella tabella la paroxetina ha la Ki più bassa sul SERT (0,125), seguita dalla sertralina (0,293); l'escitalopram ha la selettività per il SERT più alta (7127), seguito dal citalopram (3696). Tutti gli SSRI hanno affinità molto più bassa per NET e DAT.",
+      "distrattori": {
+        "A": "La fluvoxamina ha la Ki SERT più alta del gruppo (2,22) e la paroxetina una selettività relativamente bassa (320).",
+        "B": "La Ki più bassa sul NET tra gli SSRI è della paroxetina (40), non della sertralina (417).",
+        "C": "Il citalopram (Ki 1,38) non è il più potente; la sertralina ha selettività 1423, inferiore a quella di escitalopram.",
+        "D": "La fluoxetina (Ki 0,81) non è la più potente sul SERT e ha una selettività di circa 301."
+      },
+      "riferimento": "p. 182 – SSRI, tabella delle affinità"
+    },
+    {
+      "id": "09-020",
+      "difficolta": "base",
+      "tipo": "confronto",
+      "argomento": "Altri antidepressivi",
+      "domanda": "Quale abbinamento tra antidepressivo e classe farmacologica è corretto?",
+      "opzioni": {
+        "A": "Mianserina – inibitore selettivo del reuptake della serotonina (SSRI)",
+        "B": "Reboxetina – inibitore del reuptake di serotonina e noradrenalina (SNRI)",
+        "C": "Trazodone – inibitore selettivo del reuptake della noradrenalina (NRI)",
+        "D": "Bupropione – inibitore del reuptake di noradrenalina e dopamina (NDRI), usato nel tabagismo",
+        "E": "Duloxetina – antidepressivo noradrenergico e serotoninergico specifico (NaSSA)"
+      },
+      "corretta": "D",
+      "spiegazione": "Il bupropione è un NDRI: blocca il reuptake di noradrenalina e dopamina ed è l'unico antidepressivo che agisce anche sulla dopamina. Ha un uso clinico specifico nel tabagismo, perché il potenziamento dopaminergico attenua l'astinenza da nicotina.",
+      "distrattori": {
+        "A": "La mianserina è un NaSSA; capostipite degli SSRI è la fluoxetina.",
+        "B": "La reboxetina è un NRI selettivo; SNRI sono duloxetina e venlafaxina.",
+        "C": "Il trazodone è un SARI (agonista/inibitore del reuptake della serotonina).",
+        "E": "La duloxetina è un SNRI; NaSSA sono mianserina e mirtazapina."
+      },
+      "riferimento": "pp. 184-185 – Antidepressivi eterociclici"
+    },
+    {
+      "id": "09-021",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Altri antidepressivi",
+      "domanda": "Quale descrizione del meccanismo d'azione della mirtazapina è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Blocca il reuptake di noradrenalina e dopamina, potenziando la trasmissione dopaminergica",
+        "B": "Agisce sui recettori 5-HT2 e α2 più che sui trasportatori, con affinità anche per H1 e α1",
+        "C": "Blocca selettivamente il trasportatore della noradrenalina, senza effetti sulla serotonina",
+        "D": "Agisce da agonista su alcuni recettori e da inibitore della ricattura della serotonina, con effetto sedativo",
+        "E": "Blocca in modo selettivo sia il SERT sia il NAT, con scarsa affinità per altri recettori"
+      },
+      "corretta": "B",
+      "spiegazione": "La mirtazapina è un NaSSA: non blocca la ricattura (scarsa affinità per SERT e NAT), ma ha alta affinità per i recettori 5-HT2 e α2, potenziando la trasmissione noradrenergica e serotoninergica. Mostra anche un'affinità rilevante per i recettori H1 istaminergici e α1-adrenergici.",
+      "distrattori": {
+        "A": "È il meccanismo del bupropione, NDRI.",
+        "C": "È il meccanismo della reboxetina, NRI selettivo.",
+        "D": "È il meccanismo del trazodone, SARI.",
+        "E": "È il meccanismo degli SNRI (duloxetina, venlafaxina)."
+      },
+      "riferimento": "pp. 184-185 – NaSSA e altri antidepressivi"
+    },
+    {
+      "id": "09-022",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Nuove terapie antidepressive",
+      "domanda": "Quale confronto tra esketamina e brexanolone, le due terapie approvate di recente, è corretto?",
+      "opzioni": {
+        "A": "Esketamina: antagonista glutammatergico in monoterapia, in sostituzione degli antidepressivi in corso; brexanolone: neurosteroide per via orale per la depressione resistente",
+        "B": "Esketamina: antagonista glutammatergico per via orale, assunto autonomamente a domicilio; brexanolone: SSRI per la depressione post-partum",
+        "C": "Esketamina: neurosteroide derivato del progesterone, per infusione, per la depressione post-partum; brexanolone: antagonista glutammatergico, spray nasale, per la depressione resistente",
+        "D": "Esketamina: antagonista dei recettori glutammatergici, spray nasale, per la depressione resistente; brexanolone: neurosteroide derivato del progesterone, per infusione, per la depressione post-partum",
+        "E": "Esketamina: inibitore del reuptake di serotonina, per via orale, di prima scelta; brexanolone: antagonista glutammatergico, per la depressione resistente"
+      },
+      "corretta": "D",
+      "spiegazione": "L'esketamina, isomero attivo della ketamina, è un antagonista dei recettori glutammatergici, approvata per la depressione resistente ai trattamenti e somministrata come spray nasale. Il brexanolone è un neurosteroide derivato del progesterone con azione ansiolitica e antidepressiva, approvato per la depressione post-partum e somministrato per via infusionale.",
+      "distrattori": {
+        "A": "L'esketamina non può essere somministrata da sola ma va associata agli antidepressivi in corso; il brexanolone è per infusione e per la depressione post-partum.",
+        "B": "L'esketamina è uno spray nasale che deve essere somministrato in ospedale da un operatore sanitario; il brexanolone non è un SSRI.",
+        "C": "Le caratteristiche dei due farmaci sono invertite.",
+        "E": "L'esketamina non agisce sulle monoamine e non è un farmaco di prima scelta; il brexanolone è un neurosteroide."
+      },
+      "riferimento": "pp. 185-186 – Nuove terapie antidepressive"
+    },
+    {
+      "id": "09-023",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Nuove terapie antidepressive",
+      "domanda": "Un paziente con depressione che non ha risposto adeguatamente a più antidepressivi presenta ideazione suicidaria. Si decide di aggiungere esketamina. Quale modalità di impiego è corretta?",
+      "opzioni": {
+        "A": "Compresse per via orale in monoterapia, con effetto atteso dopo 3-4 settimane",
+        "B": "Spray nasale in ospedale, associato all'antidepressivo in corso, con osservazione per alcune ore",
+        "C": "Spray nasale autosomministrato a domicilio, in sostituzione dell'antidepressivo in corso",
+        "D": "Infusione endovenosa continua, come per il brexanolone, con effetto atteso dopo 3-4 settimane",
+        "E": "Spray nasale autosomministrato a domicilio, in associazione a triptofano per potenziarne l'effetto"
+      },
+      "corretta": "B",
+      "spiegazione": "L'esketamina non è di prima scelta e non va usata da sola, ma associata agli antidepressivi in corso. È uno spray nasale che deve essere somministrato in ospedale (day-hospital) da un operatore sanitario, controllando il paziente per alcune ore. Essendo sostanza d'abuso, richiede registri e custodia in cassaforte. Il vantaggio è l'estrema rapidità d'azione, utile nella depressione resistente con ideazione suicidaria.",
+      "distrattori": {
+        "A": "La via è nasale, non orale, e il farmaco non si usa in monoterapia.",
+        "C": "Non può essere assunta autonomamente dal paziente e non sostituisce l'antidepressivo in corso.",
+        "D": "La via infusionale è del brexanolone; il vantaggio dell'esketamina è la rapidità d'azione, non una latenza di 3-4 settimane.",
+        "E": "L'autosomministrazione domiciliare non è ammessa; il triptofano è citato come fattore che può favorire la sindrome serotoninergica con gli SSRI."
+      },
+      "riferimento": "pp. 185-186 – Esketamina"
+    },
+    {
+      "id": "09-024",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Terapia elettroconvulsivante",
+      "domanda": "Quale affermazione sulla terapia elettroconvulsivante (ECT) è corretta secondo il testo?",
+      "opzioni": {
+        "A": "La sopravvivenza a 5-10 anni dei pazienti trattati è nettamente inferiore a quella dei pazienti trattati con farmaci",
+        "B": "Si esegue in anestesia generale con blocco neuromuscolare, per cui il paziente non presenta convulsioni visibili",
+        "C": "È controindicata negli anziani e nei pazienti ad alto rischio di suicidio",
+        "D": "Si esegue a paziente cosciente, per valutare in tempo reale l'entità delle convulsioni",
+        "E": "Il suo principale effetto indesiderato è una demenza permanente"
+      },
+      "corretta": "B",
+      "spiegazione": "Con elettrodi sullo scalpo si inducono 30-60 secondi di convulsioni generalizzate, ma il paziente è in anestesia generale, con respirazione assistita e blocco neuromuscolare: è incosciente e paralizzato. Si eseguono 2-3 sedute a settimana per 6-12 trattamenti; la mortalità è bassa e legata all'anestesia.",
+      "distrattori": {
+        "A": "La sopravvivenza a 5-10 anni è molto simile a quella dei pazienti trattati con farmaci.",
+        "C": "È indicata proprio nei pazienti ad alto rischio di suicidio ed è particolarmente utile negli anziani.",
+        "D": "Il paziente è incosciente e paralizzato: l'immagine del paziente cosciente che si contorce è un'idea condizionata dai film.",
+        "E": "Gli effetti indesiderati sono perdita di memoria (che può migliorare in poche settimane), disorientamento e delirio transitori."
+      },
+      "riferimento": "pp. 187-188 – Terapia elettroconvulsivante"
+    },
+    {
+      "id": "09-025",
+      "difficolta": "base",
+      "tipo": "farmacocinetica",
+      "argomento": "Iperico",
+      "domanda": "Perché l'iperico (erba di San Giovanni) non va associato ad altri antidepressivi né assunto senza informare il medico?",
+      "opzioni": {
+        "A": "Perché blocca i recettori muscarinici, sommando i propri effetti a quelli dei triciclici",
+        "B": "Perché inibisce in modo irreversibile le MAO-A, causando crisi ipertensive con alimenti ricchi di tiramina",
+        "C": "Perché può indurre diversi enzimi metabolici, con interazioni importanti con altri farmaci, compresi gli antidepressivi",
+        "D": "Perché è un precursore della serotonina e causa sindrome serotoninergica",
+        "E": "Perché compete con il sodio nel tubulo renale, aumentando la tossicità renale"
+      },
+      "corretta": "C",
+      "spiegazione": "L'iperico, il cui principio attivo è l'ipericina, è usato come rimedio fitoterapico nella depressione lieve. Può indurre diversi enzimi metabolici e ha quindi numerose interazioni rilevanti, anche con gli antidepressivi; spesso il paziente non riferisce di assumerlo perché lo ritiene un prodotto naturale.",
+      "distrattori": {
+        "A": "Il testo non descrive effetti antimuscarinici dell'iperico: il problema è l'induzione enzimatica.",
+        "B": "L'inibizione delle MAO con reazione da tiramina è degli I-MAO; il testo non la attribuisce all'iperico.",
+        "D": "Il precursore della serotonina citato è il triptofano.",
+        "E": "La competizione con il sodio nel tubulo renale è descritta per il litio."
+      },
+      "riferimento": "pp. 188-189 – Iperico"
+    },
+    {
+      "id": "09-026",
+      "difficolta": "base",
+      "tipo": "farmacocinetica",
+      "argomento": "Litio – farmacocinetica",
+      "domanda": "Quale caratteristica farmacocinetica del litio è corretta?",
+      "opzioni": {
+        "A": "Si lega fortemente alle proteine plasmatiche e ha un volume di distribuzione molto superiore a quello dell'acqua corporea",
+        "B": "Attraversa rapidamente la barriera ematoencefalica e la sua concentrazione nel liquor è doppia rispetto al plasma",
+        "C": "Ha scarso assorbimento intestinale e viene eliminato prevalentemente con le feci",
+        "D": "Viene metabolizzato dal CYP2D6 e i suoi metaboliti sono escreti con la bile",
+        "E": "Non è metabolizzato né legato alle proteine; è eliminato per via renale con emivita di circa 24 ore"
+      },
+      "corretta": "E",
+      "spiegazione": "Il litio è uno ione: non viene metabolizzato, è assorbito quasi completamente per os, si distribuisce inizialmente nel liquido extracellulare, non si lega alle proteine plasmatiche e ha un volume di distribuzione vicino a quello dell'acqua. È eliminato per via renale con emivita di 24 ore (meno dell'1% con le feci, una piccola parte con il sudore).",
+      "distrattori": {
+        "A": "Il litio non si lega alle proteine e il suo volume di distribuzione si avvicina a quello dell'acqua.",
+        "B": "Attraversa lentamente la BEE e nel liquor raggiunge circa metà della concentrazione plasmatica, il che contribuisce al ritardo dell'effetto.",
+        "C": "È assorbito quasi completamente dal tratto gastrointestinale e meno dell'1% è eliminato con le feci.",
+        "D": "Il litio non subisce metabolismo; il CYP2D6 è citato per alcuni antidepressivi (es. imipramina, desipramina, fluoxetina)."
+      },
+      "riferimento": "p. 190 – Litio, farmacocinetica"
+    },
+    {
+      "id": "09-027",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Litio – interazioni",
+      "domanda": "Un paziente bipolare stabilizzato con litio inizia un nuovo farmaco prescritto da un altro medico. Dopo alcuni giorni compare un tremore grossolano e accentuato. Quale nuovo farmaco è il più probabile responsabile?",
+      "opzioni": {
+        "A": "Un SSRI",
+        "B": "Acetazolamide",
+        "C": "Un diuretico tiazidico",
+        "D": "Un integratore salino a base di sodio",
+        "E": "Aminofillina"
+      },
+      "corretta": "C",
+      "spiegazione": "Il tremore grossolano e accentuato può essere segno di tossicità da litio. I diuretici tiazidici riducono l'eliminazione del litio e ne aumentano le concentrazioni plasmatiche; il litio ha un range terapeutico molto ristretto, per cui la litemia va monitorata attentamente.",
+      "distrattori": {
+        "A": "Con gli antidepressivi esiste il rischio di viraggio, ma l'associazione è in generale considerata sicura ed efficace; non è descritto un aumento della litemia.",
+        "B": "L'acetazolamide aumenta l'eliminazione renale del litio, riducendone la concentrazione.",
+        "D": "Il sodio compete con il litio nel riassorbimento renale: aumentarne l'apporto riduce il riassorbimento del litio.",
+        "E": "L'aminofillina aumenta l'eliminazione renale del litio."
+      },
+      "riferimento": "p. 191 – Litio, interazioni; p. 192 – tremore"
+    },
+    {
+      "id": "09-028",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Litio – tossicità",
+      "domanda": "Un paziente in terapia con litio lamenta poliuria e sete intensa. Quale meccanismo spiega il disturbo e quale consiglio è corretto secondo il testo?",
+      "opzioni": {
+        "A": "Inibizione delle funzioni dell'ADH; ridurre l'apporto di sodio per favorire l'eliminazione del litio",
+        "B": "Il litio aumenta il filtrato glomerulare in acuto; va consigliata una restrizione idrica",
+        "C": "Il litio causa ipotiroidismo con ridotto metabolismo; va sospeso definitivamente perché l'effetto è irreversibile",
+        "D": "Inibizione delle funzioni dell'ADH con meno acquaporine; idratarsi con acqua contenente sodio",
+        "E": "Il litio causa iperparatiroidismo con ipercalcemia; va prescritto un diuretico tiazidico"
+      },
+      "corretta": "D",
+      "spiegazione": "Il litio inibisce le funzioni dell'ADH, che promuove l'espressione delle acquaporine: si riduce il riassorbimento di acqua con poliuria e conseguente polidipsia. Gli effetti renali acuti sono in genere reversibili ed è necessario avvertire il paziente di idratarsi abbondantemente con acqua contenente sodio.",
+      "distrattori": {
+        "A": "Ridurre il sodio è controproducente: il litio compete con il sodio, e la deplezione di sodio altera la litemia.",
+        "B": "Il testo non descrive un aumento del filtrato; a lungo termine il litio lo riduce. La restrizione idrica non è consigliata.",
+        "C": "L'ipotiroidismo non spiega la poliuria; gli effetti renali acuti sono in genere reversibili.",
+        "E": "L'iperparatiroidismo è un effetto a lungo termine e i tiazidici aumentano la litemia."
+      },
+      "riferimento": "p. 191 – Litio, effetti renali acuti"
+    },
+    {
+      "id": "09-029",
+      "difficolta": "avanzato",
+      "tipo": "falsa",
+      "argomento": "Litio – tossicità",
+      "domanda": "Quale affermazione sugli effetti a lungo termine del litio è FALSA?",
+      "opzioni": {
+        "A": "I pazienti in terapia hanno circa il doppio del rischio di sviluppare insufficienza renale rispetto alla popolazione generale",
+        "B": "Il litio compete con lo ioduro per la captazione tiroidea, riducendo la funzionalità della ghiandola",
+        "C": "Può causare iperparatiroidismo primario con aumento del paratormone e ipercalcemia",
+        "D": "Può causare modificazioni reversibili dell'ECG, come prolungamento del QT e dell'intervallo PR",
+        "E": "L'ipotiroidismo è un effetto raro e, quando compare, è quasi sempre clinicamente conclamato"
+      },
+      "corretta": "E",
+      "spiegazione": "L'effetto sulla tiroide è molto frequente (8-19% dei pazienti) e nella maggior parte dei casi l'ipotiroidismo è subclinico, rilevabile solo con il dosaggio di T3, T4 e TSH. Per questo prima di iniziare il litio si valuta anche la funzionalità tiroidea.",
+      "distrattori": {
+        "A": "Vero: il rischio di insufficienza renale è circa doppio, anche se l'evoluzione riguarda una bassa percentuale di pazienti.",
+        "B": "Vero: litio e ioduro sono captati dallo stesso sistema, quindi in presenza di litio la tiroide capta meno iodio.",
+        "C": "Vero: l'iperparatiroidismo primario aumenta il riassorbimento di calcio dall'osso con ipercalcemia.",
+        "D": "Vero: il litio può dare prolungamento del QT e del PR, effetti reversibili, e slatentizzare aritmie."
+      },
+      "riferimento": "p. 192 – Litio, effetti a lungo termine"
+    },
+    {
+      "id": "09-030",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Litio – meccanismo d'azione",
+      "domanda": "Quale effetto è attribuito dal testo al litio come parte del suo meccanismo d'azione?",
+      "opzioni": {
+        "A": "Si lega direttamente ai recettori dopaminergici D2 come antagonista competitivo",
+        "B": "Potenzia la trasmissione GABAergica sia a livello presinaptico sia postsinaptico",
+        "C": "Inibisce in modo irreversibile le monoaminossidasi MAO-A e MAO-B mitocondriali",
+        "D": "Potenzia l'attività dei recettori glutammatergici NMDA a livello postsinaptico",
+        "E": "Inibisce selettivamente il trasportatore della serotonina (SERT) a livello presinaptico"
+      },
+      "corretta": "B",
+      "spiegazione": "Il meccanismo del litio non è del tutto noto. Non si lega ai recettori, ma agisce sulla trasduzione del segnale (proteina chinasi C, inositolo trifosfato, AMP ciclico): riduce l'attività dopaminergica tramite la proteina G associata ai D2, riduce l'attività dei recettori NMDA e potenzia la trasmissione GABAergica sia pre- sia postsinaptica. A lungo termine favorisce plasticità sinaptica, sinaptogenesi e neurogenesi.",
+      "distrattori": {
+        "A": "Il litio non si lega ai recettori: riduce l'attività dopaminergica agendo sulla proteina G associata ai D2.",
+        "C": "L'inibizione irreversibile delle MAO è propria di fenelzina, tranilcipromina e isocarbossazide.",
+        "D": "Il litio riduce, non potenzia, l'attività dei recettori NMDA (il glutammato aumenta gli stati maniacali).",
+        "E": "L'inibizione selettiva del SERT è il meccanismo degli SSRI."
+      },
+      "riferimento": "pp. 189-190 – Litio, meccanismo d'azione"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Latenza di 3-4 settimane: le monoamine aumentano subito, ma l'effetto richiede l'aumento del BDNF e la sinaptogenesi (ipotesi neurotrofica); la reserpina (blocco del trasportatore vescicolare) provoca depressione.",
+    "I-MAO: moclobemide = RIMA (MAO-A reversibile), selegilina = MAO-B, fenelzina/tranilcipromina/isocarbossazide = irreversibili non selettivi. Tiramina → crisi ipertensiva; I-MAO + TCA → iperpiressia, convulsioni, coma; I-MAO + SSRI → sindrome serotoninergica.",
+    "TCA: amine terziarie (imipramina, amitriptilina, clomipramina) non selettive NET/SERT; amine secondarie (desipramina, nortriptilina) selettive per il NET. Blocco M = effetti atropino-simili, α1 = ipotensione ortostatica, H1 = peso e sedazione; riducono la soglia convulsiva e sono letali in overdose.",
+    "SSRI: 5-HT1 = effetto terapeutico, 5-HT2 = disfunzioni sessuali/ansia/insonnia, 5-HT3 = nausea e secrezione gastrica. Bupropione = NDRI (tabagismo), reboxetina = NRI, duloxetina/venlafaxina = SNRI, mirtazapina/mianserina = NaSSA (recettori 5-HT2 e α2, non reuptake), trazodone = SARI sedativo.",
+    "Litio: non metabolizzato, eliminazione renale (t½ 24 h), compete con il sodio. Tiazidici e FANS aumentano la litemia; acetazolamide e aminofillina ne aumentano l'eliminazione. Poliuria/polidipsia (inibizione ADH), ipotiroidismo (competizione con lo ioduro), iperparatiroidismo con ipercalcemia, QT lungo; tremore fine a dosi terapeutiche, tremore grossolano = tossicità."
+  ]
+}

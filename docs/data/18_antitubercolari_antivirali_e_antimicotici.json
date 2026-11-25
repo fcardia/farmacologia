@@ -1,0 +1,497 @@
+{
+  "capitolo": 18,
+  "titolo": "Antitubercolari, antivirali e antimicotici",
+  "pagine": "321-334",
+  "domande": [
+    {
+      "id": "18-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Mycobacterium tuberculosis",
+      "domanda": "Quale caratteristica del Mycobacterium tuberculosis spiega la ridotta permeabilità della sua parete, la resistenza a molti antibiotici e la sopravvivenza in ambienti ostili come i lisosomi?",
+      "opzioni": {
+        "A": "La presenza di ergosterolo come componente essenziale della membrana",
+        "B": "Lo spesso strato di beta-glucani che riveste la parete cellulare",
+        "C": "L'elevato contenuto di acidi micolici e altri lipidi nella parete cellulare",
+        "D": "L'espressione di un envelope con proteine di adesione ai recettori cellulari",
+        "E": "La produzione di beta-lattamasi che inattivano gli antibiotici nello spazio periplasmatico"
+      },
+      "corretta": "C",
+      "spiegazione": "Il micobatterio ha una parete molto spessa, robusta e impermeabile per l'elevato contenuto di acidi micolici e altri lipidi: ne derivano ridotta permeabilità ai coloranti, resistenza a molti antibiotici, a composti acidi e alcalini, alla lisi osmotica e la sopravvivenza nei macrofagi.",
+      "distrattori": {
+        "A": "L'ergosterolo è il costituente della membrana dei funghi, bersaglio di polieni e azoli.",
+        "B": "I beta-glucani sono componenti della parete fungina, bersaglio delle echinocandine.",
+        "D": "Envelope e proteine di adesione sono caratteristiche di alcuni virus (es. herpes), non dei micobatteri.",
+        "E": "Il testo attribuisce la resistenza del micobatterio alla parete ricca di acidi micolici, non a beta-lattamasi."
+      },
+      "riferimento": "p. 321 – Caratteristiche del Mycobacterium tuberculosis"
+    },
+    {
+      "id": "18-002",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Schema terapeutico TB",
+      "domanda": "Secondo lo schema descritto per la terapia della tubercolosi con farmaci di prima linea, come si articola il trattamento?",
+      "opzioni": {
+        "A": "Isoniazide, rifampicina, etambutolo e pirazinamide insieme per almeno 2 mesi, poi isoniazide più rifampicina per almeno altri 4 mesi",
+        "B": "Isoniazide più rifampicina per 2 mesi, poi isoniazide, rifampicina, etambutolo e pirazinamide insieme per almeno altri 4 mesi",
+        "C": "Isoniazide, rifampicina, etambutolo e pirazinamide insieme per almeno 2 mesi, poi etambutolo più pirazinamide per almeno altri 4 mesi",
+        "D": "Rifampicina in monoterapia per 2 mesi, poi isoniazide più pirazinamide per almeno altri 4 mesi",
+        "E": "Isoniazide, rifampicina, etambutolo e pirazinamide insieme per 6 mesi continuativi senza fase di mantenimento"
+      },
+      "corretta": "A",
+      "spiegazione": "La prima fase, intensiva, prevede la somministrazione contemporanea dei 3-4 farmaci di prima linea per almeno 2 mesi per la massima sterilizzazione; la seconda fase, di mantenimento, prosegue con isoniazide + rifampicina per almeno 4 mesi per eliminare le cariche residue.",
+      "distrattori": {
+        "B": "Inverte le fasi: il cocktail di 3-4 farmaci è la fase iniziale intensiva, la coppia isoniazide-rifampicina è il mantenimento.",
+        "C": "Nella fase di mantenimento proseguono isoniazide e rifampicina, non etambutolo e pirazinamide.",
+        "D": "La TB non si tratta mai con un solo farmaco: la monoterapia favorisce la selezione di ceppi resistenti.",
+        "E": "Lo schema prevede una seconda fase di mantenimento con soli isoniazide e rifampicina."
+      },
+      "riferimento": "pp. 322, 328 – Farmaci antitubercolari di prima scelta; schema della terapia"
+    },
+    {
+      "id": "18-003",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Schema terapeutico TB",
+      "domanda": "Quale associazione tra farmaco antitubercolare di prima linea e suo contributo alla terapia è corretta?",
+      "opzioni": {
+        "A": "Rifampicina: attiva esclusivamente sulle cellule dormienti all'interno dei foci caseosi",
+        "B": "Etambutolo: potente battericida sui bacilli a rapido metabolismo, principale responsabile della sterilizzazione",
+        "C": "Isoniazide: batteriostatica, usata soprattutto per prevenire le resistenze ai farmaci associati",
+        "D": "Pirazinamide: battericida e sterilizzante su cellule dormienti o semidormienti nei macrofagi o nei foci caseosi a pH acido",
+        "E": "Pirazinamide: batteriostatica, con elevata capacità di prevenire l'insorgenza di resistenze"
+      },
+      "corretta": "D",
+      "spiegazione": "La pirazinamide è battericida e sterilizzante e agisce sui bacilli dormienti o semidormienti nei macrofagi o nei foci caseosi, dove il pH è acido (è infatti un profarmaco attivato dal pH acido).",
+      "distrattori": {
+        "A": "La rifampicina è battericida potente sui bacilli a rapido metabolismo ed è attiva anche su quelli a basso metabolismo.",
+        "B": "L'etambutolo è batteriostatico; la potente attività battericida sui bacilli a rapido metabolismo è di rifampicina e isoniazide.",
+        "C": "L'isoniazide è battericida potente sui bacilli a rapido metabolismo; il ruolo di batteriostatico che previene le resistenze è dell'etambutolo.",
+        "E": "Questa è la descrizione dell'etambutolo, non della pirazinamide, che è battericida."
+      },
+      "riferimento": "pp. 322, 327 – Il contributo dei farmaci antitubercolari di prima linea; Pirazinamide"
+    },
+    {
+      "id": "18-004",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Isoniazide",
+      "domanda": "Qual è il meccanismo d'azione dell'isoniazide?",
+      "opzioni": {
+        "A": "È un profarmaco attivato dal pH acido, che inibisce la FAS-I bloccando la sintesi dei precursori degli acidi micolici",
+        "B": "È un profarmaco attivato dalla catalasi-perossidasi batterica a radicale nicotinico, che inibisce la FAS-II bloccando la sintesi degli acidi micolici",
+        "C": "Inibisce le arabinosiltransferasi del micobatterio, bloccando la sintesi della parete cellulare",
+        "D": "Inibisce la RNA-polimerasi DNA-dipendente batterica, bloccando la trascrizione",
+        "E": "È un profarmaco attivato dalla N-acetiltransferasi epatica, che inibisce la FAS-II batterica"
+      },
+      "corretta": "B",
+      "spiegazione": "Nel batterio l'isoniazide è attivata dalla catalasi (KatG) a radicale nicotinico, che inibisce la sintasi degli acidi grassi 2 (FAS-II), tappa fondamentale nella sintesi degli acidi micolici.",
+      "distrattori": {
+        "A": "Attivazione da pH acido e inibizione della FAS-I sono caratteristiche della pirazinamide.",
+        "C": "L'inibizione delle arabinosiltransferasi è il meccanismo dell'etambutolo.",
+        "D": "L'inibizione della RNA-polimerasi DNA-dipendente è il meccanismo delle rifamicine.",
+        "E": "L'acetilazione epatica (NAT2) inattiva l'isoniazide producendo N-acetil-isoniazide; l'attivazione avviene nel batterio."
+      },
+      "riferimento": "pp. 322-323 – Isoniazide, meccanismo d'azione"
+    },
+    {
+      "id": "18-005",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Isoniazide",
+      "domanda": "Un paziente in terapia antitubercolare cronica con isoniazide sviluppa parestesie e dolore alle estremità compatibili con neurite periferica. Qual è il meccanismo dell'effetto avverso e come si può prevenire?",
+      "opzioni": {
+        "A": "È causata dall'induzione del CYP3A4: si previene evitando i farmaci metabolizzati da questo isoenzima",
+        "B": "È una reazione idiosincrasica di tipo lupoide: si previene riducendo la dose negli acetilatori rapidi",
+        "C": "È dovuta all'accumulo di acido urico per competizione a livello renale: si previene monitorando l'uricemia",
+        "D": "È una neurite dose-dipendente simile a quella ottica: si previene con controlli periodici dell'acuità visiva",
+        "E": "L'isoniazide, strutturalmente simile alla vitamina B6, ne causa una carenza funzionale: si previene con supplementazione di piridossina"
+      },
+      "corretta": "E",
+      "spiegazione": "Somigliando strutturalmente alla vitamina B6, l'isoniazide diventa un falso substrato per le molecole che la utilizzano, causando una sindrome da carenza di B6 che si manifesta soprattutto con neuriti periferiche. Gli effetti si minimizzano con un supplemento di B6 (presente infatti in alcune associazioni precostituite).",
+      "distrattori": {
+        "A": "L'induzione del CYP3A4 è una proprietà della rifampicina e riguarda le interazioni, non la neurite.",
+        "B": "Le reazioni idiosincrasiche (LES, sindromi reumatiche) sono effetti diversi; inoltre la tossicità è più facile negli acetilatori lenti, non rapidi.",
+        "C": "La competizione renale con l'acido urico è propria della pirazinamide e causa iperuricemia/gotta, non neurite.",
+        "D": "La neurite ottica dose-dipendente è l'effetto avverso caratteristico dell'etambutolo."
+      },
+      "riferimento": "pp. 323-324 – Isoniazide: effetti legati al deficit di vitamina B6"
+    },
+    {
+      "id": "18-006",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Isoniazide",
+      "domanda": "Durante la terapia con isoniazide un paziente del tutto asintomatico presenta transaminasi pari a 4 volte i valori normali. Secondo quanto indicato, qual è la condotta corretta?",
+      "opzioni": {
+        "A": "Sospendere subito l'isoniazide: sono tollerati rialzi solo fino a 3 volte i valori normali in qualunque paziente",
+        "B": "Proseguire la terapia: nel paziente asintomatico sono tollerati rialzi fino a 5 volte i valori normali",
+        "C": "Sospendere l'isoniazide e sostituirla con la pirazinamide, priva di epatotossicità",
+        "D": "Proseguire la terapia aggiungendo vitamina B6, che previene il danno epatico",
+        "E": "Raddoppiare la dose, perché il rialzo indica un acetilatore rapido che metabolizza troppo velocemente il farmaco"
+      },
+      "corretta": "B",
+      "spiegazione": "Con l'isoniazide sono tollerate transaminasi fino a 3 volte i valori normali se i sintomi sono lievi e fino a 5 volte se il paziente è asintomatico; il farmaco va sospeso quando compare un danno epatico con sintomi veri (nausea, vomito, cachessia, ittero).",
+      "distrattori": {
+        "A": "La soglia di 3 volte vale per il paziente con sintomi lievi; nell'asintomatico si tollera fino a 5 volte.",
+        "C": "Anche la pirazinamide ha come principale reazione avversa l'epatotossicità.",
+        "D": "La supplementazione di B6 previene la neurite periferica, non l'epatotossicità.",
+        "E": "Il rialzo delle transaminasi è un effetto tossico; nel testo la tossicità è più facile negli acetilatori lenti."
+      },
+      "riferimento": "p. 323 – Isoniazide: ittero ed epatotossicità"
+    },
+    {
+      "id": "18-007",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Isoniazide",
+      "domanda": "Il metabolismo epatico dell'isoniazide presenta un marcato polimorfismo genetico. Quale conseguenza clinica è descritta?",
+      "opzioni": {
+        "A": "Il polimorfismo riguarda l'ossidazione tramite CYP3A4, per cui conviene associare un induttore negli acetilatori lenti",
+        "B": "Gli acetilatori rapidi vanno incontro più facilmente a tossicità per accumulo di N-acetil-isoniazide attiva",
+        "C": "Gli acetilatori lenti richiedono dosi più elevate perché attivano meno il profarmaco nel fegato",
+        "D": "Gli acetilatori lenti vanno incontro più facilmente a tossicità, mentre gli acetilatori rapidi possono richiedere dosi più elevate",
+        "E": "Gli acetilatori lenti sono affetti da una patologia epatica che controindica l'uso del farmaco"
+      },
+      "corretta": "D",
+      "spiegazione": "L'isoniazide è inattivata nel fegato per acetilazione a N-acetil-isoniazide, eliminata per via renale. Negli acetilatori rapidi il farmaco viene metabolizzato troppo velocemente e servono dosi più elevate; negli acetilatori lenti la tossicità è più probabile.",
+      "distrattori": {
+        "A": "Il polimorfismo descritto riguarda l'acetilazione (NAT2), non il CYP3A4.",
+        "B": "La N-acetil-isoniazide è un metabolita inattivo; la tossicità è più facile negli acetilatori lenti.",
+        "C": "Nel fegato l'acetilazione inattiva il farmaco; sono gli acetilatori rapidi a richiedere dosi più alte.",
+        "E": "Il testo sottolinea che nessuno di questi fenotipi corrisponde a una patologia: è solo un polimorfismo."
+      },
+      "riferimento": "pp. 322-324 – Isoniazide: acetilazione e polimorfismo"
+    },
+    {
+      "id": "18-008",
+      "difficolta": "base",
+      "tipo": "meccanismo",
+      "argomento": "Rifamicine",
+      "domanda": "Qual è il bersaglio molecolare della rifampicina e da cosa deriva la sua selettività per i batteri?",
+      "opzioni": {
+        "A": "La RNA-polimerasi DNA-dipendente batterica, unica e diversa dalle tre RNA-polimerasi eucariotiche",
+        "B": "La FAS-II batterica, assente nelle cellule umane che non sintetizzano acidi micolici",
+        "C": "La DNA-polimerasi batterica, che incorpora la rifampicina al posto della guanosina",
+        "D": "La catalasi-perossidasi batterica, che viene inibita irreversibilmente",
+        "E": "Le arabinosiltransferasi della parete micobatterica, assenti nella cellula umana"
+      },
+      "corretta": "A",
+      "spiegazione": "Le rifamicine inibiscono la RNA-polimerasi DNA-dipendente; l'azione è battericida e concentrazione-dipendente. I batteri esprimono una sola RNA-polimerasi di 5 subunità, diversa dalle tre RNA-polimerasi degli eucarioti: da qui la specificità.",
+      "distrattori": {
+        "B": "La FAS-II è il bersaglio dell'isoniazide attivata.",
+        "C": "L'incorporazione al posto della guanosina con blocco dell'elongazione è il meccanismo dell'aciclovir trifosfato sul DNA virale.",
+        "D": "La catalasi-perossidasi attiva l'isoniazide; le sue mutazioni causano resistenza all'isoniazide.",
+        "E": "Le arabinosiltransferasi sono il bersaglio dell'etambutolo."
+      },
+      "riferimento": "pp. 324-325 – Rifamicine, meccanismo d'azione"
+    },
+    {
+      "id": "18-009",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Rifamicine",
+      "domanda": "Una giovane donna con tubercolosi attiva inizia la terapia con rifampicina e assume un contraccettivo ormonale. Quale problema è atteso e per quale meccanismo?",
+      "opzioni": {
+        "A": "Inefficacia del contraccettivo, perché la rifampicina ne spiazza il legame alle proteine plasmatiche aumentandone l'escrezione renale",
+        "B": "Tossicità del contraccettivo, perché la rifampicina inibisce il CYP3A4 riducendone il metabolismo",
+        "C": "Inefficacia della rifampicina, perché il contraccettivo ne accelera l'acetilazione epatica",
+        "D": "Nessun problema rilevante, perché la rifampicina interagisce solo con i farmaci eliminati per via renale",
+        "E": "Inefficacia del contraccettivo, perché la rifampicina induce il CYP3A4 accelerandone il metabolismo"
+      },
+      "corretta": "E",
+      "spiegazione": "La rifampicina è un induttore enzimatico: aumenta la sintesi del CYP3A4 e accelera il metabolismo dei farmaci che ne sono substrato. Sono segnalati casi di inefficacia dei contraccettivi ormonali, per cui vanno valutati metodi alternativi (la gravidanza durante TB attiva in terapia non è consigliabile).",
+      "distrattori": {
+        "A": "Il testo spiega l'interazione con l'induzione del CYP3A4, non con lo spiazzamento proteico.",
+        "B": "L'inibizione potente del CYP3A4 è propria dei derivati azolici; la rifampicina è un induttore.",
+        "C": "L'acetilazione epatica polimorfica riguarda l'isoniazide; l'interazione descritta va nella direzione opposta.",
+        "D": "Le interazioni della rifampicina derivano proprio dall'induzione del CYP3A4 epatico."
+      },
+      "riferimento": "p. 325 – Rifampicina: induzione enzimatica (CYP3A4)"
+    },
+    {
+      "id": "18-010",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Rifamicine",
+      "domanda": "Quale delle seguenti affermazioni sulla rifampicina è FALSA?",
+      "opzioni": {
+        "A": "Attraversa bene la barriera ematoencefalica",
+        "B": "È usata nella profilassi della meningite meningococcica nei contatti dei pazienti affetti",
+        "C": "Causa caratteristicamente neurite ottica dose-dipendente, che impone il controllo della vista",
+        "D": "Può colorare di rosso-arancio urine e liquidi biologici, senza significato clinico",
+        "E": "Può causare un'elevazione transitoria degli enzimi epatici in una quota consistente di pazienti"
+      },
+      "corretta": "C",
+      "spiegazione": "La neurite ottica dose-dipendente (circa 1%) è la reazione avversa più preoccupante dell'etambutolo, non della rifampicina. Tra gli effetti della rifampicina figurano invece sindromi cutanee, nausea, coliti pseudomembranose, insufficienza renale acuta rara, epatotossicità e colorazione arancione dei liquidi.",
+      "distrattori": {
+        "A": "Vero: la rifampicina ha buona permeabilità a livello delle meningi e attraversa bene la BEE.",
+        "B": "Vero: le rifamicine sono usate nella profilassi della meningite da meningococco nei contatti.",
+        "D": "Vero: l'eliminazione di metaboliti colorati dà urine rossastre/arancioni senza significato clinico.",
+        "E": "Vero: elevazione transitoria degli enzimi epatici nel 10-15% dei pazienti, grave epatotossicità in meno dell'1%."
+      },
+      "riferimento": "pp. 324-326 – Rifamicine: impieghi e reazioni avverse; Etambutolo"
+    },
+    {
+      "id": "18-011",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Etambutolo",
+      "domanda": "Quale affermazione descrive correttamente l'etambutolo?",
+      "opzioni": {
+        "A": "Inibisce la FAS-I e la sua reazione avversa più caratteristica è l'iperuricemia con rischio di gotta",
+        "B": "Inibisce le arabinosiltransferasi della parete micobatterica e la sua reazione avversa più preoccupante è la neurite ottica, con incidenza dose-dipendente",
+        "C": "Inibisce le arabinosiltransferasi della parete micobatterica e la sua reazione avversa più caratteristica è la neurite periferica da deficit di vitamina B6",
+        "D": "Inibisce la RNA-polimerasi batterica e la sua reazione avversa più caratteristica è la colorazione arancione delle urine",
+        "E": "È un profarmaco attivato dalla catalasi batterica e la sua reazione avversa più preoccupante è la neurite ottica irreversibile"
+      },
+      "corretta": "B",
+      "spiegazione": "L'etambutolo blocca le arabinosiltransferasi coinvolte nella sintesi della parete micobatterica. È abbastanza ben tollerato, ma la neurite ottica (circa 1%, spesso reversibile, dose-dipendente) è la reazione più preoccupante.",
+      "distrattori": {
+        "A": "Inibizione della FAS-I e iperuricemia/gotta caratterizzano la pirazinamide.",
+        "C": "Il bersaglio è corretto, ma la neurite periferica da deficit di B6 è tipica dell'isoniazide.",
+        "D": "RNA-polimerasi e urine arancioni caratterizzano la rifampicina.",
+        "E": "L'attivazione da catalasi batterica riguarda l'isoniazide; la neurite ottica da etambutolo è spesso reversibile."
+      },
+      "riferimento": "p. 326 – Etambutolo"
+    },
+    {
+      "id": "18-012",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Pirazinamide",
+      "domanda": "Un paziente nella fase intensiva della terapia antitubercolare sviluppa un attacco di artrite gottosa con iperuricemia. Quale farmaco è il più probabile responsabile e con quale meccanismo?",
+      "opzioni": {
+        "A": "Pirazinamide, che causa insufficienza renale acuta su base autoimmune",
+        "B": "Isoniazide, che causa una sindrome da deficit di vitamina B6 con accumulo di urati",
+        "C": "Etambutolo, che inibisce le arabinosiltransferasi riducendo l'escrezione di urati",
+        "D": "Rifampicina, che induce il CYP3A4 aumentando la produzione di acido urico",
+        "E": "Pirazinamide, che compete con l'acido urico a livello renale riducendone l'escrezione"
+      },
+      "corretta": "E",
+      "spiegazione": "Tra le reazioni avverse principali della pirazinamide c'è la ridotta escrezione di acido urico, per competizione a livello renale: l'iperuricemia può provocare la precipitazione dei cristalli nelle articolazioni e la gotta.",
+      "distrattori": {
+        "A": "Il farmaco è giusto ma il meccanismo no: l'insufficienza renale acuta di probabile natura autoimmune è descritta per la rifampicina.",
+        "B": "Il deficit di B6 da isoniazide si manifesta con neurite periferica, convulsioni, anemia, non con gotta.",
+        "C": "L'arabinosiltransferasi è un enzima della parete micobatterica; l'etambutolo non è collegato all'iperuricemia.",
+        "D": "L'induzione del CYP3A4 da rifampicina causa interazioni farmacologiche, non iperuricemia."
+      },
+      "riferimento": "p. 327 – Pirazinamide: reazioni avverse"
+    },
+    {
+      "id": "18-013",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Pirazinamide",
+      "domanda": "Perché l'associazione di pirazinamide e isoniazide è sinergica?",
+      "opzioni": {
+        "A": "Agiscono su due tappe successive della sintesi degli acidi micolici: la pirazinamide inibisce la FAS-I e l'isoniazide la FAS-II",
+        "B": "Agiscono su due tappe successive della sintesi degli acidi micolici: l'isoniazide inibisce la FAS-I e la pirazinamide la FAS-II",
+        "C": "La pirazinamide inibisce l'acetilazione epatica dell'isoniazide, aumentandone i livelli plasmatici",
+        "D": "Entrambe inibiscono la FAS-II ma in siti diversi, aumentando l'occupazione dell'enzima",
+        "E": "La pirazinamide inibisce la sintesi della parete e favorisce l'ingresso dell'isoniazide, che blocca la RNA-polimerasi"
+      },
+      "corretta": "A",
+      "spiegazione": "La pirazinamide, analogo strutturale dell'isoniazide, agisce più a monte bloccando la FAS-I; l'isoniazide inibisce la tappa successiva (FAS-II). Il blocco di due tappe consecutive, come per sulfamidici e trimetoprim, dà sinergismo e riduce la probabilità di resistenza.",
+      "distrattori": {
+        "B": "Le tappe sono invertite: la FAS-I è bloccata dalla pirazinamide, la FAS-II dall'isoniazide.",
+        "C": "Il testo non descrive un'interazione farmacocinetica tra i due; il sinergismo è farmacodinamico.",
+        "D": "La pirazinamide agisce sulla FAS-I, a monte, non sulla FAS-II.",
+        "E": "L'isoniazide non agisce sulla RNA-polimerasi, bersaglio delle rifamicine."
+      },
+      "riferimento": "p. 327 – Pirazinamide, meccanismo d'azione"
+    },
+    {
+      "id": "18-014",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Farmaci di seconda linea",
+      "domanda": "Quale dei seguenti farmaci è elencato tra gli antitubercolari di seconda linea, usati in caso di fallimento della terapia o di micobatteri resistenti ai farmaci di prima scelta?",
+      "opzioni": {
+        "A": "Rifabutina",
+        "B": "Etambutolo",
+        "C": "Pirazinamide",
+        "D": "Amikacina",
+        "E": "Isoniazide"
+      },
+      "corretta": "D",
+      "spiegazione": "I farmaci di seconda linea sono fluorochinoloni, etionamide, cicloserina, acido aminosalicilico (PAS), aminoglicosidi (amikacina, kanamicina, che in alcuni casi richiedono via parenterale) e capreomicina.",
+      "distrattori": {
+        "A": "La rifabutina è citata accanto alla rifampicina tra i farmaci di prima scelta.",
+        "B": "L'etambutolo è uno dei quattro farmaci di prima linea.",
+        "C": "La pirazinamide è uno dei quattro farmaci di prima linea.",
+        "E": "L'isoniazide è un farmaco di prima linea, presente anche nella fase di mantenimento."
+      },
+      "riferimento": "pp. 322, 327 – Farmaci di seconda linea"
+    },
+    {
+      "id": "18-015",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Ciclo virale e bersagli",
+      "domanda": "Nella tabella degli stadi della replicazione virale e dei possibili bersagli farmacologici, su quale fase agiscono gli inibitori delle proteasi?",
+      "opzioni": {
+        "A": "Sull'uncoating, cioè la liberazione del materiale genetico virale",
+        "B": "Sull'attacco e la penetrazione, mimando il recettore cellulare come recettori solubili",
+        "C": "Sulle modificazioni post-traduzionali, cioè il taglio delle grandi proteine virali in proteine strutturali ed enzimatiche",
+        "D": "Sulla replicazione del genoma, bloccando la polimerasi virale",
+        "E": "Sull'ingresso, inibendo la fusione dell'envelope con la membrana della cellula ospite"
+      },
+      "corretta": "C",
+      "spiegazione": "Il genoma virale è semplice: vengono sintetizzate proteine molto grandi poi tagliate dalle proteasi in proteine strutturali ed enzimatiche. Gli inibitori delle proteasi bloccano queste modificazioni post-traduzionali e sono usati anche nella terapia dell'HIV.",
+      "distrattori": {
+        "A": "Sull'uncoating agiscono farmaci che bloccano la liberazione del materiale virale (canali ionici, stabilizzatori del capside).",
+        "B": "I recettori solubili 'fasulli' agiscono sulla fase di attacco e penetrazione.",
+        "D": "Sulla replicazione agiscono gli inibitori di DNA/RNA polimerasi, trascrittasi inversa, elicasi, primasi, integrasi.",
+        "E": "L'inibizione delle proteine di fusione riguarda la fase di ingresso."
+      },
+      "riferimento": "pp. 329-330 – Stadi dell'infezione virale e bersagli farmacologici"
+    },
+    {
+      "id": "18-016",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Aciclovir",
+      "domanda": "Da cosa dipende principalmente l'elevata selettività dell'aciclovir per le cellule infettate dal virus erpetico?",
+      "opzioni": {
+        "A": "L'aciclovir viene incorporato solo nell'RNA messaggero virale e non nel DNA",
+        "B": "Le fosforilazioni a difosfato e trifosfato sono svolte solo da chinasi virali assenti nella cellula ospite",
+        "C": "L'aciclovir è attivo come tale e lega selettivamente le glicoproteine dell'envelope virale",
+        "D": "L'aciclovir trifosfato inibisce la RNA-polimerasi DNA-dipendente virale, diversa da quella eucariotica",
+        "E": "La prima fosforilazione ad aciclovir monofosfato è operata dalla timidina chinasi virale, che la timidina chinasi cellulare non svolge"
+      },
+      "corretta": "E",
+      "spiegazione": "L'aciclovir è un profarmaco: è monofosforilato dalla timidina chinasi virale, poi trasformato in di- e trifosfato dalle chinasi della cellula ospite. Poiché la timidina chinasi cellulare non lo riconosce, senza il primo passaggio virale il farmaco non agisce: per questo è molto selettivo e poco tossico.",
+      "distrattori": {
+        "A": "L'aciclovir trifosfato è incorporato nella catena di DNA nascente al posto della guanosina, causando terminazione.",
+        "B": "Di- e trifosforilazione sono svolte dalle chinasi della cellula ospite; solo la prima tappa è virale.",
+        "C": "È un profarmaco (forma attiva: trifosfato) e agisce sulla replicazione del DNA, non sull'envelope.",
+        "D": "L'inibizione della RNA-polimerasi DNA-dipendente è il meccanismo della rifampicina nei batteri."
+      },
+      "riferimento": "pp. 331-332 – Aciclovir, meccanismo d'azione"
+    },
+    {
+      "id": "18-017",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Aciclovir",
+      "domanda": "Una donna gravida con herpes genitale necessita di terapia antivirale per ridurre il rischio di trasmissione al neonato durante il parto. Quale scelta è coerente con quanto descritto?",
+      "opzioni": {
+        "A": "Aciclovir, ben tollerato e con indicazione anche in gravidanza se necessario",
+        "B": "Ganciclovir, preferito per la sua maggiore selettività sulle cellule infettate",
+        "C": "Penciclovir, privo di effetti sulla sintesi del DNA delle cellule sane",
+        "D": "Nessun antivirale sistemico: è preferibile l'aciclovir in pomata, più efficace della terapia orale",
+        "E": "Ganciclovir, perché a differenza dell'aciclovir non richiede attivazione da parte della timidina chinasi virale"
+      },
+      "corretta": "A",
+      "spiegazione": "L'aciclovir è particolarmente ben tollerato ed è indicato anche in gravidanza, se necessario, per evitare il contagio del bambino durante il parto. Penciclovir e ganciclovir sono meno selettivi, possono essere mutageni, teratogeni ed embriotossici e quindi più pericolosi per il feto.",
+      "distrattori": {
+        "B": "Il ganciclovir ha selettività meno marcata dell'aciclovir e può essere teratogeno ed embriotossico.",
+        "C": "Il penciclovir può interferire con la sintesi del DNA e dare effetti mutageni o teratogeni.",
+        "D": "L'efficacia delle pomate topiche è stata molto criticata: è preferibile la terapia sistemica.",
+        "E": "Il testo attribuisce agli analoghi un meccanismo analogo a quello dell'aciclovir; la loro tossicità deriva dalla minore selettività."
+      },
+      "riferimento": "pp. 331-332 – Aciclovir e analoghi: tollerabilità e gravidanza"
+    },
+    {
+      "id": "18-018",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Polieni",
+      "domanda": "Qual è il meccanismo d'azione dell'amfotericina B e perché è un farmaco tossico?",
+      "opzioni": {
+        "A": "Inibisce la lanosterolo 14α-demetilasi bloccando la sintesi dell'ergosterolo; è tossica perché inibisce potentemente il CYP3A4",
+        "B": "Si inserisce nella membrana legandosi all'ergosterolo e forma pori con perdita del gradiente ionico; è poco selettiva perché le membrane fungine e umane sono simili",
+        "C": "Inibisce la sintesi dei beta-glucani della parete fungina; è tossica perché causa lisi osmotica delle cellule umane",
+        "D": "Agisce come antimetabolita inibendo la sintesi degli acidi nucleici del fungo, con scarsa selettività",
+        "E": "Inibisce la sintesi dei beta-glucani della parete fungina; è tossica perché la parete fungina è simile alla membrana umana"
+      },
+      "corretta": "B",
+      "spiegazione": "I polieni (amfotericina B, nistatina) hanno una parte idrofobica affine all'ergosterolo che si inserisce tra i fosfolipidi e una parte idrofila che lascia passare ioni e acqua: si formano pori con lisi osmotica. Non sono selettivi: oltre il 70% dei pazienti ha reazioni avverse (febbre, ipotensione, dolori muscolari, danno renale tardivo).",
+      "distrattori": {
+        "A": "È il meccanismo dei derivati azolici, selettivi e poco tossici ma con molte interazioni.",
+        "C": "La sintesi dei beta-glucani è bersaglio delle echinocandine (caspofungina), ben tollerate.",
+        "D": "Il meccanismo da antimetabolita è della 5-fluorocitosina.",
+        "E": "È il meccanismo delle echinocandine, che il testo descrive come ben tollerate."
+      },
+      "riferimento": "pp. 333-334 – Antibiotici polienici"
+    },
+    {
+      "id": "18-019",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Azoli",
+      "domanda": "Un paziente in terapia cronica con un farmaco metabolizzato dal CYP3A4 inizia fluconazolo per una candidosi. Quale effetto è atteso sul farmaco già in uso?",
+      "opzioni": {
+        "A": "Nessuna variazione, perché gli azoli agiscono solo sulla 14α-demetilasi fungina",
+        "B": "Riduzione graduale dei livelli plasmatici con rischio di inefficacia, per induzione del CYP3A4 da parte dell'azolico",
+        "C": "Aumento rapido dei livelli plasmatici, perché l'azolico accelera la conversione del farmaco in metaboliti attivi",
+        "D": "Aumento rapido dei livelli plasmatici con rischio di tossicità, per inibizione del CYP3A4 da parte dell'azolico",
+        "E": "Aumento dei livelli plasmatici solo dopo alcune settimane, il tempo necessario a ridurre la sintesi del citocromo"
+      },
+      "corretta": "D",
+      "spiegazione": "I derivati azolici sono potentissimi inibitori del citocromo P450, soprattutto del CYP3A4. L'inibizione è un fenomeno immediato e aumenta i livelli dei farmaci substrato con rischio di tossicità (con i profarmaci l'effetto è opposto).",
+      "distrattori": {
+        "A": "Pur agendo sulla 14α-demetilasi fungina, gli azoli inibiscono anche il CYP3A4 umano e hanno enormi potenzialità di interazione.",
+        "B": "L'induzione del CYP3A4 con riduzione dei livelli è tipica della rifampicina; gli azoli sono inibitori.",
+        "C": "Se il farmaco fosse un profarmaco, l'inibizione ne ridurrebbe l'attivazione, non l'aumenterebbe.",
+        "E": "L'inibizione è immediata; è l'induzione che richiede tempo perché aumenta la sintesi dell'enzima."
+      },
+      "riferimento": "p. 334 – Derivati azolici: inibizione del CYP3A4"
+    },
+    {
+      "id": "18-020",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Echinocandine",
+      "domanda": "Qual è il bersaglio della caspofungina?",
+      "opzioni": {
+        "A": "La lanosterolo 14α-demetilasi della via di sintesi dell'ergosterolo",
+        "B": "L'ergosterolo della membrana fungina, con formazione di pori",
+        "C": "Gli enzimi della sintesi dei beta-glucani della parete cellulare fungina",
+        "D": "La sintesi degli acidi nucleici fungini, come antimetabolita",
+        "E": "Le arabinosiltransferasi della parete cellulare fungina"
+      },
+      "corretta": "C",
+      "spiegazione": "La caspofungina appartiene alle echinocandine, inibitori specifici degli enzimi che sintetizzano i beta-glucani della parete fungina: la parete si assottiglia e si ha alterazione osmotica. Sono usate raramente per evitare resistenze (es. candidosi invasive ed esofagee, immunocompromessi).",
+      "distrattori": {
+        "A": "La 14α-demetilasi è il bersaglio dei derivati azolici.",
+        "B": "Il legame all'ergosterolo con formazione di pori è il meccanismo dei polieni (amfotericina B, nistatina).",
+        "D": "L'azione da antimetabolita sugli acidi nucleici è della 5-fluorocitosina.",
+        "E": "Le arabinosiltransferasi sono il bersaglio dell'etambutolo nella parete del micobatterio."
+      },
+      "riferimento": "pp. 333-334 – Echinocandine (caspofungina)"
+    },
+    {
+      "id": "18-021",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Azoli",
+      "domanda": "Quale affermazione sui derivati azolici è corretta?",
+      "opzioni": {
+        "A": "Gli imidazoli come il ketoconazolo sono gli antifungini di prima scelta perché più efficaci e sicuri dei triazoli",
+        "B": "I triazoli sono gli antifungini di prima scelta; tra essi l'itraconazolo, a differenza di fluconazolo, voriconazolo e posaconazolo, non attraversa bene la barriera ematoencefalica",
+        "C": "Voriconazolo e posaconazolo sono triazoli di prima generazione, fluconazolo e itraconazolo di seconda generazione",
+        "D": "I triazoli sono gli antifungini di prima scelta; tra essi il fluconazolo, a differenza dell'itraconazolo, non attraversa bene la barriera ematoencefalica",
+        "E": "I triazoli sono riservati alla via topica per la loro elevata tossicità sistemica"
+      },
+      "corretta": "B",
+      "spiegazione": "I triazoli sono i più usati perché meno tossici e più efficaci; prima generazione: fluconazolo e itraconazolo; seconda: voriconazolo e posaconazolo. Fluconazolo, voriconazolo e posaconazolo attraversano bene la BEE, l'itraconazolo no.",
+      "distrattori": {
+        "A": "Gli imidazoli (ketoconazolo) sono poco usati perché meno efficaci e meno sicuri.",
+        "C": "Le generazioni sono invertite: fluconazolo e itraconazolo sono di prima, voriconazolo e posaconazolo di seconda.",
+        "D": "È il contrario: il fluconazolo attraversa bene la BEE, l'itraconazolo no.",
+        "E": "I triazoli sono ben tollerati e di prima scelta sia per via topica sia sistemica."
+      },
+      "riferimento": "p. 334 – Derivati azolici: imidazoli e triazoli"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Isoniazide = profarmaco attivato nel batterio dalla catalasi-perossidasi (KatG) → inibisce FAS-II; nel fegato è invece INATTIVATA per acetilazione (acetilatori lenti = più tossicità, rapidi = servono dosi maggiori).",
+    "Pirazinamide inibisce FAS-I (a monte) e isoniazide FAS-II (a valle): sinergismo come sulfamidici + trimetoprim. Pirazinamide = profarmaco attivato dal pH acido, causa iperuricemia/gotta.",
+    "Neurite PERIFERICA = isoniazide (deficit di vitamina B6, si previene con piridossina); neurite OTTICA dose-dipendente = etambutolo (arabinosiltransferasi).",
+    "Rifampicina INDUCE il CYP3A4 (effetto lento, inefficacia dei contraccettivi); gli azoli INIBISCONO il CYP3A4 (effetto immediato, tossicità dei substrati). Urine arancioni = rifampicina.",
+    "Aciclovir: prima fosforilazione dalla timidina chinasi VIRALE, poi chinasi cellulari → selettivo, usabile in gravidanza; ganciclovir/penciclovir meno selettivi, mutageni/teratogeni. Polieni = pori legando l'ergosterolo (tossici, danno renale); azoli = 14α-demetilasi; echinocandine = beta-glucani."
+  ]
+}

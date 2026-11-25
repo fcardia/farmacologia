@@ -1,0 +1,497 @@
+{
+  "capitolo": 13,
+  "titolo": "Antiepilettici",
+  "pagine": "223-236",
+  "domande": [
+    {
+      "id": "13-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Tipi di crisi",
+      "domanda": "Secondo la classificazione riportata nel testo, quale caratteristica distingue una crisi parziale complessa da una crisi parziale semplice?",
+      "opzioni": {
+        "A": "Origina da una zona focale ma si diffonde secondariamente con alterazione o perdita della coscienza",
+        "B": "Origina da una zona focale e resta limitata a essa con coscienza sempre conservata",
+        "C": "È una crisi generalizzata con oscillazioni talamo-corticali a 3 Hz e sguardo assente",
+        "D": "È una crisi generalizzata con convulsioni tonico-cloniche, spasmi diffusi e caduta",
+        "E": "È una serie continua di crisi senza interruzioni né ripresa della coscienza"
+      },
+      "corretta": "A",
+      "spiegazione": "Le crisi parziali (circa 60% degli attacchi, spesso da lesioni corticali) si distinguono in semplici, che coinvolgono una singola zona focale con coscienza conservata, e complesse, che iniziano come focali ma si diffondono secondariamente con alterazione o perdita della coscienza.",
+      "distrattori": {
+        "B": "Descrive la crisi parziale semplice, in cui la coscienza è conservata.",
+        "C": "Descrive il piccolo male (assenze), una forma generalizzata.",
+        "D": "Descrive il grande male, una forma generalizzata tonico-clonica.",
+        "E": "Descrive lo stato di male epilettico, la situazione più grave."
+      },
+      "riferimento": "p. 224 – Tipologie di convulsioni"
+    },
+    {
+      "id": "13-002",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Scelta terapeutica",
+      "domanda": "Una bambina di 7 anni presenta episodi frequenti in cui si blocca con sguardo fisso per pochi secondi senza cadere; l'EEG mostra punte-onda a 3 Hz. Secondo il testo, quale farmaco è di prima scelta?",
+      "opzioni": {
+        "A": "Fenitoina",
+        "B": "Carbamazepina",
+        "C": "Etosuccimide",
+        "D": "Fenobarbital",
+        "E": "Oxcarbazepina"
+      },
+      "corretta": "C",
+      "spiegazione": "Il quadro è quello del piccolo male (assenze), generate da oscillazioni talamo-corticali a 3 Hz. Nelle assenze l'etosuccimide è la prima scelta, con acido valproico o clonazepam come alternative.",
+      "distrattori": {
+        "A": "La fenitoina (come tutte le idantoine) è inefficace nelle assenze.",
+        "B": "La carbamazepina è di prima scelta nelle crisi parziali e usata nel grande male, non nelle assenze.",
+        "D": "Il fenobarbital è indicato nel grande male e nello stato di male epilettico, non come prima scelta nelle assenze.",
+        "E": "L'oxcarbazepina ha le stesse indicazioni della carbamazepina, quindi non le assenze."
+      },
+      "riferimento": "p. 226 – Scelta del farmaco; p. 227 – Farmaci per le assenze; p. 229 – Idantoine"
+    },
+    {
+      "id": "13-003",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Stato di male epilettico",
+      "domanda": "Nella grave crisi convulsiva (stato di male), il testo indica di somministrare diazepam e.v. seguito da fenitoina e.v. Qual è il motivo per cui il diazepam non basta da solo?",
+      "opzioni": {
+        "A": "Il diazepam ha un inizio d'azione troppo lento per interrompere la crisi in atto",
+        "B": "Il diazepam si ridistribuisce rapidamente nei tessuti grassi e il suo effetto si esaurisce presto",
+        "C": "Il diazepam induce il CYP e accelera il proprio metabolismo dopo la prima dose",
+        "D": "Il diazepam per via endovenosa non attraversa la barriera emato-encefalica",
+        "E": "Il diazepam non è efficace sulle crisi tonico-cloniche ma solo sulle assenze"
+      },
+      "corretta": "B",
+      "spiegazione": "Nello stato di male si dà subito diazepam e.v., seguito da fenitoina e.v., a causa della rapida distribuzione del diazepam nei tessuti grassi, che ne riduce in breve la concentrazione utile. Bisogna inoltre fare attenzione a ipoventilazione e ipotensione.",
+      "distrattori": {
+        "A": "Il diazepam è proprio il farmaco somministrato per primo per interrompere subito la crisi.",
+        "C": "L'autoinduzione del CYP non è il motivo indicato; i forti induttori citati sono fenobarbital e carbamazepina.",
+        "D": "Il diazepam e.v. è indicato proprio nello stato di male, quindi agisce a livello centrale.",
+        "E": "Il diazepam è citato tra i farmaci del grande male e dello stato di male epilettico."
+      },
+      "riferimento": "p. 225 – Considerazioni generali; p. 233 – Benzodiazepine"
+    },
+    {
+      "id": "13-004",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Principi di terapia",
+      "domanda": "Quale dei seguenti principi della terapia antiepilettica è indicato nel testo?",
+      "opzioni": {
+        "A": "Iniziare sempre con un'associazione di due farmaci a basso dosaggio",
+        "B": "Usare la dose da carico all'inizio di ogni nuova terapia per ottenere subito il controllo",
+        "C": "Iniziare con un solo farmaco a dosaggio minimo e ridurre gradualmente ogni farmaco da sospendere",
+        "D": "Sospendere subito il farmaco inefficace per passare rapidamente al successivo",
+        "E": "Misurare le concentrazioni plasmatiche solo in caso di comparsa di segni di tossicità"
+      },
+      "corretta": "C",
+      "spiegazione": "La terapia va iniziata con un solo farmaco a dosaggio minimo, aumentando la dose o sostituendo il farmaco se necessario; ogni farmaco da interrompere va ridotto gradualmente, perché la sospensione improvvisa può scatenare crisi.",
+      "distrattori": {
+        "A": "Si parte in monoterapia; le associazioni si usano dopo il fallimento di più farmaci singoli.",
+        "B": "La dose da carico va usata solo in casi di estrema urgenza.",
+        "D": "Nessun farmaco va sospeso in modo improvviso: la riduzione deve essere graduale.",
+        "E": "Le concentrazioni vanno misurate regolarmente: all'inizio, dopo modifiche di dose, in caso di fallimento, tossicità, politerapia e per verificare l'aderenza."
+      },
+      "riferimento": "pp. 224-225 – Considerazioni generali sui farmaci antiepilettici"
+    },
+    {
+      "id": "13-005",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Etosuccimide",
+      "domanda": "Qual è il meccanismo con cui l'etosuccimide controlla le assenze?",
+      "opzioni": {
+        "A": "Prolunga lo stato di inattivazione dei canali del Na+ voltaggio-dipendenti",
+        "B": "Potenzia allostericamente il flusso di Cl- attraverso il recettore GABA-A",
+        "C": "Inibisce la GABA-transaminasi aumentando il GABA disponibile",
+        "D": "Blocca il trasportatore del GABA aumentandone la concentrazione sinaptica",
+        "E": "Inibisce la corrente T mediata dai canali del Ca2+ nei neuroni talamici"
+      },
+      "corretta": "E",
+      "spiegazione": "Le assenze sono dovute a oscillazioni talamo-corticali a 3 Hz generate dai neuroni talamici tramite la corrente T dei canali del Ca2+ voltaggio-dipendenti. L'etosuccimide sopprime questa attività parossistica inibendo la corrente T.",
+      "distrattori": {
+        "A": "È il meccanismo di fenitoina e carbamazepina.",
+        "B": "È il meccanismo di benzodiazepine e barbiturici.",
+        "C": "L'inibizione della GABA-transaminasi è attribuita all'acido valproico.",
+        "D": "Il blocco del trasportatore del GABA è un meccanismo GABAergico generale, non quello dell'etosuccimide."
+      },
+      "riferimento": "pp. 226-227 – Meccanismi d'azione, Farmaci per le assenze; p. 231 – Etosuccimide"
+    },
+    {
+      "id": "13-006",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Fenitoina",
+      "domanda": "Un paziente in terapia con fenitoina, con livelli nel range terapeutico, riceve un modesto aumento della dose giornaliera e sviluppa atassia e nistagmo. Quale proprietà della fenitoina spiega meglio questo fenomeno?",
+      "opzioni": {
+        "A": "Cinetica di primo ordine a tutte le dosi, con emivita molto breve",
+        "B": "Saturazione del metabolismo epatico, con passaggio da cinetica di primo ordine a ordine zero",
+        "C": "Autoinduzione del CYP che accelera il metabolismo dopo ogni aumento di dose",
+        "D": "Escrezione renale immodificata che si satura alle dosi più alte",
+        "E": "Formazione di un metabolita epossidico attivo che si accumula"
+      },
+      "corretta": "B",
+      "spiegazione": "La fenitoina ha una cinetica non lineare: a dosi basse l'eliminazione è di primo ordine, mentre a dosi alte i sistemi epatici si saturano e la cinetica diventa di ordine zero. Piccoli aumenti di dose possono quindi causare aumenti sproporzionati dei livelli e tossicità (atassia, nistagmo).",
+      "distrattori": {
+        "A": "La cinetica di primo ordine vale solo alle dosi basse; l'emivita è di 20-60 h.",
+        "C": "Un'induzione ridurrebbe i livelli, non li farebbe salire; la fenitoina è idrossilata dal metabolismo epatico.",
+        "D": "La fenitoina è inattivata dal metabolismo epatico (idrossilazione), non escreta immodificata.",
+        "E": "Il metabolita epossidico (10,11-epossido) è della carbamazepina."
+      },
+      "riferimento": "p. 229 – Idantoine; p. 230 – Cinetica non lineare della fenitoina"
+    },
+    {
+      "id": "13-007",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Fenitoina",
+      "domanda": "Un paziente ben controllato con fenitoina deve iniziare un nuovo farmaco. Quale associazione espone al rischio di livelli di fenitoina troppo ELEVATI?",
+      "opzioni": {
+        "A": "Aggiunta di carbamazepina",
+        "B": "Aggiunta di fenobarbital",
+        "C": "Aggiunta di cimetidina",
+        "D": "Aggiunta di levetiracetam",
+        "E": "Aggiunta di oxcarbazepina"
+      },
+      "corretta": "C",
+      "spiegazione": "Antifungini, cimetidina, dicumarolo, cloramfenicolo, sulfonamidi e isoniazide inibiscono il metabolismo della fenitoina e riducono la capacità metabolizzante epatica, con rischio di livelli troppo elevati e tossicità.",
+      "distrattori": {
+        "A": "La carbamazepina stimola il metabolismo della fenitoina verso il metabolita inattivo, riducendone l'effetto.",
+        "B": "Il fenobarbital è un importante induttore del CYP: tende ad accelerare il metabolismo di altri farmaci, non a bloccarlo.",
+        "D": "Il levetiracetam è quasi privo di interazioni con gli altri antiepilettici.",
+        "E": "L'oxcarbazepina è un induttore più debole della carbamazepina e non è citata tra gli inibitori del metabolismo della fenitoina."
+      },
+      "riferimento": "p. 230 – Interazioni della fenitoina; p. 228 – Barbiturati; p. 234 – Levetiracetam; p. 232 – Oxcarbazepina"
+    },
+    {
+      "id": "13-008",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Fenitoina",
+      "domanda": "Quale effetto avverso della fenitoina, molto visibile e capace di compromettere la vita sociale, compare in circa il 20% dei pazienti trattati?",
+      "opzioni": {
+        "A": "Alopecia",
+        "B": "Iperplasia gengivale",
+        "C": "Calo ponderale",
+        "D": "Alterazioni del campo visivo",
+        "E": "Edema periferico"
+      },
+      "corretta": "B",
+      "spiegazione": "L'iperplasia gengivale si manifesta in circa il 20% dei pazienti trattati con fenitoina: le gengive aumentano di volume fino a coprire i denti, con impatto evidente sulla vita sociale.",
+      "distrattori": {
+        "A": "L'alopecia (reversibile, nel 5%) è tipica dell'acido valproico.",
+        "C": "Il calo ponderale è descritto per il topiramato.",
+        "D": "Le alterazioni del campo visivo sono l'effetto da sorvegliare con il topiramato.",
+        "E": "L'edema è riportato talvolta con la gabapentina."
+      },
+      "riferimento": "p. 230 – Reazioni avverse della fenitoina"
+    },
+    {
+      "id": "13-009",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Fenitoina",
+      "domanda": "Nei neonati di madri trattate con fenitoina in gravidanza sono stati descritti ipotrombinemia ed emorragia. Quale meccanismo spiega questo effetto e quale ne è la prevenzione indicata?",
+      "opzioni": {
+        "A": "Inibizione della sintesi epatica di vitamina D; profilassi con calcio",
+        "B": "Spiazzamento degli anticoagulanti dalle proteine plasmatiche; sospensione della fenitoina al parto",
+        "C": "Aplasia midollare con piastrinopenia; emocromi frequenti nel neonato",
+        "D": "Aumento del metabolismo della vitamina K con riduzione delle proteine vitamina K-dipendenti; vitamina K",
+        "E": "Deficit di folati con alterata emopoiesi; supplementazione con acido folico"
+      },
+      "corretta": "D",
+      "spiegazione": "La fenitoina aumenta il metabolismo della vitamina K e riduce le proteine vitamina K-dipendenti. Nei neonati di madri trattate in gravidanza si sono verificate ipotrombinemia ed emorragia, e la vitamina K è un trattamento efficace o profilattico.",
+      "distrattori": {
+        "A": "L'alterato metabolismo della vitamina D spiega l'osteomalacia, non l'emorragia neonatale.",
+        "B": "Lo spiazzamento di anticoagulanti dalle proteine è descritto per la tiagabina (ecchimosi).",
+        "C": "Il rischio di anemia aplastica e agranulocitosi, con emocromi frequenti, è descritto per la carbamazepina.",
+        "E": "L'acido folico è citato per ridurre il rischio di malformazioni, non per l'ipotrombinemia."
+      },
+      "riferimento": "pp. 230-231 – Effetti endocrini della fenitoina; p. 235 – Gravidanza; p. 234 – Tiagabina"
+    },
+    {
+      "id": "13-010",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Barbiturici",
+      "domanda": "Quale affermazione sul fenobarbital come antiepilettico è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Ha effetto anticonvulsivante a dosi più basse di quelle ipnotiche ed è un forte induttore di CYP2C e CYP3A",
+        "B": "È efficace soprattutto nelle assenze ed è privo di effetti sul QI nei bambini",
+        "C": "Ha un'emivita breve (2-4 h) e richiede somministrazioni multiple giornaliere",
+        "D": "Agisce bloccando la corrente T nei neuroni talamici e inibisce il CYP3A4",
+        "E": "È privo di effetti sedativi e cognitivi anche nell'uso cronico nei bambini"
+      },
+      "corretta": "A",
+      "spiegazione": "Il fenobarbital ha un buon effetto anticonvulsivante a dosi più basse di quelle ipnotiche; potenzia il flusso di Cl- mediato dal GABA-A ed è un importante induttore enzimatico (CYP2C e CYP3A), aumentando il metabolismo di molti farmaci. Ha un'emivita molto lunga (>50 h).",
+      "distrattori": {
+        "B": "È indicato nel grande male e nello stato di male; nei bambini trattati cronicamente riduce il QI.",
+        "C": "Ha un onset lento e un'emivita molto lunga (>50 h).",
+        "D": "Il blocco della corrente T è il meccanismo dell'etosuccimide; il fenobarbital è un induttore, non un inibitore.",
+        "E": "L'assenza di sedazione marcata è un vantaggio della fenitoina; il fenobarbital causa sedazione, sonnolenza e riduzione del QI nei bambini trattati cronicamente."
+      },
+      "riferimento": "pp. 228-229 – Barbiturati; p. 229 – Idantoine"
+    },
+    {
+      "id": "13-011",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Carbamazepina",
+      "domanda": "Quale dei seguenti dati sulla carbamazepina è corretto secondo il testo?",
+      "opzioni": {
+        "A": "È metabolizzata dal CYP2D6 in un metabolita inattivo ed è un inibitore enzimatico",
+        "B": "È metabolizzata dal CYP3A4 in un epossido attivo ed è un forte induttore del CYP",
+        "C": "Non ha metabolismo significativo e non si lega alle proteine plasmatiche",
+        "D": "È eliminata principalmente per glucuronidazione e β-ossidazione, con emivita di 9-16 h",
+        "E": "È metabolizzata per coniugazione epatica ed è priva di effetti sul CYP"
+      },
+      "corretta": "B",
+      "spiegazione": "La carbamazepina ha una farmacocinetica complessa: è metabolizzata dal CYP3A4 in un epossido, metabolita attivo, poi idrolizzato e glucuronoconiugato; ha emivita di 12-17 h ed è uno dei più potenti induttori del CYP.",
+      "distrattori": {
+        "A": "Il CYP coinvolto è il 3A4 e la carbamazepina è un induttore, non un inibitore.",
+        "C": "Descrive la gabapentina.",
+        "D": "Descrive il metabolismo e l'emivita dell'acido valproico.",
+        "E": "La coniugazione epatica predominante è riportata per la lamotrigina; la carbamazepina è un forte induttore."
+      },
+      "riferimento": "p. 232 – Carbamazepina; p. 233 – Acido valproico; p. 234 – Gabapentina, Lamotrigina"
+    },
+    {
+      "id": "13-012",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Carbamazepina",
+      "domanda": "Rispetto alla carbamazepina, quale caratteristica distingue l'oxcarbazepina?",
+      "opzioni": {
+        "A": "Agisce sui canali del Ca2+ di tipo T ed è quindi efficace nelle assenze",
+        "B": "È un induttore enzimatico più potente e richiede emocromi più frequenti",
+        "C": "Non è un profarmaco ed è eliminata immodificata per via renale",
+        "D": "È un profarmaco meno induttore che non forma il 10,11-epossido, con migliore tollerabilità epatica",
+        "E": "Ha indicazioni diverse, limitate alla nevralgia del trigemino e al dolore neuropatico"
+      },
+      "corretta": "D",
+      "spiegazione": "L'oxcarbazepina è un analogo della carbamazepina: è un profarmaco meno induttore degli enzimi e, non formando il metabolita potenzialmente tossico carbamazepina-10,11-epossido, è meglio tollerata dal punto di vista epatico. Ha stesse indicazioni e stesso meccanismo d'azione.",
+      "distrattori": {
+        "A": "Ha lo stesso meccanismo della carbamazepina (canali del Na+); il blocco della corrente T è dell'etosuccimide.",
+        "B": "È meno induttrice della carbamazepina; gli emocromi frequenti sono consigliati per la carbamazepina.",
+        "C": "Il testo la definisce proprio un profarmaco.",
+        "E": "Ha le stesse indicazioni della carbamazepina, in primo luogo le crisi parziali."
+      },
+      "riferimento": "p. 232 – Carbamazepina e oxcarbazepina"
+    },
+    {
+      "id": "13-013",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Carbamazepina",
+      "domanda": "Un paziente con crisi parziali inizia il farmaco considerato di prima scelta in questa forma, usato anche nella nevralgia del trigemino e nel disturbo bipolare. Quale controllo è consigliato durante la terapia?",
+      "opzioni": {
+        "A": "Emocromi frequenti per il rischio di anemia aplastica e agranulocitosi",
+        "B": "Controllo dell'amilasi per il rischio di pancreatite acuta",
+        "C": "Controllo del campo visivo e dell'equilibrio acido-base",
+        "D": "Controllo dell'ammoniemia per il rischio di encefalopatia",
+        "E": "Controllo della cute e sospensione al primo rash nelle prime 2-8 settimane"
+      },
+      "corretta": "A",
+      "spiegazione": "Il farmaco è la carbamazepina. La frequenza di anemia aplastica e agranulocitosi è aumentata di 5-8 volte nei pazienti trattati: sono consigliabili esami del sangue frequenti.",
+      "distrattori": {
+        "B": "Pancreatite e aumento delle amilasi sono caratteristici dell'acido valproico.",
+        "C": "Campo visivo e acidosi ipercloremica vanno sorvegliati con il topiramato.",
+        "D": "L'encefalopatia iperammoniemica è un'idiosincrasia dell'acido valproico.",
+        "E": "La sospensione al primo segno di rash nelle prime 2-8 settimane è indicata per la lamotrigina."
+      },
+      "riferimento": "p. 232 – Carbamazepina; pp. 233-234 – Acido valproico, Lamotrigina, Topiramato"
+    },
+    {
+      "id": "13-014",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Acido valproico",
+      "domanda": "Quale combinazione di meccanismi è attribuita all'acido valproico?",
+      "opzioni": {
+        "A": "Solo modulazione allosterica positiva del recettore GABA-A",
+        "B": "Antagonismo dei recettori del glutammato e potenziamento del GABA-A",
+        "C": "Blocco dei canali del Na+ e della corrente T, stimolo della GAD e inibizione della GABA-transaminasi",
+        "D": "Inibizione dell'anidrasi carbonica e antagonismo glutammatergico",
+        "E": "Solo blocco della ricaptazione del GABA tramite il suo trasportatore"
+      },
+      "corretta": "C",
+      "spiegazione": "L'acido valproico ha effetti misti: simili alla fenitoina (canali del Na+) e all'etosuccimide (corrente T); inoltre stimola la GAD e inibisce la GABA-transaminasi e la deidrogenasi della semialdeide succinica. Ciò spiega il suo spettro ampio, incluse le assenze.",
+      "distrattori": {
+        "A": "È il meccanismo di benzodiazepine e barbiturici.",
+        "B": "È il meccanismo descritto per il felbamato.",
+        "D": "Antagonismo glutammatergico e inibizione dell'anidrasi carbonica sono associati al topiramato.",
+        "E": "Il blocco del trasportatore del GABA è un meccanismo diverso, non attribuito al valproato."
+      },
+      "riferimento": "p. 233 – Acido valproico, Felbamato; p. 227 – Meccanismi GABAergici; p. 234 – Topiramato"
+    },
+    {
+      "id": "13-015",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Acido valproico",
+      "domanda": "Quale affermazione sulle reazioni avverse dell'acido valproico è FALSA?",
+      "opzioni": {
+        "A": "Può causare pancreatite acuta con aumento delle amilasi",
+        "B": "Può causare un'encefalopatia iperammoniemica idiosincrasica",
+        "C": "Può causare alopecia reversibile e aumento ponderale",
+        "D": "Può causare iperplasia gengivale in circa il 20% dei pazienti",
+        "E": "Raramente può causare necrosi epatica fatale in bambini in politerapia"
+      },
+      "corretta": "D",
+      "spiegazione": "L'iperplasia gengivale (circa 20% dei pazienti) è un effetto avverso della fenitoina. Per l'acido valproico sono riportati pancreatite acuta, aumento delle amilasi, trombocitopenia, alopecia reversibile, aumento ponderale, encefalopatia iperammoniemica e raramente necrosi epatica fatale.",
+      "distrattori": {
+        "A": "Vera: pancreatite acuta e aumento delle amilasi sono caratteristici del valproato.",
+        "B": "Vera: l'encefalopatia iperammoniemica è riportata come idiosincrasia.",
+        "C": "Vera: alopecia reversibile (5%) e aumento ponderale sono tra le ADR.",
+        "E": "Vera: è descritta in bambini neurologicamente compromessi trattati con più anticonvulsivanti."
+      },
+      "riferimento": "pp. 233-234 – Acido valproico; p. 230 – Fenitoina"
+    },
+    {
+      "id": "13-016",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Gravidanza",
+      "domanda": "Una donna epilettica che desidera una gravidanza chiede quale antiepilettico comporti il rischio teratogeno più alto. Secondo il testo, quale farmaco è il più teratogeno e quale difetto è specificamente associato?",
+      "opzioni": {
+        "A": "Oxcarbazepina, associata a palatoschisi",
+        "B": "Levetiracetam, associato a difetti cardiaci",
+        "C": "Fenitoina, associata a spina bifida",
+        "D": "Fenobarbital, associato ad autismo",
+        "E": "Valproato, associato a spina bifida"
+      },
+      "corretta": "E",
+      "spiegazione": "Il rischio teratogeno è basso per lamotrigina, oxcarbazepina e levetiracetam, più elevato per carbamazepina, fenitoina e topiramato, maggiore con il fenobarbital e massimo per il valproato, che aumenta il rischio di spina bifida. L'acido folico riduce molto il rischio di malformazioni.",
+      "distrattori": {
+        "A": "L'oxcarbazepina è tra i farmaci a rischio più basso secondo gli studi citati.",
+        "B": "Il levetiracetam è tra i farmaci a rischio basso.",
+        "C": "La fenitoina ha un rischio elevato ma non massimo; la spina bifida è associata al valproato.",
+        "D": "Il fenobarbital ha un rischio maggiore ma non massimo; la questione dell'autismo è definita controversa."
+      },
+      "riferimento": "p. 235 – Gravidanza"
+    },
+    {
+      "id": "13-017",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Benzodiazepine",
+      "domanda": "Quale affermazione sull'uso delle benzodiazepine come antiepilettici è corretta secondo il testo?",
+      "opzioni": {
+        "A": "Sono ideali in monoterapia cronica perché l'effetto anticonvulsivante si mantiene nel tempo",
+        "B": "Il clorazepato è il preferito nei bambini sotto i 9 anni",
+        "C": "Il diazepam si usa per via e.v. nello stato di male e per via rettale in pazienti refrattari con crisi occasionali",
+        "D": "Il clonazepam è inefficace nelle assenze e si usa solo nello stato di male",
+        "E": "Agiscono bloccando i canali del Na+ voltaggio-dipendenti come la fenitoina"
+      },
+      "corretta": "C",
+      "spiegazione": "Il diazepam è indicato per via e.v. nello stato di male epilettico e nelle epilessie ricorrenti gravi, per via rettale in pazienti refrattari con crisi occasionali e per os in aggiunta. Le benzodiazepine non vanno usate cronicamente da sole perché sviluppano tolleranza all'effetto anticonvulsivante.",
+      "distrattori": {
+        "A": "Vanno incontro a tolleranza: nell'uso cronico si danno in aggiunta ad altri antiepilettici.",
+        "B": "Il clorazepato non va usato nei bambini sotto i 9 anni.",
+        "D": "Il clonazepam è indicato nelle assenze e nelle crisi parziali, in monoterapia o in aggiunta.",
+        "E": "Sono modulatori allosterici positivi del recettore GABA-A."
+      },
+      "riferimento": "p. 233 – Benzodiazepine; p. 226 – Meccanismi d'azione"
+    },
+    {
+      "id": "13-018",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Nuovi antiepilettici",
+      "domanda": "Quale antiepilettico può causare acidosi ipercloremica per effetto sull'anidrasi carbonica renale e richiede attenzione alle alterazioni del campo visivo?",
+      "opzioni": {
+        "A": "Levetiracetam",
+        "B": "Gabapentina",
+        "C": "Tiagabina",
+        "D": "Lamotrigina",
+        "E": "Topiramato"
+      },
+      "corretta": "E",
+      "spiegazione": "Il topiramato può dare calo ponderale, nervosismo e parestesie; vanno sorvegliate le alterazioni del campo visivo e l'acidosi ipercloremica da effetto sull'anidrasi carbonica renale, che impone di ridurre la dose o interrompere.",
+      "distrattori": {
+        "A": "Il levetiracetam è ben tollerato: difficoltà di coordinazione e agitazione.",
+        "B": "La gabapentina dà sedazione, vertigini, leucopenia, variazioni della glicemia ed edema.",
+        "C": "La tiagabina dà depressione, difficoltà di concentrazione, nausea ed ecchimosi.",
+        "D": "La lamotrigina è nota per reazioni di ipersensibilità e rash gravi."
+      },
+      "riferimento": "p. 234 – Topiramato e altri farmaci aggiuntivi"
+    },
+    {
+      "id": "13-019",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Nuovi antiepilettici",
+      "domanda": "Un ragazzo con crisi parziali inizia lamotrigina come add-on. Dopo 3 settimane compare un rash cutaneo. Qual è la condotta indicata nel testo?",
+      "opzioni": {
+        "A": "Proseguire la terapia, perché il rash è un effetto benigno e transitorio",
+        "B": "Sospendere immediatamente la lamotrigina al primo segno di rash",
+        "C": "Ridurre gradualmente la dose nell'arco di alcuni mesi",
+        "D": "Aggiungere vitamina K e continuare la terapia",
+        "E": "Monitorare l'ammoniemia e proseguire se nella norma"
+      },
+      "corretta": "B",
+      "spiegazione": "La lamotrigina può dare rash cutanei gravi, inclusa la sindrome di Stevens-Johnson, nell'1% dei pazienti pediatrici e nello 0,3% degli adulti, nelle prime 2-8 settimane di terapia: va sospesa immediatamente al primo segno di rash.",
+      "distrattori": {
+        "A": "Il rash da lamotrigina può evolvere in forme gravi come la sindrome di Stevens-Johnson.",
+        "C": "La riduzione graduale è la regola generale per sospendere un antiepilettico, ma per il rash da lamotrigina la sospensione deve essere immediata.",
+        "D": "La vitamina K riguarda l'ipotrombinemia neonatale da fenitoina.",
+        "E": "L'iperammoniemia riguarda l'acido valproico."
+      },
+      "riferimento": "p. 234 – Lamotrigina; p. 225 – Considerazioni generali"
+    },
+    {
+      "id": "13-020",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Nuovi antiepilettici",
+      "domanda": "Un paziente in terapia anticoagulante necessita di un antiepilettico aggiuntivo. Quale farmaco, pur non inducendo né inibendo il CYP450, può dare ecchimosi per spiazzamento dell'anticoagulante dalle proteine plasmatiche?",
+      "opzioni": {
+        "A": "Gabapentina",
+        "B": "Levetiracetam",
+        "C": "Tiagabina",
+        "D": "Carbamazepina",
+        "E": "Fenobarbital"
+      },
+      "corretta": "C",
+      "spiegazione": "La tiagabina non induce né inibisce il CYP450, ma si lega per il 96% alle proteine plasmatiche: può spiazzare un anticoagulante anch'esso legato alle proteine, con comparsa di ecchimosi.",
+      "distrattori": {
+        "A": "La gabapentina non ha legame con le proteine plasmatiche né metabolismo significativo.",
+        "B": "Il levetiracetam è quasi privo di interazioni, anche con anticoagulanti e contraccettivi orali.",
+        "D": "La carbamazepina interagisce come forte induttore del CYP, non per spiazzamento proteico.",
+        "E": "Il fenobarbital interagisce come induttore di CYP2C e CYP3A."
+      },
+      "riferimento": "p. 234 – Tiagabina, Gabapentina, Levetiracetam; p. 228 – Barbiturati; p. 232 – Carbamazepina"
+    },
+    {
+      "id": "13-021",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Gravidanza",
+      "domanda": "Secondo il testo, quale misura riduce in modo marcato il rischio di malformazioni nelle donne che assumono antiepilettici?",
+      "opzioni": {
+        "A": "Sospendere bruscamente l'antiepilettico all'inizio della gravidanza",
+        "B": "Assumere acido folico",
+        "C": "Sostituire l'antiepilettico con una benzodiazepina in monoterapia",
+        "D": "Evitare l'allattamento al seno dopo il parto",
+        "E": "Aumentare la dose per prevenire qualsiasi crisi"
+      },
+      "corretta": "B",
+      "spiegazione": "Il counselling deve informare le donne che, durante l'uso di antiepilettici, l'acido folico riduce estremamente il rischio di malformazioni. La terapia non va interrotta perché le crisi in gravidanza sono pericolose per madre e feto.",
+      "distrattori": {
+        "A": "La sospensione è pericolosa: le crisi in gravidanza possono causare malformazioni o morte del feto.",
+        "C": "Le benzodiazepine sviluppano tolleranza e non vanno usate cronicamente da sole.",
+        "D": "Lo sconsigliare l'allattamento è definito quasi sempre ingiustificato: il farmaco nel latte è molto modesto.",
+        "E": "Per minimizzare il rischio si tende a usare la dose più bassa compatibile con un buon controllo delle crisi."
+      },
+      "riferimento": "p. 235 – Gravidanza; p. 236 – Allattamento; p. 225 – Considerazioni generali; p. 233 – Benzodiazepine"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Fenitoina e carbamazepina (canali del Na+) sono inefficaci nelle assenze: lì la prima scelta è l'etosuccimide (corrente T talamica), con valproato o clonazepam in alternativa.",
+    "La fenitoina ha cinetica non lineare (primo ordine a dosi basse, ordine zero a dosi alte): piccoli aumenti di dose causano tossicità (atassia, nistagmo).",
+    "Carbamazepina e fenobarbital sono forti induttori del CYP (riducono i livelli di altri farmaci, inclusa la fenitoina); cimetidina, cloramfenicolo, dicumarolo e antifungini invece aumentano i livelli di fenitoina inibendone il metabolismo.",
+    "Non confondere le ADR tipiche: iperplasia gengivale = fenitoina; anemia aplastica/agranulocitosi = carbamazepina; pancreatite, iperammoniemia, alopecia = valproato; SJS/rash = lamotrigina; acidosi ipercloremica e campo visivo = topiramato.",
+    "Teratogenicità: rischio basso per lamotrigina, oxcarbazepina, levetiracetam; più alto per carbamazepina, fenitoina, topiramato; maggiore con fenobarbital; massimo con valproato (spina bifida). Acido folico riduce il rischio."
+  ]
+}

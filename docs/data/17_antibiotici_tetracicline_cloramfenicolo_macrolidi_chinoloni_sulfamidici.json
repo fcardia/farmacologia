@@ -1,0 +1,497 @@
+{
+  "capitolo": 17,
+  "titolo": "Antibiotici: tetracicline, cloramfenicolo, macrolidi, chinoloni e sulfamidici",
+  "pagine": "305-320",
+  "domande": [
+    {
+      "id": "17-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Tetracicline",
+      "domanda": "Qual è il meccanismo d'azione delle tetracicline?",
+      "opzioni": {
+        "A": "Legame alla subunità ribosomiale 30S con blocco del legame del complesso tRNA-amminoacido al messaggero; effetto batteriostatico",
+        "B": "Legame alla subunità ribosomiale 50S con blocco dell'allungamento della catena peptidica; effetto battericida",
+        "C": "Inattivazione della DNA girasi e della topoisomerasi IV; effetto battericida",
+        "D": "Inibizione della diidropteroato sintetasi come falso substrato del PABA; effetto batteriostatico",
+        "E": "Riduzione intrabatterica a prodotti citotossici reattivi che danneggiano il DNA; effetto battericida"
+      },
+      "corretta": "A",
+      "spiegazione": "Le tetracicline si legano alla subunità 30S del ribosoma batterico e bloccano il legame del complesso tRNA-amminoacido con l'mRNA: interferendo con la sintesi proteica sono batteriostatiche.",
+      "distrattori": {
+        "B": "Il legame alla 50S con blocco dell'allungamento è il meccanismo di cloramfenicolo e macrolidi, che sono comunque batteriostatici.",
+        "C": "L'inattivazione di DNA girasi e topoisomerasi IV è il meccanismo dei fluorochinoloni.",
+        "D": "L'inibizione della DHPS come analogo del PABA è il meccanismo dei sulfamidici.",
+        "E": "La riduzione a prodotti citotossici che danneggiano il DNA è l'ipotesi sul meccanismo del metronidazolo."
+      },
+      "riferimento": "p. 305 – Tetracicline, meccanismo d'azione"
+    },
+    {
+      "id": "17-002",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Tetracicline",
+      "domanda": "Una paziente con gastrite che assume regolarmente un antiacido a base di idrossido di alluminio e un integratore di ferro deve iniziare una terapia orale con doxiciclina. Quale indicazione è corretta?",
+      "opzioni": {
+        "A": "Distanziare la doxiciclina da antiacido, integratore di ferro e latticini, perché i cationi chelano il farmaco e ne riducono l'assorbimento",
+        "B": "Assumere la doxiciclina insieme al latte per ridurre l'irritazione gastrica e migliorarne l'assorbimento",
+        "C": "Sospendere l'integratore di ferro, perché la doxiciclina ne aumenta l'assorbimento fino a livelli tossici",
+        "D": "Preferire la via intramuscolare, perché è la via di somministrazione elettiva delle tetracicline",
+        "E": "Nessuna precauzione, perché la chelazione con i cationi riguarda solo la tetraciclina capostipite e non la doxiciclina"
+      },
+      "corretta": "A",
+      "spiegazione": "Le tetracicline chelano i cationi (calcio, alluminio, ferro): si forma un precipitato che inattiva il farmaco e non viene assorbito. Vanno quindi distanziate (almeno 2 ore) da latticini, antiacidi all'alluminio e prodotti a base di ferro.",
+      "distrattori": {
+        "B": "Il calcio del latte chela le tetracicline e ne riduce l'assorbimento: vanno distanziate dai latticini.",
+        "C": "La chelazione riduce l'assorbimento della tetraciclina; il testo non descrive un aumento dell'assorbimento del ferro.",
+        "D": "La via preferita è quella orale: l'intramuscolare è dolorosa e l'endovenosa può causare tromboflebiti.",
+        "E": "La chelazione dei cationi è descritta come caratteristica della classe, quindi riguarda anche la doxiciclina."
+      },
+      "riferimento": "p. 305 – Tetracicline, chelazione dei cationi; p. 306 – Via di somministrazione"
+    },
+    {
+      "id": "17-003",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Tetracicline",
+      "domanda": "Perché le tetracicline vanno evitate nei bambini con i denti in formazione e, se possibile, nella donna in gravidanza?",
+      "opzioni": {
+        "A": "Per la grande affinità per il calcio: legandosi al calcio di denti e ossa causano colorazione giallo-brunastra dei denti e possibili problemi all'osso fetale",
+        "B": "Per l'affinità per le cartilagini in accrescimento e i tendini, con rischio di danno articolare e rottura tendinea",
+        "C": "Per l'immaturità della glucuronoconiugazione, che porta ad accumulo del farmaco e sindrome grigia",
+        "D": "Per la fototossicità, che nel bambino causa un'alterazione permanente della pigmentazione cutanea",
+        "E": "Per la capacità di inibire la diidrofolato riduttasi umana, con carenza di folati nel feto"
+      },
+      "corretta": "A",
+      "spiegazione": "Le tetracicline hanno grande affinità per il calcio: legandosi a quello dei denti ne determinano la colorazione giallo-brunastra (problema estetico importante). Per lo stesso motivo vanno evitate in gravidanza (salvo necessità, es. toxoplasmosi) per i possibili problemi all'osso del feto.",
+      "distrattori": {
+        "B": "Il danno a cartilagini in accrescimento e tendini è il motivo per cui si evitano i fluorochinoloni in gravidanza e nell'infanzia.",
+        "C": "L'accumulo per scarsa glucuronoconiugazione con sindrome grigia riguarda il cloramfenicolo.",
+        "D": "La fototossicità delle tetracicline causa eritemi da esposizione solare, non è il motivo della controindicazione nei bambini.",
+        "E": "L'inibizione della DHFR è il meccanismo del trimetoprim, attivo sull'enzima batterico."
+      },
+      "riferimento": "p. 306 – Tetracicline, reazioni avverse"
+    },
+    {
+      "id": "17-004",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Tetracicline",
+      "domanda": "Quale raccomandazione va data a un paziente in terapia con tetracicline che sta per partire per una vacanza al mare?",
+      "opzioni": {
+        "A": "Evitare l'esposizione al sole e usare creme solari protettive, per il rischio di fototossicità",
+        "B": "Evitare attività fisica intensa, per il rischio di rottura del tendine d'Achille",
+        "C": "Evitare del tutto l'alcol, per il rischio di una reazione simile a quella da disulfiram",
+        "D": "Controllare l'elettrocardiogramma prima di partire, per il rischio di allungamento del QT",
+        "E": "Bere molta acqua, per prevenire la cristalluria"
+      },
+      "corretta": "A",
+      "spiegazione": "Le tetracicline assorbono la luce nella regione del visibile generando radicali liberi, responsabili di gravi eritemi: i pazienti devono ridurre l'esposizione solare e proteggersi con creme solari.",
+      "distrattori": {
+        "B": "Il rischio di tendinite e rottura del tendine d'Achille è tipico dei fluorochinoloni.",
+        "C": "L'effetto disulfiram-simile con l'alcol è descritto per il metronidazolo.",
+        "D": "L'allungamento del QT è una reazione avversa caratteristica di macrolidi e ketolidi.",
+        "E": "La cristalluria è un disturbo delle vie urinarie da sulfamidici."
+      },
+      "riferimento": "p. 306 – Tetracicline, fototossicità"
+    },
+    {
+      "id": "17-005",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Lincosamidi",
+      "domanda": "Quale affermazione descrive correttamente la farmacocinetica dei lincosamidi?",
+      "opzioni": {
+        "A": "La clindamicina orale è assorbita rapidamente e quasi completamente (circa 90%) senza interferenza del cibo, mentre la lincomicina orale è assorbita per circa il 30% e rallentata dal cibo",
+        "B": "La lincomicina orale è assorbita per circa il 90% senza interferenza del cibo, mentre la clindamicina orale è assorbita per circa il 30% e rallentata dal cibo",
+        "C": "Entrambi sono eliminati soprattutto per filtrazione glomerulare in forma immodificata, con escrezione biliare trascurabile",
+        "D": "Non attraversano la placenta né passano nel latte materno, per cui sono sicuri in gravidanza e allattamento",
+        "E": "La clindamicina per via parenterale viene somministrata come base libera, perché l'estere fosfato è troppo irritante"
+      },
+      "corretta": "A",
+      "spiegazione": "L'assorbimento orale della lincomicina è basso (30%) e rallentato dal cibo; quello della clindamicina è rapido e completo (90%) e non influenzato dal cibo. Per via parenterale la clindamicina si usa come estere (clindamicina 2-fosfato), perché la base è troppo irritante.",
+      "distrattori": {
+        "B": "Inverte i due farmaci: è la clindamicina ad avere l'assorbimento orale migliore.",
+        "C": "I lincosamidi sono metabolizzati dal fegato e l'escrezione avviene per circa il 90% con la bile; per via urinaria passa solo il 5-10% (orale) o il 30% (parenterale).",
+        "D": "I lincosamidi superano la barriera placentare e si trovano nel latte materno.",
+        "E": "È il contrario: si infonde l'estere clindamicina 2-fosfato perché la molecola è troppo irritante per via i.m. ed e.v."
+      },
+      "riferimento": "p. 307 – Lincosamidi, assorbimento, distribuzione e metabolismo"
+    },
+    {
+      "id": "17-006",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Lincosamidi",
+      "domanda": "Un paziente in trattamento con clindamicina ad alte dosi per un'osteomielite deve essere sottoposto a un intervento chirurgico in anestesia generale con un curaro. Quale rischio specifico va considerato?",
+      "opzioni": {
+        "A": "Potenziamento del blocco neuromuscolare, fino alla depressione respiratoria",
+        "B": "Allungamento del QT con rischio di torsioni di punta",
+        "C": "Riduzione dell'assorbimento della clindamicina per chelazione con il curaro",
+        "D": "Agranulocitosi per inibizione della sintesi proteica mitocondriale",
+        "E": "Reazione simile a quella da disulfiram al risveglio dall'anestesia"
+      },
+      "corretta": "A",
+      "spiegazione": "A dosi elevate la clindamicina ha un effetto di blocco neuromuscolare e può interagire con farmaci che hanno lo stesso effetto (es. curaro), fino a provocare depressione respiratoria. L'osteomielite è un'indicazione dei lincosamidi per la loro ottima diffusione nell'osso.",
+      "distrattori": {
+        "B": "L'allungamento del QT è riportato per macrolidi e ketolidi, non per la clindamicina.",
+        "C": "La chelazione riguarda tetracicline e cationi bivalenti, non clindamicina e curari.",
+        "D": "La tossicità ematologica e l'inibizione della sintesi proteica mitocondriale sono descritte per il cloramfenicolo.",
+        "E": "L'effetto disulfiram-simile è del metronidazolo e si manifesta con l'alcol."
+      },
+      "riferimento": "p. 308 – Lincosamidi, reazioni avverse e utilizzo"
+    },
+    {
+      "id": "17-007",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Cloramfenicolo",
+      "domanda": "Perché neonati, bambini piccoli e anziani sono particolarmente esposti alla tossicità del cloramfenicolo?",
+      "opzioni": {
+        "A": "Perché il farmaco è eliminato per circa il 90% dopo glucuronoconiugazione epatica, e una glucuronoconiugazione lenta ne causa l'accumulo",
+        "B": "Perché il farmaco è eliminato immodificato dal rene e la filtrazione glomerulare è ridotta solo in queste fasce d'età",
+        "C": "Perché in queste fasce d'età il farmaco viene acetilato dalla cloramfenicolo acetil-transferasi in un metabolita tossico",
+        "D": "Perché il farmaco si lega al calcio delle ossa in accrescimento e viene rilasciato lentamente",
+        "E": "Perché il farmaco induce il proprio metabolismo, producendo grandi quantità di metaboliti attivi"
+      },
+      "corretta": "A",
+      "spiegazione": "Il 90% del cloramfenicolo è glucuronidato dal fegato e poi escreto per filtrazione glomerulare. Se la glucuronoconiugazione è lenta (neonato, anziano) il farmaco si accumula: nel bambino ne deriva la sindrome grigia.",
+      "distrattori": {
+        "B": "Il farmaco viene prima glucuronidato nel fegato: il punto critico è la funzionalità epatica di coniugazione.",
+        "C": "La cloramfenicolo acetil-transferasi è un enzima batterico che inattiva il farmaco ed è il meccanismo di resistenza.",
+        "D": "Il legame al calcio di ossa e denti è caratteristico delle tetracicline.",
+        "E": "Il cloramfenicolo è descritto come inibitore, non induttore, degli enzimi farmaco-metabolizzanti (citocromo P450)."
+      },
+      "riferimento": "p. 309 – Cloramfenicolo, metabolismo e farmacocinetica; p. 310 – Effetti tossici"
+    },
+    {
+      "id": "17-008",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Cloramfenicolo",
+      "domanda": "Quale caratteristica farmacocinetica rende il cloramfenicolo efficace nel tifo e nelle meningiti batteriche?",
+      "opzioni": {
+        "A": "Ampio volume di distribuzione, con buona penetrazione nel liquor e nei linfonodi mesenterici dove proliferano le salmonelle",
+        "B": "Concentrazione nelle urine, con elevati livelli nel tratto urogenitale",
+        "C": "Scarso assorbimento orale, che lo mantiene concentrato nel lume intestinale",
+        "D": "Accumulo selettivo nell'osso grazie all'affinità per il calcio",
+        "E": "Distribuzione limitata al plasma, che garantisce concentrazioni ematiche molto elevate"
+      },
+      "corretta": "A",
+      "spiegazione": "Il cloramfenicolo ha un ampio volume di distribuzione, è ben assorbito per os, entra bene nel liquor (attraversa la barriera ematoencefalica) e nella linfa e nei gangli linfatici mesenterici, sito di proliferazione delle salmonelle: è quindi utile nel tifo e nelle meningiti.",
+      "distrattori": {
+        "B": "La concentrazione nelle urine è il vantaggio dei fluorochinoloni nelle infezioni urinarie.",
+        "C": "Il cloramfenicolo è assorbito abbastanza bene per via orale e diffonde ampiamente nei tessuti.",
+        "D": "L'affinità per il calcio è delle tetracicline; la buona diffusione nell'osso è citata per lincosamidi e fluorochinoloni.",
+        "E": "Ha un volume di distribuzione ampio, non limitato al plasma."
+      },
+      "riferimento": "p. 309 – Cloramfenicolo, distribuzione; p. 310 – Usi terapeutici"
+    },
+    {
+      "id": "17-009",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Metronidazolo",
+      "domanda": "Una paziente in trattamento con metronidazolo per una tricomoniasi vaginale beve alcol a una festa e presenta vasodilatazione, rossore, tachicardia, sudorazione e cefalea. Qual è la spiegazione?",
+      "opzioni": {
+        "A": "Un effetto simile al disulfiram, con accumulo di acetaldeide per blocco dell'aldeide deidrogenasi",
+        "B": "Una reazione di ipersensibilità di tipo Stevens-Johnson scatenata dall'alcol",
+        "C": "Un allungamento del QT dovuto all'interazione dell'alcol con il farmaco",
+        "D": "Un'induzione del metabolismo del metronidazolo da parte dell'alcol, con accumulo del metabolita acido",
+        "E": "Una crisi ipotensiva legata alla somministrazione troppo rapida del farmaco"
+      },
+      "corretta": "A",
+      "spiegazione": "Il metronidazolo ha un effetto simile al disulfiram, inibitore dell'aldeide deidrogenasi: l'acetaldeide prodotta dal metabolismo dell'alcol si accumula causando vasodilatazione, rossore, tachicardia, sudorazione e cefalea.",
+      "distrattori": {
+        "B": "La sindrome di Stevens-Johnson è una lisi bollosa della cute, non un quadro vasomotorio acuto legato all'alcol.",
+        "C": "L'allungamento del QT è tipico dei macrolidi e non spiega questi sintomi.",
+        "D": "Il testo cita come induttore del metabolismo del metronidazolo il fenobarbitale, non l'alcol.",
+        "E": "Le crisi ipotensive da perfusione troppo rapida sono descritte per i lincosamidi."
+      },
+      "riferimento": "p. 311 – Metronidazolo, tossicità"
+    },
+    {
+      "id": "17-010",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Metronidazolo",
+      "domanda": "Contro quali microrganismi è attivo il metronidazolo?",
+      "opzioni": {
+        "A": "Protozoi anaerobi (Trichomonas, Entamoeba, Giardia) e batteri anaerobi, incluso Helicobacter pylori",
+        "B": "Rickettsie, clamidie e micoplasmi, di cui è farmaco di prima scelta",
+        "C": "Gram+ multiresistenti come MRSA e germi resistenti alla vancomicina",
+        "D": "Gram- aerobi come Pseudomonas, nelle infezioni ospedaliere gravi",
+        "E": "Plasmodium falciparum, in associazione fissa con la pirimetamina"
+      },
+      "corretta": "A",
+      "spiegazione": "Il metronidazolo è attivo su protozoi anaerobi (Trichomonas vaginalis, Entamoeba histolytica, Giardia) e batteri anaerobi (Clostridium, Bacteroides, Helicobacter pylori); si usa nelle parassitosi, nell'eradicazione di H. pylori, nella parodontite e nella colite pseudomembranosa.",
+      "distrattori": {
+        "B": "Le tetracicline sono i farmaci di prima scelta nelle rickettsiosi e sono attive su clamidie e micoplasmi.",
+        "C": "L'attività su MRSA e germi resistenti alla vancomicina è del linezolid.",
+        "D": "Il metronidazolo è attivo sugli anaerobi; Pseudomonas non rientra nel suo spettro.",
+        "E": "L'associazione antimalarica con la pirimetamina è quella con la sulfadoxina (Fansidar)."
+      },
+      "riferimento": "p. 310 – Metronidazolo, spettro d'azione; p. 311 – Usi terapeutici"
+    },
+    {
+      "id": "17-011",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Macrolidi",
+      "domanda": "In quale situazione ambulatoriale i macrolidi (es. claritromicina, azitromicina) sono tipicamente indicati?",
+      "opzioni": {
+        "A": "In una faringotonsillite in un paziente allergico alle penicilline",
+        "B": "In una polmonite ospedaliera grave da MRSA",
+        "C": "In una cistite non complicata, sfruttando la concentrazione urinaria",
+        "D": "In un'infezione da Toxoplasma in un paziente immunodepresso, come prima scelta",
+        "E": "Nel trattamento del COVID-19, per inibire la replicazione virale"
+      },
+      "corretta": "A",
+      "spiegazione": "I macrolidi hanno uno spettro simile a quello delle penicilline, abbastanza ampio: sono un valido sostituto nei pazienti allergici alle penicilline nelle infezioni ambulatoriali (faringiti, tonsilliti) e in odontoiatria (gengiviti, ascessi dentali).",
+      "distrattori": {
+        "B": "Le infezioni ospedaliere gravi da MRSA sono l'indicazione del linezolid.",
+        "C": "Nelle cistiti è citata soprattutto la ciprofloxacina (fluorochinoloni), che si concentra nelle urine.",
+        "D": "Contro il Toxoplasma il testo cita tetracicline, lincosamidi e l'associazione sulfamidico + pirimetamina.",
+        "E": "L'inibizione della replicazione virale era emersa solo in studi in vitro: negli studi controllati l'azitromicina nel COVID-19 si è rivelata inutile e anzi dannosa."
+      },
+      "riferimento": "p. 311-312 – Macrolidi"
+    },
+    {
+      "id": "17-012",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Macrolidi",
+      "domanda": "Un paziente con intervallo QT già lungo all'ECG è in terapia con idrossiclorochina. Il medico valuta di aggiungere azitromicina per un'infezione respiratoria. Quale rischio va considerato?",
+      "opzioni": {
+        "A": "Ulteriore allungamento del QT per effetto sinergico dei due farmaci, con rischio di aritmie gravi come le torsioni di punta",
+        "B": "Riduzione dell'assorbimento dell'azitromicina per chelazione da parte dell'idrossiclorochina",
+        "C": "Potenziamento del blocco neuromuscolare con depressione respiratoria",
+        "D": "Piastrinopenia da somma di effetti mielotossici",
+        "E": "Fototossicità con gravi eritemi per produzione di radicali liberi"
+      },
+      "corretta": "A",
+      "spiegazione": "I macrolidi (eritromicina, azitromicina) possono allungare il QT; associati ad altri farmaci con lo stesso effetto, come l'idrossiclorochina, agiscono in modo sinergico. In un paziente con QT già lungo il rischio è di aritmie gravi (torsioni di punta) fino all'arresto cardiaco.",
+      "distrattori": {
+        "B": "La chelazione con riduzione dell'assorbimento riguarda tetracicline e cationi bivalenti.",
+        "C": "Il blocco neuromuscolare con rischio di depressione respiratoria è descritto per la clindamicina ad alte dosi.",
+        "D": "La piastrinopenia è la reazione avversa riportata per il linezolid.",
+        "E": "La fototossicità con produzione di radicali liberi è tipica delle tetracicline."
+      },
+      "riferimento": "p. 311 – Macrolidi e azitromicina; p. 312 – Reazioni avverse"
+    },
+    {
+      "id": "17-013",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Ketolidi",
+      "domanda": "Quale caratteristica distingue la telitromicina (ketolide) dai macrolidi classici?",
+      "opzioni": {
+        "A": "Non è soggetta alla resistenza mediata dalle pompe di efflusso, ed è quindi un'alternativa nei pneumococchi resistenti ai macrolidi",
+        "B": "Non allunga il QT ed è quindi preferibile nei pazienti cardiopatici",
+        "C": "Si lega alla subunità 30S invece che alla 50S, superando la resistenza da metilasi",
+        "D": "Ha un effetto post-antibiotico più breve, che riduce la selezione di ceppi resistenti",
+        "E": "È indicata come prima scelta nelle faringotonsilliti ambulatoriali al posto dei macrolidi"
+      },
+      "corretta": "A",
+      "spiegazione": "I ketolidi hanno la stessa struttura di base dei macrolidi, ma sono più selettivi per il ribosoma, più affini e potenti, con un effetto post-antibiotico più lungo e non interagiscono con i sistemi di efflusso: sono un'alternativa quando c'è resistenza ai comuni macrolidi (es. pneumococchi resistenti, polmonite comunitaria).",
+      "distrattori": {
+        "B": "Le reazioni avverse dei ketolidi sono simili a quelle dei macrolidi e includono l'allungamento del QT.",
+        "C": "Il testo non descrive un cambio di subunità: la telitromicina è più selettiva e affine per il ribosoma, come variante dei macrolidi che agiscono sulla 50S.",
+        "D": "L'effetto post-antibiotico dei ketolidi è di maggiore durata rispetto ai macrolidi.",
+        "E": "L'uso è limitato alle infezioni da pneumococchi resistenti ai macrolidi e non trattabili con altri farmaci."
+      },
+      "riferimento": "p. 313 – Ketolidi"
+    },
+    {
+      "id": "17-014",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Linezolid",
+      "domanda": "Quale affermazione sul linezolid è corretta?",
+      "opzioni": {
+        "A": "È riservato a infezioni ospedaliere gravi da Gram+ resistenti (es. MRSA) e può causare piastrinopenia generalmente reversibile",
+        "B": "È attivo su Pseudomonas aeruginosa ed è quindi indicato nelle polmoniti ospedaliere da Gram-",
+        "C": "Si lega alla subunità ribosomiale 30S e blocca il legame del tRNA-amminoacido al messaggero",
+        "D": "È battericida su stafilococchi ed enterococchi e batteriostatico sugli streptococchi",
+        "E": "È somministrabile solo per via endovenosa, perché non è assorbito per via orale"
+      },
+      "corretta": "A",
+      "spiegazione": "Il linezolid si lega alla porzione 23S della subunità 50S, è attivo sui Gram+ difficili (MRSA, resistenti alla vancomicina), va usato solo in infezioni gravi ospedaliere e come reazione avversa dà piastrinopenia generalmente reversibile.",
+      "distrattori": {
+        "B": "Non è sufficientemente attivo sui Gram-: non può essere usato contro Pseudomonas.",
+        "C": "Si lega alla subunità 50S (sottounità 23S); il legame alla 30S è delle tetracicline.",
+        "D": "È il contrario: batteriostatico su stafilococchi ed enterococchi, battericida sugli streptococchi.",
+        "E": "Può essere somministrato sia per os sia per via parenterale."
+      },
+      "riferimento": "p. 313 – Linezolid"
+    },
+    {
+      "id": "17-015",
+      "difficolta": "avanzato",
+      "tipo": "meccanismo",
+      "argomento": "Fluorochinoloni",
+      "domanda": "Quale affermazione descrive correttamente il meccanismo d'azione dei fluorochinoloni?",
+      "opzioni": {
+        "A": "Inattivano la topoisomerasi IV nei Gram+ e la DNA girasi nei Gram-, enzimi della compattazione del DNA, con effetto battericida",
+        "B": "Inattivano la DNA girasi nei Gram+ e la topoisomerasi IV nei Gram-, con effetto batteriostatico",
+        "C": "Inibiscono la diidrofolato riduttasi, bloccando la sintesi di purine e pirimidine, con effetto batteriostatico",
+        "D": "Si legano alla porzione 23S della subunità 50S, bloccando la sintesi proteica",
+        "E": "Vengono ridotti nella cellula batterica a prodotti reattivi che degradano il DNA preesistente"
+      },
+      "corretta": "A",
+      "spiegazione": "I fluorochinoloni sono inibitori della sintesi del DNA: inattivano la topoisomerasi IV (Gram+) o la DNA girasi (Gram-), enzimi analoghi necessari alla compattazione del DNA per la duplicazione. Sono battericidi.",
+      "distrattori": {
+        "B": "Inverte gli enzimi rispetto ai gruppi batterici, e i fluorochinoloni sono battericidi.",
+        "C": "L'inibizione della DHFR è il meccanismo del trimetoprim.",
+        "D": "Il legame alla porzione 23S della 50S è il meccanismo del linezolid.",
+        "E": "La formazione di prodotti reattivi per riduzione intrabatterica è l'ipotesi sul meccanismo del metronidazolo."
+      },
+      "riferimento": "p. 314 – Chinoloni e fluorochinoloni; p. 315 – Meccanismo d'azione"
+    },
+    {
+      "id": "17-016",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Fluorochinoloni",
+      "domanda": "Un uomo di 72 anni, sportivo, in terapia cronica con corticosteroidi e con una pregressa lesione traumatica al tendine d'Achille, deve assumere levofloxacina. Quale reazione avversa va temuta in modo particolare?",
+      "opzioni": {
+        "A": "Tendinite fino alla rottura del tendine, per cui va evitata l'attività fisica intensa durante e subito dopo la terapia",
+        "B": "Disturbi dell'udito, per cui va eseguito un esame audiometrico prima di iniziare",
+        "C": "Piastrinopenia, per cui va monitorato l'emocromo",
+        "D": "Colorazione giallo-brunastra dei denti, per l'affinità del farmaco per il calcio",
+        "E": "Cristalluria ed ematuria, per cui va aumentata l'assunzione di liquidi"
+      },
+      "corretta": "A",
+      "spiegazione": "I fluorochinoloni hanno trofismo per cartilagini e tendini e possono causare tendinite (soprattutto del tendine d'Achille) fino alla rottura. Sono a rischio gli anziani over 65, chi assume corticosteroidi e chi ha lesioni tendinee pregresse; la levofloxacina è tra i più coinvolti. Va evitata attività fisica intensa durante e subito dopo la terapia.",
+      "distrattori": {
+        "B": "I disturbi dell'udito sono riportati tra le reazioni avverse dei macrolidi.",
+        "C": "La piastrinopenia è la reazione avversa caratteristica del linezolid.",
+        "D": "La colorazione dei denti per affinità per il calcio è delle tetracicline e riguarda i bambini.",
+        "E": "Cristalluria ed ematuria sono disturbi delle vie urinarie da sulfamidici."
+      },
+      "riferimento": "p. 317 – Fluorochinoloni, reazioni avverse"
+    },
+    {
+      "id": "17-017",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Antibiotici in gravidanza",
+      "domanda": "Una donna incinta presenta un'infezione non grave per la quale sono disponibili più opzioni antibiotiche. Quale scelta è più coerente con quanto indicato dal testo?",
+      "opzioni": {
+        "A": "Preferire un betalattamico (penicillina o cefalosporina), per il quale è accettata una tossicità fetale scarsa o nulla",
+        "B": "Preferire un fluorochinolone, per l'ottima distribuzione tissutale e la breve durata della terapia",
+        "C": "Preferire una tetraciclina, perché la chelazione del calcio ne impedisce il passaggio placentare",
+        "D": "Scegliere qualsiasi antibiotico, perché quasi nessun farmaco attraversa la placenta",
+        "E": "Preferire una lincosamide, perché non supera la barriera placentare"
+      },
+      "corretta": "A",
+      "spiegazione": "Pochi antibiotici sono autorizzati in gravidanza, principalmente i betalattamici (penicilline e cefalosporine), per i quali è accettata una tossicità fetale scarsa o nulla. Gli altri si usano valutando il rapporto rischio/beneficio, che diventa prioritario solo in caso di infezioni gravi della madre.",
+      "distrattori": {
+        "B": "I fluorochinoloni non sono raccomandati in gravidanza per le alterazioni delle cartilagini in accrescimento osservate negli animali.",
+        "C": "Le tetracicline vanno evitate in gravidanza per l'affinità per il calcio, che potrebbe dare problemi all'osso fetale.",
+        "D": "È il contrario: praticamente tutti i farmaci passano la placenta, tranne molecole come l'eparina.",
+        "E": "I lincosamidi superano la barriera placentare e si trovano nel latte materno."
+      },
+      "riferimento": "p. 315 – Fluorochinoloni, spettro; p. 316 – Antibiotici in gravidanza; p. 306 – Tetracicline; p. 307 – Lincosamidi"
+    },
+    {
+      "id": "17-018",
+      "difficolta": "intermedio",
+      "tipo": "falsa",
+      "argomento": "Fluorochinoloni",
+      "domanda": "Quale affermazione sui fluorochinoloni è FALSA?",
+      "opzioni": {
+        "A": "Quando non è possibile la via orale si possono somministrare per via intramuscolare, ben tollerata",
+        "B": "Agiscono con un meccanismo concentrazione-dipendente, simile a quello degli amminoglicosidi",
+        "C": "Raggiungono concentrazioni elevate in osso e prostata e attraversano la barriera ematoencefalica",
+        "D": "Un germe resistente a un componente della classe è in genere resistente a quasi tutti gli altri",
+        "E": "Sono concentrati ed eliminati nelle urine, per cui sono molto usati nelle infezioni urinarie"
+      },
+      "corretta": "A",
+      "spiegazione": "È falsa: i fluorochinoloni si somministrano per via orale o endovenosa; non si usano per via intramuscolare (né intradermica o sottocutanea) per la loro azione irritante locale.",
+      "distrattori": {
+        "B": "Vera: agiscono in modo concentrazione-dipendente, come gli amminoglicosidi, e sono più utili ad alte concentrazioni per breve tempo.",
+        "C": "Vera: la distribuzione molto ampia, anche a osso, prostata e liquor, è alla base del loro successo terapeutico.",
+        "D": "Vera: la resistenza a un componente della classe si estende a quasi tutti gli altri, quindi non si supera cambiando fluorochinolone.",
+        "E": "Vera: si concentrano e sono secreti nelle urine e sono utili in cistiti, uretriti e prostatiti."
+      },
+      "riferimento": "p. 314 – Chinoloni e fluorochinoloni; p. 315 – Farmacocinetica; p. 316 – Distribuzione; p. 317 – Reazioni avverse"
+    },
+    {
+      "id": "17-019",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Sulfamidici e trimetoprim",
+      "domanda": "Perché sulfamidici e trimetoprim colpiscono selettivamente i batteri e agiscono in sinergia?",
+      "opzioni": {
+        "A": "L'uomo assume l'acido folico con la dieta e non lo sintetizza; i sulfamidici, analoghi del PABA, inibiscono la DHPS e il trimetoprim la DHFR, due tappe successive della via",
+        "B": "L'uomo non utilizza i folati per sintetizzare purine e pirimidine; entrambi i farmaci inibiscono la DHFR con affinità diversa",
+        "C": "L'uomo non possiede la DHFR; i sulfamidici la inibiscono, mentre il trimetoprim agisce come falso substrato del PABA",
+        "D": "L'uomo assume l'acido folico con la dieta; i sulfamidici inibiscono la DHFR e il trimetoprim la DHPS",
+        "E": "L'uomo non utilizza l'acido folico; entrambi i farmaci inibiscono la DHPS, sommando l'effetto sulla stessa tappa"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli eucarioti assumono l'acido folico con la dieta e non hanno la via biosintetica batterica. I sulfamidici, analoghi del PABA, fanno da falso substrato per la diidropteroato sintetasi (DHPS, primo enzima); il trimetoprim inibisce la diidrofolato riduttasi (DHFR, secondo enzima). Agendo su tappe successive hanno effetto sinergico.",
+      "distrattori": {
+        "B": "Anche negli eucarioti i folati servono alla sintesi di purine e pirimidine; inoltre i due farmaci agiscono su enzimi diversi.",
+        "C": "Negli eucarioti la DHFR converte l'acido folico in diidrofolico e tetraidrofolico; ed è il sulfamidico, non il trimetoprim, l'analogo del PABA.",
+        "D": "Inverte i bersagli: i sulfamidici agiscono sulla DHPS e il trimetoprim sulla DHFR.",
+        "E": "L'acido folico è importante anche per l'uomo; e la sinergia deriva proprio dall'azione su due tappe diverse."
+      },
+      "riferimento": "p. 317 – Sulfamidici e trimetoprim; p. 318 – Biosintesi dell'acido folico e meccanismo d'azione"
+    },
+    {
+      "id": "17-020",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Cotrimossazolo",
+      "domanda": "Rispetto a sulfametossazolo e trimetoprim usati singolarmente, quale effetto si ottiene con la loro associazione (cotrimossazolo)?",
+      "opzioni": {
+        "A": "Un'attività battericida, pur essendo batteriostatici i singoli componenti, con attività antibatterica aumentata di circa 10 volte",
+        "B": "Un'attività batteriostatica più duratura, senza variazioni dello spettro d'azione",
+        "C": "Uno spettro ristretto ai Gram-, ma con minore tossicità ematologica",
+        "D": "Una minore attività sui ceppi resistenti ai singoli componenti, compensata da una migliore tollerabilità",
+        "E": "Un'eliminazione del rischio di sindrome di Stevens-Johnson, legato solo al sulfamidico in monoterapia"
+      },
+      "corretta": "A",
+      "spiegazione": "L'associazione amplia notevolmente lo spettro, dà attività battericida pur essendo batteriostatici i singoli componenti, aumenta l'attività antibatterica di circa 10 volte, è attiva su ceppi resistenti ai singoli farmaci e rende più difficile la comparsa di resistenza.",
+      "distrattori": {
+        "B": "L'associazione diventa battericida e amplia notevolmente lo spettro d'azione.",
+        "C": "Lo spettro si amplia (comprende anche stafilococchi, streptococchi, enterococchi, Toxoplasma, Pneumocystis) e l'associazione può dare discrasie ematiche.",
+        "D": "Il cotrimossazolo ha buona attività su ceppi resistenti ai singoli componenti.",
+        "E": "L'associazione stessa può causare rari ma gravi effetti come la sindrome di Stevens-Johnson, soprattutto negli anziani."
+      },
+      "riferimento": "p. 319 – Combinazioni sinergiche dei sulfamidici; p. 320 – Cotrimossazolo"
+    },
+    {
+      "id": "17-021",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Cotrimossazolo",
+      "domanda": "Un paziente anziano in terapia con cotrimossazolo per una pielite sviluppa febbre e bolle limpide comparse alle estremità che tendono a estendersi al resto del corpo. Quale condotta è corretta?",
+      "opzioni": {
+        "A": "Sospettare una sindrome di Stevens-Johnson/Lyell, sospendere subito il farmaco e inviare il paziente al pronto soccorso",
+        "B": "Sospettare una reazione di fototossicità e consigliare creme solari proseguendo la terapia",
+        "C": "Sospettare una cristalluria e aumentare l'apporto di liquidi proseguendo la terapia",
+        "D": "Ridurre la dose di sulfametossazolo mantenendo invariato il trimetoprim",
+        "E": "Sostituire il sulfametossazolo con un altro sulfamidico ad azione rapida"
+      },
+      "corretta": "A",
+      "spiegazione": "La sindrome di Stevens-Johnson/Lyell, quasi sempre da farmaci, si presenta con bolle che partono dalle estremità e si diffondono, con scollamento dell'epidermide dal derma come in un'ustione estesa. La sospensione immediata del farmaco e l'invio in pronto soccorso sono la condotta migliore; il cotrimossazolo può causarla soprattutto negli anziani.",
+      "distrattori": {
+        "B": "La fototossicità è tipica delle tetracicline e non spiega bolle diffuse con febbre.",
+        "C": "La cristalluria è un disturbo urinario da sulfamidici, non dà lesioni cutanee bollose.",
+        "D": "Nella Stevens-Johnson il farmaco va sospeso subito, non ridotto.",
+        "E": "Passare a un altro farmaco della stessa classe non è la condotta indicata: il farmaco sospetto va sospeso immediatamente."
+      },
+      "riferimento": "p. 319 – Cotrimossazolo, effetti indesiderati; p. 320 – Reazioni indesiderate dei sulfamidici"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Ribosoma: tetracicline sulla 30S; cloramfenicolo, macrolidi, lincosamidi e linezolid (porzione 23S) sulla 50S. Sono batteriostatici, tranne il linezolid sugli streptococchi.",
+    "Tetracicline: chelazione dei cationi (latticini, antiacidi all'alluminio, ferro: distanziare di almeno 2 h), denti giallo-brunastri (evitare nei bambini e in gravidanza) e fototossicità.",
+    "Cloramfenicolo: glucuronidato al 90%; se la coniugazione è lenta (neonato, anziano) si accumula: tossicità ematologica, sindrome grigia del neonato. La resistenza è da acetil-transferasi.",
+    "Fluorochinoloni: topoisomerasi IV nei Gram+ e DNA girasi nei Gram-, battericidi e concentrazione-dipendenti, mai i.m.; tendinite/rottura del tendine d'Achille (anziani, corticosteroidi, levofloxacina), evitati in gravidanza e nell'infanzia.",
+    "Sulfamidici (analoghi del PABA) inibiscono la DHPS e il trimetoprim la DHFR: il cotrimossazolo è battericida; attenzione a Stevens-Johnson e discrasie ematiche negli anziani. Gli effetti disulfiram-simili con l'alcol sono del metronidazolo e il QT lungo dei macrolidi."
+  ]
+}

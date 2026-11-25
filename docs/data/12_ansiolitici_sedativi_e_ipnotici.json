@@ -1,0 +1,681 @@
+{
+  "capitolo": 12,
+  "titolo": "Ansiolitici, sedativi e ipnotici",
+  "pagine": "207-222",
+  "domande": [
+    {
+      "id": "12-001",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "GABA e recettore GABA-A",
+      "domanda": "Il recettore GABA-A, bersaglio delle benzodiazepine, è:",
+      "opzioni": {
+        "A": "un canale ionico neurotrasmettitore-dipendente permeabile agli anioni, in particolare al cloruro",
+        "B": "un recettore accoppiato a proteine G che apre canali del potassio",
+        "C": "un canale ionico permeabile al sodio che depolarizza il neurone",
+        "D": "un trasportatore di membrana che ricapta il GABA nella terminazione",
+        "E": "un enzima intracellulare che sintetizza GABA a partire dall'acido glutammico"
+      },
+      "corretta": "A",
+      "spiegazione": "Il GABA-A è un canale ionico neurotrasmettitore-dipendente formato da cinque subunità, permeabile agli anioni e in particolare al cloruro; la sua apertura iperpolarizza il neurone allontanandolo dalla soglia del potenziale d'azione.",
+      "distrattori": {
+        "B": "Il testo descrive il GABA-A come canale ionico ligando-dipendente, non come recettore metabotropico accoppiato a proteine G.",
+        "C": "L'ingresso di ioni cloro iperpolarizza il neurone: un flusso di sodio depolarizzante darebbe l'effetto opposto a quello inibitorio descritto.",
+        "D": "Il recettore è il canale su cui agisce il GABA, non il sistema di ricaptazione del neurotrasmettitore.",
+        "E": "La sintesi del GABA dall'acido glutammico è compito della GAD, una decarbossilasi, non del recettore."
+      },
+      "riferimento": "p. 211 – GABA e recettore GABA-A"
+    },
+    {
+      "id": "12-002",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Benzodiazepine - meccanismo d'azione",
+      "domanda": "Perché le benzodiazepine possiedono un fattore autolimitante protettivo che manca ai barbiturici?",
+      "opzioni": {
+        "A": "Sono modulatori allosterici positivi e non funzionano in assenza del GABA endogeno",
+        "B": "Si legano allo stesso sito del GABA e ne impediscono il legame quando la dose è eccessiva",
+        "C": "Hanno un'emivita così breve da essere eliminate prima di raggiungere concentrazioni elevate",
+        "D": "Riducono la permeabilità del canale al cloruro man mano che la dose aumenta",
+        "E": "Sono antagonisti competitivi del sito benzodiazepinico del recettore GABA-A"
+      },
+      "corretta": "A",
+      "spiegazione": "Le benzodiazepine si legano a un sito allosterico del GABA-A e potenziano l'effetto dell'agonista endogeno: senza GABA non producono effetto. I barbiturici, invece, ad alte dosi si sostituiscono al GABA agendo da agonisti, con un effetto molto più intenso.",
+      "distrattori": {
+        "B": "Le benzodiazepine si legano a un sito diverso da quello del GABA, non allo stesso sito, e non ne impediscono il legame.",
+        "C": "Esistono benzodiazepine a lunga emivita (oltre 48 ore): la sicurezza non dipende dalla rapidità di eliminazione.",
+        "D": "Le benzodiazepine aumentano durata e intensità dell'apertura del canale indotta dal GABA, non la riducono.",
+        "E": "L'antagonista competitivo del sito benzodiazepinico è il flumazenil; le benzodiazepine sono modulatori positivi."
+      },
+      "riferimento": "p. 211-212 – Benzodiazepine, meccanismo d'azione"
+    },
+    {
+      "id": "12-003",
+      "difficolta": "intermedio",
+      "tipo": "confronto",
+      "argomento": "Benzodiazepine e barbiturici",
+      "domanda": "Quale affermazione descrive correttamente la differenza farmacodinamica tra barbiturici e benzodiazepine sul recettore GABA-A?",
+      "opzioni": {
+        "A": "I barbiturici sono modulatori allosterici positivi a basse dosi e agonisti del recettore ad alte dosi",
+        "B": "I barbiturici agiscono solo sul sito di legame del GABA, le benzodiazepine solo su quello dei neurosteroidi",
+        "C": "I barbiturici bloccano il canale del cloruro, le benzodiazepine lo aprono",
+        "D": "I barbiturici necessitano del GABA endogeno, le benzodiazepine no",
+        "E": "I barbiturici sono antagonisti competitivi che si oppongono all'effetto del GABA"
+      },
+      "corretta": "A",
+      "spiegazione": "Entrambi si legano a siti allosterici del GABA-A, ma i barbiturici a basse dosi sono modulatori allosterici positivi e ad alte dosi diventano agonisti, sostituendosi al GABA e attivando direttamente il recettore: da qui l'effetto più intenso e il basso indice terapeutico.",
+      "distrattori": {
+        "B": "Entrambi si legano a siti allosterici distinti del GABA-A; il sito del GABA è un altro ancora e i neurosteroidi hanno un proprio sito.",
+        "C": "Nessuno dei due blocca il canale: entrambi ne potenziano l'apertura e quindi l'inibizione del SNC.",
+        "D": "È vero il contrario: sono le benzodiazepine a richiedere la presenza del GABA, mentre i barbiturici ad alte dosi agiscono da agonisti.",
+        "E": "I barbiturici potenziano l'inibizione GABAergica, non la antagonizzano."
+      },
+      "riferimento": "p. 211 – Recettore GABA-A, benzodiazepine e barbiturici"
+    },
+    {
+      "id": "12-004",
+      "difficolta": "base",
+      "tipo": "falsa",
+      "argomento": "Benzodiazepine - effetti sul SNC",
+      "domanda": "Quale dei seguenti NON rientra tra i principali effetti delle benzodiazepine sul SNC descritti nel testo?",
+      "opzioni": {
+        "A": "Effetto analgesico diretto",
+        "B": "Effetto ansiolitico e sedativo-ipnotico",
+        "C": "Effetto anticonvulsivante",
+        "D": "Effetto miorilassante",
+        "E": "Effetto amnestico, con amnesia anterograda"
+      },
+      "corretta": "A",
+      "spiegazione": "I cinque effetti principali elencati sono ansiolitico, sedativo-ipnotico, anticonvulsivante, miorilassante e amnestico. L'analgesia non è tra questi: nell'ipnosi indotta da benzodiazepine il paziente percepisce e reagisce ancora al dolore.",
+      "distrattori": {
+        "B": "È il primo degli effetti principali; ansiolisi e sedazione-ipnosi sfumano l'una nell'altra.",
+        "C": "È un effetto principale, sfruttato nell'attacco epilettico acuto e nelle convulsioni febbrili.",
+        "D": "È un effetto principale, sfruttato nelle contratture e nella spasticità di origine centrale.",
+        "E": "È un effetto principale e voluto in premedicazione e nelle manovre diagnostiche invasive."
+      },
+      "riferimento": "p. 212-213 – Effetti delle benzodiazepine a livello del SNC"
+    },
+    {
+      "id": "12-005",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Benzodiazepine - indicazioni",
+      "domanda": "Un bambino predisposto presenta convulsioni febbrili in seguito a un rialzo repentino della temperatura. Secondo il testo, quale trattamento viene usato abitualmente?",
+      "opzioni": {
+        "A": "Diazepam per via rettale, sia in prevenzione sia in trattamento",
+        "B": "Midazolam per via endovenosa in infusione continua",
+        "C": "Flumazenil per via endovenosa",
+        "D": "Fenobarbital per via orale a lungo termine",
+        "E": "Zolpidem per via orale"
+      },
+      "corretta": "A",
+      "spiegazione": "Le convulsioni febbrili del bambino si trattano e si prevengono abitualmente con diazepam per via rettale mediante clisteri: la via rettale è facile da usare e garantisce un assorbimento rapido. Sono convulsioni benigne, che tendono a risolversi.",
+      "distrattori": {
+        "B": "Il midazolam endovena è indicato per la sedazione in endoscopia e nell'anestesia bilanciata, non come trattamento abituale delle convulsioni febbrili.",
+        "C": "Il flumazenil è l'antagonista delle benzodiazepine: non ha effetto anticonvulsivante e può anzi favorire convulsioni nel soggetto dipendente.",
+        "D": "I barbiturici sono rimasti in uso nelle epilessie e nell'anestesia, ma il testo indica il diazepam rettale per le convulsioni febbrili, che non predispongono a epilessia in età adulta.",
+        "E": "Lo zolpidem è un ipnoinducente non benzodiazepinico con unica indicazione il sonno."
+      },
+      "riferimento": "p. 212-213 – Effetto anticonvulsivante, convulsioni febbrili"
+    },
+    {
+      "id": "12-006",
+      "difficolta": "intermedio",
+      "tipo": "farmacocinetica",
+      "argomento": "Benzodiazepine - farmacocinetica",
+      "domanda": "Quale caratteristica farmacocinetica delle benzodiazepine spiega l'elevato volume di distribuzione e il deposito nel paziente obeso?",
+      "opzioni": {
+        "A": "L'elevata lipofilia, che le fa ridistribuire al tessuto adiposo e muscolare",
+        "B": "Il basso legame alle proteine plasmatiche, che lascia libera gran parte del farmaco",
+        "C": "L'eliminazione prevalentemente fecale, che ne rallenta la rimozione",
+        "D": "La scarsa capacità di superare le membrane biologiche, che le confina nel plasma",
+        "E": "La somministrazione intramuscolare, che ne garantisce un assorbimento costante"
+      },
+      "corretta": "A",
+      "spiegazione": "Le benzodiazepine sono farmaci molto lipofili: seguono un modello di distribuzione a due compartimenti, prima negli organi ad alta perfusione come il cervello e poi nei tessuti adiposo e muscolare. Il volume di distribuzione è molto elevato e aumenta nell'obeso e nell'anziano, tanto che nell'obeso servono dosaggi più alti.",
+      "distrattori": {
+        "B": "Il legame alle proteine plasmatiche delle benzodiazepine è alto, non basso.",
+        "C": "L'eliminazione avviene soprattutto con le urine e solo in minor misura con le feci, e comunque non spiega il volume di distribuzione.",
+        "D": "Le benzodiazepine attraversano facilmente le membrane, compresa la barriera placentare, e passano nel latte materno.",
+        "E": "La via intramuscolare è poco usata perché dolorosa e dà un assorbimento variabile e imprevedibile."
+      },
+      "riferimento": "p. 214 – Farmacocinetica: distribuzione"
+    },
+    {
+      "id": "12-007",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Benzodiazepine - metabolismo",
+      "domanda": "Riguardo al metabolismo delle benzodiazepine, quale affermazione corrisponde al testo?",
+      "opzioni": {
+        "A": "L'ossidazione di fase 1 operata dal citocromo P450 può generare metaboliti attivi, mentre la glucuronoconiugazione di fase 2 genera metaboliti inattivi",
+        "B": "L'ossidazione di fase 1 genera sempre metaboliti inattivi, mentre la fase 2 genera metaboliti attivi",
+        "C": "Le benzodiazepine sono eliminate immodificate per via renale senza metabolismo epatico",
+        "D": "Il metabolismo ossidativo non risente dell'età né della funzionalità epatica",
+        "E": "La glucuronoconiugazione precede sempre l'ossidazione e ne condiziona la velocità"
+      },
+      "corretta": "A",
+      "spiegazione": "Il metabolismo si svolge in due fasi: l'ossidazione da parte del citocromo P450 (fase 1), che per esempio nel caso del diazepam genera metaboliti attivi, e la glucuronoconiugazione (fase 2), che genera metaboliti inattivi.",
+      "distrattori": {
+        "B": "Le fasi sono invertite: è la fase 1 a poter generare metaboliti attivi e la fase 2 a generarne di inattivi.",
+        "C": "Le benzodiazepine sono ampiamente metabolizzate dai citocromi; l'eliminazione avviene poi soprattutto per via urinaria.",
+        "D": "I processi ossidativi sono influenzati dall'età, da una grave insufficienza epatica e dai farmaci che sfruttano il sistema microsomiale epatico.",
+        "E": "Il testo descrive l'ossidazione come fase 1 e la glucuronoconiugazione come fase 2, non l'ordine inverso."
+      },
+      "riferimento": "p. 214 – Farmacocinetica: metabolismo"
+    },
+    {
+      "id": "12-008",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Benzodiazepine - interazioni",
+      "domanda": "Secondo la slide riportata nel testo, quali farmaci sono citati come esempio di molecole che, sfruttando il sistema microsomiale epatico, possono influenzare i processi ossidativi delle benzodiazepine?",
+      "opzioni": {
+        "A": "Cimetidina, estrogeni, disulfiram, alfentanil, eritromicina",
+        "B": "Rifampicina, fenitoina, carbamazepina, fenobarbital, iperico",
+        "C": "Paracetamolo, acido acetilsalicilico, ibuprofene, naprossene, ketorolac",
+        "D": "Propranololo, atenololo, metoprololo, sotalolo, nebivololo",
+        "E": "Fluoxetina, paroxetina, sertralina, citalopram, imipramina"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo elenca esplicitamente cimetidina, estrogeni, disulfiram, alfentanil ed eritromicina come farmaci che, sfruttando il sistema microsomiale epatico, possono influenzare i processi ossidativi delle benzodiazepine, insieme all'età e alla grave insufficienza epatica.",
+      "distrattori": {
+        "B": "La rifampicina è citata altrove, come induttore farmaco-metabolico nella tabella sugli ipnoinducenti non benzodiazepinici, non in questo elenco.",
+        "C": "Il paracetamolo compare nel capitolo solo come farmaco di fascia C tra i più prescritti, non come interferente sul metabolismo delle benzodiazepine.",
+        "D": "Il propranololo compare come antagonista beta-adrenergico con lieve effetto ansiolitico nella fobia sociale, non in questo elenco.",
+        "E": "Gli antidepressivi sono citati come ansiolitici utili nell'ansia cronica, non in questo elenco di interferenti metabolici."
+      },
+      "riferimento": "p. 214 – Metabolismo, interazioni sul sistema microsomiale epatico"
+    },
+    {
+      "id": "12-009",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Benzodiazepine - classificazione per emivita",
+      "domanda": "Nella classificazione delle benzodiazepine in base all'emivita riportata nel testo, il triazolam appartiene al gruppo:",
+      "opzioni": {
+        "A": "a brevissima durata d'azione, con emivita da 1 a 7 ore",
+        "B": "a breve durata d'azione, con emivita inferiore a 24 ore",
+        "C": "a durata d'azione intermedia, con emivita da 24 a 48 ore",
+        "D": "a lunga durata d'azione, con emivita superiore a 48 ore",
+        "E": "a durata d'azione ultralunga, con emivita superiore a 7 giorni"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo classifica come benzodiazepine a brevissima durata d'azione quelle con emivita da 1 a 7 ore, citando come esempi il triazolam e il midazolam.",
+      "distrattori": {
+        "B": "Nella categoria a breve durata d'azione (emivita minore di 24 ore) sono citati lorazepam e oxazepam.",
+        "C": "Nella categoria a durata intermedia (24-48 ore) sono citati flurazepam e bromazepam.",
+        "D": "Nella categoria a lunga durata d'azione (oltre 48 ore) è citato il diazepam.",
+        "E": "Il testo non prevede una categoria con emivita superiore a 7 giorni."
+      },
+      "riferimento": "p. 215 – Classificazione delle benzodiazepine"
+    },
+    {
+      "id": "12-010",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Benzodiazepine - scelta in base all'emivita",
+      "domanda": "Un paziente lamenta difficoltà di addormentamento e deve guidare ogni mattina. Secondo il criterio di scelta esposto nel testo, quale caratteristica deve avere la benzodiazepina da prescrivere?",
+      "opzioni": {
+        "A": "Insorgenza d'azione rapida e durata breve o intermedia, per evitare effetti residui al risveglio",
+        "B": "Insorgenza lenta e durata molto lunga, per coprire tutta la giornata successiva",
+        "C": "Insorgenza lenta e durata breve, per ridurre la latenza di addormentamento",
+        "D": "Insorgenza rapida ed emivita superiore a 48 ore, per prevenire i risvegli notturni",
+        "E": "Somministrazione per via intramuscolare, per rendere più prevedibile l'assorbimento"
+      },
+      "corretta": "A",
+      "spiegazione": "Nel trattamento dell'insonnia si preferisce una benzodiazepina a durata d'azione breve o intermedia, ad azione rapida per indurre il sonno ma con un metabolismo che ne consenta l'eliminazione il più possibile completa prima del risveglio, evitando sedazione residua, scarsa concentrazione e difficoltà nella guida.",
+      "distrattori": {
+        "B": "Una durata molto lunga è indicata nell'ansia generalizzata; nell'insonnia lascerebbe proprio gli effetti residui mattutini da evitare.",
+        "C": "Un'insorgenza lenta serve a ridurre la frequenza dei risvegli, non ad aiutare chi fatica ad addormentarsi.",
+        "D": "L'emivita superiore a 48 ore identifica le benzodiazepine a lunga durata d'azione, che darebbero sedazione residua in un paziente che guida.",
+        "E": "La via intramuscolare è poco usata perché dolorosa e dà un assorbimento variabile e imprevedibile."
+      },
+      "riferimento": "p. 215 – Classificazione e scelta in base alla durata d'azione"
+    },
+    {
+      "id": "12-011",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Benzodiazepine - effetti sul sonno",
+      "domanda": "Quale effetto hanno le benzodiazepine sull'architettura del sonno secondo il testo?",
+      "opzioni": {
+        "A": "Aumentano la durata del sonno di fase 2 e riducono il sonno REM e la fase 4",
+        "B": "Aumentano selettivamente la durata del sonno REM lasciando invariate le altre fasi",
+        "C": "Aumentano la fase 4, cioè il sonno profondo non REM, rendendo il sonno più ristoratore",
+        "D": "Allungano la latenza di addormentamento senza modificare le fasi del sonno",
+        "E": "Non modificano né la latenza di addormentamento né l'architettura del sonno"
+      },
+      "corretta": "A",
+      "spiegazione": "Le benzodiazepine riducono la latenza di addormentamento e modificano l'architettura del sonno: aumentano la durata della fase 2, poco profonda, ma riducono il tempo di sonno REM e della fase 4, il sonno profondo non REM. Per questo il sonno indotto non è del tutto ristoratore.",
+      "distrattori": {
+        "B": "Il tempo di sonno REM è ridotto, non aumentato.",
+        "C": "La fase 4 è ridotta: proprio per questo il sonno indotto non è pienamente ristoratore.",
+        "D": "La latenza di addormentamento è diminuita, non allungata, e l'architettura del sonno viene modificata.",
+        "E": "Entrambe le cose vengono modificate dalle benzodiazepine."
+      },
+      "riferimento": "p. 213-214 – Effetto sul sonno"
+    },
+    {
+      "id": "12-012",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Benzodiazepine - effetti indesiderati",
+      "domanda": "Un paziente anziano con demenza riceve una benzodiazepina per insonnia e, invece di sedarsi, diventa agitato. Come si definisce e come si spiega questo fenomeno nel testo?",
+      "opzioni": {
+        "A": "Effetto paradosso, dovuto all'azione del farmaco su aree cerebrali inibitorie",
+        "B": "Sindrome da astinenza precoce, dovuta alla rapida eliminazione del farmaco",
+        "C": "Tolleranza farmacodinamica, dovuta a modificazioni del recettore GABA-A",
+        "D": "Reazione allergica al principio attivo, con liberazione di istamina",
+        "E": "Effetto di accumulo, dovuto al rallentato metabolismo epatico dell'anziano"
+      },
+      "corretta": "A",
+      "spiegazione": "È l'effetto paradosso, frequente nei bambini e negli anziani, soprattutto in chi soffre di malattie neurodegenerative: le benzodiazepine agiscono su aree cerebrali inibitorie, inibendo circuiti a loro volta inibitori e producendo agitazione e attivazione comportamentale invece della sedazione attesa.",
+      "distrattori": {
+        "B": "L'astinenza compare alla sospensione in un soggetto dipendente, non durante la somministrazione del farmaco.",
+        "C": "La tolleranza richiede un aumento della dose per ottenere lo stesso effetto, non la comparsa dell'effetto opposto.",
+        "D": "Il testo non descrive reazioni allergiche: le reazioni avverse in senso stretto sono rare e legate al sovradosaggio.",
+        "E": "L'accumulo nell'anziano causa sedazione, confusione e cadute, cioè effetti residui eccessivi, non agitazione."
+      },
+      "riferimento": "p. 216 – Effetti paradossi"
+    },
+    {
+      "id": "12-013",
+      "difficolta": "intermedio",
+      "tipo": "meccanismo",
+      "argomento": "Benzodiazepine - sovradosaggio",
+      "domanda": "Quali sono gli effetti tossici da sovradosaggio acuto di benzodiazepine indicati nel testo, e in quale paziente risultano particolarmente pericolosi?",
+      "opzioni": {
+        "A": "Sonno prolungato e depressione respiratoria, pericolosi nel paziente con BPCO o compromissione respiratoria",
+        "B": "Crisi ipertensiva e tachiaritmia, pericolose nel cardiopatico",
+        "C": "Insufficienza renale acuta, pericolosa nel nefropatico",
+        "D": "Epatite fulminante, pericolosa nell'epatopatico",
+        "E": "Rigidità muscolare e ipertermia, pericolose nell'anziano"
+      },
+      "corretta": "A",
+      "spiegazione": "Gli effetti tossici da sovradosaggio acuto sono il sonno prolungato e la depressione respiratoria, con diminuzione della frequenza e della profondità del respiro: è pericolosa nei pazienti con fattori di rischio predisponenti come la BPCO o altre malattie che compromettono la funzionalità respiratoria.",
+      "distrattori": {
+        "B": "Tachicardia e palpitazioni compaiono nella sindrome di astinenza, cioè l'opposto dell'effetto del farmaco, non nel sovradosaggio.",
+        "C": "Il testo non attribuisce danno renale alle benzodiazepine; l'eliminazione è urinaria ma non è descritta nefrotossicità.",
+        "D": "Il testo non descrive epatotossicità: l'epatopatia è semmai una condizione che prolunga l'effetto del farmaco.",
+        "E": "Rigidità e ipertermia non sono tra gli effetti descritti; nell'anziano la peculiarità è l'effetto paradosso con agitazione."
+      },
+      "riferimento": "p. 216 – Effetti indesiderati, sovradosaggio"
+    },
+    {
+      "id": "12-014",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Benzodiazepine - tolleranza",
+      "domanda": "Per quali effetti delle benzodiazepine la tolleranza da uso prolungato è particolarmente spiccata?",
+      "opzioni": {
+        "A": "Per l'effetto ipnotico e per quello anticonvulsivante, molto meno per quello ansiolitico",
+        "B": "Per l'effetto ansiolitico, molto meno per quello ipnotico",
+        "C": "Per l'effetto miorilassante soltanto, con conservazione di tutti gli altri",
+        "D": "In modo uniforme per tutti gli effetti, senza differenze tra loro",
+        "E": "Per l'effetto amnestico soltanto, motivo per cui non si usano in premedicazione"
+      },
+      "corretta": "A",
+      "spiegazione": "La tolleranza è particolarmente spiccata per gli effetti ipnotico e anticonvulsivante e molto meno per quello ansiolitico: per questo le benzodiazepine non si usano nella terapia cronica dell'epilessia ma nello stato di male epilettico, mentre il soggetto ansioso può trarre beneficio per anni dalla stessa dose.",
+      "distrattori": {
+        "B": "È l'inverso: l'effetto ansiolitico è quello che va incontro a tolleranza in misura minore.",
+        "C": "Il testo non indica l'effetto miorilassante come bersaglio principale della tolleranza.",
+        "D": "Il testo sottolinea proprio la differenza tra i vari effetti.",
+        "E": "L'effetto amnestico è sfruttato intenzionalmente in premedicazione e nelle manovre diagnostiche invasive."
+      },
+      "riferimento": "p. 217-218 – Tolleranza"
+    },
+    {
+      "id": "12-015",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Benzodiazepine - tolleranza",
+      "domanda": "Un paziente con storia di alcolismo cronico richiede dosi di benzodiazepine nettamente superiori a quelle abituali per ottenere lo stesso effetto. Quale spiegazione dà il testo?",
+      "opzioni": {
+        "A": "La tolleranza è insieme farmacodinamica e farmacocinetica, per induzione degli enzimi metabolizzanti dovuta all'alcol cronico",
+        "B": "È una tolleranza puramente farmacodinamica, dovuta all'uso prolungato della benzodiazepina stessa",
+        "C": "È dovuta a un ridotto assorbimento intestinale della benzodiazepina nell'alcolista",
+        "D": "È dovuta alla competizione dell'alcol per il sito benzodiazepinico del recettore GABA-A",
+        "E": "È dovuta a un aumento del legame alle proteine plasmatiche che riduce la quota libera"
+      },
+      "corretta": "A",
+      "spiegazione": "Negli alcolisti la tolleranza alle benzodiazepine non deriva dall'uso prolungato di queste ultime ma dall'abuso di alcol: oltre alla componente farmacodinamica (modificazioni recettoriali), nell'alcolismo cronico c'è una tolleranza farmacocinetica da induzione degli enzimi metabolizzanti.",
+      "distrattori": {
+        "B": "Il testo precisa che in questo caso non è l'uso prolungato di benzodiazepine a dare la tolleranza, e che la componente non è solo farmacodinamica.",
+        "C": "Il testo non descrive un difetto di assorbimento: l'assorbimento orale delle benzodiazepine è ottimo.",
+        "D": "L'alcol agisce come modulatore allosterico positivo del GABA-A ed è sinergico con le benzodiazepine, non competitivo sul loro sito.",
+        "E": "Il testo non attribuisce la tolleranza dell'alcolista a variazioni del legame proteico."
+      },
+      "riferimento": "p. 218 – Tolleranza nell'alcolista"
+    },
+    {
+      "id": "12-016",
+      "difficolta": "avanzato",
+      "tipo": "confronto",
+      "argomento": "Benzodiazepine - dipendenza e astinenza",
+      "domanda": "Confrontando benzodiazepine a emivita breve e a emivita lunga rispetto alla sindrome di astinenza, quale affermazione corrisponde al testo?",
+      "opzioni": {
+        "A": "Quelle a emivita breve danno un'astinenza più precoce e intensa, ma i sintomi si risolvono più rapidamente",
+        "B": "Quelle a emivita breve hanno un rischio intrinseco di dipendenza maggiore delle altre",
+        "C": "Quelle a emivita lunga danno un'astinenza più precoce e intensa, perché si accumulano nei tessuti",
+        "D": "Solo le benzodiazepine a emivita lunga possono dare una sindrome di astinenza",
+        "E": "L'emivita non influisce sulla comparsa e sull'intensità dei sintomi di astinenza"
+      },
+      "corretta": "A",
+      "spiegazione": "Nessuna benzodiazepina ha un rischio maggiore di dipendenza, ma per ragioni puramente farmacocinetiche quelle a emivita breve, eliminate più rapidamente, danno fenomeni di rimbalzo precoci e intensi che però si risolvono prima; con quelle a emivita intermedia o lunga l'astinenza compare più tardi (4-8 giorni), con sintomi meno intensi e più prolungati.",
+      "distrattori": {
+        "B": "Il testo nega esplicitamente che esistano benzodiazepine con rischio intrinseco di dipendenza o tolleranza maggiore: la differenza è solo cinetica.",
+        "C": "È l'opposto: con le emivite lunghe l'astinenza compare più tardivamente, dopo 4-8 giorni.",
+        "D": "L'astinenza può verificarsi con entrambe; cambiano tempi e intensità.",
+        "E": "L'emivita determina proprio la precocità e l'intensità dei sintomi."
+      },
+      "riferimento": "p. 218 – Dipendenza, emivita e sindrome di astinenza"
+    },
+    {
+      "id": "12-017",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Benzodiazepine - sospensione della terapia",
+      "domanda": "Una paziente assume da sei mesi una benzodiazepina a emivita breve e deve interrompere la terapia. Qual è la strategia con il maggior livello di efficacia secondo la review citata nel testo?",
+      "opzioni": {
+        "A": "La sospensione graduale del farmaco nell'arco di diverse settimane o mesi",
+        "B": "La sospensione brusca, seguita da psicoterapia cognitivo-comportamentale",
+        "C": "La sostituzione immediata con carbamazepina",
+        "D": "La sostituzione immediata con un antistaminico",
+        "E": "La somministrazione di flumazenil per accelerare l'eliminazione del farmaco"
+      },
+      "corretta": "A",
+      "spiegazione": "La review del New England Journal of Medicine del 2017 citata nel testo indica come approccio con il maggior livello di efficacia la sospensione graduale del farmaco per un periodo di diverse settimane o mesi; non si deve mai sospendere bruscamente una terapia con benzodiazepine.",
+      "distrattori": {
+        "B": "La psicoterapia può aiutare a ridurre l'uso delle benzodiazepine, ma la sospensione brusca è proprio ciò che il testo esclude, per il rischio di convulsioni.",
+        "C": "La carbamazepina è citata tra le strategie non utilizzate in Italia e con livello di evidenza remota.",
+        "D": "Gli antistaminici figurano tra le alternative con livello di evidenza remota.",
+        "E": "Il flumazenil in un paziente dipendente può scatenare una crisi d'astinenza con ansia, panico e convulsioni."
+      },
+      "riferimento": "p. 218-219 – Strategie per evitare la sindrome d'astinenza"
+    },
+    {
+      "id": "12-018",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Benzodiazepine - dipendenza e astinenza",
+      "domanda": "Quale gruppo di manifestazioni corrisponde ai sintomi più comuni della sindrome di astinenza da benzodiazepine descritti nel testo?",
+      "opzioni": {
+        "A": "Ansia, agitazione, cefalea, nausea, palpitazioni, tachicardia, tremori",
+        "B": "Sonnolenza, sedazione profonda, amnesia anterograda, rallentamento dei riflessi",
+        "C": "Depressione respiratoria, bradicardia e ipotensione marcata",
+        "D": "Ipertermia, rigidità muscolare e sudorazione profusa",
+        "E": "Midriasi, secchezza delle fauci, ritenzione urinaria e stipsi"
+      },
+      "corretta": "A",
+      "spiegazione": "Poiché le benzodiazepine sono inibitori del SNC, l'astinenza produce i sintomi opposti, cioè un'iperattivazione del SNC: ansia, agitazione, cefalea, nausea, palpitazioni, tachicardia e tremori. Meno comuni sono dolore muscolare, vomito, convulsioni e sintomi psicotici.",
+      "distrattori": {
+        "B": "Sonnolenza, amnesia e rallentamento sono effetti del farmaco in corso di terapia, non dell'astinenza, che dà i sintomi opposti.",
+        "C": "La depressione respiratoria è un effetto tossico da sovradosaggio acuto, non un sintomo di astinenza.",
+        "D": "Il testo non descrive questo quadro tra i sintomi di astinenza da benzodiazepine.",
+        "E": "Questi sono effetti di tipo antimuscarinico, non descritti per l'astinenza da benzodiazepine."
+      },
+      "riferimento": "p. 219 – Sintomi da dipendenza"
+    },
+    {
+      "id": "12-019",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Flumazenil",
+      "domanda": "Qual è il meccanismo d'azione del flumazenil?",
+      "opzioni": {
+        "A": "Antagonista competitivo sul sito di legame delle benzodiazepine del recettore GABA-A",
+        "B": "Modulatore allosterico positivo del recettore GABA-A più potente delle benzodiazepine",
+        "C": "Agonista diretto del recettore GABA-A che si sostituisce al GABA",
+        "D": "Inibitore della GAD, che riduce la sintesi di GABA",
+        "E": "Antagonista dei recettori degli oppioidi e dei depressori del SNC in generale"
+      },
+      "corretta": "A",
+      "spiegazione": "Il flumazenil è un'imidazolo benzodiazepina che agisce come antagonista competitivo sul sito di legame delle benzodiazepine: per questo è utile per interrompere l'effetto di una benzodiazepina, mentre da solo non produce effetti.",
+      "distrattori": {
+        "B": "I modulatori allosterici positivi potenziano l'effetto del GABA: il flumazenil fa l'opposto, occupando il sito benzodiazepinico.",
+        "C": "Sono i barbiturici ad alte dosi a comportarsi da agonisti sostituendosi al GABA.",
+        "D": "Il testo non attribuisce al flumazenil alcuna azione sulla GAD, l'enzima che sintetizza il GABA.",
+        "E": "Il flumazenil non interferisce con farmaci diversi dalle benzodiazepine; la sua indicazione è unicamente l'antagonismo di queste."
+      },
+      "riferimento": "p. 219 – Flumazenil"
+    },
+    {
+      "id": "12-020",
+      "difficolta": "avanzato",
+      "tipo": "farmacocinetica",
+      "argomento": "Flumazenil",
+      "domanda": "Perché, per antagonizzare una benzodiazepina a lunga emivita, il flumazenil deve essere somministrato in dosi ripetute?",
+      "opzioni": {
+        "A": "Perché ha un'emivita molto breve, di circa 1 ora, e una volta eliminato la benzodiazepina torna a esercitare i suoi effetti",
+        "B": "Perché viene assorbito lentamente dopo somministrazione orale e serve tempo per raggiungere la concentrazione efficace",
+        "C": "Perché il legame alle proteine plasmatiche è così alto da rendere disponibile solo una piccola quota libera",
+        "D": "Perché induce i propri enzimi metabolizzanti, sviluppando tolleranza farmacocinetica a ogni dose",
+        "E": "Perché si lega in modo irreversibile al recettore e occorre attendere la rigenerazione dei siti"
+      },
+      "corretta": "A",
+      "spiegazione": "Il flumazenil ha un'emivita molto breve, di circa 1 ora: eliminato l'antagonista, la benzodiazepina a lunga emivita è ancora presente e torna a produrre i suoi effetti, per cui una sola somministrazione non basta. Gli effetti clinici si manifestano entro 60 minuti, al massimo 2 ore.",
+      "distrattori": {
+        "B": "Il flumazenil si somministra per via endovenosa, non orale.",
+        "C": "Il testo indica per il flumazenil uno scarso legame alle proteine plasmatiche.",
+        "D": "Il testo non descrive autoinduzione del flumazenil; il metabolismo è epatico.",
+        "E": "È un antagonista competitivo, quindi reversibile, non un legante irreversibile."
+      },
+      "riferimento": "p. 219-220 – Flumazenil, farmacocinetica"
+    },
+    {
+      "id": "12-021",
+      "difficolta": "intermedio",
+      "tipo": "caso_clinico",
+      "argomento": "Flumazenil",
+      "domanda": "In quale delle seguenti situazioni l'uso del flumazenil comporta il rischio specifico di scatenare una crisi d'astinenza con ansia, attacchi di panico e possibili convulsioni?",
+      "opzioni": {
+        "A": "Nel paziente che assume cronicamente benzodiazepine ed è divenuto dipendente",
+        "B": "Nel paziente con intossicazione acuta da soli barbiturici",
+        "C": "Nel paziente che ha ricevuto una singola dose di midazolam per una gastroscopia",
+        "D": "Nel paziente con insufficienza respiratoria da BPCO che non assume benzodiazepine",
+        "E": "Nel bambino con convulsioni febbrili trattato con diazepam rettale una sola volta"
+      },
+      "corretta": "A",
+      "spiegazione": "Il flumazenil interrompe bruscamente l'azione della benzodiazepina: in un paziente dipendente questo equivale a una sospensione improvvisa e può scatenare una vera crisi d'astinenza, con attacchi d'ansia, attacchi di panico e possibili convulsioni.",
+      "distrattori": {
+        "B": "Il flumazenil non interferisce con farmaci diversi dalle benzodiazepine, quindi non agisce sull'intossicazione da soli barbiturici.",
+        "C": "Interrompere l'effetto della benzodiazepina dopo una gastroscopia è proprio uno degli usi previsti del flumazenil, in un paziente non dipendente.",
+        "D": "Senza benzodiazepine in circolo il flumazenil non produce effetti.",
+        "E": "Una singola somministrazione non instaura dipendenza, che richiede un uso prolungato."
+      },
+      "riferimento": "p. 219-220 – Flumazenil, crisi d'astinenza"
+    },
+    {
+      "id": "12-022",
+      "difficolta": "base",
+      "tipo": "confronto",
+      "argomento": "Z-drugs",
+      "domanda": "Quale caratteristica distingue i farmaci ipnoinducenti non benzodiazepinici (Z-drugs, come zaleplon e zolpidem) dalle benzodiazepine?",
+      "opzioni": {
+        "A": "Hanno una sola indicazione, il sonno, e non sono ansiolitici",
+        "B": "Non agiscono sul complesso recettoriale GABA-A ma sui recettori 5-HT1A",
+        "C": "Sono del tutto privi di potenziale di dipendenza, come inizialmente promesso",
+        "D": "Hanno uno spettro d'azione più ampio, comprendente anche l'effetto anticonvulsivante",
+        "E": "Vengono eliminati per via renale senza metabolismo epatico"
+      },
+      "corretta": "A",
+      "spiegazione": "Le Z-drugs assomigliano alle benzodiazepine ma sono farmaci ipnotici non ansiolitici, con una sola indicazione, il sonno, e quindi uno spettro d'azione limitato.",
+      "distrattori": {
+        "B": "Secondo la tabella riportata agiscono sul complesso recettoriale GABA-A; gli agonisti 5-HT1A sono rappresentati dal buspirone.",
+        "C": "Erano stati presentati come privi di dipendenza e crisi d'astinenza, ma in realtà, pur in modo limitato, possono dare forme di dipendenza.",
+        "D": "Lo spettro d'azione è più limitato, non più ampio, di quello delle benzodiazepine.",
+        "E": "La principale via di eliminazione indicata nella tabella è quella epatica."
+      },
+      "riferimento": "p. 220-221 – Farmaci ipnoinducenti non benzodiazepinici"
+    },
+    {
+      "id": "12-023",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Z-drugs",
+      "domanda": "Quale effetto avverso è segnalato nel testo come tipico dei farmaci ipnoinducenti non benzodiazepinici in alcuni soggetti?",
+      "opzioni": {
+        "A": "Allucinazioni o sogni molto vividi, simili alle allucinazioni",
+        "B": "Amnesia retrograda prolungata degli eventi precedenti l'assunzione",
+        "C": "Convulsioni generalizzate alla prima somministrazione",
+        "D": "Rialzo pressorio marcato con tachicardia",
+        "E": "Spasticità muscolare con tic involontari"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo indica che questi farmaci in alcuni soggetti danno allucinazioni o sogni molto vividi, simili alle allucinazioni.",
+      "distrattori": {
+        "B": "L'amnesia descritta per le benzodiazepine è anterograda, cioè degli eventi successivi alla somministrazione, e non è riferita alle Z-drugs.",
+        "C": "Le convulsioni sono descritte come sintomo meno comune dell'astinenza da benzodiazepine, non come effetto avverso iniziale delle Z-drugs.",
+        "D": "Non è un effetto descritto per questi farmaci, che sono depressori del SNC.",
+        "E": "L'effetto delle benzodiazepine sulla muscolatura è miorilassante; il testo non attribuisce spasticità alle Z-drugs."
+      },
+      "riferimento": "p. 220 – Farmaci ipnoinducenti non benzodiazepinici, effetti avversi"
+    },
+    {
+      "id": "12-024",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Terapia dell'ansia cronica",
+      "domanda": "Perché la terapia dell'ansia cronica si inizia, secondo il testo, associando una benzodiazepina a un antidepressivo serotoninergico?",
+      "opzioni": {
+        "A": "Perché la benzodiazepina agisce subito mentre l'antidepressivo richiede alcune settimane, e poi la benzodiazepina viene ridotta",
+        "B": "Perché la benzodiazepina aumenta la concentrazione plasmatica dell'antidepressivo inibendone il metabolismo",
+        "C": "Perché l'antidepressivo previene la depressione respiratoria da benzodiazepine",
+        "D": "Perché solo l'associazione impedisce lo sviluppo di tolleranza all'effetto ansiolitico",
+        "E": "Perché la benzodiazepina ha effetto solo dopo alcune settimane e l'antidepressivo copre l'intervallo iniziale"
+      },
+      "corretta": "A",
+      "spiegazione": "L'associazione sfrutta i diversi tempi d'azione: la benzodiazepina ha effetto sedativo e ansiolitico immediato, mentre l'antidepressivo necessita di alcune settimane; quando compaiono gli effetti dell'antidepressivo sull'ansia, le benzodiazepine vengono ridotte.",
+      "distrattori": {
+        "B": "Il testo motiva l'associazione con la diversa latenza d'azione, non con un'interazione metabolica.",
+        "C": "Non è un ruolo attribuito agli antidepressivi; la depressione respiratoria è legata al sovradosaggio di benzodiazepine.",
+        "D": "L'effetto ansiolitico delle benzodiazepine è già quello meno soggetto a tolleranza, e non è questa la motivazione dell'associazione.",
+        "E": "I tempi sono invertiti: è l'antidepressivo a richiedere settimane, la benzodiazepina agisce subito."
+      },
+      "riferimento": "p. 221 – Terapia dell'ansia cronica, ruolo di serotonina e noradrenalina"
+    },
+    {
+      "id": "12-025",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Farmaci usati nei disturbi d'ansia",
+      "domanda": "Tra i farmaci utilizzati nei disturbi d'ansia e dell'insonnia, quale viene indicato nel testo per la terapia della fobia sociale?",
+      "opzioni": {
+        "A": "Il propranololo, antagonista beta-adrenergico che attraversa la barriera ematoencefalica",
+        "B": "Il midazolam per via endovenosa",
+        "C": "Il flumazenil per via endovenosa",
+        "D": "Lo zaleplon per via orale",
+        "E": "Il clobazam per via orale"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra i farmaci elencati per i disturbi d'ansia figurano gli antagonisti beta-adrenergici, in particolare il propranololo, che è in grado di attraversare la barriera ematoencefalica e ha un effetto ansiolitico lieve: viene usato per la terapia della fobia sociale.",
+      "distrattori": {
+        "B": "Il midazolam è usato per la sedazione in endoscopia e nell'induzione e mantenimento dell'anestesia bilanciata.",
+        "C": "Il flumazenil è l'antagonista delle benzodiazepine, privo di effetto ansiolitico.",
+        "D": "Lo zaleplon è un ipnoinducente non benzodiazepinico, non ansiolitico, con unica indicazione il sonno.",
+        "E": "Il clobazam è citato per la terapia dell'epilessia in casi selezionati."
+      },
+      "riferimento": "p. 211 – Farmaci utilizzati nei disturbi d'ansia e dell'insonnia"
+    },
+    {
+      "id": "12-026",
+      "difficolta": "base",
+      "tipo": "nozionistica",
+      "argomento": "Ansia e insonnia",
+      "domanda": "Secondo il testo, a quale condizione si associa prevalentemente l'insonnia da risveglio precoce?",
+      "opzioni": {
+        "A": "A uno stato depressivo, con risvegli frequenti durante la notte",
+        "B": "All'ansia, per difficoltà a rilassarsi abbastanza da addormentarsi",
+        "C": "All'uso di benzodiazepine a brevissima emivita nel giovane",
+        "D": "Alla riduzione fisiologica delle ore di sonno dell'anziano sano",
+        "E": "All'assunzione di antidepressivi serotoninergici"
+      },
+      "corretta": "A",
+      "spiegazione": "Il testo distingue due categorie di insonnia: quella da addormentamento, quasi sempre associata all'ansia, e quella da risveglio precoce, solitamente legata a uno stato depressivo e caratterizzata da risvegli frequenti durante la notte.",
+      "distrattori": {
+        "B": "Questa è la descrizione dell'insonnia da addormentamento.",
+        "C": "Il testo non collega l'insonnia da risveglio precoce alle benzodiazepine a brevissima emivita.",
+        "D": "Nell'anziano la riduzione delle ore di sonno è fisiologica e diventa un problema solo se compromette la qualità di vita; non è la definizione di insonnia da risveglio precoce.",
+        "E": "Il testo indica che gli antidepressivi attivanti di tipo noradrenergico possono scatenare ansia e insonnia, mentre la serotonina ha un effetto più calmante."
+      },
+      "riferimento": "p. 210 – Ansia e insonnia"
+    },
+    {
+      "id": "12-027",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Benzodiazepine nell'anziano",
+      "domanda": "Una donna di 80 anni assume da mesi una benzodiazepina per insonnia e presenta sedazione mattutina, confusione, vertigini, riflessi rallentati e cadute. Qual è il meccanismo farmacocinetico alla base di questo quadro?",
+      "opzioni": {
+        "A": "Il metabolismo rallentato dell'anziano causa accumulo del farmaco, con effetto residuo al mattino",
+        "B": "L'aumento della clearance renale riduce l'efficacia e richiede dosi crescenti",
+        "C": "La ridotta lipofilia del farmaco nell'anziano ne riduce il volume di distribuzione",
+        "D": "L'instaurarsi di tolleranza farmacodinamica all'effetto ipnotico",
+        "E": "Un effetto paradosso dovuto all'inibizione di circuiti cerebrali inibitori"
+      },
+      "corretta": "A",
+      "spiegazione": "Nell'anziano il metabolismo dei farmaci è rallentato: le benzodiazepine si accumulano, l'eliminazione è difficoltosa e permane un effetto residuo al mattino, con deterioramento cognitivo, sedazione, confusione, vertigini, problemi di memoria, riflessi rallentati e cadute con possibili fratture.",
+      "distrattori": {
+        "B": "Il problema dell'anziano è la ridotta capacità di eliminare il farmaco, e il quadro è di eccesso di effetto, non di inefficacia.",
+        "C": "Nell'anziano il volume di distribuzione delle benzodiazepine è aumentato, non ridotto.",
+        "D": "La tolleranza comporta perdita di efficacia, non la comparsa di effetti residui eccessivi.",
+        "E": "L'effetto paradosso si manifesta con agitazione e attivazione comportamentale, non con sedazione e cadute."
+      },
+      "riferimento": "p. 208 – Iperprescrizione e rischi nell'anziano"
+    },
+    {
+      "id": "12-028",
+      "difficolta": "intermedio",
+      "tipo": "nozionistica",
+      "argomento": "Benzodiazepine - indicazioni",
+      "domanda": "Quale benzodiazepina è indicata nel testo per l'induzione e il mantenimento dell'anestesia bilanciata, in associazione ad altri farmaci come gli oppioidi maggiori?",
+      "opzioni": {
+        "A": "Midazolam",
+        "B": "Diazepam",
+        "C": "Lorazepam",
+        "D": "Clobazam",
+        "E": "Flurazepam"
+      },
+      "corretta": "A",
+      "spiegazione": "Tra le indicazioni delle benzodiazepine il testo cita l'induzione e il mantenimento dell'anestesia bilanciata, in particolare con il midazolam in associazione ad altri farmaci come gli oppioidi maggiori; il midazolam è anche la benzodiazepina usata per sedare durante l'endoscopia, per via endovenosa.",
+      "distrattori": {
+        "B": "Il diazepam è la benzodiazepina a lunga durata d'azione più nota ed è citato per le convulsioni febbrili per via rettale.",
+        "C": "Il lorazepam è citato come esempio di benzodiazepina a breve durata d'azione, non per l'anestesia bilanciata.",
+        "D": "Il clobazam è citato per la terapia dell'epilessia in casi selezionati.",
+        "E": "Il flurazepam è citato come esempio di benzodiazepina a durata d'azione intermedia."
+      },
+      "riferimento": "p. 213 – Indicazioni terapeutiche; p. 215 – Midazolam in endoscopia"
+    },
+    {
+      "id": "12-029",
+      "difficolta": "avanzato",
+      "tipo": "caso_clinico",
+      "argomento": "Benzodiazepine - indicazioni",
+      "domanda": "In un paziente alcolista in fase di astinenza da etanolo, perché le benzodiazepine vengono impiegate in sostituzione dell'alcol?",
+      "opzioni": {
+        "A": "Perché l'astinenza da etanolo abbassa la soglia convulsiva, con rischio di convulsioni e di morte",
+        "B": "Perché accelerano il metabolismo epatico dell'etanolo residuo",
+        "C": "Perché bloccano l'assorbimento intestinale dell'etanolo",
+        "D": "Perché antagonizzano l'etanolo sul recettore GABA-A riducendone gli effetti",
+        "E": "Perché nell'alcolista è necessaria una riduzione della dose per la tolleranza crociata"
+      },
+      "corretta": "A",
+      "spiegazione": "Il controllo dell'astinenza da etanolo, in sostituzione dell'alcol, è tra le indicazioni delle benzodiazepine: in questi soggetti la terapia farmacologica è importante perché si abbassa la soglia convulsiva e i pazienti rischiano convulsioni e morte.",
+      "distrattori": {
+        "B": "Le benzodiazepine non accelerano il metabolismo dell'etanolo; nel paziente trattato con flumazenil il testo precisa che l'alcol viene metabolizzato per conto proprio.",
+        "C": "Il testo non attribuisce alle benzodiazepine alcun effetto sull'assorbimento dell'etanolo.",
+        "D": "Alcol e benzodiazepine agiscono entrambi come modulatori allosterici positivi del GABA-A, con effetto sinergico e non antagonista.",
+        "E": "Nell'alcolista cronico serve semmai una dose maggiore, per la tolleranza sia farmacodinamica sia farmacocinetica."
+      },
+      "riferimento": "p. 213 – Indicazioni terapeutiche; p. 218 – Tolleranza nell'alcolista"
+    }
+  ],
+  "punti_alto_rischio": [
+    "Benzodiazepine = modulatori allosterici positivi del GABA-A (non funzionano senza GABA, overdose raramente letale da sole); barbiturici = modulatori positivi a basse dosi ma AGONISTI ad alte dosi, quindi anestesia, coma e morte: basso indice terapeutico.",
+    "Scelta in base all'emivita: ansia generalizzata -> lunga durata (diazepam, >48 h); insonnia -> breve o intermedia e a insorgenza rapida, per evitare effetti residui al mattino; sedazione in endoscopia -> brevissima (midazolam, triazolam: 1-7 ore).",
+    "Nessuna benzodiazepina dà più dipendenza delle altre: quelle a emivita BREVE danno astinenza più precoce e intensa ma più breve; quelle a emivita lunga astinenza tardiva (4-8 giorni), meno intensa e più prolungata. Mai sospendere bruscamente.",
+    "La tolleranza è spiccata per gli effetti ipnotico e anticonvulsivante, scarsa per quello ansiolitico: per questo le benzodiazepine servono nello stato di male epilettico ma non nell'epilessia cronica. Nell'alcolista la tolleranza è anche farmacocinetica, per induzione enzimatica.",
+    "Flumazenil = antagonista competitivo del sito benzodiazepinico, EV, emivita circa 1 ora: servono dosi ripetute contro benzodiazepine a lunga emivita, è inattivo sugli altri depressori del SNC e nel paziente dipendente può scatenare astinenza con convulsioni."
+  ]
+}

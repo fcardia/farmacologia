@@ -1,0 +1,118 @@
+{
+  "capitoli": [
+    {
+      "file": "01_il_farmaco_e_l_assorbimento.json",
+      "capitolo": 1,
+      "titolo": "Il farmaco e l'assorbimento",
+      "n_domande": 22
+    },
+    {
+      "file": "02_distribuzione_e_metabolismo.json",
+      "capitolo": 2,
+      "titolo": "Distribuzione e metabolismo",
+      "n_domande": 22
+    },
+    {
+      "file": "03_escrezione_e_farmaci_in_gravidanza.json",
+      "capitolo": 3,
+      "titolo": "Escrezione e farmaci in gravidanza",
+      "n_domande": 21
+    },
+    {
+      "file": "04_scheda_tecnica_equivalenti_biologici_biosimilari_farmacovigilanza.json",
+      "capitolo": 4,
+      "titolo": "Scheda tecnica, equivalenti, biologici, biosimilari e farmacovigilanza",
+      "n_domande": 41
+    },
+    {
+      "file": "05_farmacodinamica.json",
+      "capitolo": 5,
+      "titolo": "Farmacodinamica",
+      "n_domande": 26
+    },
+    {
+      "file": "06_sna_catecolamine_e_recettori_adrenergici.json",
+      "capitolo": 6,
+      "titolo": "SNA, catecolamine e recettori adrenergici",
+      "n_domande": 31
+    },
+    {
+      "file": "07_farmaci_adrenergici_agonisti_e_antagonisti.json",
+      "capitolo": 7,
+      "titolo": "Farmaci adrenergici: agonisti e antagonisti",
+      "n_domande": 32
+    },
+    {
+      "file": "08_sistema_colinergico_e_bloccanti_neuromuscolari.json",
+      "capitolo": 8,
+      "titolo": "Sistema colinergico e bloccanti neuromuscolari",
+      "n_domande": 21
+    },
+    {
+      "file": "09_depressione_antidepressivi_e_litio.json",
+      "capitolo": 9,
+      "titolo": "Depressione, antidepressivi e litio",
+      "n_domande": 30
+    },
+    {
+      "file": "10_morbo_di_parkinson.json",
+      "capitolo": 10,
+      "titolo": "Morbo di Parkinson",
+      "n_domande": 27
+    },
+    {
+      "file": "11_antipsicotici.json",
+      "capitolo": 11,
+      "titolo": "Antipsicotici",
+      "n_domande": 19
+    },
+    {
+      "file": "12_ansiolitici_sedativi_e_ipnotici.json",
+      "capitolo": 12,
+      "titolo": "Ansiolitici, sedativi e ipnotici",
+      "n_domande": 29
+    },
+    {
+      "file": "13_antiepilettici.json",
+      "capitolo": 13,
+      "titolo": "Antiepilettici",
+      "n_domande": 21
+    },
+    {
+      "file": "14_oppioidi_e_terapia_del_dolore.json",
+      "capitolo": 14,
+      "titolo": "Oppioidi e terapia del dolore",
+      "n_domande": 34
+    },
+    {
+      "file": "15_cannabinoidi.json",
+      "capitolo": 15,
+      "titolo": "Cannabinoidi",
+      "n_domande": 19
+    },
+    {
+      "file": "16_antibiotici_principi_generali_beta_lattamici_glicopeptidi_aminoglicosidi.json",
+      "capitolo": 16,
+      "titolo": "Antibiotici: principi generali, β-lattamici, glicopeptidi e aminoglicosidi",
+      "n_domande": 36
+    },
+    {
+      "file": "17_antibiotici_tetracicline_cloramfenicolo_macrolidi_chinoloni_sulfamidici.json",
+      "capitolo": 17,
+      "titolo": "Antibiotici: tetracicline, cloramfenicolo, macrolidi, chinoloni e sulfamidici",
+      "n_domande": 21
+    },
+    {
+      "file": "18_antitubercolari_antivirali_e_antimicotici.json",
+      "capitolo": 18,
+      "titolo": "Antitubercolari, antivirali e antimicotici",
+      "n_domande": 21
+    },
+    {
+      "file": "99_ripasso_trasversale.json",
+      "capitolo": 99,
+      "titolo": "Ripasso trasversale",
+      "n_domande": 50
+    }
+  ]
+}
